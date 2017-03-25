@@ -4,10 +4,10 @@
     <title>Ryan Johnson</title>
     <description>&amp;copy Ryan Johnson, 2017.  Opinions are mine alone unless otherwise stated.
 </description>
-    <link>http://localhost:4000/blog/</link>
-    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 25 Mar 2017 15:35:24 -0700</pubDate>
-    <lastBuildDate>Sat, 25 Mar 2017 15:35:24 -0700</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Mar 2017 15:39:52 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 15:39:52 -0700</lastBuildDate>
     <generator>Jekyll v3.3.0</generator>
     
       <item>
@@ -106,8 +106,8 @@
 
 </description>
         <pubDate>Sat, 18 Mar 2017 08:00:00 -0700</pubDate>
-        <link>http://localhost:4000/blog/this-blog/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/this-blog/</guid>
+        <link>http://localhost:4000/this-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/this-blog/</guid>
         
         <category>web</category>
         
@@ -156,8 +156,8 @@
 
 </description>
         <pubDate>Mon, 20 Feb 2017 02:30:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/on-americorps/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/on-americorps/</guid>
+        <link>http://localhost:4000/on-americorps/</link>
+        <guid isPermaLink="true">http://localhost:4000/on-americorps/</guid>
         
         <category>ideas</category>
         
@@ -205,8 +205,8 @@
 &lt;p&gt;I don’t know where we go from here, but I hope we find our way soon.&lt;/p&gt;
 </description>
         <pubDate>Sat, 18 Feb 2017 05:30:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/this-is-not-the-dialectic/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/this-is-not-the-dialectic/</guid>
+        <link>http://localhost:4000/this-is-not-the-dialectic/</link>
+        <guid isPermaLink="true">http://localhost:4000/this-is-not-the-dialectic/</guid>
         
         <category>ideas</category>
         
@@ -282,8 +282,8 @@
 
 </description>
         <pubDate>Sun, 05 Feb 2017 03:50:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/arrival-eternal-recurrence/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/arrival-eternal-recurrence/</guid>
+        <link>http://localhost:4000/arrival-eternal-recurrence/</link>
+        <guid isPermaLink="true">http://localhost:4000/arrival-eternal-recurrence/</guid>
         
         <category>film</category>
         
@@ -338,8 +338,8 @@
 
 </description>
         <pubDate>Tue, 17 Jan 2017 08:28:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/thank-you-mikey/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/thank-you-mikey/</guid>
+        <link>http://localhost:4000/thank-you-mikey/</link>
+        <guid isPermaLink="true">http://localhost:4000/thank-you-mikey/</guid>
         
         <category>government</category>
         
@@ -399,8 +399,8 @@
 
 </description>
         <pubDate>Wed, 11 Jan 2017 11:11:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/writing-tools/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/writing-tools/</guid>
+        <link>http://localhost:4000/writing-tools/</link>
+        <guid isPermaLink="true">http://localhost:4000/writing-tools/</guid>
         
         <category>tools</category>
         
@@ -466,8 +466,8 @@
 
 </description>
         <pubDate>Mon, 09 Jan 2017 12:43:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/learning-what-to-learn/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/learning-what-to-learn/</guid>
+        <link>http://localhost:4000/learning-what-to-learn/</link>
+        <guid isPermaLink="true">http://localhost:4000/learning-what-to-learn/</guid>
         
         <category>tools</category>
         
@@ -509,8 +509,8 @@
 &lt;p&gt;So I will write. I will write about politics, books, film, and the web. I will write because it’s integral to exercising democratic freedom. I will write to resist. And I will write to avoid complacency.&lt;/p&gt;
 </description>
         <pubDate>Fri, 06 Jan 2017 07:57:00 -0800</pubDate>
-        <link>http://localhost:4000/blog/writing-like-it-matters/</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/writing-like-it-matters/</guid>
+        <link>http://localhost:4000/writing-like-it-matters/</link>
+        <guid isPermaLink="true">http://localhost:4000/writing-like-it-matters/</guid>
         
         <category>writing</category>
         
