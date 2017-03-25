@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ryan Johnson</title>
+    <description>&amp;copy Ryan Johnson, 2017.  Opinions are mine alone unless otherwise stated.
+</description>
+    <link>http://localhost:4000/blog/</link>
+    <atom:link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 25 Mar 2017 15:35:24 -0700</pubDate>
+    <lastBuildDate>Sat, 25 Mar 2017 15:35:24 -0700</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
+    
+      <item>
+        <title>How I publish this blog</title>
+        <description>&lt;p&gt;I’m fascinated by the trajectory of web publishing. As a web content editor and (several years ago) a freelance web developer, I’ve used each of the following content management systems and web publishing “tools” over the past 15 years:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Drupal&lt;/li&gt;
+  &lt;li&gt;Wordpress&lt;/li&gt;
+  &lt;li&gt;Joomla&lt;/li&gt;
+  &lt;li&gt;Alfresco&lt;/li&gt;
+  &lt;li&gt;Dreamweaver&lt;/li&gt;
+  &lt;li&gt;static HTML (via text editor)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I’ve rarely had the opportunity to choose the content management system or publishing platform where I’ve worked, but rather inherited existing projects or been forced to defer to an IT team.&lt;/p&gt;
+
+&lt;p&gt;The reality is that few projects I’ve worked on merited the complexity of a full-fledged CMS (when they have, Drupal has usually been the appropriate solution on account of the functionality required).&lt;/p&gt;
+
+&lt;p&gt;In years past, I’ve used Wordpress to publish my personal blogs, but for this blog, I ditched the database and went with a static site generator: &lt;a href=&quot;https://jekyllrb.com/&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;moving-away-from-cms&quot;&gt;Moving away from CMS&lt;/h2&gt;
+
+&lt;p&gt;Content management systems are used for primarily two reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;to ease publishing for non-technical web editors&lt;/li&gt;
+  &lt;li&gt;for database-reliant functionality, such as user roles, workflow, and managing comments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A few years ago, I read a &lt;a href=&quot;https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/&quot;&gt;compelling blog post&lt;/a&gt; by Dave Cole of &lt;a href=&quot;https://www.developmentseed.org/&quot;&gt;Development Seed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The tl;dr of the Dave Cole article is summed up pretty well with this quote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By developing websites as “client-side” applications that only consist of the files directly usable by a web browser with no extra work done by backend servers, we are able to pass on substantial cost savings to our clients while virtually eliminating risk of the website going “down”.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The article goes on to describe how external APIs can now offer functionality that used to make sites database-dependent. For example, &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt; can be used to manage comments on an otherwise static-site-generated blog.&lt;/p&gt;
+
+&lt;p&gt;For non-technical editors, Development Seed has created an authoring environment called &lt;a href=&quot;http://prose.io/#about&quot;&gt;Prose&lt;/a&gt;. For slightly more technical editors, many static site generators manage site content via markdown files.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll&quot;&gt;Jekyll&lt;/h2&gt;
+
+&lt;p&gt;Jekyll is a static site generator created by GitHub co-founder Tom Preston-Werner. Because of its lineage, it has mature integration with GitHUb and GitHub Pages. Sometimes called “&lt;a href=&quot;https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/&quot;&gt;the blogging platform for hackers&lt;/a&gt;,” Jekyll uses the &lt;a href=&quot;https://shopify.github.io/liquid/&quot;&gt;Liquid&lt;/a&gt; tempting language and individual markdown files to compile a static site. Jekyll is mature enough now that there is thorough &lt;a href=&quot;https://jekyllrb.com/docs/home/&quot;&gt;documentation&lt;/a&gt;, &lt;a href=&quot;http://jekyll.tips/&quot;&gt;tutorials&lt;/a&gt;, and &lt;a href=&quot;http://jekyll.tips/templates/&quot;&gt;templates&lt;/a&gt; to get started.&lt;/p&gt;
+
+&lt;h3 id=&quot;liquid&quot;&gt;Liquid&lt;/h3&gt;
+
+&lt;p&gt;Liquid and other templating languages bring many of the content management features of a CMS into generating static sites. For example, you have control flow using &lt;code&gt;for&lt;/code&gt; loops, which my template uses to generate the list of blog posts.&lt;/p&gt;
+
+&lt;h3 id=&quot;command-line&quot;&gt;Command line&lt;/h3&gt;
+
+&lt;p&gt;While Jekyll does require some skill with the command line, you really only need to know a limited set of commands to manage a simple blog or site. Most the time, you only need to know how to navigate to your blog directory using &lt;code&gt;cd locationOfBlog&lt;/code&gt; and &lt;code&gt;jekyll serve&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;other-static-site-generators&quot;&gt;Other static site generators&lt;/h3&gt;
+
+&lt;p&gt;Its affiliation with GitHub, along with the immense popularity of the latter, is why Jekyll is extremely popular for static sites. But there are many other static site generators; &lt;a href=&quot;https://gohugo.io/&quot;&gt;Hugo&lt;/a&gt; and &lt;a href=&quot;https://middlemanapp.com/&quot;&gt;Middleman&lt;/a&gt; are others I have considered using.&lt;/p&gt;
+
+&lt;h2 id=&quot;jekyll--ia-writer&quot;&gt;Jekyll + iA Writer&lt;/h2&gt;
+
+&lt;p&gt;For this blog, I pulled &lt;a href=&quot;http://themes.jekyllrc.org/estivo/&quot;&gt;one of many Jekyll themes&lt;/a&gt; to get me started, editing the style sheet and some templating elements to suit my needs.&lt;/p&gt;
+
+&lt;p&gt;As I mentioned in a previous post, I use &lt;a href=&quot;https://ia.net/writer/&quot;&gt;iA Writer&lt;/a&gt; to author my blog posts (as markdown files).&lt;/p&gt;
+
+&lt;p&gt;Here’s the general workflow:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Open up Terminal and &lt;code&gt;cd&lt;/code&gt; to my blog directory&lt;/li&gt;
+  &lt;li&gt;Use &lt;code&gt;jekyll serve&lt;/code&gt; to initiate Jekyll (this will also generate a local server which allows you to review changes in your browser as you make them)&lt;/li&gt;
+  &lt;li&gt;Open up iA Writer and begin a post with appropriate &lt;a href=&quot;https://jekyllrb.com/docs/frontmatter/&quot;&gt;front matter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Save post as a markdown file into the &lt;code&gt;_posts&lt;/code&gt; directory&lt;/li&gt;
+  &lt;li&gt;Convey contents of &lt;code&gt;_site&lt;/code&gt; directory to your web server&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;That’s it! You don’t have to deal with databases, plugins, or most of the security issues that plague database-driven content management systems. You don’t need to know PHP or configure modules or manage a load of dependencies. And you can add functionality via APIs such as &lt;a href=&quot;https://www.mapbox.com/&quot;&gt;Mapbox&lt;/a&gt; or &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;. Best of all, you can focus on writing without worrying about all the technical bloat and maintenance of a CMS.&lt;/p&gt;
+
+&lt;p&gt;Admittedly, I use Jekyll in very limited ways, but I like the simplicity of it (some might say it’s more complex than using a CMS, but they probably don’t know what’s going behind the scenes of their CMS!).&lt;/p&gt;
+
+&lt;p&gt;We’ve come full circle, from the static sites of the early web, to heavy, intensive, and vulnerable database-reliant content management systems, and now back to static sites in the form of static site generators. At least for sites where it makes sense, which are many.&lt;/p&gt;
+
+&lt;h2 id=&quot;headaches-but-not-migraines&quot;&gt;Headaches, but not migraines&lt;/h2&gt;
+
+&lt;p&gt;As with any publishing platform, there are annoyances.&lt;/p&gt;
+
+&lt;p&gt;I am not a barbarian, and consequently I insist on using &lt;a href=&quot;http://smartquotesforsmartpeople.com/&quot;&gt;smart quotes&lt;/a&gt; on my blog. I was able to achieve smart quotes in my blog copy, but the content rendered from the YAML front matter was saturated with dumb quotes. It was driving me crazy for weeks, as I tried to find a solution. Finally, I discovered that iA Writer has an option to use smart substitutions for quotes, which means it automatically replaces dumb quotes with smart quotes.&lt;/p&gt;
+
+&lt;p&gt;This is great, but YAML mixes scripting with content. Syntactically, values in YAML are surrounded by quotes, but they must be dumb quotes in order to work programmatically. Consequently, smart quote substitutions in iA Writer actually break the functional application of the front matter, so I use a fancy work-around (the sophisticated technique known as ‘copy and paste’) to prevent my YAML quotes from becoming smart quotes. To further complicate matters, I want the content in the dumb quotes to contain smart quotes, as that content generates the titles and subtitles for my posts.&lt;/p&gt;
+
+&lt;p&gt;It’s a bit of a headache, but it’s not the migraine induced from maintaining a database-driven CMS.&lt;/p&gt;
+
+&lt;h2 id=&quot;publishing-platforms&quot;&gt;Publishing platforms&lt;/h2&gt;
+
+&lt;p&gt;As a web editor, I’m obsessed with publishing platforms and workflows, and I’m always on the lookout for new publishing tools. I follow the design and development of &lt;a href=&quot;https://medium.design/&quot;&gt;Medium&lt;/a&gt; and &lt;a href=&quot;https://techcrunch.com/2012/05/07/a-closer-look-at-chorus-the-next-generation-publishing-platform-that-runs-vox-media/&quot;&gt;Chorus&lt;/a&gt; (to the extent the entities responsible for each share information), and I am part of the massive Drupal community via work.&lt;/p&gt;
+
+&lt;p&gt;But it feels like there is still room for a publishing stack that focuses on writing and maximizes editorial control and effectiveness. For now, a static site generator and an elegant writing app are about all I need.&lt;/p&gt;
+
+</description>
+        <pubDate>Sat, 18 Mar 2017 08:00:00 -0700</pubDate>
+        <link>http://localhost:4000/blog/this-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/this-blog/</guid>
+        
+        <category>web</category>
+        
+        <category>publishing</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>On AmeriCorps</title>
+        <description>&lt;p&gt;After I graduated from college, I spent a year in an AmeriCorps program in the Portland area. For those who don’t know what AmeriCorps is, it’s essentially a domestic Peace Corps, a program designed to provide real-world skill development while addressing a local need.&lt;/p&gt;
+
+&lt;p&gt;Although federally funded in large part, local “chapters” of AmeriCorps have a great deal of influence over the focus of their work. Back in 2006, when I served, I worked on watershed restoration and salmon recovery, certainly a need in the Pacific Northwest. We rehabilitated stream-side areas that had been grazed and were suffering from excessive erosion and the infiltration of invasive species.&lt;/p&gt;
+
+&lt;p&gt;Now it appears, perhaps unsurprisingly, that &lt;a href=&quot;https://www.nytimes.com/2017/02/17/us/politics/trump-program-eliminations-white-house-budget-office.html?_r=0&quot;&gt;AmeriCorps is on the chopping block&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;americorps-is-a-career-springboard&quot;&gt;AmeriCorps is a career springboard&lt;/h2&gt;
+
+&lt;p&gt;I graduated from the University of Oregon in philosophy and religious studies. It wasn’t exactly an academic combination that leads directly into a career, but it was precisely the combination I needed at the time. I graduated near the top of my class, but I didn’t have many options when I left campus.&lt;/p&gt;
+
+&lt;p&gt;Shirking graduate school at the time, I was working at a coffee shop and barely making ends meet. I was recently engaged and planning a wedding on an extremely modest budget. I was building websites on the side for a negligible income supplement. What I needed was an opportunity to cultivate new skills and build a resume. That’s where AmeriCorps came in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://www.nationalservice.gov/sites/default/files/upload/ac.png&quot; alt=&quot;AmeriCorps logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I made a modest stipend in AmeriCorps, barely enough to get by (AmeriCorps members are called “volunteers” for good reason; the pay was below minimum wage). I continued to work at the coffee shop on the weekends, so I was working 7 days a week. But AmeriCorps also provided an education stipend at the end of the year, which I later used toward a graduate certificate in Geographic Information Systems (GIS).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/watershed.jpg&quot; alt=&quot;watershed restoration in action&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;font-size: .6em; text-align: center;&quot;&gt;The restoration project I designed in southern Washington state.&lt;/p&gt;
+
+&lt;p&gt;During the course of the year, I designed a restoration project covering 9 acres, learned GIS tools and techniques, ran a plant nursery, led service-learning outings for local schools, and made some good friends.&lt;/p&gt;
+
+&lt;p&gt;It was AmeriCorps that provided the foundation for my career, first with a local nonprofit and later at the county I now work for. Without it, I might still be working at the coffee shop.&lt;/p&gt;
+
+&lt;h2 id=&quot;national-service&quot;&gt;National service&lt;/h2&gt;
+
+&lt;p&gt;My specific experience in AmeriCorps aside, it seems to me we need the program more than ever. I’ve often thought we need a modern-day “draft” in which recent high school graduates participate in a year or two of national service before entering the workplace or college. This service could be military, civic, environmental, housing, emergency response…there are seemingly endless possibilities to provide practical career training while creating a workforce that can respond to national emergencies such as Hurricane Katrina and local crises such as homelessness.&lt;/p&gt;
+
+&lt;p&gt;I’ve spoken with many people about this idea over the years, folks from across the political spectrum. The general idea is at least anecdotally popular, but getting there seemed like a tall order, even before Trump’s proposed budget axing AmeriCorps was released.&lt;/p&gt;
+
+&lt;p&gt;We desperately need a unifying force in our country. National service could be it, if we give it a chance. As a nation, we need to feel that we are united in something bigger than ourselves. AmeriCorps, or something like it, has always had the potential to be that uniting force that unveils our shared destiny, provides valuable skill development and workforce training, and builds national resilience and response to emergencies and disasters.&lt;/p&gt;
+
+&lt;p&gt;Cutting AmeriCorps is a step in the wrong direction for our country.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 20 Feb 2017 02:30:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/on-americorps/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/on-americorps/</guid>
+        
+        <category>ideas</category>
+        
+        <category>philosophy</category>
+        
+        <category>politics</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>This isn’t the dialectic</title>
+        <description>&lt;p&gt;This is exhausting. Every day I wake up and realize it’s another day in an absurd new reality, one that unapologetically sanctions hatred, bigotry, and a shocking level of hypocrisy.&lt;/p&gt;
+
+&lt;p&gt;Supporters of this new corrosive paradigm are more than willing to ignore the hypocrisies in order to see their bigotry validated. And those who resist have few representatives in power that can provide a meaningful challenge. Meanwhile, Trump supporters, some of whom are my friends and family, point out that the way I (and most of the U.S.) feel right now is how they felt during the Obama years. Considering the Obama administration took down bin Laden, pulled us out of a debilitating recession, and added over 9 million jobs, it’s difficult to understand how that record compares to a man who uses Twitter like a 12 year-old, &lt;a href=&quot;https://www.washingtonpost.com/news/the-fix/wp/2017/01/09/meryl-streep-was-right-donald-trump-did-mock-a-disabled-reporter/?utm_term=.fda71eb078fb&quot;&gt;makes fun of people who are disabled&lt;/a&gt;, is a &lt;a href=&quot;http://www.telegraph.co.uk/women/politics/donald-trump-sexism-tracker-every-offensive-comment-in-one-place/&quot;&gt;serial misogynist&lt;/a&gt;, advocated for 2nd Amendment supporters to &lt;a href=&quot;https://www.nytimes.com/2016/08/10/us/politics/donald-trump-hillary-clinton.html&quot;&gt;“do something”&lt;/a&gt; about his political opponents, &lt;a href=&quot;https://www.salon.com/2017/02/14/donald-trumps-white-nationalist-genius-bar-steve-bannon-stephen-miller-michael-decius-anton-and-beyond/&quot;&gt;and has stuffed his White House with racists&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://a.abcnews.com/images/GMA/151127_gma_llamas_0707_16x9_992.jpg&quot; alt=&quot;Trump makes fun of a disabled reporter&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: .6em; text-align: center;&quot;&gt;It should have been over when this happened.&lt;/p&gt;
+
+&lt;p&gt;He antagonizes the media and emboldens the uneducated in the name of (faux) populism that’s set on destroying democratic institutions while enriching the very “swamp” he professed to “drain”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i2.cdn.turner.com/money/dam/assets/170206090522-trump-gary-cohn-dodd-frank-780x439.jpg&quot; alt=&quot;Gary Cohn from Goldman Sachs with Donald Trump&quot; /&gt;&lt;/p&gt;
+&lt;p style=&quot;font-size: .6em; text-align: center;&quot;&gt;Gary Cohn from Goldman Sachs right behind Trump while he begins to dismantle Wall Street regulation. But Hillary's speeches!.&lt;/p&gt;
+
+&lt;p&gt;I suppose these “interpretations” of Trump’s actions are just “fake news,” right?&lt;/p&gt;
+
+&lt;p&gt;There are those who compel the resistance to listen to the supporters of this administration, which looks increasingly fascist every day. It’s a nice idea, in principle. Those on the left cherish dialogue, understanding, and compromise, for good reason. They are essential aspects of civilization and democracy.&lt;/p&gt;
+
+&lt;p&gt;But when you observe those who are willing to look past the Russian ties, the misogyny, the war on the media, the hypocrisy, the racism, the incompetence, and the propensity towards fascism, it’s difficult to see how a productive dialogue is possible. They hold onto their views with an almost religious fervor, which is convenient, because many of them indeed claim to be “Christian”.&lt;/p&gt;
+
+&lt;p&gt;The truth is, you can’t argue with a belief that is held to be metaphysical. And you can’t argue when one side believes in the oxymoron of “alternative facts.”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-dialectic&quot;&gt;The dialectic&lt;/h2&gt;
+
+&lt;p&gt;With admitted oversimplification, the Hegelian dialectic posited that a thesis and antithesis would confront one another and preserve the the best in each. This “sublation” would describe the progression of history, or the advancement of human understanding and the evolution of human ideas.&lt;/p&gt;
+
+&lt;p&gt;We no longer have a dialectic. We have a war of ideas that produces no fusion, but rather walls and blockades. It’s toxic to democracy and fatal to progress, but frankly very few people are willing to do much about it. I, for one, have been unwilling to listen to ideas that accept xenophobia, sexism, and fascism as predicates to political discourse. Others dismiss those with views like mine as “snowflakes” who don’t understand “reality” and their unforgiving dominance theory of economic and social activity.&lt;/p&gt;
+
+&lt;p&gt;And so the dialectic stalls. There is little room here for any kind of progress. It appears to be a regression to a winner-takes-all anti-civilization that will continue to perpetuate the vast inequality that has given rise to this clusterfuck in the first place &lt;a href=&quot;http://www.hup.harvard.edu/catalog.php?isbn=9780674430006&quot;&gt;(the rate of return on capital continues to outpace the overall growth of the economy)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Maybe we should be talking more about capitalism? Or is capitalism the ultimate religion of this country?&lt;/p&gt;
+
+&lt;p&gt;I don’t know where we go from here, but I hope we find our way soon.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 18 Feb 2017 05:30:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/this-is-not-the-dialectic/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/this-is-not-the-dialectic/</guid>
+        
+        <category>ideas</category>
+        
+        <category>philosophy</category>
+        
+        <category>politics</category>
+        
+        
+        <category>ideas</category>
+        
+      </item>
+    
+      <item>
+        <title>Arrival and the eternal return of the same</title>
+        <description>&lt;p&gt;Arrival was my favorite film of 2016. Granted, I didn’t see every critically acclaimed film, but I did see many of them. I’m also not contending that Arrival was the most important film of the year; I’ll leave that for others to decide.&lt;/p&gt;
+
+&lt;h2 id=&quot;nietzsches-concept-of-eternal-return&quot;&gt;Nietzsche’s concept of eternal return&lt;/h2&gt;
+&lt;p&gt;Nietzsche introduced the concept of eternal return (often referred to as “eternal recurrence”) in &lt;em&gt;The Gay Science&lt;/em&gt;, and the concept forms the underlying conceptual framework of &lt;em&gt;Thus Spoke Zarathustra&lt;/em&gt;. It’s one of the most powerful concepts in continental philosophy, and though it certainly borrows heavily from Hinduism and Buddhism, Nietzsche’s treatment isn’t meant to articulate a physical or spiritual cosmology. Rather, he treats it as a challenge and a “burden”. While modern quantum theory has explored the cosmological relevance of the concept, the underlying “burden” Nietzsche articulated remains the central challenge, regardless of its scientific validity.&lt;/p&gt;
+
+&lt;p&gt;Nietzsche’s first reference to eternal return may be his most concise description of the “burden” inherent in the contemplation of the concept:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;The greatest weight.&lt;/strong&gt; — What, if some day or night a demon were to steal after you into your loneliest loneliness and say to you: “This life as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh and everything unutterably small or great in your life will have to return to you, all in the same succession and sequence—even this spider and this moonlight between the trees, and even this moment and I myself. The eternal hourglass of existence is turned upside down again and again, and you with it, speck of dust!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;This is from aphorism 341 in &lt;em&gt;The Gay Science&lt;/em&gt;. Nietzsche goes on to convey the burden:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? […] If this thought gained possession of you, it would change you as you are or perhaps crush you. The question in each and every thing, “Do you desire this once more and innumerable times more?” would lie upon your actions as the greatest weight.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Or how well disposed would you have to become to yourself and to life to &lt;strong&gt;crave nothing more fervently&lt;/strong&gt; than this ultimate eternal confirmation and seal?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thus we understand Nietzsche’s interest in the concept of eternal return: it isn’t, for Nietzsche, a concept of cosmological curiosity. Rather, it is a challenge aimed – as so much of Nietzsche’s work – at combatting nihilism through the ultimate affirmation of life: being willing to relive it over and over again.&lt;/p&gt;
+
+&lt;h2 id=&quot;arrival-and-the-eternal-return&quot;&gt;Arrival and the eternal return&lt;/h2&gt;
+
+&lt;p&gt;If you haven’t seen Arrival, you may want to stop reading at this point and come back after you’ve seen it. In other words, there are spoilers ahead. Also, you should see the film.&lt;/p&gt;
+
+&lt;p&gt;Arrival’s Louise, played by Amy Adams, is a linguist enlisted by the military to attempt to ascertain the purpose of the arrival of 12 alien spacecrafts. As Louise begins to interact with the two aliens on board a craft that has “landed” in Montana, she begins to “recollect” interactions with her daughter.&lt;/p&gt;
+
+&lt;p&gt;As it turns out, the visual language of the alien “heptapods” is powerful indeed; it changes the way one perceives time. This phenomenon is explained in the film via the &lt;a href=&quot;https://en.wikipedia.org/wiki/Linguistic_relativity&quot;&gt;Sapir-Whorf hypothesis&lt;/a&gt;, which posits that the structure of language affects a person’s perception and world view.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://assets.wired.com/photos/w_1534/wp-content/uploads/2016/11/Arrival8-1.jpg&quot; alt=&quot;heptapod symbol&quot; /&gt;&lt;/p&gt;
+
+&lt;p style=&quot;font-size: .6em; text-align: center;&quot;&gt;&lt;a href=&quot;https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/&quot;&gt;Image from wired.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The heptapods’ language is circular in both a visual and cosmological sense. Understanding their language is to perceive time cyclically rather than linearly. And as it turns out, the heptapods arrive on earth to share the “weapon” of their language with humanity as a quid pro quo – they have foreseen they will need humanity’s help in 3,000 years.&lt;/p&gt;
+
+&lt;p&gt;There are several themes wrapped up in Louise’s emerging understanding of the alien language, including the value of international political cooperation, the power of language to change the way in which we perceive the world, and the relationship between linguistics and epistemology (how we come to know things). But in the end, as in Nietzsche’s contemplations of eternal return, the point doesn’t end up being about the physics, linguistics, or the heptapods themselves; the point of the film is Louise’s affirmation of life. She will “choose” to have a child she knows will die of a rare disease at a young age.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-affirmation&quot;&gt;The affirmation&lt;/h2&gt;
+
+&lt;p&gt;The question as to whether or not Louise &lt;em&gt;chooses&lt;/em&gt; to bear a child she knows will die at young age is one of the central questions of the film. The concept of eternal return implies determinism. If everything finite is happening repeatedly within the infinite, it leaves little room for agency; after all, everything has already happened. But that’s sort of the point: the affirmation of life means the affirmation of what has happened, is happening, and will happen, all at once. It’s a burden indeed, with no room for regret.&lt;/p&gt;
+
+&lt;p&gt;Nietzsche wrote extensively about nihilism and affirmation. It seems to me it was the central theme of his philosophical project. He thought the most extreme nihilism was the springboard for the highest affirmation, as exemplified through the tension of “going under” in order to become the “overman” in &lt;em&gt;Thus Spoke Zarathustra&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nihilism is portrayed in Arrival not through Louise herself, but through the international community. The cynicism embodied by the international community, the lack of curiosity, the militant skepticism, and the attempts to understand via combative games, all point to a nihilistic approach to the arrival. Louise exemplifies the key tenet of &lt;em&gt;The Gay Science&lt;/em&gt;, the title of which refers to the joy of scientific discovery divorced from utility. Louise ends up discovering a “weapon,” but her approach and her success in communicating with the heptapods derives from her curiosity and lack of utilitarian expectation.&lt;/p&gt;
+
+&lt;p&gt;Finally, Louise’s character ends up being defined by her “choice” to affirm the life she was always going to live. Whether she chooses to have her daughter or not, she &lt;em&gt;affirms&lt;/em&gt; having her daughter. We see her affirming this over and over again during the course of the film via her discovery of the properties of the heptapod language. And she never regrets it.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-burden&quot;&gt;The burden&lt;/h2&gt;
+
+&lt;p&gt;After I saw the film, I thought, “What would I do?”. Perhaps that is the wrong question. The right question is, “Do I affirm what I am going to do?”.&lt;/p&gt;
+
+&lt;p&gt;That question is much more complicated. That question is the burden.&lt;/p&gt;
+
+&lt;p&gt;Unlike Louise and the heptapods, we can’t see the future. Does that limit the film’s relevance or the relevance of the concept of the eternal return? Not at all. The lack of knowledge of what will happen is both a gift and an added burden, but the challenge is the same. Affirmation does not ask “under what conditions?”. Affirmation demands “under any conditions that life will offer.”&lt;/p&gt;
+
+&lt;p&gt;We all know what we need to do. We’ve done it before.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 05 Feb 2017 03:50:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/arrival-eternal-recurrence/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/arrival-eternal-recurrence/</guid>
+        
+        <category>film</category>
+        
+        <category>philosophy</category>
+        
+        <category>books</category>
+        
+        
+        <category>film</category>
+        
+      </item>
+    
+      <item>
+        <title>Thank you, Mikey</title>
+        <description>&lt;p&gt;I’ve worked for local government for the past 3 years. As I &lt;a href=&quot;../learning-what-to-learn/&quot;&gt;previously mentioned&lt;/a&gt;, it can be both infuriating and incredibly rewarding, usually simultaneously.&lt;/p&gt;
+
+&lt;h2 id=&quot;working-for-government&quot;&gt;Working for government&lt;/h2&gt;
+
+&lt;p&gt;I play a small part in delivering local government services. Our services have a wide range, from recreational to life-saving.  My place of work &lt;a href=&quot;http://www.clackamas.us/socialservices/help.html&quot;&gt;opens shelters when it’s cold&lt;/a&gt; and helps &lt;a href=&quot;http://www.clackamas.us/socialservices/energy.html&quot;&gt;keep heat and lights on&lt;/a&gt; in homes when people can’t afford it. We &lt;a href=&quot;http://www.clackamas.us/parks/&quot;&gt;maintain public parks&lt;/a&gt;, &lt;a href=&quot;http://www.clackamas.us/wes/&quot;&gt;clean wastewater&lt;/a&gt;, and &lt;a href=&quot;http://www.clackamas.us/healthcenters/&quot;&gt;provide dental services&lt;/a&gt;. We &lt;a href=&quot;http://www.clackamas.us/business/assistance.html&quot;&gt;help get businesses up and running&lt;/a&gt; and &lt;a href=&quot;https://www.youtube.com/playlist?list=PLZEzoOaZqnfriP3r86RM14nT8Q0Wc8BXa&quot;&gt;find homes for lost and abandoned dogs&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Prior to working in government, I sought meaningful work in the nonprofit and academic sectors, but until I started working for county government, I hadn’t worked anywhere that offered so many ways in which to serve the public and the environment.&lt;/p&gt;
+
+&lt;p&gt;As with much of government in our country, we aren’t exactly revolutionary in our approach to digital services, but we’re getting better. Frankly, when it comes to web content, the challenge is often to convince staff to &lt;em&gt;do less&lt;/em&gt; as opposed to more. Government has a habit of telling people to (for example) wear an extra layer of warm clothing when it’s cold or be safe around their barbecues during summer holidays (these aren’t made up). A huge part of my job is convincing staff to focus on the content that helps our web users complete a task related to a government service. Often, that means omitting much of what a staff member proposed in the draft they handed me (that’s where the so-called “soft skills” come in). And that’s just content; tech in government faces challenges both bureaucratic and cultural (the culture being, in large part, bureaucratic).&lt;/p&gt;
+
+&lt;p&gt;It’s taking government a long time to catch up with the private sector when it comes to digital (as with many other things). But under the Obama administration, we saw an acceleration in digital services on the federal level that may prove to be a game changer, even beyond the technology itself.&lt;/p&gt;
+
+&lt;h2 id=&quot;redefining-government-digital&quot;&gt;Redefining government digital&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.fastcompany.com/3046756/obama-and-his-geeks&quot;&gt;Much has been written&lt;/a&gt; about the &lt;a href=&quot;https://www.usds.gov/&quot;&gt;US Digital Service&lt;/a&gt;, so I won’t attempt to tell the whole story. In brief summation, the USDS was formed by President Obama’s administration in the wake of the healthcare.gov fiasco. The administration (viz., &lt;a href=&quot;https://www.wired.com/2014/08/healthcare-gov/&quot;&gt;Todd Park&lt;/a&gt;) brought in &lt;a href=&quot;http://money.cnn.com/2017/01/17/technology/us-digital-service-mikey-dickerson/&quot;&gt;Mikey Dickerson&lt;/a&gt; and other Silicon Valley folks to fix it (which they did). The story is worth reading, if you haven’t.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/usds.png&quot; alt=&quot;US Digital Service logo&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While USDS and its sister agency &lt;a href=&quot;https://18f.gsa.gov/&quot;&gt;18F&lt;/a&gt; perhaps haven’t quite revolutionized government digital in the way that &lt;a href=&quot;https://www.gov.uk/&quot;&gt;GOV.UK&lt;/a&gt; has done across the pond, they have made huge strides in building a 21st Century digital government. &lt;strong&gt;More than that, they ignited a passion and civil service ethos that has been largely dormant in many sectors of our society.&lt;/strong&gt; That may end up being their biggest contribution to our country.&lt;/p&gt;
+
+&lt;h2 id=&quot;digital-civil-service&quot;&gt;Digital civil service&lt;/h2&gt;
+
+&lt;p&gt;After college, I spent a year in &lt;a href=&quot;https://www.nationalservice.gov/programs/americorps&quot;&gt;AmeriCorps&lt;/a&gt; removing invasive species, learning about native plants, and restoring stream banks. For those who haven’t heard of AmeriCorps, I often describe it as the domestic PeaceCorps.&lt;/p&gt;
+
+&lt;p&gt;I made about $3.75/hour that year, plus about $4500 toward grad school, but I learned an enormous amount about our country’s watersheds and participated in the restoration of dozens of acres of salmon-bearing habitat.&lt;/p&gt;
+
+&lt;p&gt;In college, I was completely broke, like many college students. So when I left, I didn’t have much to lose. Having graduated in philosophy, my career path wasn’t predetermined either. It wasn’t a significant sacrifice to my income and career prospects to spend a year serving my country in AmeriCorps.&lt;/p&gt;
+
+&lt;p&gt;Contrasting with my first foray into civil service, leaving Google and presumably a relatively enormous income to rescue a failing website upon which millions would depend for, not their livelihoods &lt;em&gt;but their very lives&lt;/em&gt;, Mikey Dickerson (and many others at USDS) has certainly lived up to the term “public servant.”&lt;/p&gt;
+
+&lt;p&gt;USDS, &lt;a href=&quot;https://www.codeforamerica.org/&quot;&gt;Code for America&lt;/a&gt;, and 18F have forged new pathways for civic participation, leading efforts to &lt;a href=&quot;https://medium.com/the-u-s-digital-service/south-by-southwest-one-year-later-5fc6e677aead#.k1v6peyzj&quot;&gt;recruit others to join them&lt;/a&gt; in enlisting technology to make our country work better for everyone.&lt;/p&gt;
+
+&lt;p&gt;I have been inspired by the work of USDS, and I hope to continue to be inspired. We will need them now more than ever.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/the-u-s-digital-service/youll-never-be-the-same-again-dc5b16b84ba9#.a540x9h4o&quot;&gt;As he says farewell to USDS&lt;/a&gt;, I would like to offer my gratitude for all Mikey Dickerson has accomplished. His efforts at USDS have not only improved the lives of countless Americans who have earned and rely on government services, but his work has inspired government technologists throughout the country, federal, state, and local, including myself.&lt;/p&gt;
+
+&lt;p&gt;More importantly, he’s proved that civil service is alive and well in the US.&lt;/p&gt;
+
+</description>
+        <pubDate>Tue, 17 Jan 2017 08:28:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/thank-you-mikey/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/thank-you-mikey/</guid>
+        
+        <category>government</category>
+        
+        <category>web</category>
+        
+        <category>digital</category>
+        
+        
+        <category>government</category>
+        
+      </item>
+    
+      <item>
+        <title>Tools for writing and editing</title>
+        <description>&lt;p&gt;Following up on my last post about keeping up with web trends and tools, I wanted to share some of the writing and editing tools I use regularly, along with some I have been playing with recently.&lt;/p&gt;
+
+&lt;h2 id=&quot;writing&quot;&gt;Writing&lt;/h2&gt;
+
+&lt;h3 id=&quot;ia-writer&quot;&gt;iA Writer&lt;/h3&gt;
+&lt;p&gt;I write everything I can in markdown. We don’t use markdown in our publishing workflow at work (although I’m trying to change that), but I often write notes in markdown, and I maintain our main web documents in markdown, such as our style guide and web content policy. At home, I write just about everything in markdown, including this blog.&lt;/p&gt;
+
+&lt;p&gt;I’m a huge fan of markdown; it’s such a liberating and flexible authoring experience. You can preserve structure while being able to publish to a variety of formats. It’s great, and it will probably continue to gain ground as a writing (anti)format in education, publishing, and communications workflows because of its ability to traverse print and digital publishing environments.&lt;/p&gt;
+
+&lt;p&gt;I’ve used a variety of writing apps, but &lt;a href=&quot;https://ia.net/writer/&quot;&gt;iA Writer&lt;/a&gt; is my favorite. I just started using it with the latest version (4), which offers &lt;a href=&quot;https://ia.net/writer/about/&quot;&gt;some really cool features&lt;/a&gt; to make markdown even more powerful and easy to use.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://player.vimeo.com/video/191969564?title=0&amp;amp;byline=0&amp;amp;portrait=0&quot; width=&quot;100%&quot; height=&quot;360&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;https://vimeo.com/191969564&quot;&gt;iA Writer 4&lt;/a&gt; from &lt;a href=&quot;https://vimeo.com/iamotion&quot;&gt;iA&lt;/a&gt; on &lt;a href=&quot;https://vimeo.com&quot;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;iA Writer is inexpensive and available for macOS, iOS, and Android. I do wish iA Writer was available for Windows, as I use a Windows machine from time to time at work.&lt;/p&gt;
+
+&lt;h3 id=&quot;brackets&quot;&gt;Brackets&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&quot;http://brackets.io/&quot;&gt;Brackets&lt;/a&gt; primarily when writing HTML, CSS, and (rarely) JavaScript, but I occasionally use it to write markdown. It’s a solid text editor, and it serves as the &lt;a href=&quot;http://blog.brackets.io/2016/11/10/brackets-1-8-is-now-available/&quot;&gt;open source code engine for Adobe Dreamweaver&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’m sure many would argue that &lt;a href=&quot;https://www.sublimetext.com/&quot;&gt;Sublime Text&lt;/a&gt;, &lt;a href=&quot;https://atom.io/&quot;&gt;Atom&lt;/a&gt;, and &lt;a href=&quot;https://panic.com/coda/&quot;&gt;Coda&lt;/a&gt; (among others) are superior, but I like Brackets, at least for now. It seems simpler than many other editors, and I don’t need much of the functionality that coders might. I particularly like the inline editor, which allows me to edit CSS within my HTML document. I don’t need to go back and forth between my HTML document and my stylesheet to make changes, searching through my CSS for the relevant selector. It’s great.&lt;/p&gt;
+
+&lt;h3 id=&quot;draft&quot;&gt;Draft&lt;/h3&gt;
+&lt;p&gt;Frankly, I am tired of a content review workflow that results in a dozen Word files comprised of track changes. I’m usually the one that has to resolve all of those separate files and changes into a final version to publish. It’s maddening and error prone. Perhaps you know what I’m talking about.&lt;/p&gt;
+
+&lt;p&gt;Ideally, we’d procure a service like &lt;a href=&quot;https://gathercontent.com/&quot;&gt;Gather Content&lt;/a&gt;, but Gather Content doesn’t seem like the best tool for managing edits to existing content; it seems primarily designed for managing the workflow for the production of new content. We really need a tool that can do both, but frankly it doesn’t matter, since we don’t have the budget for it anyway.&lt;/p&gt;
+
+&lt;p&gt;I’ve explored using &lt;a href=&quot;https://draftin.com/&quot;&gt;Draft&lt;/a&gt;, but that would require markdown training and proficiency for dozens of staff, which is unlikely to happen right now. That stated, Draft is a great (and free) tool that has vast potential for small, technically savvy organizations.&lt;/p&gt;
+
+&lt;h3 id=&quot;penflip&quot;&gt;Penflip&lt;/h3&gt;
+&lt;p&gt;Like Draft, &lt;a href=&quot;https://www.penflip.com/&quot;&gt;Penflip&lt;/a&gt; is a collaborative writing tool. It’s marketed as &lt;a href=&quot;http://www.madebyloren.com/github-for-writers&quot;&gt;“Github for Writers”&lt;/a&gt;. Penflip presents the same barriers to implementation for non-technical teams as Draft, but – from my limited exposure – it is easier to use than Draft. I need to play with it more, but I am fan of what I’ve seen so far.&lt;/p&gt;
+
+&lt;h2 id=&quot;editing&quot;&gt;Editing&lt;/h2&gt;
+
+&lt;h3 id=&quot;hemingway-app&quot;&gt;Hemingway app&lt;/h3&gt;
+&lt;p&gt;The &lt;a href=&quot;http://www.hemingwayapp.com/&quot;&gt;Hemingway app&lt;/a&gt; is indispensable for an editor, particularly if you edit the work of dozens of people in multiple departments and divisions.&lt;/p&gt;
+
+&lt;p&gt;The Hemingway app not only assists editors by pointing out reading grade level, unnecessary words, and sentences that are difficult to read, but it is useful as a &lt;strong&gt;neutral&lt;/strong&gt; and visual source of evaluation that you can share with content creators. Many writers and subject matter experts do not like to be edited…few people do. Tools like the Hemingway app can be useful when starting discussions with content contributors.&lt;/p&gt;
+
+&lt;h3 id=&quot;readability-score&quot;&gt;Readability Score&lt;/h3&gt;
+&lt;p&gt;I use &lt;a href=&quot;https://readability-score.com/&quot;&gt;Readability Score&lt;/a&gt; in much the same way I use the Hemingway app, but Readability Score is more complicated for non-editors and consequently more useful for me when I’m editing than as a communication tool with writers and subject matter experts. I don’t have a paid subscription, so I use the editor in an ad hoc manner.&lt;/p&gt;
+
+&lt;p&gt;Let me know what writing and editing tools you use &lt;a href=&quot;https://twitter.com/forestglenroad&quot;&gt;@forestglenroad&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 11 Jan 2017 11:11:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/writing-tools/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/writing-tools/</guid>
+        
+        <category>tools</category>
+        
+        <category>web</category>
+        
+        <category>writing</category>
+        
+        <category>editing</category>
+        
+        
+        <category>writing</category>
+        
+      </item>
+    
+      <item>
+        <title>Learning what to learn</title>
+        <description>&lt;p&gt;I work as a web editor in local government. Because I work in local government, I am also a content strategist, photographer, writer, designer, and – from time to time – event planner and dishwasher. It’s the public sector, and it’s simultaneously infuriating and extremely rewarding.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-bit-of-background&quot;&gt;A bit of background&lt;/h2&gt;
+&lt;p&gt;I used to design websites, back in the table layout days. That was before CSS and prior to the acceptance and proliferation of web standards. I built websites for a publishing company, a bakery, a café.&lt;/p&gt;
+
+&lt;p&gt;And then I did other things. I was an &lt;a href=&quot;https://www.nationalservice.gov/programs/americorps&quot;&gt;AmeriCorps&lt;/a&gt; volunteer. I worked on a farm, with an environmental nonprofit, and for a university. I worked in GIS (Geographic Information Systems) for a while and wrote some &lt;a href=&quot;http://pro.arcgis.com/en/pro-app/arcpy/get-started/what-is-arcpy-.htm&quot;&gt;Python&lt;/a&gt; here and there to automate geoprocessing tasks.&lt;/p&gt;
+
+&lt;p&gt;I was working with the web to some extent the entire time, but I was disconnected from the prodigious pace of innovation that occurred in web tools, frameworks, workflows, etc. At some point, I realized I needed to play some catch-up, so I began to dive headfirst into learning new tools. Given I work with content on a site that is, at the moment, completely static and hand-coded by our tech team, I don’t have the opportunity to learn on the job. So I began to explore learning resources.&lt;/p&gt;
+
+&lt;h2 id=&quot;trying-to-learn-it-all&quot;&gt;Trying to learn it all&lt;/h2&gt;
+&lt;p&gt;Catching up has been overwhelming. It started that way, at least. I began with &lt;a href=&quot;https://www.codecademy.com/&quot;&gt;Codecademy&lt;/a&gt;, but I didn’t come back consistently. Consequently, I lacked momentum in my learning, and I would have to review the previous section every time I started a new one. It didn’t work out.&lt;/p&gt;
+
+&lt;p&gt;Then I signed up for &lt;a href=&quot;https://teamtreehouse.com/&quot;&gt;Treehouse&lt;/a&gt;. I figured if I was paying for the service, it would keep me motivated to use the service consistently. Plus, &lt;a href=&quot;http://www.officelovin.com/2014/11/11/inside-treehouses-portland-offices/&quot;&gt;Treehouse is based in Portland, Oregon&lt;/a&gt;, so we’re neighbors.&lt;/p&gt;
+
+&lt;p&gt;Treehouse was pretty great, actually. I enjoyed the pace and structure of the video lessons, and I quickly racked up around 6,000 points (points and achievement badges being simple but surprisingly motivating methods for tracking personal progress).&lt;/p&gt;
+
+&lt;p&gt;The problem with learning via Treehouse, as with the web itself, is the breadth. The tools you’re learning about are so complex and diverse that it’s difficult to know where to start and how to proceed.&lt;/p&gt;
+
+&lt;p&gt;To reiterate, I’m a content editor. I work with web content, in part, because I can’t decide on a speciality. I want to do it all, and working with content offers a lot of flexibility. It allows me to delve into multiple interests and discover new interests I didn’t even know I had.&lt;/p&gt;
+
+&lt;p&gt;My biggest challenge as a Treehouse subscriber was prioritizing what to learn and when. I took courses on everything from &lt;a href=&quot;https://en.wikipedia.org/wiki/Representational_state_transfer&quot;&gt;REST&lt;/a&gt; to &lt;a href=&quot;https://facebook.github.io/react/&quot;&gt;React&lt;/a&gt;, but since I rarely (or never) used the tools I was learning, I would forget most of what I’d learned shortly after completing the lessons. Moreover, since I didn’t need to learn anything in particular from Treehouse to do my job, I couldn’t decide what to learn next. Given I was paying for the service, I still felt compelled to jump down a new rabbit hole regularly. That’s how I ended up learning about “Why Version Control Matters.” I’m not a developer by trade, but I still had a pretty good idea about why version control matters before this course. I took the course as a prerequisite for learning everything I would never need to know about Git.&lt;/p&gt;
+
+&lt;p&gt;But as it turns out, Git (or in this case GitHub) &lt;a href=&quot;http://www.makeuseof.com/tag/just-coders-9-ways-use-github-creative-work/&quot;&gt;isn’t just for coders&lt;/a&gt;. And that’s the problem (and the opportunity). Effective technologies find their way beyond their initial use case into other disciplines, as they should. So how do you know which ones to invest your time in to learning?&lt;/p&gt;
+
+&lt;h2 id=&quot;learning-what-to-learn&quot;&gt;Learning what to learn&lt;/h2&gt;
+&lt;p&gt;I’ve finally learned what to learn (sort of). By necessity, I’ve abandoned trying to learn every framework, preprocessor, task runner, and language. I’ve started to refocus on fundamentals and what directly impacts my publishing workflow.&lt;/p&gt;
+
+&lt;h3 id=&quot;html-and-css-of-course&quot;&gt;HTML and CSS (of course!)&lt;/h3&gt;
+&lt;p&gt;As a web editor, I certainly try to keep my skills sharp in HTML and CSS. That’s kind of a no-brainer now, and I suspect HTML and CSS will continue to be foundational knowledge for those of us working in a variety of communications disciplines. As &lt;a href=&quot;https://vimeo.com/70387173&quot;&gt;Mandy Brown pointed out in a 2013 talk&lt;/a&gt;, HTML and CSS aren’t “code”. They’re markup languages, and markup is the traditional output of an editor.&lt;/p&gt;
+
+&lt;p&gt;Figuring out &lt;em&gt;how much&lt;/em&gt; HTML and CSS to learn is another story, especially with the latter. &lt;a href=&quot;http://sass-lang.com/&quot;&gt;Sass&lt;/a&gt;, &lt;a href=&quot;http://lesscss.org/&quot;&gt;Less&lt;/a&gt;, CSS &lt;a href=&quot;https://css-tricks.com/snippets/css/a-guide-to-flexbox/&quot;&gt;Flexbox&lt;/a&gt; and CSS &lt;a href=&quot;https://css-tricks.com/snippets/css/complete-guide-grid/&quot;&gt;Grid&lt;/a&gt; are some of the exciting developments in CSS, but they present new challenges to keep up with, particularly when you don’t write CSS every day for a living.&lt;/p&gt;
+
+&lt;p&gt;I keep up with as many “major” CSS developments as I can, determining what constitutes a “major” development by tracking the experts at &lt;a href=&quot;http://alistapart.com/&quot;&gt;A List Apart&lt;/a&gt; and &lt;a href=&quot;https://css-tricks.com/&quot;&gt;CSS Tricks&lt;/a&gt;, among a few others. I’m currently reading &lt;a href=&quot;https://abookapart.com/products/get-ready-for-css-grid-layout&quot;&gt;&lt;em&gt;Get Ready for CSS Grid Layout&lt;/em&gt;&lt;/a&gt; from A Book Apart.&lt;/p&gt;
+
+&lt;h3 id=&quot;pattern-libraries&quot;&gt;Pattern libraries&lt;/h3&gt;
+&lt;p&gt;I am crazy about pattern libraries (or front-end style guides). I stalk &lt;a href=&quot;http://styleguides.io/&quot;&gt;styleguides.io&lt;/a&gt;. I’ve read &lt;a href=&quot;http://atomicdesign.bradfrost.com/&quot;&gt;&lt;em&gt;Atomic Design&lt;/em&gt;&lt;/a&gt; and &lt;a href=&quot;http://www.maban.co.uk/projects/front-end-style-guides/&quot;&gt;&lt;em&gt;Front-end Style Guides&lt;/em&gt;&lt;/a&gt;. I’ve composed writing style guides and worked on brand guidelines, so I suppose its understandable that I have such an affinity for pattern libraries.&lt;/p&gt;
+
+&lt;h3 id=&quot;javascript&quot;&gt;JavaScript&lt;/h3&gt;
+&lt;p&gt;JavaScript is definitely the front-end language I work with the least. I’ve written presentational JavaScript and jQuery here and there, and I’ve written some &lt;a href=&quot;http://leafletjs.com/&quot;&gt;Leaflet&lt;/a&gt; maps, but I just don’t work with JavaScript that often.&lt;/p&gt;
+
+&lt;p&gt;But JavaScript is now ubiquitous on the web &lt;a href=&quot;https://www.wired.com/2016/05/javascript-conquered-web-now-taking-desktop/&quot;&gt;and beyond&lt;/a&gt; and is becoming increasingly important for non-developers to be &lt;a href=&quot;https://vimeo.com/70387173#t=1189s&quot;&gt;literate in&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I recently read Mat Marquis’s &lt;a href=&quot;https://abookapart.com/products/javascript-for-web-designers&quot;&gt;&lt;em&gt;JavaScript for Web Designers&lt;/em&gt;&lt;/a&gt;. It’s the most approachable book on JavaScript I’ve read, and it provides a good balance of background, fundamentals, and practical applicability.&lt;/p&gt;
+
+&lt;h3 id=&quot;to-be-continued&quot;&gt;To be continued&lt;/h3&gt;
+&lt;p&gt;As an editor and content strategist, it’s difficult to know how to invest your time and energy. I’ll write more about which tools I’m investing my time in and let you know which writing apps I use in my workflow.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 09 Jan 2017 12:43:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/learning-what-to-learn/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/learning-what-to-learn/</guid>
+        
+        <category>tools</category>
+        
+        <category>web</category>
+        
+        <category>books</category>
+        
+        
+        <category>web</category>
+        
+      </item>
+    
+      <item>
+        <title>Writing like it matters</title>
+        <description>&lt;p&gt;It’s been awhile since I’ve written. Regularly, anyway.&lt;/p&gt;
+
+&lt;p&gt;Let me clarify; I write a lot. I’m an editor for a government website. I write all the time.&lt;/p&gt;
+
+&lt;p&gt;It’s just that I haven’t written for the purpose of processing and exposing my own thoughts for some time. Perhaps it’s because there are too many words out there already. Perhaps it’s because I became complacent.&lt;/p&gt;
+
+&lt;p&gt;Curiously, I’ve felt compelled to write again recently. Like many, I was stunned by the result of the presidential election, and I am aghast at &lt;a href=&quot;http://billmoyers.com/story/trump-the-american-fascist/&quot;&gt;our national descent into fascism&lt;/a&gt;, the &lt;a href=&quot;http://www.slate.com/blogs/the_slatest/2016/11/13/a_list_of_racist_incidents_across_the_united_states_since_donald_trump_was.html&quot;&gt;brazen, hateful attacks&lt;/a&gt; that are a hallmark of too many of Trump’s supporters, and the &lt;a href=&quot;http://edition.cnn.com/2015/12/21/politics/trump-putin-killing-reporters/index.html&quot;&gt;candid threats to journalists&lt;/a&gt; and those who would hold a Trump administration accountable.&lt;/p&gt;
+
+&lt;p&gt;Trump isn’t even president yet, but his election has already exposed and validated so much that’s wrong with our country.&lt;/p&gt;
+
+&lt;p&gt;Frankly, we had a big problem well before the election. This book was published in 2004; I just found out about it recently, &lt;a href=&quot;http://aworkinglibrary.com/editor/jennifer-harvey/&quot;&gt;thanks to Mandy Brown&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/Disrupting-Supremacy-Within-Jennifer-Harvey/dp/0829816070/ref=sr_1_2?s=books&amp;amp;ie=UTF8&amp;amp;qid=1483772472&amp;amp;sr=1-2&quot;&gt;&lt;img src=&quot;https://images-na.ssl-images-amazon.com/images/I/61oWLi%2BzrnL.jpg&quot; alt=&quot;Disrupting White Supremacy from Within&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m reading it now.&lt;/p&gt;
+
+&lt;p&gt;The fact that this book has to exist is unfortunate enough; the fact that it’s as relevant as it’s ever been is terrifying.&lt;/p&gt;
+
+&lt;p&gt;Perhaps more terrifying is &lt;a href=&quot;http://www.climatecentral.org/news/trump-cabinet-climate-change-20920&quot;&gt;the collective rejection of and hostility toward indisputable climate science&lt;/a&gt; from Trump’s proposed cabinet.&lt;/p&gt;
+
+&lt;p&gt;We just don’t have time for this bullshit.&lt;/p&gt;
+
+&lt;p&gt;It turns out we need &lt;em&gt;more&lt;/em&gt; words. In particular, we need words that aren’t generated in an ad-funded bullshit factory. We need words that demonstrate genuine care for others, a commitment to facts and research, a reverence for life and diversity, and an acknowledgement that we are truly in a dangerous time.&lt;/p&gt;
+
+&lt;p&gt;So I will write. I will write about politics, books, film, and the web. I will write because it’s integral to exercising democratic freedom. I will write to resist. And I will write to avoid complacency.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jan 2017 07:57:00 -0800</pubDate>
+        <link>http://localhost:4000/blog/writing-like-it-matters/</link>
+        <guid isPermaLink="true">http://localhost:4000/blog/writing-like-it-matters/</guid>
+        
+        <category>writing</category>
+        
+        <category>politics</category>
+        
+        <category>books</category>
+        
+        
+        <category>politics</category>
+        
+      </item>
+    
+  </channel>
+</rss>

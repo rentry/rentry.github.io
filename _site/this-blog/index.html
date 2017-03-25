@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width initial-scale=1">
+
+  <title>How I publish this blog</title>
+  <meta name="description" content="I’m fascinated by the trajectory of web publishing. As a web content editor and (several years ago) a freelance web developer, I’ve used each of the followin..."> 
+    
+  <link rel="stylesheet" href="/blog/css/main.css">
+  <link rel="canonical" href="http://localhost:4000/blog/this-blog/">
+  <link rel="alternate" type="application/atom+xml" title="Ryan Johnson" href="http://localhost:4000/blog/feed.xml" />
+</head>
+
+  <body>
+    
+<header>
+		<nav class="navbar navbar-default noBorder" role="navigation">
+			<div class="container">
+				
+				<div class="navbar-header">
+
+                   <a class="navbar-brand brandStyle" href="/blog/">Ryan Johnson</a>
+                    <p>Web editor and content strategist working in local government</p>
+                     
+                     
+				</div>
+                
+                    
+                
+            </div> 
+            
+            
+		</nav>
+   
+                
+</header>
+      <div class="wrapper">
+        <div class="page-content">
+          <div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">How I publish this blog</h1>
+    <p class="post-meta">March 18, 2017</p>
+  </header>
+
+  <article class="post-content">
+    <p>I’m fascinated by the trajectory of web publishing. As a web content editor and (several years ago) a freelance web developer, I’ve used each of the following content management systems and web publishing “tools” over the past 15 years:</p>
+
+<ul>
+  <li>Drupal</li>
+  <li>Wordpress</li>
+  <li>Joomla</li>
+  <li>Alfresco</li>
+  <li>Dreamweaver</li>
+  <li>static HTML (via text editor)</li>
+</ul>
+
+<p>I’ve rarely had the opportunity to choose the content management system or publishing platform where I’ve worked, but rather inherited existing projects or been forced to defer to an IT team.</p>
+
+<p>The reality is that few projects I’ve worked on merited the complexity of a full-fledged CMS (when they have, Drupal has usually been the appropriate solution on account of the functionality required).</p>
+
+<p>In years past, I’ve used Wordpress to publish my personal blogs, but for this blog, I ditched the database and went with a static site generator: <a href="https://jekyllrb.com/">Jekyll</a>.</p>
+
+<h2 id="moving-away-from-cms">Moving away from CMS</h2>
+
+<p>Content management systems are used for primarily two reasons:</p>
+
+<ul>
+  <li>to ease publishing for non-technical web editors</li>
+  <li>for database-reliant functionality, such as user roles, workflow, and managing comments</li>
+</ul>
+
+<p>A few years ago, I read a <a href="https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/">compelling blog post</a> by Dave Cole of <a href="https://www.developmentseed.org/">Development Seed</a>.</p>
+
+<p>The tl;dr of the Dave Cole article is summed up pretty well with this quote:</p>
+
+<blockquote>
+  <p>By developing websites as “client-side” applications that only consist of the files directly usable by a web browser with no extra work done by backend servers, we are able to pass on substantial cost savings to our clients while virtually eliminating risk of the website going “down”.</p>
+</blockquote>
+
+<p>The article goes on to describe how external APIs can now offer functionality that used to make sites database-dependent. For example, <a href="https://disqus.com/">Disqus</a> can be used to manage comments on an otherwise static-site-generated blog.</p>
+
+<p>For non-technical editors, Development Seed has created an authoring environment called <a href="http://prose.io/#about">Prose</a>. For slightly more technical editors, many static site generators manage site content via markdown files.</p>
+
+<h2 id="jekyll">Jekyll</h2>
+
+<p>Jekyll is a static site generator created by GitHub co-founder Tom Preston-Werner. Because of its lineage, it has mature integration with GitHUb and GitHub Pages. Sometimes called “<a href="https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/">the blogging platform for hackers</a>,” Jekyll uses the <a href="https://shopify.github.io/liquid/">Liquid</a> tempting language and individual markdown files to compile a static site. Jekyll is mature enough now that there is thorough <a href="https://jekyllrb.com/docs/home/">documentation</a>, <a href="http://jekyll.tips/">tutorials</a>, and <a href="http://jekyll.tips/templates/">templates</a> to get started.</p>
+
+<h3 id="liquid">Liquid</h3>
+
+<p>Liquid and other templating languages bring many of the content management features of a CMS into generating static sites. For example, you have control flow using <code>for</code> loops, which my template uses to generate the list of blog posts.</p>
+
+<h3 id="command-line">Command line</h3>
+
+<p>While Jekyll does require some skill with the command line, you really only need to know a limited set of commands to manage a simple blog or site. Most the time, you only need to know how to navigate to your blog directory using <code>cd locationOfBlog</code> and <code>jekyll serve</code>.</p>
+
+<h3 id="other-static-site-generators">Other static site generators</h3>
+
+<p>Its affiliation with GitHub, along with the immense popularity of the latter, is why Jekyll is extremely popular for static sites. But there are many other static site generators; <a href="https://gohugo.io/">Hugo</a> and <a href="https://middlemanapp.com/">Middleman</a> are others I have considered using.</p>
+
+<h2 id="jekyll--ia-writer">Jekyll + iA Writer</h2>
+
+<p>For this blog, I pulled <a href="http://themes.jekyllrc.org/estivo/">one of many Jekyll themes</a> to get me started, editing the style sheet and some templating elements to suit my needs.</p>
+
+<p>As I mentioned in a previous post, I use <a href="https://ia.net/writer/">iA Writer</a> to author my blog posts (as markdown files).</p>
+
+<p>Here’s the general workflow:</p>
+
+<ol>
+  <li>Open up Terminal and <code>cd</code> to my blog directory</li>
+  <li>Use <code>jekyll serve</code> to initiate Jekyll (this will also generate a local server which allows you to review changes in your browser as you make them)</li>
+  <li>Open up iA Writer and begin a post with appropriate <a href="https://jekyllrb.com/docs/frontmatter/">front matter</a></li>
+  <li>Save post as a markdown file into the <code>_posts</code> directory</li>
+  <li>Convey contents of <code>_site</code> directory to your web server</li>
+</ol>
+
+<p>That’s it! You don’t have to deal with databases, plugins, or most of the security issues that plague database-driven content management systems. You don’t need to know PHP or configure modules or manage a load of dependencies. And you can add functionality via APIs such as <a href="https://www.mapbox.com/">Mapbox</a> or <a href="https://disqus.com/">Disqus</a>. Best of all, you can focus on writing without worrying about all the technical bloat and maintenance of a CMS.</p>
+
+<p>Admittedly, I use Jekyll in very limited ways, but I like the simplicity of it (some might say it’s more complex than using a CMS, but they probably don’t know what’s going behind the scenes of their CMS!).</p>
+
+<p>We’ve come full circle, from the static sites of the early web, to heavy, intensive, and vulnerable database-reliant content management systems, and now back to static sites in the form of static site generators. At least for sites where it makes sense, which are many.</p>
+
+<h2 id="headaches-but-not-migraines">Headaches, but not migraines</h2>
+
+<p>As with any publishing platform, there are annoyances.</p>
+
+<p>I am not a barbarian, and consequently I insist on using <a href="http://smartquotesforsmartpeople.com/">smart quotes</a> on my blog. I was able to achieve smart quotes in my blog copy, but the content rendered from the YAML front matter was saturated with dumb quotes. It was driving me crazy for weeks, as I tried to find a solution. Finally, I discovered that iA Writer has an option to use smart substitutions for quotes, which means it automatically replaces dumb quotes with smart quotes.</p>
+
+<p>This is great, but YAML mixes scripting with content. Syntactically, values in YAML are surrounded by quotes, but they must be dumb quotes in order to work programmatically. Consequently, smart quote substitutions in iA Writer actually break the functional application of the front matter, so I use a fancy work-around (the sophisticated technique known as ‘copy and paste’) to prevent my YAML quotes from becoming smart quotes. To further complicate matters, I want the content in the dumb quotes to contain smart quotes, as that content generates the titles and subtitles for my posts.</p>
+
+<p>It’s a bit of a headache, but it’s not the migraine induced from maintaining a database-driven CMS.</p>
+
+<h2 id="publishing-platforms">Publishing platforms</h2>
+
+<p>As a web editor, I’m obsessed with publishing platforms and workflows, and I’m always on the lookout for new publishing tools. I follow the design and development of <a href="https://medium.design/">Medium</a> and <a href="https://techcrunch.com/2012/05/07/a-closer-look-at-chorus-the-next-generation-publishing-platform-that-runs-vox-media/">Chorus</a> (to the extent the entities responsible for each share information), and I am part of the massive Drupal community via work.</p>
+
+<p>But it feels like there is still room for a publishing stack that focuses on writing and maximizes editorial control and effectiveness. For now, a static site generator and an elegant writing app are about all I need.</p>
+
+
+  </article>
+
+  <hr>
+
+  <div class="related">
+    <h2>Recent</h2>
+    
+      <li><a href="/blog//on-americorps/" title="On AmeriCorps">On AmeriCorps
+       &nbsp; <span class="post-meta">February 20, 2017</span></a>
+    
+      <li><a href="/blog//this-is-not-the-dialectic/" title="This isn’t the dialectic">This isn’t the dialectic
+       &nbsp; <span class="post-meta">February 18, 2017</span></a>
+    
+      <li><a href="/blog//arrival-eternal-recurrence/" title="Arrival and the eternal return of the same">Arrival and the eternal return of the same
+       &nbsp; <span class="post-meta">February 5, 2017</span></a>
+    
+  </div>
+    
+    
+<!--Disqus code-->    
+    
+    <div id="disqus_thread"></div>
+<script>
+
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = '//brentryanjohnson.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+                                
+    
+    
+    
+<!--end Disqus code-->  
+    
+
+
+</div>
+
+        </div>
+        <footer class="site-footer">
+<p><a href="http://www.brentryanjohnson.com">about me</a></p>
+<p class="small">&copy Ryan Johnson, 2017.  Opinions are mine alone unless otherwise stated.
+</p>
+</footer>
+
+
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-3221511-7', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
+
+    </div>
+      
+
+  </body>
+
+</html>
+
