@@ -19,6 +19,7 @@
 .header-intro a, .header-intro a:visited {
     color: #000;
 }
+
 .header-intro a:hover {
     color: $brand-color;
     text-decoration: none;
@@ -132,21 +133,9 @@ nav.site-nav {
     list-style: none;
 
     > li {
-        margin-bottom: $spacing-unit;
+        margin-bottom: $spacing-unit / 1.5;
     }
 }
-
-a,
-.post li:hover .dates {
-    text-decoration: underline;
-    color: $brand-color;
-}
-
-a,
-.post a:hover {
-    color: $brand-color-light;
-}
-
 
 
 #post-list a {
@@ -173,8 +162,7 @@ Post List
 }
 
 #post-list li+li {
-    padding-top: 20px;
-    border-top: 1px solid #DFE1E4;
+    padding-top: $spacing-unit / 1.5;
 }
 
 #post-list a {
@@ -185,16 +173,24 @@ Post List
 }
 
 #post-list a:hover {
-    color: $brand-color;
-    text-decoration: none;
+    color: $brand-color-light;
 }
 
+
 #post-list h2 {
+    font: 800 1.3em $base-font-family;
+    max-width: 500px;
+    margin-top: 2px;
+    margin-bottom: .2em;
+}
+
+#post-list h3 {
     font: normal 19px/1.5em $base-font-family;
     color: #aaa;
-    max-width: 400px;
+    max-width: 500px;
     margin-top: 2px;
 }
+
 
 #intro-text {
     padding-top: 10px;
@@ -224,7 +220,11 @@ Post List
     font-size: 24px;
 }
 
+/* Links */
 
+.post a:hover {
+    color: brand-color-light;
+}
 
 /**
  * Posts
@@ -284,9 +284,6 @@ Post List
     color: $brand-color;
 }
 
-.related a:hover {
-    color: $brand-color-light;
-}
 
 // PAGINATION
 .pagination {
@@ -297,15 +294,21 @@ Post List
 
 .pagination-link {
     display: inline-block;
-    font-size: 13px;
+    color: #29353a;
+    font-size: 1em;
     font-weight: bold;
     border-radius: 4px;
     padding: 7px 18px 6px;
     box-shadow: 0 0 0 1px #29353a;
+    text-decoration: none;
+}
+
+.pagination-link:hover {
+    text-decoration: none;
 }
 
 span.arrow {
     position: relative;
     top: 0;
-    font-size: 17px;
+    font-size: 1em;
 }
