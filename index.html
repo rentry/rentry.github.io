@@ -10,7 +10,7 @@ layout: default
         <a href="{{ post.url | prepend: site.baseurl }}">
         <aside class="dates">{{ post.date | date: "%b %-d" }}</aside>
         </a>
-        <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }} </h2><h3>{{ post.description }}</h3></a>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }} </h2><h3>{{ post.description }}</h3></a>
         <!-- <p>
         {{ post.content | truncatewords: 50 }}
         </p> -->
