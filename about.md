@@ -4,7 +4,9 @@ title:  “Word and maps“
 ---
 ## Words and maps
 
-As a web editor and content strategist living in the Portland, Oregon, area, I specialize in public sector web content strategy, editorial standards, and accessibility. I produce style guides, policy, and strategy that recognize the unique challenges and opportunities of digital communications in government. Mostly, I make sure words do their job.
+I’m a web editor and digital strategist living near Portland, Oregon. 
+
+I specialize in public sector web content strategy, editorial standards, and accessibility. I produce style guides, policy, and strategy that recognize the unique challenges and opportunities of digital communications in government. Mostly, I make sure words do their job.
 
 I am also a map geek, which inspired me to earn a graduate certificate in Geographic Information Science. As a result, I have experience in remote sensing, Python programming, and spatial analysis. 
 
