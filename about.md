@@ -1,6 +1,6 @@
 ---
 layout: about
-title:  “Word and maps“
+title:  "About"
 ---
 ## Words and maps
 
