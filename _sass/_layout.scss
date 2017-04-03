@@ -297,6 +297,10 @@ Post List and items
     color: $brand-color;
 }
 
+.related a:hover {
+    color: $brand-color-light;
+}
+
 
 // PAGINATION
 .pagination {
