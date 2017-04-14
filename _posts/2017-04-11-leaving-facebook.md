@@ -9,7 +9,7 @@ comments: true
 ---
 I left Facebook a few months ago. 
 
-Before I go on, and lest this post present itself as judgmental or implicitly condescending, I still use Twitter _and_ Instagram. The latter is particularly ironic, given it is owned by and presumably has many of the negative data-mining qualities of Facebook. 
+Before I go on, and lest this post present itself as judgmental or implicitly condescending, I still use Twitter, LinkedIn _and_ Instagram. The latter is particularly ironic, given it is owned by and presumably has many of the negative data-mining qualities of Facebook. 
 
 I haven’t wrested myself completely from the siren call of social media, but I’ve discovered I’m less and less interested in keeping up with it and increasingly skeptical of publishing to it. But quite apart from my fading interest, social media — if we can even call it that anymore — is quite at home in our data-hungry, late-capitalist age. That fact, combined with the [big data alliances](https://www.theguardian.com/politics/2017/feb/26/robert-mercer-breitbart-war-on-media-steve-bannon-donald-trump-nigel-farage) of the Trump administration, hint toward a terrifying precipice of surveillance-state capitalist tyranny that continues to erode the very institutions that might prevent it.
 
