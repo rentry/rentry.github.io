@@ -35,7 +35,7 @@ Robert Mercer. Steve Bannon. Peter Thiel.
 
 Thiel, who was — famously — [an early investor in Facebook](http://money.cnn.com/2012/08/20/technology/facebook-peter-thiel/) and continues to sit on the Facebook board of directors, now runs [Palantir](https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/), a $20 billion company that feeds its vast stockpile of data to the NSA, among many others. Thiel’s continuing connection to Facebook should be enough to betray Facebook as a benign social media platform, designed to help you share and connect with “friends”. It is unequivocally a data-mining platform, designed to inexorably harvest your data for profit. 
 
-_Palantir_ is a reference to Tolkien’s Lord of the Rings, which — as a huge fan of Tolkien — just pisses me off even more. But tellingly, in Tolkien’s Middle-earth, a Palantir is an all-seeing stone, at least some of which have been co-opted by Sauron, the epitome of evil in Middle-earth.
+_Palantir_ is a reference to Tolkien’s Lord of the Rings, which — as a huge fan of Tolkien — just pisses me off even more. But tellingly, in Tolkien’s Middle-earth, a Palantir is an all-seeing stone, several of which have been co-opted by Sauron, the epitome of evil in Middle-earth.
 
 So at least they got the reference right. 
 
