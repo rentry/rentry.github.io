@@ -143,6 +143,8 @@ $to:    #303030;
     text-decoration: none;
     color: #33cc33;
 }
+
+//Media queries//
     
  @media (min-width: 1200px) {  
 .container {
@@ -173,6 +175,11 @@ $to:    #303030;
     
     article li {
         font-size: 1.1rem;
+    }
+    
+    .title {
+    color: #29353a;
+    font-size: 1.4em;
     }
 
 }
