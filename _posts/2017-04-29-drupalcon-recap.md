@@ -40,7 +40,7 @@ In the end, the confrontation didn’t seem to impact much of the conference and
 
 ## DrupalCon goes far beyond DevOps
 
-Before registering for DrupalCon, I assumed the conference was focused primarily on development and developers, which seemed to make sense. After all, the Drupal community is comprised largely of those who build Drupal and develop contributed modules that augment its functionality.
+Before registering for DrupalCon, I assumed the conference was focused on development and developers, which seemed to make sense. After all, the Drupal community is comprised largely of those who build Drupal and develop contributed modules that augment its functionality.
 
 For years, Drupal has been a premier publishing platform for the web, and so I shouldn’t have been surprised to see a number of sessions focused on content strategy, content management, and the publishing experience. 
 
