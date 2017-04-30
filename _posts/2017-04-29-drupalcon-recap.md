@@ -10,7 +10,7 @@ comments: true
 
 I just returned from DrupalCon in Baltimore. It was my first DrupalCon, but it felt like the continuation of a journey back to Drupal after a relatively long absence.
 
-![DrupalCon Baltimore logo with raven and Drupal droplet](../assets/images/drupalcon-baltimore.png)
+![DrupalCon Baltimore logo with raven and Drupal droplet](../assets/images/drupalcon-baltimore.jpg)
 
 I haven’t worked with Drupal regularly since 2013, when I managed a Drupal site at Oregon State University (Sea Grant Extension). Even then, I was working on the site more as a project manager than a designer, developer, or content strategist. I rarely had to worry myself with the configuration or codebase. 
 
