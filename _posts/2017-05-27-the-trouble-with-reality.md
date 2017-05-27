@@ -26,7 +26,7 @@ One of the most compelling sections of the book focuses on the contrasting portr
 
  > “What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give use so much information that we would be reduced to passivity and egoism.”
  
-As book readership in [America continues to decline](http://www.latimes.com/books/jacketcopy/la-et-jc-fewer-americans-reading-books-20151021-story.html), while information overload and [gaslighting](https://www.washingtonpost.com/posteverything/wp/2016/11/07/the-trump-campaigns-war-on-reality-made-me-question-what-i-saw/?utm_term=.7f619b918257) challenge our ability to discern fact from fiction, Huxley’s vision indeed seems to be winning the day.
+As [book readership in America continues to decline](http://www.latimes.com/books/jacketcopy/la-et-jc-fewer-americans-reading-books-20151021-story.html), while information overload and [gaslighting](https://www.washingtonpost.com/posteverything/wp/2016/11/07/the-trump-campaigns-war-on-reality-made-me-question-what-i-saw/?utm_term=.7f619b918257) challenge our ability to discern fact from fiction, Huxley’s vision indeed seems to be winning the day.
 
 ## Is authoritarianism inevitable?
 
