@@ -40,11 +40,11 @@ I refuse to believe that our creep into fascism was inevitable, but it is happen
 
 As I write this, we’re dealing with the aftermath of [the murder of two men who defended muslim women](http://www.oregonlive.com/portland/index.ssf/2017/05/police_responding_to_ne_portla.html#incart_big-photo) from aggressive verbal abuse on a light rail train here in Portland. 
 
-Now, I’m not suggesting this couldn’t have happened if Trump wasn’t the president (or a presidential candidate), but it is no coincidence that [hate crimes rose 20% in 2016](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) and Trump’s campaign rhetoric and inner circle of white supremacists [have created safe spaces and emboldened racists](https://www.salon.com/2017/03/08/trumps-election-has-created-safe-spaces-for-racists-southern-poverty-law-centers-heidi-beirich-on-the-wave-of-hate-crimes/).
+Now, I’m not suggesting this couldn’t have happened if Trump wasn’t the president (or a presidential candidate), but it is no coincidence that [hate crimes rose 20% in 2016](http://www.nbcnews.com/news/us-news/u-s-hate-crimes-20-percent-2016-fueled-election-campaign-n733306) and Trump’s campaign rhetoric and inner circle of white supremacists [have created safe spaces for and emboldened racists](https://www.salon.com/2017/03/08/trumps-election-has-created-safe-spaces-for-racists-southern-poverty-law-centers-heidi-beirich-on-the-wave-of-hate-crimes/).
 
 In our old reality, all people are created equal and America is a melting pot of diversity; those were our strengths, not our weaknesses.
 
-In Trump’s America, people are verbally abused or even killed on account of race, religion, or defending basic decency and rejecting blind hatred. This was all happening during the campaign, and if you voted for Trump, you own part of this new reality. It wasn’t hiding. [He wasn’t hiding](https://www.vox.com/2016/7/25/12270880/donald-trump-racism-history).
+In Trump’s America, people are verbally abused or even killed on account of race, religion, or defending basic decency and rejecting blind hatred. This was all happening during the campaign, and for those who voted for Trump, you own part of this new reality. It wasn’t hiding. [He wasn’t hiding](https://www.vox.com/2016/7/25/12270880/donald-trump-racism-history).
 
 We have work to do to rebuild our reality. As Gladstone writes:
 
