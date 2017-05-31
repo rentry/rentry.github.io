@@ -14,7 +14,7 @@ For those of us who believed – perhaps with a considerable amount of privilege
 
 For me, no one has captured this feeling – this panic – as completely, and in so few pages, as Brooke Gladstone, co-host of WNYC’s _On the Media_. In just 92 pages, Gladstone traverses our political moment with a sobering salt-sniff, simultaneously enhancing our panic while unpacking it, all with the tenacious confidence that knowledge is still power.
 
-![The Trouble with Reality book cover](../assets/images/trouble_reality.png)
+[![The Trouble with Reality book cover](../assets/images/trouble_reality.png)](https://www.workman.com/products/the-trouble-with-reality-1)
 
 Appealing to George Lakoff, Hannah Arendt, Jonathan Swift, William James, George Orwell, Aldous Huxley, John Milton, John Adams, Thomas Jefferson, and more, Gladstone surveys authoritarianism’s rise throughout history as witnessed or analyzed by these authors, and how the common tactics of authoritarian rule have been routinely employed in the rise of Trump.
 
