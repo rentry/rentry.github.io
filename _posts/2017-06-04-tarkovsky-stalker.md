@@ -34,7 +34,7 @@ Deleuze isn’t referring specifically to _Stalker_ or Tarkovsky’s films in ge
 <iframe src="https://player.vimeo.com/video/213701012" width="700" height="394" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 <p><a href="https://vimeo.com/213701012">Exclusive: STALKER TRAILER - New Restoration 2017</a> from <a href="https://vimeo.com/theplaylist">The Playlist</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-According to Deleuze, our collective crisis of belief in pre-war institutions and ideas, along with our profound loss of our environment, results in a post-war cinema that is “a cinema of the seer and no longer of the agent.” The cinema of the seer is what gives rise to the time-image.
+According to Deleuze, our collective crisis of belief in pre-war institutions and ideas, along with the profound loss of our environment, results in a post-war cinema that is “a cinema of the seer and no longer of the agent.” The cinema of the seer is what gives rise to the time-image.
 
 The time-image is contrasted by the movement-image and the action-image.
 
