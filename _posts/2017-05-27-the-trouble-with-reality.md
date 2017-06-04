@@ -44,7 +44,7 @@ Now, I’m not suggesting this couldn’t have happened if Trump wasn’t the pr
 
 In our old reality, all people are created equal and America is a melting pot of diversity; those were our strengths, not our weaknesses.
 
-In Trump’s America, people are verbally abused or even killed on account of race, religion, or defending basic decency and rejecting blind hatred. This was all happening during the campaign, and for those who voted for Trump, you own part of this new reality. It wasn’t hiding. [He wasn’t hiding](https://www.vox.com/2016/7/25/12270880/donald-trump-racism-history).
+In Trump’s America, people are verbally abused or even killed on account of race, religion, or defending basic decency and rejecting blind hatred. This was all happening during the campaign. It wasn’t hiding. [He wasn’t hiding](https://www.vox.com/2016/7/25/12270880/donald-trump-racism-history).
 
 We have work to do to rebuild our reality. As Gladstone writes:
 
