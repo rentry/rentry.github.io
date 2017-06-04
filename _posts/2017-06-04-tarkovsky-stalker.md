@@ -42,7 +42,7 @@ The time-image is contrasted by the movement-image and the action-image.
 
 Contrasted with the movement-image, we find in the time-image the crisis that interrupts the action of the movement-image.   The underlying assumptions that informed the agency of movement-image cinema have been lost, and our subjects now find themselves in situations within which they do not know how to act, unspooling time without movement. 
 
-The crisis of belief informs _Stalker_ throughout; it is the main theme of the film. The Room can fulfill one’s innermost desire, but only when one believes in it utterly. The crisis of belief when the Stalker, the Professor, and the Writer arrive at the Room exemplifies the crisis of belief that gives way to the time-image. The film’s subjects, bereft and indecisive, have lost something that perhaps could be regained, if they could only believe. It’s this tension between belief and action that paralyzes the film’s subjects and exemplifies the time-image.
+The crisis of belief informs _Stalker_ throughout; it is the main theme of the film. The Room can fulfill one’s innermost desire, but only when one believes in it utterly. The crisis of belief when the Stalker, the Professor, and the Writer arrive at the Room exemplifies the time-image. The film’s subjects, bereft and indecisive, have lost something that perhaps could be regained, if they could only believe. It’s this tension between belief and action that paralyzes the film’s subjects and leaves us untethered in time.
 
 ![the stalker and a dog](../assets/images/stalker_dog.jpg)
 
