@@ -18,14 +18,13 @@ The first Tarkovsky film I saw was [_Andrei Rublev_](https://www.criterion.com/f
 
 Geoff Dyer, also of _The Guardian_, [says of _Stalker_](https://www.theguardian.com/film/2009/feb/06/andrei-tarkovsky-stalker-russia-gulags-chernobyl), “...it's not enough to say that Stalker is a great film - it is the reason cinema was invented.”
 
-## Sculpting in Time/the time-image
+## Time
 
 The title of Tarkovsky’s 1986 book, _Sculpting in Time_, identifies the key ingredient of all cinema, but one which Tarkovsky uses to mesmerizing effect: time.
 
-French philosopher Gilles Deleuze identifies a turning point in cinema with respect to the way in which time is employed in his 1986 works on cinema, _The Movement-Image_ and _The Time-Image_. 
+French philosopher Gilles Deleuze analyzes a turning point in cinema with respect to the way in which time is employed in his 1986 works on cinema, _The Movement-Image_ and _The Time-Image_. 
 
 >Why is the Second World War taken as a break? The fact is that, in Europe, the post-war period has greatly increased the situations which we no longer know how to react to, in spaces which we no longer know how to describe. These were ‘any spaces whatever’, deserted but inhabited, disused warehouses, waste ground, cities in the course of demolition or reconstruction.
- 
 
 ![Cinema books 1 and 2](../assets/images/cinema1_2.jpg)
 
