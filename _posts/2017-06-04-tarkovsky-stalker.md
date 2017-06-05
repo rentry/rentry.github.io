@@ -14,7 +14,7 @@ I watched _Stalker_ again the other day (and for the first time on the big scree
 
 ![Stalker film poster](../assets/images/stalker.jpg)
 
-The first Tarkovsky film I saw was [_Andrei Rublev_](https://www.criterion.com/films/300-andrei-rublev) in college, and I was immediately captivated by Tarkovsky’s style. In reviewing _Andrei Rublev_, Steve Rose of _The Guardian_ [aptly describes each film Tarkovsky’s oeuvre](https://www.theguardian.com/film/2010/oct/20/andrei-rublev-tarkovsky-arthouse): “It is not a film that needs to be processed or even understood, only experienced and wondered at.” 
+The first Tarkovsky film I saw was [_Andrei Rublev_](https://www.criterion.com/films/300-andrei-rublev) in college, and I was immediately captivated by Tarkovsky’s style. In reviewing _Andrei Rublev_, Steve Rose of _The Guardian_ [aptly describes each film in Tarkovsky’s oeuvre](https://www.theguardian.com/film/2010/oct/20/andrei-rublev-tarkovsky-arthouse): “It is not a film that needs to be processed or even understood, only experienced and wondered at.” 
 
 Geoff Dyer, also of _The Guardian_, [says of _Stalker_](https://www.theguardian.com/film/2009/feb/06/andrei-tarkovsky-stalker-russia-gulags-chernobyl), “...it's not enough to say that Stalker is a great film - it is the reason cinema was invented.”
 
