@@ -22,7 +22,7 @@ Working Library is my kind of scene; the place is full of books, but it is – a
 
 ![Letterpress typeface Franklin Gothic](../assets/images/wl4.jpg)
 
-The reading was by Chelsea Werner-Jatzke, who collaborated with Laura O’Quin – a Working Library founder – to create _Thunder Lizard: A Proposal to the International Commission of Ecological Nomenclature_. Laura O’Quin describes the project this way:
+The reading was by Chelsea Werner-Jatzke, who collaborated with Laura O’Quin – a Working Library founder – to create _Thunder Lizard: A Proposal to the International Commission of Ecological Nomenclature_. [Laura O’Quin](http://www.lauraoquin.net/) describes the project this way:
 
 >Mostly you are right about things. Especially animals, and I’m an animal, so maybe you are right about me. This is an excerpt from the poem, The Most Colossal Animal Ever Just Found Out West from the manuscript, Thunder Lizard (Dinosauria, Sauropoda) written by Chelsea Werner-Jatzke.
 
