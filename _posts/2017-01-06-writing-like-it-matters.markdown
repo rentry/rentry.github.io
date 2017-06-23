@@ -3,7 +3,7 @@ layout: post
 title:  "Writing like it matters"
 date:   2017-01-06 15:57:00
 description: "Rediscovering the need for more words"
-category: politics
+categories: politics
 tags: [writing, politics, books]
 comments: true
 ---

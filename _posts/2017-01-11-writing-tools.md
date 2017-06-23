@@ -3,7 +3,7 @@ layout: post
 title:  "Tools for writing and editing"
 date:   2017-01-11 19:11:00
 description: "Tools I use daily and some I’m trying out"
-category: writing
+categories: writing
 tags: [tools, web, writing, editing]
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "The Trouble with Reality"
 date:   2017-05-27 12:30:00
 description: "Brooke Gladstone ruminates on the moral panic in our time."
-category: politics
+categories: politics
 tags: [books, politics]
 comments: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title:  "Thank you, Mikey"
 date:   2017-01-17 16:28:00
 description: "Mikey Dickerson and the US Digital Service have changed the way government interacts with the public."
-category: government
+categories: government
 tags: [government, web, digital]
 comments: true
 ---

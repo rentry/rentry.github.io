@@ -22,3 +22,6 @@ paginate_path: "/pages/page:num/"
 sass:
   style: compressed
   
+# Categories and tags
+permalink: /:categories/:title/  
+  

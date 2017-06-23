@@ -3,7 +3,7 @@ layout: post
 title:  "This isn’t the dialectic"
 date:   2017-02-18 13:30:00
 description: "I don’t know what this is, but it isn’t dialectical."
-category: ideas
+categories: ideas
 tags: [ideas, philosophy, politics]
 comments: true
 ---

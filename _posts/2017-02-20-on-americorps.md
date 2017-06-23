@@ -3,7 +3,7 @@ layout: post
 title:  "On AmeriCorps"
 date:   2017-02-20 10:30:00
 description: "Slashing AmeriCorps is symbolic; it’s a drop in the federal budget."
-category: ideas
+categories: ideas
 tags: [ideas, philosophy, politics]
 comments: true
 ---

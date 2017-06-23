@@ -3,7 +3,7 @@ layout: post
 title:  "Learning what to learn"
 date:   2017-01-09 20:43:00
 description: "An editor relearns the ways of the web."
-category: web
+categories: web
 tags: [tools, web, books]
 comments: true
 ---

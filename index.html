@@ -23,7 +23,7 @@ layout: index
       <a class="pagination-link" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="previous"><span class="arrow">&larr;</span> Previous</a>
     {% endif %}
     {% if paginator.next_page %}
-      <a class="pagination-link" href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next <span class="arrow">&rarr;</span></a>
+      <a class="pagination-link next" href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="next">Next <span class="arrow">&rarr;</span></a>
     {% endif %}
   </div>
     

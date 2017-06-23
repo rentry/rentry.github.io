@@ -3,8 +3,8 @@ layout: post
 title:  "Libertarians are all up in your social media"
 date:   2017-04-13 21:18:00
 description: "I abandoned Facebook, and I don’t miss it at all (mostly)"
-category: social media
-tags: [social media, web]
+categories: social media
+tags: [social, web]
 comments: true
 ---
 I left Facebook a few months ago. 

@@ -3,7 +3,7 @@ layout: post
 title:  "Arrival and the eternal return of the same"
 date:   2017-02-05 11:50:00
 description: "Arrival was my favorite film of 2016. It presents a challenge Nietzsche identified throughout his work."
-category: film
+categories: film
 tags: [film, philosophy, books]
 comments: true
 ---
