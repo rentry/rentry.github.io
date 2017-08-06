@@ -11,7 +11,7 @@ layout: default
 <!-- tags-->
     
     {% for tag in page.tags limit:5 %}
-    <ul class="tag-group"><li class="tags"><a href="/tags#{{tag}}">{{ tag }}</a></li>
+    <ul class="tag-group"><a href="/tags#{{tag}}"><li class="tags">{{ tag }}</li></a>
       </ul>      
     {% endfor %}
           
