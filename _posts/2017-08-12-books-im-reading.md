@@ -54,6 +54,8 @@ I would like to become more proficient in other programming languages, even thou
 
 An approachable book on Ruby, *Learn to Program* offers a concise introduction to programming by way of Ruby, but the key tenets are transferable to many other programming languages. For this reason, it’s a useful read to understand the basics of programming in general.
 
+![Learn to Program, second edition](../assets/images/learning-to-program.jpg)
+
 ## Other books I’m reading
 
 I am in the middle of several non-tech books as well. I’ll write about those in the next post. Perhaps someday I’ll limit myself to one book at a time!
