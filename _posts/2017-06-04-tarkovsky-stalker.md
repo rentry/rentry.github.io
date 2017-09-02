@@ -4,7 +4,7 @@ title:  "Tarkovsky’s <em>Stalker</em>"
 date:   2017-06-04 10:30:00
 description: "Tarkovsky’s brilliant and immersive film gets a digital restoration and a new audience."
 categories: film
-tags: [film, tarkovsky]
+tags: [film]
 comments: true
 ---
 
