@@ -42,7 +42,7 @@ Figuring out _how much_ HTML and CSS to learn is another story, especially with 
 I keep up with as many "major" CSS developments as I can, determining what constitutes a "major" development by tracking the experts at [A List Apart](http://alistapart.com/) and [CSS Tricks](https://css-tricks.com/), among a few others. I'm currently reading [_Get Ready for CSS Grid Layout_](https://abookapart.com/products/get-ready-for-css-grid-layout) from A Book Apart.
 
 ### Pattern libraries
-I am crazy about pattern libraries (or front-end style guides). I stalk [styleguides.io](http://styleguides.io/). I've read [_Atomic Design_](http://atomicdesign.bradfrost.com/) and [_Front-end Style Guides_](http://www.maban.co.uk/projects/front-end-style-guides/). I've composed writing style guides and worked on brand guidelines, so I suppose its understandable that I have such an affinity for pattern libraries.
+I am crazy about pattern libraries (or front-end style guides). I stalk [styleguides.io](http://styleguides.io/). I've read [_Atomic Design_](http://atomicdesign.bradfrost.com/) and [_Front-end Style Guides_](http://www.maban.co.uk/projects/front-end-style-guides/). I've composed writing style guides and worked on brand guidelines, so I suppose it’s understandable that I have such an affinity for pattern libraries.
 
 ### JavaScript
 JavaScript is definitely the front-end language I work with the least. I've written presentational JavaScript and jQuery here and there, and I've written some [Leaflet](http://leafletjs.com/) maps, but I just don't work with JavaScript that often. 
