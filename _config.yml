@@ -21,6 +21,3 @@ paginate_path: "/pages/page:num/"
 # Minification
 sass:
   style: compressed
-  
-
-  

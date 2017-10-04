@@ -17,7 +17,7 @@ Supporters of this new corrosive paradigm are more than willing to ignore the hy
 He antagonizes the media and emboldens the uneducated in the name of (faux) populism that's set on destroying democratic institutions while enriching the very "swamp" he professed to "drain".
 
 ![Gary Cohn from Goldman Sachs with Donald Trump](http://i2.cdn.turner.com/money/dam/assets/170206090522-trump-gary-cohn-dodd-frank-780x439.jpg)
-<p style="font-size: .6em; text-align: center;">Gary Cohn from Goldman Sachs right behind Trump while he begins to dismantle Wall Street regulation. But Hillary's speeches!.</p>
+<p style="font-size: .6em; text-align: center;">Gary Cohn from Goldman Sachs right behind Trump while he begins to dismantle Wall Street regulation. But Hillary's speeches!</p>
 
 I suppose these "interpretations" of Trump's actions are just "fake news," right? 
 
