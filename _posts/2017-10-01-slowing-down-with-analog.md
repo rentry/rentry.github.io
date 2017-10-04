@@ -16,7 +16,7 @@ Recently while cleaning my home office, I discovered some negatives that I forgo
 
 And then there’s the artifact. It’s difficult to imagine digital files being passed down generation after generation as film has been. Take this photo of my grandfather:
 
-![My grandfather piloting a boat](../assets/images/slide_grandpa.jpg)
+![My grandfather piloting a boat](../assets/images/grandpa.jpg)
 
 This photograph was taken over 50 years ago, and I have the physical slide stored in my home office, along with other family slides from both my parents’ collections. I can’t imagine not having these slides. I would never trust a hard drive to store these.  
 
