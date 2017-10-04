@@ -28,7 +28,7 @@ By shooting film, I know my photographs will be around long after their digital 
 I mostly shoot 35mm, so that’s what I’ll cover here. I’ve had Nikon gear for years (as conveyed below), but I’ve also shot Canon from time to time. I’m not religious about my choice of gear, but there is something to be said for the familiarity of decades of reliable use.
 
 ### Nikon F3HP
-Years ago, my father bought a Nikon F3HP to take on a fishing trip to Alaska. He purchased the camera from a family friend, a professional photographer in our hometown. My dad isn’t particularly interested in photography, so he gave the camera to me when he got back from his trip. That was in 1998, and I’ve had it ever since.
+Years ago, my father bought a Nikon F3HP to take on a fishing trip to Alaska. He purchased the camera from a family friend, a professional photographer in our hometown. My dad isn’t particularly interested in photography, so he gave me the camera when he got back from his trip. That was in 1998, and I’ve had it ever since.
 
 ![Nikon F3HP camera](../assets/images/nikonf3hp.jpg)
 
