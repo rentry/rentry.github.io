@@ -38,7 +38,7 @@ The attention to detail in this camera is special. For example, the F3’s const
 
 I won’t go into the technical details of this camera, as  reviews are abundant, but you can’t go wrong with it. You can [pick one up for around $300](http://www.ebay.com/bhp/nikon-f3), and I recommend you do, especially if you’re about to drop $1000 or more on a new digital camera. You’ll also benefit from a plethora of used, inexpensive lenses that can easily be found online, at second-hand stores, and a few remaining camera shops.
 
-For those who wear glasses, like me, the HP (“high eyepoint”) viewfinder allows for faster and more comprehensive framing, as your eye can be positioned slightly further away. And you can remove the prism and compose your shot from above, delivering a better ergonomic position for shooting low to the ground.
+For those who wear glasses, like me, the HP (“high eyepoint”) viewfinder allows for faster and more comprehensive framing, as your eye can be positioned slightly farther away. And you can remove the prism and compose your shot from above, delivering a better ergonomic position for shooting low to the ground.
 
 ### Nikon FE
 I have a 20-year history shooting the F3, but I have a  confession: the FE is _my camera_. I love this little machine.
