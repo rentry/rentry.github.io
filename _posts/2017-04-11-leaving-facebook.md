@@ -64,4 +64,3 @@ This is not to suggest that Trump is the first to take advantage of pervasive da
 But the collusion between ultra-capitalist, big-data firms and the government has never been so overtly strong, and our acceptance of the very tools that lend themselves to this surveillance state appears to be increasing.
 
 We must start asking ourselves if it’s worth it.
-

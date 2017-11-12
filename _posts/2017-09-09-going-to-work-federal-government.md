@@ -10,7 +10,7 @@ comments: true
 
 In April 2016, I applied to join the federal digital-services-delivery office [18F](https://18f.gsa.gov/) as a content designer. If you’re not familiar with 18F, it was formed to [change the way the federal government approaches and delivers digital services](https://www.washingtonpost.com/business/on-it/meet-18f-the-gsas-bid-to-change-federal-it/2014/04/18/a9b58db8-c4d3-11e3-b195-dd0c1174052c_story.html) (and the [procurement process](https://modularcontracting.18f.gov/) for said services).
 
-Shortly after I applied, 18F entered into a hiring freeze. I didn’t really think much about my application after that. And, to be completely honest, my enthusiasm at the prospect of working for the federal government dissolved following the presidential election (if you’ve read other posts on this blog, this will come as no surprise).
+Shortly after I applied, 18F entered into a hiring freeze. I didn’t really think much about my application after that. And, to be completely honest, my enthusiasm at the prospect of working for the federal government dissolved following the presidential election.
 
 In June of this year, I heard back from 18F. They were hiring for a content strategy role in the Department of Interior. The position would be with DOI – not with 18F – but 18F initiated the project this new team would adopt and expand and thus recommended candidates to DOI.
 
