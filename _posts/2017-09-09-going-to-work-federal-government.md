@@ -2,7 +2,7 @@
 layout: post
 title: "Why I’m going to work for the federal government"
 date: 2017-09-08 08:33:00
-description: "I’m leaving my job in county government to join the Department of Interior"
+description: "I’m leaving my job in county government to join the Department of the Interior"
 categories: web
 tags:  [content strategy, 18F, web, government]
 comments: true
@@ -12,7 +12,7 @@ In April 2016, I applied to join the federal digital-services-delivery office [1
 
 Shortly after I applied, 18F entered into a hiring freeze. I didn’t really think much about my application after that. And, to be completely honest, my enthusiasm at the prospect of working for the federal government dissolved following the presidential election.
 
-In June of this year, I heard back from 18F. They were hiring for a content strategy role in the Department of Interior. The position would be with DOI – not with 18F – but 18F initiated the project this new team would adopt and expand and thus recommended candidates to DOI.
+In June of this year, I heard back from 18F. They were hiring for a content strategy role in the Department of the Interior. The position would be with DOI – not with 18F – but 18F initiated the project this new team would adopt and expand and thus recommended candidates to DOI.
 
 ## Reconciling the obvious
 
@@ -61,7 +61,7 @@ It isn’t for everyone, and it’s not for every stage of one’s career, but i
 
 It may not be the best time to go work for the federal government overall, but there’s great work being done in government tech right now, and there are excellent people working on it.
 
-I’m not sure what to expect when I join the Department of Interior next month, but I’m excited to carry on the work of [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) and civil servants who have been improving the federal government’s ability to deliver effective, useful, and innovative digital services. I don’t know if I can live up to the precedent set by those who worked on the project before me, but I will give it my all.
+I’m not sure what to expect when I join the Department of the Interior next month, but I’m excited to carry on the work of [Presidential Innovation Fellows](https://presidentialinnovationfellows.gov/) and civil servants who have been improving the federal government’s ability to deliver effective, useful, and innovative digital services. I don’t know if I can live up to the precedent set by those who worked on the project before me, but I will give it my all.
 
 I know a lot of people – some of whom I am related to – who are skeptical of government services and believe the public sector is hindered by inefficiency. That may be true, to some extent, but – having worked in government for years – I know that many of the ‘inefficiencies’ inherent in the public sector are rooted in a devotion to democratic principles and making sure government solutions are transparent and work for everyone. 
 
