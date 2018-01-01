@@ -26,7 +26,7 @@ For all the advantages of static sites, I still wondered why such a data-heavy f
 1. Most of the data is pulled and deployed as flat `.csv` files (some data is deployed via an API)
 2. The site is hosted on [Federalist](https://federalist.18f.gov/), a static site hosting service started by 18F
 
-Of course, the site is also more secure, portable, and faster than a database-driven site, but it does require a technically proficient content team compared to a traditional CMS.
+Of course, the site is also more secure, portable, and faster than a database-driven site, but it does require a technically proficient content team.
 
 ## Content that writes itself
 
