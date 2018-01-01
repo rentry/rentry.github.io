@@ -34,7 +34,7 @@ The site I work on contains extractive data for all 50 states and federally owne
 
 To reduce the maintenance burden, 18F designed the content to _update itself_ at build time, using [Liquid’s templating logic](https://shopify.github.io/liquid/) within Jekyll.
 
-For example, if a particular state’s extractive sector contributes to the state’s GDP, Liquid will print pull the data and print the result.
+For example, if a particular state’s extractive sector contributes to the state’s GDP, Liquid will pull the data and print the result.
 
 ```liquid
 {% raw %} {% if gdp_dollars > 0 %}
@@ -43,7 +43,7 @@ For example, if a particular state’s extractive sector contributes to the stat
   of gross domestic product</a> (GDP) in {{ include.year }}
 ```
 
-And if extractive sector employment comprised over 2% of the state’s total employment, Liquid will evaluate and print the related content.
+And if extractive sector employment comprises over 2% of the state’s total employment, Liquid will evaluate and print the related content.
 
 ```liquid
   {% if jobs_percent > 2 %}, and jobs in the extractive industries made up <a href="#employment">{{ jobs_percent | percent }}% 
@@ -55,7 +55,7 @@ And if extractive sector employment comprised over 2% of the state’s total emp
 {% endif %}{% endraw %}
 ```
 
-Similar logic is used for state commodity production. The following will evaluate commodity production and print content indicating if the state leads the country in the production of a specific commodity.
+Similar logic is used for state commodity production. The following will evaluate the state’s commodity production and print the related content if the state leads the country in the production of a specific commodity.
 
 ```liquid {% raw %} 
 {% if include.top %}
@@ -79,7 +79,7 @@ You can review the full code on [GitHub](https://github.com/18F/doi-extractives-
 
 ## Your content writes itself, but your work isn’t done
 
-So you have content that writes itself, but your work isn’t done. For example, the GDP data referred to above is pulled into the site via an API (which itself needs to be maintained), so if the data isn’t updated properly or the source API is corrupted, the content may actually be misleading or false. It’s important to review the content regularly for accuracy and fidelity to the source data.
+	So you have content that writes itself, but if you’re updating the data that drives the content, you need to remain vigilant as an editor. For example, the GDP data referred to above is pulled into the site via an API (which itself needs to be maintained), so if the data isn’t updated properly or the source API is corrupted, the content may actually be misleading or outright false. It’s important to review the content regularly for accuracy and fidelity to the source data.
 
 ## It’s build time!
 
