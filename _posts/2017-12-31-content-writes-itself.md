@@ -34,13 +34,18 @@ The site I work on contains extractive data for all 50 states and federally owne
 
 To reduce the maintenance burden, 18F designed the content to _update itself_ at build time, using [Liquid’s templating logic](https://shopify.github.io/liquid/) within Jekyll.
 
-For example, if a particular state’s extractive sector accounts for more than 2% of the state’s GDP, Jekyll will pull the relevant data and print the result.
+For example, if a particular state’s extractive sector contributes to the state’s GDP, Liquid will print pull the data and print the result.
+
 ```liquid
 {% raw %} {% if gdp_dollars > 0 %}
   In {{ state_name }}, extractive industries accounted for
   <a href="#gdp">{{ gdp[include.year].percent | percent }}%
   of gross domestic product</a> (GDP) in {{ include.year }}
-  
+```
+
+And if extractive sector employment comprised over 2% of the state’s total employment, Liquid will evaluate and print the related content.
+
+```liquid
   {% if jobs_percent > 2 %}, and jobs in the extractive industries made up <a href="#employment">{{ jobs_percent | percent }}% 
   of statewide employment</a>{% endif %}.
   
@@ -49,7 +54,9 @@ For example, if a particular state’s extractive sector accounts for more than 
   {{ include.location_name }} in {{ include.year }}.
 {% endif %}{% endraw %}
 ```
+
 Similar logic is used for state commodity production. The following will evaluate commodity production and print content indicating if the state leads the country in the production of a specific commodity.
+
 ```liquid {% raw %} 
 {% if include.top %}
 {% assign top_all_products = site.data.top_state_products[include.location_id].all_production[include.year] | where: 'rank', 1 %}
@@ -67,11 +74,16 @@ Similar logic is used for state commodity production. The following will evaluat
   {% endif %}
 {% endif %}{% endraw %}
 ```
+
 You can review the full code on [GitHub](https://github.com/18F/doi-extractives-data/).
+
+## Your content writes itself, but your work isn’t done
+
+So you have content that writes itself, but your work isn’t done. For example, the GDP data referred to above is pulled into the site via an API (which itself needs to be maintained), so if the data isn’t updated properly or the source API is corrupted, the content may actually be misleading or false. It’s important to review the content regularly for accuracy and fidelity to the source data.
 
 ## It’s build time!
 
-Static site generators are advantageous in part because the logic is evaluated at _build time_. That means the performance burden isn’t on the client; it’s on the build _prior_ to deployment. Consequently, the site is much faster than if the logic was performed at browser request.
+Static site generators are advantageous in part because the logic is evaluated at _build time_. That means the performance burden isn’t on the client request; it’s on the build _prior_ to deployment. Consequently, the site is much faster than if the logic was performed at browser request.
 
 ## Digging into the stack
 
