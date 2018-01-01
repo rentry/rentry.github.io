@@ -12,12 +12,12 @@ As 2017 comes to an end, I’m thankful to be working with talented, civic-minde
 
 I was brought in by the [Office of Natural Resources Revenue](https://www.onrr.gov/) to help [transition an 18F project into the department](/going-to-work-federal-government/). As a result, I’ve been able to work directly with the folks at 18F to to modernize our process, while inheriting [a site elegantly designed to present public-lands data](https://revenuedata.doi.gov/).
 
-![Natural Resources Revenue Data website](../assets/images/nrrd.png)
+[![Natural Resources Revenue Data website](../assets/images/nrrd.png)](https://revenuedata.doi.gov/)
 <p style="font-size: .6em; text-align: center;"><a href="https://revenuedata.doi.gov/">Natural Resources Revenue Data</a></p>
 
 ## Static is the new dynamic
 
-Static sites have been gaining momentum for several years now. I first read about the advantages of static sites on [Dave Cole’s 2012 blog post](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). There’s even a site dedicated to the idea that “[static is the new dynamic](https://www.thenewdynamic.org/).”
+Static site generators have been gaining momentum for several years now. I first read about the advantages of static sites on [Dave Cole’s 2012 blog post](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). There’s even a site dedicated to the idea that “[static is the new dynamic](https://www.thenewdynamic.org/).”
 
 I love working with static site generators; [I created this blog with Jekyll last year](/this-blog/) to ditch the database and host _for free_ on [GitHub Pages](https://pages.github.com/), proving Jekyll is [no longer just for hackers](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html), but a flexible and viable solution for content creators to simplify their tech stack, ship content quickly, and save money. 
 
