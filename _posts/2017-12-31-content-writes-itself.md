@@ -79,7 +79,7 @@ You can review the full code on [GitHub](https://github.com/18F/doi-extractives-
 
 ## Your content writes itself, but your work isn’t done
 
-	So you have content that writes itself, but if you’re updating the data that drives the content, you need to remain vigilant as an editor. For example, the GDP data referred to above is pulled into the site via an API (which itself needs to be maintained), so if the data isn’t updated properly or the source API is corrupted, the content may actually be misleading or outright false. It’s important to review the content regularly for accuracy and fidelity to the source data.
+So you have content that writes itself, but if you’re updating the data that drives the content, you need to remain vigilant as an editor. For example, the GDP data referred to above is pulled into the site via an API (which itself needs to be maintained), so if the data isn’t updated properly or the source API is corrupted, the content may actually be misleading or outright false. It’s important to review the content regularly for accuracy and fidelity to the source data.
 
 ## It’s build time!
 
