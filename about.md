@@ -2,7 +2,7 @@
 layout: about
 title:  "About Ryan"
 ---
-## Words, data, and maps
+## Words and maps
 
 I am a content strategist living in Portland, Oregon.  
 
