@@ -16,7 +16,7 @@ highlighter: rouge
 # Pagination
 plugins: [jekyll-paginate]
 paginate: 5
-paginate_path: "/pages/page:num/"
+paginate_path: "/blog/page:num/"
 
 # Minification
 sass:
