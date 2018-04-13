@@ -1,16 +1,15 @@
 ---
-layout: index
-paginate_path: "/blog/page:num/"
+layout: default
 ---
 
 <div class="home">
 
   <ul id="post-list">
       
-   {% for post in site.posts %} 
+   {% for post in paginator.posts %} 
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}">
-        <aside class="dates">{{ post.date | date: "%b %-d" }}</aside>
+        <aside class="dates">{{ post.date | date: "%b %-d, %Y" }}</aside>
         </a>
         <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title }} </h2><h3>{{ post.description }}</h3></a>
         <!-- <p>
