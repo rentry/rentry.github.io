@@ -6,10 +6,10 @@ title:  "Ryan Johnson"
 
 I’m a content strategist living in Portland, Oregon.  
 
-I specialize in public-sector content strategy, editorial standards, and accessibility. Lately, I've been working on information architecture, data-driven content design, and data visualization.
+Most of the time, I work with words and maps on the web. Lately, I’ve been working on [data-driven content design](/content-writes-itself/#content-that-writes-itself), information architecture, and data visualization. 
 
-I am also a map geek, which inspired me to earn a graduate certificate in Geographic Information Science. As a result, I have experience in remote sensing, cartographic representation, and spatial analysis.
+You’ll often find me behind a camera, usually [an analog one](/slowing-down-with-analog/).
 
-Apart from these pursuits, I spend as much time as possible in the woods and around the campfire with my wife and two dogs.
+Apart from these pursuits, I spend as much time as possible in the woods and around the campfire with my partner and our two dogs.
 
 Sometimes, [I express opinions in writing](/posts).
