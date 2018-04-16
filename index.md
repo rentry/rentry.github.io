@@ -6,7 +6,7 @@ title:  "Ryan Johnson"
 
 I’m a content strategist living in Portland, Oregon.  
 
-I work in the public sector, improving digital service delivery, transparency, and accessibility. Lately, I’ve been working on [data-driven content design](/content-writes-itself/#content-that-writes-itself), information architecture, cartography, and data visualization.
+Lately, I’ve been working on [data-driven content design](/content-writes-itself/#content-that-writes-itself), information architecture, cartography, and data visualization.
 
 You’ll often find me behind a camera, usually [an analog one](/slowing-down-with-analog/).
 
