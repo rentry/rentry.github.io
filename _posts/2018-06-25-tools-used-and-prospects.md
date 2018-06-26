@@ -24,7 +24,7 @@ A mac user for years (since the ‘90s), I still prefer the flexibility of cross
 
 ### My eyes are wandering to
 - [Affinity](https://affinity.serif.com/en-us/)
-
+<hr>
 ## Writing
 I get chills just thinking about writing apps. Chills can be good or bad — I get both versions.
 
@@ -35,7 +35,7 @@ I’m a devoted [iA Writer](https://ia.net/writer) user, and frankly, I don’t 
 
 ### My eyes are wandering to
 - iA Writer
-
+<hr>
 ## Text editors
 I’ve been using [Brackets](http://brackets.io/) for years, and it’s a dependable, extendable, customizable editor that has the added benefits of being open source, free, and a testing ground for Adobe’s Dreamweaver app. It’s also a bit bland, and it doesn’t have the tailored, GiHub-based workflow features of, say, [Atom](https://atom.io/) (It probably helps that Atom is developed and supported by the GitHub team). I particularly like that Atom color-codes changed files in a branch to indicate your `diff`. You an easily review the files you’ve changed or added, without the extra step of running `git status` on the command line. Plus, Atom is extensible, open source, and beautifully designed.
 
@@ -44,7 +44,7 @@ I’ve been using [Brackets](http://brackets.io/) for years, and it’s a depend
 
 ### My eyes are wandering to
 - Atom
-
+<hr>
 ## Notes
 My experience with notes apps is limited: I’ve used Apple’s Notes and Evernote. Critical they are to modern life, I’m not very discerning about notes apps. I just want my notes to be with me everywhere, to be searchable, and I want to be able to write in various formats. Basically, I want my notes app to be reliable and get out of the way.
 
@@ -55,7 +55,7 @@ Although it’s not cross-platform, Apple’s Notes app is my default, and I can
 
 ### My eyes are wandering to
 - Meh
-
+<hr>
 ## Static site generators
 
 I’ve been a [Jekyll](https://jekyllrb.com/) fan for years; [it’s what I chose for this blog](/this-blog/) and the [site generator I’m using at work](/content-writes-itself/). 
@@ -69,7 +69,7 @@ I’ll probably continue to maintain this blog in Jekyll, at least for now, beca
 
 ### My eyes are wandering to
 - [Gatsby](https://www.gatsbyjs.org/)
-
+<hr>
 ## Programming languages
 To be honest, I don’t write much code. I write _a lot_ of markup, but not much code. 
 
@@ -84,7 +84,7 @@ So many tools and libraries are built on JavaScript now, one has to bend over ba
 
 ### My eyes are wandering to
 - JavaScript
-
+<hr>
 ## Video editing
 This one’s tough: I don’t edit video often, but I do need it every so often; consequently, I lean heavily on conventions of software I’ve used before, namely Final Cut Pro and Adobe Premiere. I’m accustomed to Premiere these days, and an affordable alternative is going to be difficult to find, should I abandon the Adobe business model. Your suggestions are welcome [@forestglenroad](https://twitter.com/forestglenroad).
 
