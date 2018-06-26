@@ -73,7 +73,7 @@ I’ll probably continue to maintain this blog in Jekyll, at least for now, beca
 ## Programming languages
 To be honest, I don’t write much code. I write _a lot_ of markup, but not much code. 
 
-Every now and then, I encounter a situation that requires some scripting. I usually turn to Python for GIS, web scraping, and data analysis. I find Python delightfully clean and opinionated, and I turn to it when I “need” a script. 
+Every now and then, I encounter a situation that requires some scripting. I usually turn to Python for GIS, web scraping, and data analysis. I find Python comforting, clean, and opinionated, and I turn to it when I “need” a script. 
 
 No one can deny JavaScript’s emergence, though. It’s ubiquitous now, largely as a result of its age, node.js, and npm, and it continues to [assert its dominance in front-end development](https://medium.freecodecamp.org/yes-react-is-taking-over-front-end-development-the-question-is-why-40837af8ab76) as a result.
 
