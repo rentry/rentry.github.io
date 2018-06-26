@@ -17,7 +17,7 @@ I’ve used Photoshop since 1998, but Adobe products have become increasingly bl
 
 I work in Illustrator (or Sketch) a few times a month, but vector isn’t my primary domain. Still, a good vector tool is an absolute necessity for me, and it’s another realm in which I’m locked into a subscription model with bloated software (Illustrator) or haven’t moved to the subscription model and thus have a deprecated version (Sketch).
 
-A mac user for years (since the 90s), I still prefer the flexibility of cross-platform software, largely to traverse the work/home dichotomy. That means Sketch has continued to plummet in my list of preferential tools.
+A mac user for years (since the ‘90s), I still prefer the flexibility of cross-platform software, largely to traverse the work/home dichotomy. That means Sketch has continued to plummet in my list of preferential tools.
 
 ### My crutch
 - [Photoshop, Lightroom, Illustrator](https://www.adobe.com/creativecloud.html), [Sketch](https://www.sketchapp.com/)
