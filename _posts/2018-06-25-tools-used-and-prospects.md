@@ -8,7 +8,7 @@ tags:  [web, tools, writing, photography]
 comments: true
 ---
 
-We have a (minor) dilemma: our tools are expanding rapidly, and it’s difficult to keep up. I’m thrilled about it; I’m always excited to find and explore new tools (though I try to limit the number of hardware devices I have, although I have a [weak spot for cameras](/slowing-down-with-analog/).
+We have a (minor) dilemma: our tools are expanding rapidly, and it’s difficult to keep up. I’m thrilled about it; I’m always excited to find and explore new tools (though I try to limit the number of hardware devices I have, although I have a [weak spot for cameras](/slowing-down-with-analog/)).
 
 I’ve become lazy about my software choices, leaning hard on the defaults: Photoshop, Lightroom, iA Writer, Brackets, Slack. I’m thinking about mixing it up.
 
@@ -37,7 +37,7 @@ I’m a devoted [iA Writer](https://ia.net/writer) user, and frankly, I don’t 
 - iA Writer
 
 ## Text editors
-I’ve been using [Brackets](http://brackets.io/) for years, and it’s a dependable, extendable, customizable editor that has the added benefits of being open source, free, and a testing ground for Adobe’s Dreamweaver app. It’s also a bit bland, and it doesn’t have the tailored, GiHub-based workflow features of, say, [Atom](https://atom.io/) (It probably helps that Atoms is developed and supported by the GitHub team). I particularly like that Atom color-codes changed files in a branch to indicate your `diff`. You an easily review the files you’ve changed or added, without the extra step of running `git status` on the command line.
+I’ve been using [Brackets](http://brackets.io/) for years, and it’s a dependable, extendable, customizable editor that has the added benefits of being open source, free, and a testing ground for Adobe’s Dreamweaver app. It’s also a bit bland, and it doesn’t have the tailored, GiHub-based workflow features of, say, [Atom](https://atom.io/) (It probably helps that Atoms is developed and supported by the GitHub team). I particularly like that Atom color-codes changed files in a branch to indicate your `diff`. You an easily review the files you’ve changed or added, without the extra step of running `git status` on the command line. Plus, Atom is extensible, open source, and beautifully designed.
 
 ### My crutch
 - Brackets
