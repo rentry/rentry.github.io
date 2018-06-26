@@ -45,13 +45,24 @@ I’ve been using [Brackets](http://brackets.io/) for years, and it’s a depend
 ### My eyes are wandering to
 - Atom
 
+## Notes
+My experience with notes apps is limited: I’ve used Apple’s Notes and Evernote. Critical they are to modern life, I’m not very discerning about notes apps. I just want my notes to be with me everywhere, to be searchable, and I want to be able to write in various formats. Basically, I want my notes app to be reliable and get out of the way.
+
+Although it’s not cross-platform, Apple’s Notes app is my default, and I can’t imagine needing more (although I’d be pleasantly surprised to find a unicorn notes app).
+
+### My crutch
+- Apple’s Notes
+
+### My eyes are wandering to
+- Meh
+
 ## Static site generators
 
-I’ve been a [Jekyll](https://jekyllrb.com/) fan for years; [it’s what I chose for this blog](/this-blog/) and what the [environment I’m using at work](/content-writes-itself/). 
+I’ve been a [Jekyll](https://jekyllrb.com/) fan for years; [it’s what I chose for this blog](/this-blog/) and the [site generator I’m using at work](/content-writes-itself/). 
 
-Jekyll presents some obstacles, though. I’m not skilled in Ruby (the programming language Jekyll is built on), and it takes a some wrangling to make Jekyll cross-platform. Furthermore, it requires some awkward hand-offs to translate `_data` files and other conventions into a format that can be ingested by emerging (read JavaScript) libraries, such as [D3](https://d3js.org/).
+Jekyll presents some obstacles, though. I’m not skilled in Ruby (the programming language Jekyll is built on), and it takes a some wrangling to make Jekyll cross-platform. Furthermore, it requires some awkward hand-offs to translate `_data` files and other data structures into a format that can be ingested by emerging (read JavaScript) libraries, such as [D3](https://d3js.org/).
 
-I’ll probably maintain this blog in Jekyll, at least for now, because I’m hosting via [GitHub Pages](https://pages.github.com/). But my eyes are wandering.
+I’ll probably continue to maintain this blog in Jekyll, at least for now, because I’m hosting via [GitHub Pages](https://pages.github.com/). But my eyes are wandering.
 
 ### My crutch
 - Jekyll
@@ -71,7 +82,7 @@ So many tools and libraries are built on JavaScript now, one has to bend over ba
 ### My crutch
 - Python
 
-### My eyes are (forcibly) wandering to
+### My eyes are wandering to
 - JavaScript
 
 ## Video editing
