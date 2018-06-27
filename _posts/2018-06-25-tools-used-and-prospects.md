@@ -28,7 +28,7 @@ A mac user for years (since the ‘90s), I still prefer the flexibility of cross
 ## Writing
 I get chills just thinking about writing apps. Chills can be good or bad — I get both versions.
 
-I’m a devoted [iA Writer](https://ia.net/writer) user, and frankly, I don’t see that changing anytime soon. It’s clean, exports to all the formats I need, and [is (now) cross-platform](https://medium.com/@huntie/ia-writer-for-windows-first-impressions-289a7cdd58e6). I look forward to writing in iA Writer, sometimes opening the app to find inspiration even when I’m blocked because I _want_ to write in it. It’s lovely, and I haven’t found a competitor close to matching it. It’s the subtleties and shortcuts, such as `ctrl-k` on selected text that  applies the markdown to create a link from your last copied URL. It’s wonderful.
+I’m a devoted [iA Writer](https://ia.net/writer) user, and frankly, I don’t see that changing anytime soon. It’s clean, exports to all the formats I need, and [is (now) cross-platform](https://medium.com/@huntie/ia-writer-for-windows-first-impressions-289a7cdd58e6). I look forward to writing in iA Writer, sometimes opening the app to find inspiration even when I’m blocked because I _want_ to write in it. It’s lovely, and I haven’t found a competitor close to matching it. It’s the subtleties and shortcuts, such as `cmd-k` (or `ctrl-k`) on selected text, which applies the markdown to create a link from your last copied URL. It’s wonderful.
 
 ### My crutch
 - iA Writer
