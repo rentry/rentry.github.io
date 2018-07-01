@@ -8,7 +8,7 @@ tags:  [film]
 comments: true
 ---
 
-I first saw _Andrei Rublev_ nearly 20 years ago when I was in college, studying philosophy and reading [Deleuze’s revelatory, chronomaniacal books on cinema](/tarkovsky-stalker/#time). 
+I first watched _Andrei Rublev_ nearly 20 years ago when I was in college, studying philosophy and reading [Deleuze’s revelatory, chronomaniacal books on cinema](/tarkovsky-stalker/#time). 
 
 ![Andrei Rublev movie cover art for Criterion Collection](https://s3.amazonaws.com/criterion-production/films/56f99b1a0e803b12d34b73a6b5127cd8/kg8eD35EfxEhGgZjgrSNlFwaZsYrM8_large.jpg)
 
