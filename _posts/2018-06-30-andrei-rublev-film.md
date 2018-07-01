@@ -2,7 +2,7 @@
 layout: post
 title: "Tarkovsky’s <em>Andrei Rublev</em>"
 date: 2018-06-30 22:33:00
-description: "I’ve seen this film dozens of times, and once on the big screen at the Portland Film Festival. It remains the greatest film I’ve ever seen, and it’s about to be re-released."
+description: "I’ve seen this film several times, including once on the big screen at the Portland Film Festival. It remains the greatest film I’ve ever seen, and it’s about to be re-released."
 categories: film
 tags:  [film]
 comments: true
