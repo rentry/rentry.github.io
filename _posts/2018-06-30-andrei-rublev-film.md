@@ -17,7 +17,7 @@ A restored version of _Andrei Rublev_, like Tarkovsky’s [_Stalker_](/tarkovsky
 <iframe src="https://player.vimeo.com/video/274160443" width="100%" height="337" frameborder="0" allowfullscreen></iframe>
 <br>
 
-_Andrei Rublev_ is a masterpiece that deserves to be experienced by a new audience. But you don’t have to take my word for it.
+_Andrei Rublev_ is a masterpiece that deserves to be experienced by a new audience. But you don’t have to take my word for it:
 
 [**Ingmar Bergman**](https://en.wikipedia.org/wiki/Andrei_Tarkovsky#cite_note-ReferenceA-3): 
 > Tarkovsky for me is the greatest (director), the one who invented a new language, true to the nature of film, as it captures life as a reflection, life as a dream.
