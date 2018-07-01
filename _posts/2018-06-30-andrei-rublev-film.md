@@ -46,7 +46,7 @@ _A triumph of Russian craft_](whttps://www.theguardian.com/artanddesign/2004/jul
 
 > Tarkovsky is my hero, and the hero of Russian cinema — a man who found a way to make transcendent, transgressive films that went beyond his political circumstances and captured something far more primordial and enigmatic about the world itself. For this and many other reasons, he’s considered to be one of the great directors in cinema history, which is no small feat for a Soviet artist.
 
-Apparently [Richard Linklater is a fan as well](https://www.pbs.org/newshour/arts/richard-linklater-five-classic-films-watch-now). Here’s his [Criterion Collection Top Ten](https://www.criterion.com/current/top-10-lists/42-richard-linklater-s-top-10), with _Rublev_ at the top of the list.
+Apparently, [Richard Linklater is a fan as well](https://www.pbs.org/newshour/arts/richard-linklater-five-classic-films-watch-now). Here’s his [Criterion Collection Top Ten](https://www.criterion.com/current/top-10-lists/42-richard-linklater-s-top-10), with _Rublev_ at the top of the list.
 
 
 Do yourself a favor and watch _Andrei Rublev_. But [you might want to get extra popcorn](https://www.google.com/search?safe=active&client=firefox-b-1-ab&ei=cH04W8X7G5yv0PEPtoK1oAI&q=andrei+rublev+runtime&oq=andrei+rublev+runtime&gs_l=psy-ab.3..0.83068.87576.0.87743.21.21.0.0.0.0.79.1255.20.20.0....0...1.1.64.psy-ab..1.20.1250...35i39k1j0i67k1j0i131k1j0i20i264k1j0i20i263i264k1j0i20i263k1j0i22i30k1.0.b4A38v0WoE4).
