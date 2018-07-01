@@ -31,7 +31,7 @@ The film that changed my life](https://www.theguardian.com/film/2011/apr/24/film
 > My understanding of the film now is possibly no greater than it was aged 13 but I remember being completely sucked into the story, following it as if it were an amazing fairy tale. Maybe that's not surprising because Tarkovsky himself said: "We worked at drowning our idea in the atmosphere, in the characters."
 
 [**_The Guardian_ (Jonathan Jones)**   
-_A triumph of Russian craft_](whttps://www.theguardian.com/artanddesign/2004/jul/02/art):
+_A triumph of Russian craft_](https://www.theguardian.com/artanddesign/2004/jul/02/art):
 > Andrei Rublev has the spatial qualities of a late medieval fresco, the sense of a world that so absolutely surrounds you, you cannot stand back from it, in a coldly calculating modern way. Instead you have to make your pilgrimage through it, through woods and down rivers, exploring the earth like an insect crawling through a lawn.
 
 [**Annie Baker’s Top 10**](https://www.criterion.com/current/top-10-lists/241-annie-baker-s-top-10):
