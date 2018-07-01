@@ -12,7 +12,7 @@ I first watched _Andrei Rublev_ nearly 20 years ago when I was in college, study
 
 ![Andrei Rublev movie cover art for Criterion Collection](https://s3.amazonaws.com/criterion-production/films/56f99b1a0e803b12d34b73a6b5127cd8/kg8eD35EfxEhGgZjgrSNlFwaZsYrM8_large.jpg)
 
-A restored version of _Andrei Rublev_, like Tarkovsky’s [_Stalker_](/tarkovsky-stalker/) and _The Sacrifice_ before it, is about to be re-released theatrically by [Janus Films](http://www.janusfilms.com/films/1827) and on DVD and Blu-ray by [The Criterion Collection](https://www.criterion.com/films/300-andrei-rublev)
+A restored version of _Andrei Rublev_, like Tarkovsky’s [_Stalker_](/tarkovsky-stalker/) and _The Sacrifice_ before it, is about to be re-released theatrically by [Janus Films](http://www.janusfilms.com/films/1827) and on DVD and Blu-ray by [The Criterion Collection](https://www.criterion.com/films/300-andrei-rublev).
 
 <iframe src="https://player.vimeo.com/video/274160443" width="100%" height="337" frameborder="0" allowfullscreen></iframe>
 <br>
