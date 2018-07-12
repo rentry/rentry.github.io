@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Tarkovsky’s <em>Andrei Rublev</em>"
+title: Tarkovsky’s <em>Andrei Rublev</em>
 date: 2018-06-30 22:33:00
-description: "I’ve seen this film several times, including once on the big screen at the Portland Film Festival. It remains the greatest film I’ve ever seen, and it’s about to be re-released."
+description: This film, unlike many that receive the title, is truly epic. It’s one of the few films I own, and I’ve been lucky enough to see it once on the big screen at the Portland Film Festival. A restored version is about to be released to both theaters and video.
 categories: film
 tags:  [film]
 comments: true
