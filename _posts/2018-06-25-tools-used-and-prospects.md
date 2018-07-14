@@ -37,13 +37,26 @@ I’m a devoted [iA Writer](https://ia.net/writer) user, and frankly, I don’t 
 - iA Writer
 <hr>
 ## Text editors
-I’ve been using [Brackets](http://brackets.io/) for years, and it’s a dependable, extendable, customizable editor that has the added benefits of being open source, free, and a testing ground for Adobe’s Dreamweaver app. It’s also a bit bland, and it doesn’t have the tailored, GiHub-based workflow features of, say, [Atom](https://atom.io/) (It probably helps that Atom is developed and supported by the GitHub team). I particularly like that Atom color-codes changed files in a branch to indicate your `diff`. You an easily review the files you’ve changed or added, without the extra step of running `git status` on the command line. Plus, Atom is extensible, open source, and beautifully designed.
+I’ve been using [Brackets](http://brackets.io/) for years, and it’s a dependable, extendable, customizable editor that has the added benefits of being open source and free. One of my favorite features of Brackets is the ability to go directly to the relevant CSS class _from within_ a HTML document. You can select the class declared in an HTML element and edit the properties as if it was inline, regardless of where the relevant CSS file lives.
+
+But Brackets is also a bit bland, and it doesn’t have the tailored, GiHub-based workflow features of, say, [Atom](https://atom.io/) (It probably helps that Atom is developed and supported by the GitHub team). I particularly like that Atom color-codes changed files in a branch to indicate your `diff`. You an easily review the files you’ve changed or added, without the extra step of running `git status` on the command line. Plus, Atom is extensible, open source, and beautifully designed.
+
+_Added 7/14/18:_
+
+I work on a MacBook Pro for personal projects, but my box for work runs Windows 10. I’ve been using Atom on that machine, but, after hearing exultant praise for [Visual Studio Code](https://code.visualstudio.com/) over the past several months, I decided to give it a try. 
+
+I was not disappointed. 
+
+I haven’t even scratched the surface of the features in Visual Studio Code, but the integrated terminal and the Gitlens plugin have been enough to sell me on it. The integrated terminal alone allows me to move from copy, markup, or code to git in no time, and Gitlens lets me know exactly when a line of copy or code was last updated (and by whom). There are plugins for just about anything, and I’ve started experimenting with spelling and grammar checkers, along with markdown utilities.
+
+I haven’t used it enough to know if it will work for me long-term, but I’ve been impressed with Visual Studio Code so far.
 
 ### My crutch
 - Brackets
 
 ### My eyes are wandering to
 - Atom
+- Visual Studio Code _(added 7/14)_
 <hr>
 ## Notes
 My experience with notes apps is limited: I’ve used Apple’s Notes and Evernote. Critical they are to modern life, I’m not very discerning about notes apps. I just want my notes to be with me everywhere, to be searchable, and I want to be able to write in various formats. Basically, I want my notes app to be reliable and get out of the way.
