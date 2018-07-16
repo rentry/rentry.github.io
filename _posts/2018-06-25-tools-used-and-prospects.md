@@ -43,11 +43,11 @@ But Brackets is also a bit bland, and it doesn’t have the tailored, GiHub-base
 
 _Added 7/14/18:_
 
-I work on a MacBook Pro for personal projects, but my box for work runs Windows 10. I’ve been using Atom on that machine, but, after hearing exultant praise for [Visual Studio Code](https://code.visualstudio.com/) over the past several months, I decided to give it a try. 
+I’ve been using Atom on my work machine (primarily because we didn’t need IT approval to install it – that’s a longer story than we have time for), but, after hearing exultant praise for [Visual Studio Code](https://code.visualstudio.com/) over the past several months, I decided to give it a try. 
 
 I was not disappointed. 
 
-I haven’t even scratched the surface of the features in Visual Studio Code, but the integrated terminal and the Gitlens plugin have been enough to sell me on it. The integrated terminal alone allows me to move from copy, markup, or code to git in no time, and Gitlens lets me know exactly when a line of copy or code was last updated (and by whom). There are plugins for just about anything, and I’ve started experimenting with spelling and grammar checkers, along with markdown utilities.
+I haven’t even scratched the surface of the features in Visual Studio Code, but the integrated terminal and the [GitLens plugin](https://gitlens.amod.io/) have been enough to sell me on it. The integrated terminal alone allows me to move from copy, markup, or code to git in no time, and GitLens lets me know exactly when a line of copy or code was last updated (and by whom). There are plugins for just about anything, and I’ve started experimenting with spelling and grammar checkers, along with markdown utilities.
 
 I haven’t used it enough to know if it will work for me long-term, but I’ve been impressed with Visual Studio Code so far.
 
@@ -73,9 +73,9 @@ Although it’s not cross-platform, Apple’s Notes app is my default, and I can
 
 I’ve been a [Jekyll](https://jekyllrb.com/) fan for years; [it’s what I chose for this blog](/this-blog/) and the [site generator I’m using at work](/content-writes-itself/). 
 
-Jekyll presents some obstacles, though. I’m not skilled in Ruby (the programming language Jekyll is built on), and it takes a some wrangling to make Jekyll cross-platform. Furthermore, it requires some awkward hand-offs to translate `_data` files and other data structures into a format that can be ingested by emerging (read JavaScript) libraries, such as [D3](https://d3js.org/).
+Jekyll presents some obstacles, though. I’m not skilled in Ruby (the programming language Jekyll is built on), and it takes a some wrangling to make Jekyll cross-platform (especially if you’re in a Windows environment with limited local admin rights).
 
-I’ll probably continue to maintain this blog in Jekyll, at least for now, because I’m hosting via [GitHub Pages](https://pages.github.com/). But my eyes are wandering.
+I’ll probably continue to maintain this blog in Jekyll, at least for now, because this site is simple, quickly compiled, and a breeze to host on [GitHub Pages](https://pages.github.com/). But my eyes are wandering.
 
 ### My crutch
 - Jekyll
