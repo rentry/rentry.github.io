@@ -16,6 +16,7 @@ The blend of expectation and surprise, the integration of the auditory and the v
 
 <p style="font-size: .6em; text-align: center;">Charles Joseph Minard’s famous quantitative visualization of the losses suffered by Napoleon's army in the Russian campaign of 1812. <a href="https://www.edwardtufte.com/tufte/posters">Image from edwardtufte.com</a></p>
 
+<br>
 Tufte’s talk revealed his tenacious commitment to truth, transparency, pragmatism, and open-source technologies. He delivered his lecture with a no-bullshit attitude and surprising (to me, at least) humor.
 
 Among designers, Tufte is treasured, but perhaps his profile isn’t quite as high among content strategists. It should be, as his is an approach that elevates content above all other concerns, as he confirmed early in his talk: “Every move should be about the content.” He returned to the primacy of content throughout the lecture.
@@ -73,6 +74,6 @@ Go to Edward Tufte’s course, if you can; it’s certainly worth it (in additio
 ![Edward Tufte books, Beautiful Evidence, Visual Explanations, Envisioning Information, The Visual Display of Quantitative Information](/assets/images/tufte.jpg)
 
 <p style="font-size: .6em; text-align: center;">Tufte’s four books: <em>Envisioning Information, Visual Explanations, The Visual Display of Quantitative Information, Beautiful Evidence.</em></p>
-
+<br>
 [Tufte is on the road between July and December](https://www.edwardtufte.com/tufte/courses), traveling to Denver, Minneapolis, Chicago, Boston, Philadelphia, Brooklyn, San Francisco, and San Jose.
 
