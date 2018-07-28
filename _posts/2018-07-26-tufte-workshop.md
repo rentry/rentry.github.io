@@ -23,7 +23,7 @@ Among designers, Tufte is treasured, but perhaps his profile isn’t quite as hi
 
 Here are some of my favorite ideas and quotes from the talk:
 
-- **“Adjacent in space” is preferable to “stacked in time”**
+- **“Adjacent in space” is preferable to “stacked in time”.**
 <br><br>
 Adjacency in space is a concept Tufte returned to throughout the talk. I can’t do it justice here, but it refers to the integration (co-location) of related data variants and elements (preferably under the audience’s control to explore) versus the presentation of data in a slide deck. In the latter, the audience is presented partial information at any given time, usually at the pace and discretion of a presenter.
 
