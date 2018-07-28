@@ -33,7 +33,7 @@ Basically, people overuse charts. Sometimes text is the best way to visualize in
 <br><br>
 Speaking of...
 
-- **The resolution of typography is _much_ higher that of a visualization.**
+- **The resolution of typography is _much_ higher than that of a visualization.**
 <br><br>
 I was in the back of the room for the course, so the audio wasn’t great, but it sounded like Tufte said the resolution of typography is _50 times_ that of a visualization. I’ll try to confirm that number, but the resolution of typography is certainly high, which is why designing with words is often the best approach for “little data”.
 
