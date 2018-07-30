@@ -10,7 +10,7 @@ comments: true
 
 As 2017 comes to an end, I’m thankful to be working with talented, civic-minded people at the Department of the Interior and 18F. Admittedly, it’s a weird time to have started working in the federal government, but I’ve been encouraged by the commitment to open data and service delivery exemplified by the civil servants at both institutions.
 
-I was brought in by the [Office of Natural Resources Revenue](https://www.onrr.gov/) to help [transition an 18F project into the department](/going-to-work-federal-government/). As a result, I’ve been able to work directly with the folks at 18F to to modernize our process, while inheriting [a site elegantly designed to present public-lands data](https://revenuedata.doi.gov/).
+I was brought in by the [Office of Natural Resources Revenue](https://www.onrr.gov/) to help [transition an 18F project into the department](/going-to-work-federal-government/). As a result, I’ve been able to work directly with the folks at 18F to modernize our process, while inheriting [a site elegantly designed to present public-lands data](https://revenuedata.doi.gov/).
 
 [![Natural Resources Revenue Data website](../assets/images/nrrd.png)](https://revenuedata.doi.gov/)
 <p style="font-size: .6em; text-align: center;"><a href="https://revenuedata.doi.gov/">Natural Resources Revenue Data</a></p>
