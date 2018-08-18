@@ -35,6 +35,11 @@ Nikon made the FM3A from 2001–2006. You read that right: Nikon _started_ makin
 
 The FM3A is compact and delightfully analog (it has an indicator needle, not an LCD). It has a top shutter speed of 4000 (twice that of the F3 and quadruple that of the FE), and it has the most sophisticated metering of any Nikon manual-focus camera in history. Nikon made this camera for professional and enthusiast photographers for whom the [FM series](https://kenrockwell.com/nikon/fefm.htm) was the benchmark. These photographers resisted the increasing reliance on electronics and the expanding size of the F4, F5, and (later) F6 cameras.
 
-The FM3A has been a great backup camera, but it’s likely to become my default camera. It has the dimensions, weight, and features of a go-to camera.
+The FM3A has been a great backup camera, but it’s likely to become my default camera. It has the dimensions and features of a go-to camera.
 
-It’s just about making images, which is so easy these days. These cameras help us make them with meaning, purpose, and longevity.
+## Making images
+It’s absurdly, ostentatiously easy to make images these days. 
+
+These cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process makes the images more meaningful and of higher quality.
+
+Thankfully, we have the best of both worlds.
