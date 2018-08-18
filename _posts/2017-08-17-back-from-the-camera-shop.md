@@ -10,7 +10,7 @@ comments: true
 
 I wrote last year about [how I’ve returned to shooting film](/slowing-down-with-analog/), but since then I’ve added yet another Nikon machine to my cramped camera bag: the [Nikon FM3A](https://imaging.nikon.com/history/chronicle/history-fm3a/).
 
-The FM3A has been my dream SLR for a long time, and I finally tracked one down for a decent price.
+The FM3A has been my dream SLR for a long time, and I finally tracked one down.
 
 ![The Nikon FM3A film camera]({{ site.baseurl }}/assets/images/nikonfm3a.jpg)
 
