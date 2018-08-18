@@ -20,7 +20,7 @@ But before I get into that, I was reminded on a recent trip to Utah why a backup
 
 <p style="font-size: .6em; text-align: center;">Utah canyon photos. iPhone SE on the left and Nikon FE (with a broken aperture control ring, shooting Kodak Ektar 100) on the right</p>
 
-I debilitated my Nikon FE on the second day of my Utah trip, having set it on the rented Mazda’s console shortly before I gunned the vehicle up a precipitous remote dirt rode. It landed violently on the back floor – directly on the lens – breaking its aperture control ring. Miraculously, my favorite 35mm lens was unharmed.
+I debilitated my Nikon FE on the second day of my Utah trip, having set it on the rented Mazda’s console shortly before I gunned the vehicle up a precipitous remote dirt rode. The FE landed violently on the back floor – directly on the lens – breaking its aperture control ring. Miraculously, my favorite 35mm lens was unharmed.
 
 ![The Nikon FE, Nikon F3HP, and Nikon FM3A film cameras]({{ site.baseurl }}/assets/images/nikon-cameras.jpg)
 
