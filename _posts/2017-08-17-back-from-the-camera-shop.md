@@ -28,7 +28,7 @@ Today I retrieved my FE from [Associated Camera Repair](https://associatedcamera
 
 The Nikon FE is refreshingly simple to shoot: lightweight, compact, and it has an indicator needle for through-the-lens light metering, which I prefer to the F3’s numerical LCD readout. It’s so much faster and intuitive to interpret an exposure from a needle tracking a range as opposed to a number, which must be cognitively mapped to other variables in time. 
 
-On the other hand, the F3HP is a professional-level film camera, with a number of advantages over the FE, such as twice the maximum aperture speed, more stylish and ergonomic controls, and more precise and reliable metering.
+On the other hand, the F3HP is a professional-level film camera, with a number of advantages over the FE, such as twice the maximum shutter speed, more stylish and ergonomic controls, and more precise and reliable metering.
 
 ## The perfect manual-focus SLR
 Nikon made the FM3A from 2001–2006. You read that right: Nikon _started_ making this film camera in 2001, after investing in digital SLRs and having just halted production of the F3, which Nikon continued to produce until 2001 despite having released the F4 and F5 in 1988 and 1996, respectively.
@@ -40,6 +40,6 @@ The FM3A has been a great backup camera, but it’s likely to become my default 
 ## Making images
 It’s absurdly, ostentatiously easy to make images these days. 
 
-Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. Perhaps more importantly, the process makes us more appreciative of the result, and imbues perpetual value in the artifact.
+Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. Perhaps more importantly, the process makes us more appreciative of the result, and imbues value in the artifact.
 
 But don’t worry if you need that backup. Thankfully, we have the best of both worlds.
