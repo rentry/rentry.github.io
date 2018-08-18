@@ -33,13 +33,15 @@ On the other hand, the F3HP is a professional-level film camera, with a number o
 ## The perfect manual-focus SLR
 Nikon made the FM3A from 2001–2006. You read that right: Nikon _started_ making this film camera in 2001, after investing in digital SLRs and having just halted production of the F3, which Nikon continued to produce until 2001 despite having released the F4 and F5 in 1988 and 1996, respectively.
 
-The FM3A is compact and delightfully analog (it has an indicator needle, not an LCD). It has a top shutter speed of 4000 (twice that of the F3 and quadruple that of the FE), and it has the most sophisticated metering of any Nikon manual-focus camera in history. Nikon made this camera for professional and enthusiast photographers for whom the [FM series](https://kenrockwell.com/nikon/fefm.htm) was the benchmark. These photographers resisted the increasing reliance on electronics and the expanding size of the F4, F5, and (later) F6 cameras.
+The FM3A is compact and delightfully analog (it has an indicator needle, not an LCD). It has a top shutter speed of 4000 (twice that of the F3 and quadruple that of the FE), and it has the most sophisticated metering of any Nikon manual-focus camera in history. Nikon made this camera for professional and enthusiast photographers for whom the [FM series](https://kenrockwell.com/nikon/fefm.htm) was the benchmark. These photographers resisted the increasing reliance on electronics and the expanding size of the F4, F5, and (later) F6 cameras. The FM3A is truly the best of both worlds: it combines Nikon’s top-shelf features into the cherished body of the Nikon FM and FE series.
 
 The FM3A has been a great backup camera, but it’s likely to become my default camera. It has the dimensions and features of a go-to camera.
 
 ## Making images
 It’s absurdly, ostentatiously easy to make images these days. 
 
-Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. Perhaps more importantly, the process makes us more appreciative of the result, and imbues value in the artifact.
+Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. Perhaps more importantly, the process makes us more appreciative of the result, and imbues value in the artifact. 
 
-But don’t worry if you need that backup. Thankfully, we have the best of both worlds.
+We get to appreciate the place we’re in while making the pictures, because we’re not consistently staring at the back of our camera right after we captured the image. And we get to enjoy the place again when we develop our negatives and prints.
+
+But don’t worry if you need that digital backup. Thankfully, we have the best of both worlds.
