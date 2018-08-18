@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How many is too many? I’ve added the Nikon FM3A to my camera lineup"
+title: "I’ve added the Nikon FM3A to my camera lineup"
 date: 2018-08-17 17:33:00
 description: "My Nikon FE had to take a week off for repair. Luckily, I recently bought yet another film camera."
 categories: photography
