@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I’ve added the Nikon FM3A to my camera lineup"
+title: "Another new old camera"
 date: 2018-08-17 17:33:00
 description: "My Nikon FE had to take a week off for repair. Luckily, I recently bought yet another film camera."
 categories: photography
