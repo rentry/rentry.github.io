@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another new, old camera from Nikon"
+title: "Another new, old film camera"
 date: 2018-08-17 17:33:00
 description: "My Nikon FE had to take a week off for repair. Luckily, I recently bought yet another film camera."
 categories: photography
