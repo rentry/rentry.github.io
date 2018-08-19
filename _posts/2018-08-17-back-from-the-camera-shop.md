@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Another new, old camera"
+title: "Another new, old camera from Nikon"
 date: 2018-08-17 17:33:00
 description: "My Nikon FE had to take a week off for repair. Luckily, I recently bought yet another film camera."
 categories: photography
@@ -33,7 +33,7 @@ On the other hand, the F3HP is a professional-level film camera, with a number o
 ## The perfect manual-focus SLR
 Nikon made the FM3A from 2001–2006. You read that right: Nikon _started_ making this film camera in 2001, after investing in digital SLRs and having just halted production of the F3, which Nikon continued to produce until 2001 despite having released the F4 and F5 in 1988 and 1996, respectively.
 
-The FM3A is compact and delightfully analog (it has an indicator needle, not an LCD). It has a top shutter speed of 4000 (twice that of the F3 and quadruple that of the FE), and it has the most sophisticated metering of any Nikon manual-focus camera in history. Thanks to its hybrid shutter – perhaps the most advanced in the history of SLR cameras – the FM3A is capable of shooting its full range of shutter speeds without the use of a battery.
+The FM3A is compact and delightfully analog (it has an indicator needle, not an LCD). It has a top shutter speed of 1/4000 (twice that of the F3 and quadruple that of the FE), and it has the most sophisticated metering of any Nikon manual-focus camera in history. Thanks to its hybrid shutter – perhaps the most advanced in the history of SLR cameras – the FM3A is capable of shooting its full range of shutter speeds without the use of a battery.
 
 Nikon made the FM3A for professional and enthusiast photographers for whom the [FM series](https://kenrockwell.com/nikon/fefm.htm) was the benchmark. These photographers resisted the increasing reliance on electronics and the expanding size of the F4, F5, and (later) F6 cameras. The FM3A is truly the best of both worlds: it combines Nikon’s top-shelf features into the cherished body of the Nikon FM and FE series.
 
