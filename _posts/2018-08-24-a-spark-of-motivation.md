@@ -19,14 +19,14 @@ comments: true
   stroke: none;
 }
 </style>
-<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/d3.v4.min.js"></script>
 <script>
 var width = 100;
 var height = 25;
-var x = d3.scale.linear().range([0, width - 3]);
-var y = d3.scale.linear().range([height - 4, 0]);
-var line = d3.svg.line()
-             .interpolate("basis")
+var x = d3.scaleLinear().range([0, width - 3]);
+var y = d3.scaleLinear().range([height - 4, 0]);
+var line = d3.line()
+             .curve(d3.curveBasis)
              .x(function(d) { return x(d.year); })
              .y(function(d) { return y(d.amount); });
 
