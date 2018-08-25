@@ -57,7 +57,7 @@ In his book _Beautiful Evidence_, Edward Tufte describes sparklines as "intense,
 The simplicity and utility of sparklines explain why they are representative of Tufte's approach to the presentation of information:
 
 - They have very high resolution.
-- They don't obsure the content, but rather augment and contextualize it.
+- They don't obscure the content, but rather augment and contextualize it.
 
 I've been thinking about how to incorporate these beautiful little "datawords" into [our team's data visualization site](https://revenuedata.doi.gov/). As a content strategist who designs with words every day, the idea that there's something called a _dataword_ is just too enticing. I've been thinking about the possibilities since [Tufte's Portland workshop](/tufte-workshop/).
 
@@ -82,7 +82,7 @@ Alternatively, we can present this data in the form of a sparkline, which shows 
 
 Now, this still isn't perfect; the height, width, and the interpolation (curve) values must be such that variations in the data aren't exaggerated or diminished.
 
-For example, in the sparkine above, the largest value in the data is mapped to a height of `25px`. If I change this value to `17px`, we can see it diminishes the visual impact of the trend compared to the instance above.
+For example, in the sparkline above, the largest value in the data is mapped to a height of `25px`. If I change this value to `17px`, we can see it diminishes the visual impact of the trend compared to the instance above.
 
 ![sparkline with reduced height changes the visual impact of the sparkline](/assets/images/sparkline-height.png)
 
