@@ -1,0 +1,9 @@
+---
+layout: none
+---
+[{% for item in site.data.aml-fund %}
+  {
+    "year": "{{ item.year }}",
+    "amount": "{{ item.amount }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]
