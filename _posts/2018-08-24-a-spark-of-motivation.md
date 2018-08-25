@@ -12,7 +12,7 @@ comments: true
 .sparkline {
   fill: none;
   stroke: #000;
-  stroke-width: 1px;
+  stroke-width: .75px;
 }
 .sparkcircle {
   fill: #3d95bd;
