@@ -23,7 +23,7 @@ comments: true
 <script>
 var width = 100;
 var height = 25;
-var x = d3.scale.linear().range([0, width - 2]);
+var x = d3.scale.linear().range([0, width - 3]);
 var y = d3.scale.linear().range([height - 4, 0]);
 var line = d3.svg.line()
              .interpolate("basis")
@@ -52,7 +52,7 @@ function sparkline(elemId, data) {
      .attr('class', 'sparkcircle')
      .attr('cx', x(data[data.length - 1].year))
      .attr('cy', y(data[data.length - 1].amount))
-     .attr('r', 2);  
+     .attr('r', 2.5);  
 }
 
 d3.csv('/data/aml-fund.csv', function(error, data) {
