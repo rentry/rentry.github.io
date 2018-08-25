@@ -86,3 +86,29 @@ For example, in the sparkine above, the largest value in the data is mapped to a
 
 ![sparkline with reduced height changes the visual impact of the sparkline](/assets/images/sparkline-height.png)
 
+
+## The data
+
+The sparkline is drawn by D3, referencing 30 years of AML fund data in the form of a `.csv` file. Jekyll, which is the static site generator that powers this blog, can read into that data file when placed in the `_data` directory. Since that directory doesn't get shipped to the actual site when deployed (in the form of the `_site` folder), the data needs to be in a place where D3 can also access it after Jekyll has built the site.
+
+Rather than maintain redundant data files in two places in the directory (one for Jekyll, one for D3), I can loop over the `.csv` file in the `_data` directory and save it has a `.json` file in a new `data` directory. This works great, because D3 prefers the data in `json` format anyway.
+
+```liquid
+{% raw %}[{% for item in site.data.aml-fund %}
+  {
+    "year": "{{ item.year }}",
+    "amount": "{{ item.amount }}"
+  }{% if forloop.last == false %},{% endif %}
+{% endfor %}]{% endraw %}
+```
+
+This means we have just one canonical data source (the `csv` file), but we can still convert and surface the data in other formats on site build.
+
+## Sparks my interest
+Sparklines reinforce the idea that the simplest solution is often the most effective one. Compared to the current static chart we have for AML fund data, the sparkline conveys the same message, accurately, in much less space. It's easy to understand the trend. The data in the chart is now trivial to update. And we can reuse the pattern over and over (where it makes sense).
+
+With sparklines, we can take advantage of the resolution of typography, while efficiently situating a single data point in the context of time.
+
+
+
+_Hat tip to [tnoda.com](http://www.tnoda.com/blog/2013-12-19) and [Kin Lane](https://dzone.com/articles/d3js-visualizations-using-yaml-and-jekyll) on D3 sparklines and data management in Jekyll, respectively._
