@@ -8,18 +8,6 @@ tags:  [design, data, content strategy, ideas, writing]
 comments: true
 ---
 
-<style>
-.sparkline {
-  fill: none;
-  stroke: #000;
-  stroke-width: 1px;
-}
-.sparkcircle {
-  fill: #3d95bd;
-  stroke: none;
-}
-</style>
-<script src="//d3js.org/d3.v4.min.js"></script>
 <script>
 var width = 100;
 var height = 25;
@@ -55,7 +43,7 @@ function sparkline(elemId, data) {
      .attr('r', 2.5);  
 }
 
-d3.csv('/data/aml-fund.csv', function(error, data) {
+d3.json('/data/aml-fund.json', function(error, data) {
   sparkline('#spark-it', data);
 });
 </script>
