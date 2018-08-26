@@ -89,7 +89,7 @@ For example, in the sparkline above, the largest value in the data is mapped to 
 
 ## The data
 
-The sparkline is drawn by D3, referencing 30 years of AML fund data in the form of a `.csv` file. Jekyll, which is the static site generator that powers this blog, can read into that data file when placed in the `_data` directory. Since that directory doesn't get shipped to the actual site when deployed (in the form of the `_site` folder), the data needs to be in a place where D3 can also access it after Jekyll has built the site.
+The sparkline is drawn by D3, referencing 30 years of AML fund data in the form of a `.csv` file. Jekyll, which is the static site generator that powers this blog, can read into that data file when placed in the `_data` directory. Since that directory doesn't get shipped to the actual site when deployed (in the form of the `_site` directory), the data needs to be in a place where D3 can also access it after Jekyll has built the site.
 
 Rather than maintain redundant data files in two places in the directory (one for Jekyll, one for D3), I can loop over the `.csv` file in the `_data` directory and save it as a `.json` file in a new `data` directory. This works great, because D3 prefers the data in `json` format anyway.
 
