@@ -19,12 +19,8 @@ var line = d3.line()
              .y(function(d) { return y(d.amount); });
 
 function sparkline(elemId, data) {
-  data.forEach(function(d) {
-    d.year = +d.year;
-    d.amount = +d.amount;
-  });
-  x.domain(d3.extent(data, function(d) { return d.year; }));
-  y.domain(d3.extent(data, function(d) { return d.amount; }));
+  x.domain(d3.extent(data, function(d) { return +d.year; }));
+  y.domain(d3.extent(data, function(d) { return +d.amount; }));
 
   var svg = d3.select(elemId)
               .append('svg')
