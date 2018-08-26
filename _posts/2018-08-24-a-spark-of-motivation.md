@@ -72,7 +72,7 @@ Most of the data we publish is [presented in the form of interactive SVG charts]
 Sparklines seem like a great way to present this data, when:
 
 1. The overall trend is more important than individual data points or values.
-2. The data must be updated or otherwise maintained at least annually.
+2. The data must be updated or otherwise maintained, at least annually.
 
 Here's an example. This chart shows the unappropriated balance of the Abandoned Mine Land (AML) fund over time:
 
@@ -91,7 +91,7 @@ For example, in the sparkline above, the largest value in the data is mapped to 
 
 The sparkline is drawn by D3, referencing 30 years of AML fund data in the form of a `.csv` file. Jekyll, which is the static site generator that powers this blog, can read into that data file when placed in the `_data` directory. Since that directory doesn't get shipped to the actual site when deployed (in the form of the `_site` folder), the data needs to be in a place where D3 can also access it after Jekyll has built the site.
 
-Rather than maintain redundant data files in two places in the directory (one for Jekyll, one for D3), I can loop over the `.csv` file in the `_data` directory and save it has a `.json` file in a new `data` directory. This works great, because D3 prefers the data in `json` format anyway.
+Rather than maintain redundant data files in two places in the directory (one for Jekyll, one for D3), I can loop over the `.csv` file in the `_data` directory and save it as a `.json` file in a new `data` directory. This works great, because D3 prefers the data in `json` format anyway.
 
 ```liquid
 {% raw %}[{% for item in site.data.aml-fund %}
