@@ -9,12 +9,12 @@ layout: default
   </header>
     
 <!-- tags-->
-    
+<ul class="tag-group">
     {% for tag in page.tags limit:5 %}
-    <ul class="tag-group"><a href="/tags#{{tag}}"><li class="tags">{{ tag }}</li></a>
-      </ul>      
+    <a href="/tags#{{tag}}"><li class="tags">{{ tag }}</li></a>     
     {% endfor %}
-          
+  </ul> 
+         
 <!--end tags-->    
 
   <article class="post-content">

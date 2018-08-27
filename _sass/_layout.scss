@@ -312,18 +312,17 @@ Post List and items
 // Tags
 
 .tag-group {
-    margin-top: -1em;
-    display: inline-block;
+    margin: -.7rem 0 2.5rem 0;
 }
 
 .tags {
+    display: inline-block;
     color: #fff;
     font-size: 0.8em;
     font-weight: 500;
     list-style: none;
-    margin-left: -2.5em;
-    margin-right: 0.2em;
     background-color: #0077b3;
+    margin-right: .3rem;
     padding: 0.2em 0.5em ;
     border-radius: 0.4em;
 }
