@@ -94,7 +94,6 @@ $to:    #303030;
 // Import partials from `sass_dir` (defaults to `_sass`)
  @import
         'base',
-        'charts',
         'layout',
         'chart',
         'syntax-highlighting'
@@ -187,6 +186,10 @@ $to:    #303030;
     .subtitle {
     font-size: 1rem;
     margin-top: -0.7em;
+    }
+
+    ul.tag-group {
+        margin-bottom: .8rem;
     }
 
 }
