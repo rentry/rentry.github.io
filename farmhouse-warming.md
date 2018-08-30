@@ -16,7 +16,7 @@ We recently moved into a new, old farmhouse in the country, and we'd like you to
     - <address>24765 S Beavercreek Road <br> Beavercreek, Oregon 97004</address>
 
 ## Park on Kelley Creek Lane
-It's probably easiest to park along Kelley Creek Lane, which runs by our house to the south. Park on the grass between our fence and the road. There's a gate over there: come on in!
+It's probably easiest to park along Kelley Creek Lane, which runs by our house to the south. Park on the grass between our fence and the road. There's a gate over there: walk on in!
 
 ![Parking map, with parking on south side of house along kelley creek lane](/assets/images/farmhouse-map.jpg)
 
