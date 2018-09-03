@@ -17,8 +17,11 @@ We recently moved into a new, _old_ farmhouse in the country, and we'd like you 
 4 p.m. to whenever
 
 ## Where
-- <address>24765 S Beavercreek Rd, 
-Beavercreek, Oregon 97004</address>
+- <a href="https://goo.gl/maps/e3SJvXydJLB2">24765 S Beavercreek Rd, <br>
+Beavercreek, Oregon 97004</a>
+<br>
+<br>
+But park on the nearby road 👇.
 
 ## Park on Kelley Creek Lane
 It's probably easiest to park along Kelley Creek Lane, which runs by our house to the south. Park on the grass between our fence and the road. 
