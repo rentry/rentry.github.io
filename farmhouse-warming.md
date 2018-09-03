@@ -30,7 +30,7 @@ As you know, dogs will be here. Some of them are super cute and _super_ emotiona
 Our dogs are good boys (especially Sam), but if you want to bring kids and/or dogs with you, let us know so we can plan accordingly.
 
 ## What if it rains?!?
-Rain sounds really, really good right now, but I'm sure we'll be sick of it again soon. If it rains: we have a large, covered shop. We have an REI canopy to seek refuge under. Oh, and there's a house. So we're good.
+Rain sounds really, really good right now, but I'm sure we'll be sick of it again soon. If it rains: we have a large, covered shop. We have a canopy to seek refuge under. Oh, and there's a house. So we're good.
 
 ## The elephant in the room
 There is a [football game](https://goducks.com/schedule.aspx?schedule=2357) – <span class="ducks">Ducks</span> vs. <span class="enemy">The Enemy</span> – scheduled for Oct. 13. The exact time for this epic and sacred battle is yet to be determined. This unfortunate accident of history might affect the attention and focus of one of the hosts (and possibly some guests). But alas, we will adapt, and we shall not worry.
