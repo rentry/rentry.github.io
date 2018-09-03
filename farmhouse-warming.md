@@ -17,7 +17,7 @@ We recently moved into a new, _old_ farmhouse in the country, and we'd like you 
 4 p.m. to whenever
 
 ## Where
-- <address>24765 S Beavercreek Road <br> 
+- <address>24765 S Beavercreek Rd, 
 Beavercreek, Oregon 97004</address>
 
 ## Park on Kelley Creek Lane
