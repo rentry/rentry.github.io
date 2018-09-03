@@ -68,6 +68,7 @@ You know what to do. Just fill in those boxes down there 👇 and let us know yo
 </li>
 <li style="padding-left: 0;">
     <input type="submit" value="Send it" >
+    <input type="hidden" name="_next" value="{{ site.baseurl/farmhouse-warming-thanks }}"/>
 </li>
 </ul>
 </form>
