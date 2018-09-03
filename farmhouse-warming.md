@@ -11,10 +11,14 @@ Hi friends! It's been a minute.
 
 We recently moved into a new, _old_ farmhouse in the country, and we'd like you to come by and visit us.
 
+## When
+
 - **Saturday, October 13** <br>
-4 p.m. to whenever<br>
-24765 S Beavercreek Road <br> 
-Beavercreek, Oregon 97004
+4 p.m. to whenever
+
+## Where
+- <address>24765 S Beavercreek Road <br> 
+Beavercreek, Oregon 97004</address>
 
 ## Park on Kelley Creek Lane
 It's probably easiest to park along Kelley Creek Lane, which runs by our house to the south. Park on the grass between our fence and the road. There's a gate over there: walk on in! Just remember to close the gate behind you; we'll have some dogs running around.
