@@ -2,7 +2,7 @@
 layout: post
 title: I’m not sure about Apple, anymore
 date: 2018-09-22 15:33:00
-description: I’ve been a devoted Apple user for 20 years, back when Apple devices were relatively rare. Apple’s lineup has been uninspiring in recent years. I’ve been holding onto aging devices and considering a change. 
+description: I’ve been a devoted Apple user for 20 years, dating back to when Apple devices were relatively rare. Apple’s lineup has been uninspiring in recent years. I’ve been holding onto aging devices, and I’m considering a change. 
 categories: computer
 tags:  [apple, computer, iPhone, tools]
 comments: true
@@ -43,13 +43,17 @@ I’ve been waiting a year for the [rumored update to the iPhone SE](https://www
 
 When Apple failed to release an update to the iPhone SE in September, while simultaneously removing the SE from its lineup, I scoured the web to find another one while they’re still around. I want my headphone jack; I want a phone that fits easily in my pocket; I want a phone that’s designed to be looked at _and_ not looked at, by which I mean, I want the phone to be unobtrusive when I’m not using it.
 
-When it comes to the Mac, I’ve been tenaciously protecting my 2015 MacBook Pro, convinced — for now at least — there will never be another like it. It still has ports! I use the SD card slot at least once a week, and the USB-A ports every other day. I _do not_ want to track down a dongle every time I need to plug in a hard drive or card.
+When it comes to the Mac, I’ve been tenaciously loyal to my 2015 MacBook Pro, convinced — for now at least — there will never be another like it. It still has ports! I use the SD card slot at least once a week, and the USB-A ports every other day. I _do not_ want to track down a dongle every time I need to plug in a hard drive or card.
 
 Despite the [recent ad campaign](https://www.theverge.com/2018/6/15/17467232/behind-the-mac-behind-the-competition), Apple seems to have largely abandoned Mac, and especially the creatives and developers who use them. Features like Touch Bar seem to interrupt our work more than benefit it (I’ve never actually used Touch Bar, but the reviews I’ve read have not been good). Since I work on a digital product, I want my tools to be predictable. I want to know the key I need is always there and will perform as expected.
 
 With the introduction of the [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/faq), beautifully designed [Microsoft Surface laptops](https://www.microsoft.com/en-us/surface), and the overall flexibility that results from a prodigious number of hardware options, I’m considering a switch. I use a Windows 10 machine for work, and I don’t mind it.
 
 Not that I’m thrilled with Microsoft. They spent the better part of a decade making shitty products, while resisting open-source development and productive collaboration in the form of web standards. I know they’ve changed course, but like many, I’m still bitter.
+
+And then there’s the issue of privacy and security. [Some of claimed](http://time.com/4998189/iphone-x-privacy-apple/) that Apple’s most valuable product is its stance on privacy. While I’m sympathetic to this argument, we don’t really know what Apple is doing behind the scenes. I’m inclined to trust their statements regarding privacy, and it makes sense that they’re more protective of customer privacy because their business model doesn’t rely on harvesting it (for now), but it’s still a matter of trust, not assurance.
+
+I’m not sure I trust [a trillion dollar company](https://www.theguardian.com/technology/2018/aug/02/apple-becomes-worlds-first-trillion-dollar-company) to make my privacy a long-term priority. Not if it means sacrificing some of that (again) _trillion_.
 
 In fact, perhaps I’ll track down a [Novena Heirloom laptop](https://www.solidsmack.com/design/behind-the-design-the-hand-crafted-wood-aluminum-novena-heirloom-laptop/) instead. It looks like a _get off my lawn_ laptop, and it’s open source and extensible, albeit beefy.
 
