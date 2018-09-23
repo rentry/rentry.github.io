@@ -15,6 +15,8 @@ A brilliant business move in the 90s, Apple provided discounted desktop computer
 The ubiquity of Apple computers in classrooms, combined with a brand association with creative pursuits, made Apple a great fit for me. I used gift money from my high school graduation to buy the [“yosemite” Power Macintosh G3](https://en.wikipedia.org/wiki/Power_Macintosh_G3). At the University of Oregon in 1999, I was the only student on the fourth floor of my dorm hall that had a Mac. I knew only two other students that had Macs. And iPhones didn’t yet exist. Of course, everything would change in a few years.
 
 ![Powermac G3 yosemite tower](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apple_Yosemite.JPG/1500px-Apple_Yosemite.JPG)
+<p style="font-size: .6em; text-align: center;">The good old days. Apple’s Powermac G3 “Yosemite” tower.</p>
+<br>
 
 ## The good years
 
