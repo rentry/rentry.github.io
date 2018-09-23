@@ -8,7 +8,7 @@ tags:  [apple, computer, iPhone, tools]
 comments: true
 ---
 
-On September 12, Apple hosted another [extravagant, meticulously orchestrated “special event.”](https://www.apple.com/apple-events/september-2018/) And just like the last several events, I found it utterly disappointing, self-aggrandizing, and wildly excessive (apparently no one at Apple considered it unnecessarily garish to release a phone [easily read as “excess max”)](https://www.washingtonpost.com/technology/2018/09/12/hands-with-iphone-xs-max-binge-smartphone-our-times/).
+On September 12, Apple hosted another [extravagant, meticulously orchestrated “special event.”](https://www.apple.com/apple-events/september-2018/) And just like the last several events, I found it utterly disappointing, self-aggrandizing, and wildly excessive (apparently no one at Apple considered it unnecessarily garish to release a phone [easily read as “excess max”](https://www.washingtonpost.com/technology/2018/09/12/hands-with-iphone-xs-max-binge-smartphone-our-times/)).
 
 A brilliant business move in the 90s, Apple provided discounted desktop computers to schools across the U.S. Hundreds of thousands of students across the country were early Mac adopters, having used some of the first widely available computers in existence.
 
