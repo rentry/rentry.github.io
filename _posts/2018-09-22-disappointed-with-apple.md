@@ -55,7 +55,7 @@ With the introduction of the [Windows Subsystem for Linux](https://docs.microsof
 
 Not that I’m thrilled with Microsoft. They spent the better part of a decade making shitty products, while resisting open-source development and productive collaboration in the form of web standards. I know they’ve changed course, but like many, I’m still bitter.
 
-And then there’s the issue of privacy and security. [Some of claimed](http://time.com/4998189/iphone-x-privacy-apple/) that Apple’s most valuable product is its stance on privacy. While I’m sympathetic to this argument, we don’t really know what Apple is doing behind the scenes. I’m inclined to trust their statements regarding privacy. It makes sense that Apple is more protective of customer privacy because their business model doesn’t rely on harvesting user data (for now), but it’s still a matter of trust, not assurance.
+And then there’s the issue of privacy and security. [Some have claimed](http://time.com/4998189/iphone-x-privacy-apple/) that Apple’s most valuable product is its stance on privacy. While I’m sympathetic to this argument, we don’t really know what Apple is doing behind the scenes. I’m inclined to trust their statements regarding privacy. It makes sense that Apple is more protective of customer privacy because their business model doesn’t rely on harvesting user data (for now), but it’s still a matter of trust, not assurance.
 
 I’m not sure I trust [a trillion dollar company](https://www.theguardian.com/technology/2018/aug/02/apple-becomes-worlds-first-trillion-dollar-company) to make my privacy a long-term priority. Not if it means sacrificing some of that (again) _trillion_.
 
