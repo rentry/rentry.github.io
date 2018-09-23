@@ -14,6 +14,8 @@ A brilliant business move in the 90s, Apple provided discounted desktop computer
 
 The ubiquity of Apple computers in classrooms, combined with a brand association with creative pursuits, made Apple a great fit for me. I used gift money from my high school graduation to buy the [“yosemite” Power Macintosh G3](https://en.wikipedia.org/wiki/Power_Macintosh_G3). At the University of Oregon in 1999, I was the only student on the fourth floor of my dorm hall that had a Mac. I knew only two other students that had Macs. And iPhones didn’t yet exist. Of course, everything would change in a few years.
 
+![Powermac G3 yosemite tower](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Apple_Yosemite.JPG/1500px-Apple_Yosemite.JPG)
+
 ## The good years
 
 I eagerly anticipated every update from Apple. Following that first G3, I owned a [titanium PowerBook G4](https://en.wikipedia.org/wiki/PowerBook_G4#Titanium_PowerBook_G4), a [2007 MacBook](https://everymac.com/systems/apple/macbook/specs/macbook-core-2-duo-2.16-black-13-mid-2007-specs.html), a [Mac mini](https://everymac.com/systems/apple/mac_mini/index-macmini.html), and two MacBook Pros (2010, 2015). Each one of these machines was an improvement on the one that came before.
