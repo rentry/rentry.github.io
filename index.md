@@ -4,11 +4,11 @@ title:  "Ryan Johnson"
 ---
 ## Words and maps
 
-I’m a content strategist living in Portland, Oregon. My background is in communications, design, publishing, and GIS.
+I’m a content strategist living in Portland, Oregon. My background is in communications, design, publishing, development, and GIS.
 
 Lately, I’ve been working on [data-driven content design](/content-writes-itself/#content-that-writes-itself), information architecture, cartography, and data visualization.
 
-You can check out much my recent work on GitHub at [{% include github_icon.html %} rentry](https://github.com/rentry) and [{% include github_icon.html %} brentryanjohnson](https://github.com/brentryanjohnson).
+You can check out much my recent work on GitHub at <span style="white-space: nowrap;">[{% include github_icon.html %} rentry](https://github.com/rentry)</span> and <span style="white-space: nowrap;">[{% include github_icon.html %} brentryanjohnson](https://github.com/brentryanjohnson)</span>.
 
 You’ll often find me behind a camera, usually [an analog one](/slowing-down-with-analog/).
 
