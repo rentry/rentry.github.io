@@ -221,6 +221,13 @@ Post List and items
     color: #878787;
 }
 
+@media only screen and (max-width: 640px) {
+    #post-list .dates {
+        float: none;
+        display: block;
+    }
+}
+
 #post-list-footer {
     border-top: 1px solid #DFE1E4;
     margin-top: 20px;
