@@ -10,7 +10,7 @@ comments: true
 
 On September 12, Apple hosted another [extravagant, meticulously orchestrated “special event.”](https://www.apple.com/apple-events/september-2018/) And just like the last several events, I found it utterly disappointing, self-aggrandizing, and wildly excessive (apparently no one at Apple considered it unnecessarily garish to release a phone [easily read as “excess max”](https://www.washingtonpost.com/technology/2018/09/12/hands-with-iphone-xs-max-binge-smartphone-our-times/)).
 
-A brilliant business move in the 90s, Apple provided discounted desktop computers to schools across the U.S. Hundreds of thousands of students across the country were early Mac adopters, having used some of the first widely available computers in existence.
+A brilliant business move in the 90s, Apple provided discounted desktop computers to schools across the U.S. Thousands of students across the country were early Mac adopters, having used some of the first widely available computers in existence.
 
 The ubiquity of Apple computers in classrooms, combined with a brand association with creative pursuits, made Apple a great fit for me. I used gift money from my high school graduation to buy the [“yosemite” Power Macintosh G3](https://en.wikipedia.org/wiki/Power_Macintosh_G3). At the University of Oregon in 1999, I was the only student on the fourth floor of my dorm hall that had a Mac. I knew only two other students that had Macs. And iPhones didn’t yet exist. Of course, everything would change in a few years.
 
