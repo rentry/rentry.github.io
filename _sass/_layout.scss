@@ -107,6 +107,15 @@ nav.site-nav {
     margin-top: -1em;
 }
 
+@media only screen and (max-width: 640px) {
+    .about-image {
+        margin: 0;
+    }
+    #words-and-maps {
+        margin-top: .5rem;
+    }
+}
+
 
 /**
  * Site footer
