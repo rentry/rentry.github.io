@@ -44,6 +44,8 @@ Rain sounds really, really good right now, but I'm sure we'll be sick of it agai
 ## The elephant in the room
 There is a [football game](https://goducks.com/schedule.aspx?schedule=2357) – <span class="ducks">Ducks</span> vs. <span class="enemy">The Enemy</span> – scheduled for Oct. 13. The exact time for this epic and sacred battle is yet to be determined. This unfortunate accident of history might affect the attention and focus of one of the hosts (and possibly some guests). But alas, we will adapt, and we shall not worry.
 
+**Update:** The game is set for 12:30 p.m., so come by early, if you want to observe anxious Ryan!
+
 ![The Farmhouse Warming with the farmhouse logo, a botanical theme](/assets/images/the-farmhouse-warming.jpg)
 
 ## Oh, and Ryan's birthday
