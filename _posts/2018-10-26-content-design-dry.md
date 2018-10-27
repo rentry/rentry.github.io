@@ -14,7 +14,7 @@ Although they’re often regarded as separate disciplines, information architect
 
 So what do we mean when we talk about content architecture? What variables impact our options for how content is designed and published? 
 
-In this series, we’ll look at examples of content architecture, and how it limits or expands our options as content designers. Doing so will require examining some technical frameworks for web products, with the understanding that content designers and content strategists should be involved in scoping technology frameworks and software products. Because software tools impact our content design options, evaluating those tools is unavoidable in any discussion of the intersection of content and architecture.
+In this series, we’ll look at examples of content architecture and how it limits or expands our options as content designers. Doing so will require examining some technical frameworks for web products, with the understanding that content designers and content strategists should be involved in scoping technology frameworks and software products. Because software tools impact our content design options, evaluating those tools is unavoidable in any discussion of the intersection of content and architecture.
 
 ## Example 1: GatsbyJS data mapping
 
@@ -166,7 +166,9 @@ This links up the `id`s in each file and associates the extra fields in `authors
 
 Phew! We made it happen!
 
-We could make this even DRYer by creating a variable for the part of the bio that is common to each author (“...at the Office of Natural Resources Revenue”) and concatenating job title with that variable. That way, if we want to change “Office of Natural Resources” to “Department of the Interior,” we only have to change the variable, not each instance in the data file.
+We could make this even DRYer by creating a variable for the part of the bio that is common to each author (“...at the Office of Natural Resources Revenue”) and concatenating job title with that variable. That way, if we want to change “Office of Natural Resources” to “Department of the Interior,” we only have to change the variable, not each instance in the data file. 
+
+Also, I’ve hard-coded “..is a...” as a part of the job title, which is fine for most job titles, but what if the title is “editor”? It would then read “a editor” instead of the appropriate “an editor.” We could write some code that replaces the indefinite article “a” with “an”, if the first character of the job title meets one of an array of vowels. Unfortunately, our language is absurdly complex: “_an_ user experience designer” just doesn’t sound right (think of examples like “a hour” versus “an hour,” which exemplifies the problem of coding something like this on a vowel versus consonant basis).
 
 I realize many of us work with developers to do this kind of thing, but it’s always useful to know the options and limitations of the tools you’re working with. For instance, we can now create a page for each author that contains a list of all posts they wrote. We can query all posts that two individual authors worked on. Or we can add a twitter field to the data file and include it with each author’s bio. Most importantly, we can keep our authoring and content management workflow simple by mapping one field to supporting content automatically.
 
