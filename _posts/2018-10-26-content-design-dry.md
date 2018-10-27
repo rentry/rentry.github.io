@@ -43,7 +43,7 @@ Our blog posts are authored in [markdown](https://en.wikipedia.org/wiki/Markdown
 
 I’m not new to markdown, but I am new to Gatsby and [React](https://reactjs.org/). Since we’re transitioning our open-data site from Jekyll to Gatsby, I figured building the blog would be a good way to level up on content management in Gatsby.
 
-I started by forking the [`gatsby-starter-blog`](https://github.com/gatsbyjs/gatsby-starter-blog). The starter assumed only one author, the professional details for whom were hard-coded in a React component (`Bio.js`). I knew many (if not most) of our blog posts would involve more than one author, so I started working on how to modify the starter to include two or more authors.
+I started by forking [`gatsby-starter-blog`](https://github.com/gatsbyjs/gatsby-starter-blog). The starter assumed only one author, the professional details for whom were hard-coded in a React component (`Bio.js`). I knew many (if not most) of our blog posts would involve more than one author, so I started working on how to modify the starter to include two or more authors.
 
 ### Modifying the blog template
 
