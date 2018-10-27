@@ -8,23 +8,38 @@ tags: [design, content strategy, information architecture, tools]
 comments: true
 ---
 
-This post kicks off a series on how information architecture and content design can be inextricably linked. Although they’re often regarded as separate disciplines, information architecture and content design are inseparably linked. Most content strategists understand how information architecture can expand or limit options for designing and delivering quality content to users.
+This post kicks off a series on how our options as content designers can be expanded or limited based on our site architecture. And while content strategists are often dependent on other team members (i.e., developers) to scope the desired features and build the supporting architecture, understanding how your architecture is built (or can be built) can spark your content design process. Your understanding of the architecture is the foundation for thinking creatively about how your content can be rearranged, combined, or supplemented to support your content strategy. In other words, how your content can be designed.
+
+Although they’re often regarded as separate disciplines, information architecture and content design are inseparably linked. Most content strategists understand how information architecture can expand or limit options for designing and delivering quality, structured content to users. And while many content strategists think of information architecture in terms of metadata and taxonomy, this series examines the architecture of the content itself (along with its metadata). We might think of this as _content architecture_.
 
 So what do we mean when we talk about content architecture? What variables impact our options for how content is designed and published? 
 
-In this series, we’ll look at examples of content architecture, and they limit or expands our options as content designers. Doing so will require examining some technical frameworks for web products, with the understanding that content designers and content strategists should be involved in scoping technology frameworks and software products. Because software tools impact our content design options, evaluating those tools is unavoidable in any discussion of the intersection of content and architecture.
+In this series, we’ll look at examples of content architecture, and how it limits or expands our options as content designers. Doing so will require examining some technical frameworks for web products, with the understanding that content designers and content strategists should be involved in scoping technology frameworks and software products. Because software tools impact our content design options, evaluating those tools is unavoidable in any discussion of the intersection of content and architecture.
 
 ## Example 1: GatsbyJS data mapping
 
-Our first example will look at using a specific framework ([GatsbyJS](https://www.gatsbyjs.org/)) and configuration feature (mapping) to structure our content to increase flexibility and decrease repetition.
+Our first example will look at using a specific framework ([GatsbyJS](https://www.gatsbyjs.org/)) and configuration feature (mapping) to structure our content to promote flexibility and decrease repetition.
 
-### DRY content
+### Aside: DRY content
 
-DRY (don’t repeat yourself) is a principle of software development to support clarity and maintainability of a codebase. The DRY principle is a friend of content strategists as well. We’ve all seen repetitive content that makes it more difficult to parse and understand (e.g., bulleted lists that repeat the same three or four words at the beginning of each), but the DRY principle is especially relevant for our architecture.
+DRY (don’t repeat yourself) is a principle of software development to promote clarity and maintainability of a codebase. The DRY principle is a friend of content strategists as well: we’ve all seen repetitive content that makes it more difficult to parse and understand, for example:
+
+> - The DRY principle is good for clarity.
+> - The DRY principle is good for maintainability.
+> - The DRY principle is good for efficiency.
+
+Let’s make this DRY:
+
+> The DRY principle is good for:
+> - clarity
+> - maintainability
+> - efficiency
+
+The DRY principle is useful for our architecture, which impacts our workflow.
 
 Let’s look at an example. I’ve been building a blog for our team at the Department of the Interior. The blog is a vehicle to communicate how we work on the [natural resources revenue open data site](https://revenuedata.doi.gov/).
 
-Our blog posts are authored in markdown format as static files. We then use GatsbyJS to compile the files and build a static website.
+Our blog posts are authored in [markdown](https://en.wikipedia.org/wiki/Markdown) as static files. We then use GatsbyJS to compile the files and build a static website.
 
 I’m not new to markdown, but I am new to Gatsby and [React](https://reactjs.org/). Since we’re transitioning our open-data site from Jekyll to Gatsby, I figured building the blog would be a good way to level up on content management in Gatsby.
 
@@ -89,9 +104,9 @@ Then, we can modify the blog post template to loop over the author(s) and includ
 
 We’re not going to cover it in this post, but you also need to add the front matter variables to your post template’s [GraphQL](https://www.gatsbyjs.org/docs/querying-with-graphql/) query.
 
-Hang with me here! 🙂
+_Hang with me here!_ 🙂
 
-So far, we’ve changed the blog post template to look at each author listed in the front matter and publish list things about them at the end of each post:
+So far, we’ve changed the blog post template to look at each author listed in the front matter and publish details about them at the end of each post:
 
 {% raw %}
 - `author.pic` (photo)
@@ -109,11 +124,11 @@ You may have noticed we’re only listing the name of each author in the front m
 
 When I initially modified this blog template, it required the post author(s) to reference their image file path and bio in _every_ blog post’s front matter; it required repeating the exact same content every time an author wrote a post. It was annoying, error-prone, and time consuming.
 
-Thankfully, Gatsby has a powerful configuration setting that let’s us map an `id` to a separate file, allowing us to draw the contents of a separate data file into our blog post based on a shared `id`.
+Thankfully, Gatsby has a powerful configuration setting that lets us map an `id` to a separate file, allowing us to draw the contents of a separate data file into our blog post based on a shared `id`.
 
 So to do this, we need a data file (in this case, `authors.yml`) with all possible authors, along with their profile image paths and bios:
 
-```
+``` yaml
 - id: Ryan Johnson
   bio: content strategist at the Office of Natural Resources Revenue
   pic: /img/ryan-pic.jpg
@@ -139,7 +154,7 @@ Nice! 😎
 
 Now we need to create the link. Presumably because these fields are mapped from different files across the codebase, the centrality of the `gatsby-config.js` file lends itself to creating the linkage. So we add the following to the config file:
 
-```
+``` javascript
   mapping: {
     "MarkdownRemark.frontmatter.authors": `AuthorYaml`,
 },
@@ -151,8 +166,10 @@ This links up the `id`s in each file and associates the extra fields in `authors
 
 Phew! We made it happen!
 
-Now, I realize many of us work with developers to do this kind of thing, but it’s always useful to know the options and limitations of the tools you’re working with. For instance, we can now create a page for each author that contains a list of all posts they wrote. We can query posts all posts that two individual authors worked on. Or we can add a twitter field to the data file and include it with each author’s bio.
+We could make this even DRYer by creating a variable for the part of the bio that is common to each author (“...at the Office of Natural Resources Revenue”) and concatenating job title with that variable. That way, if we want to change “Office of Natural Resources” to “Department of the Interior,” we only have to change the variable, not each instance in the data file.
 
-Of course, Gatsby isn’t alone in having a mapping feature like this, but it’s important to know what features you have at your disposal to build your architecture and design your content.
+I realize many of us work with developers to do this kind of thing, but it’s always useful to know the options and limitations of the tools you’re working with. For instance, we can now create a page for each author that contains a list of all posts they wrote. We can query all posts that two individual authors worked on. Or we can add a twitter field to the data file and include it with each author’s bio. Most importantly, we can keep our authoring and content management workflow simple by mapping one field to supporting content automatically.
+
+Of course, Gatsby isn’t alone in having a mapping feature like this, but it’s important to know what features you have at your disposal to build your architecture and design your content around.
 
 Next time, I’ll cover how to pull in custom content based on unusual or anomalous circumstances.
