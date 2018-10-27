@@ -176,4 +176,4 @@ I realize many of us work with developers to do this kind of thing, but it’s a
 
 Of course, Gatsby isn’t alone in having a mapping feature like this, but it’s important to know what features you have at your disposal to build your architecture and design your content around.
 
-Next time, I’ll cover how to pull in custom content based on unusual or anomalous circumstances.
+Next time, I’ll cover how to pull in custom content based on unusual or specific circumstances.
