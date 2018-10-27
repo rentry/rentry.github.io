@@ -8,9 +8,11 @@ tags: [design, content strategy, information architecture, tools, gatsbyjs]
 comments: true
 ---
 
-This post kicks off a series on how our options as content designers can be expanded or limited based on our site architecture. And while content strategists are often dependent on other team members (i.e., developers) to scope the desired features and build the supporting architecture, understanding how your architecture is built (or can be built) can spark your content design process. Your understanding of the architecture is the foundation for thinking creatively about how your content can be rearranged, combined, or supplemented to support your content strategy. In other words, how your content can be designed.
+This post kicks off a series on how our options as content designers can be expanded or limited based on our site architecture. And while content strategists are often dependent on other team members (i.e., developers) to scope the desired features and build the supporting architecture, understanding how your architecture is built (or can be built) can spark your content design process. 
 
-Although they’re often regarded as separate disciplines, information architecture and content design are inseparably linked. Most content strategists understand how information architecture can expand or limit options for designing and delivering quality, structured content to users. And while many content strategists think of information architecture in terms of metadata and taxonomy, this series examines the architecture of the content itself (along with its metadata). We might think of this as _content architecture_.
+Your understanding of the architecture is the foundation for thinking creatively about how your content can be rearranged, combined, or supplemented to support your content strategy. In other words, how your content can be designed.
+
+Although they’re often regarded as separate disciplines, information architecture and content design are inseparably linked. Most content strategists understand how information architecture can expand or limit options for designing and delivering relevant, structured content to users. And while many content strategists think of information architecture in terms of metadata and taxonomy, this series examines the architecture of the content itself (along with its metadata). We might think of this as _content architecture_.
 
 So what do we mean when we talk about content architecture? What variables impact our options for how content is designed and published? 
 
