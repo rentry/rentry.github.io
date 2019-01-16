@@ -68,7 +68,7 @@ Rather than repeat this table in the markdown file every time it needs to appear
 
 (Yes, this include has inline styling. It’s 2002 again.)
 
-Those familiar with Jekyll (or [Liquid](https://shopify.github.io/liquid/)) already know this, but you can reference page-level front matter variables in an include. In this include, {% raw %}`{{ page.yes_vote }}` and `{{ page.no_vote }}` {% endraw %} reference page-level front matter.
+Those familiar with Jekyll already know this, but you can reference page-level front matter variables in an include. In this include, {% raw %}`{{ page.yes_vote }}` and `{{ page.no_vote }}` {% endraw %} reference page-level front matter.
 
 For example, each Maine Ballot page (post) has front matter with unique variable assignments:
 
