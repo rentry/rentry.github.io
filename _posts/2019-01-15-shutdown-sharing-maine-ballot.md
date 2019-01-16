@@ -30,7 +30,7 @@ In many workplace content management systems, one would have to repeat this tabl
 
 Sure, there are ways to program repeating patterns into content management systems (I’m reminded of [Drupal Paragraphs](https://www.drupal.org/project/paragraphs)), but those patterns come with a heavy developer burden, if the patterns are anticipated at all.
 
-Jekyll `_includes` are so simple to use, and so powerful, they render this problem trivial.
+Jekyll `_includes` are so simple to use, and so powerful, this problem is trivial.
 
 The yes/no table looks like this:
 
