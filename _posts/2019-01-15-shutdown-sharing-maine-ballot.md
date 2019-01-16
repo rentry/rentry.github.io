@@ -20,7 +20,7 @@ By rebuilding the site with [Jekyll](https://jekyllrb.com/) and hosting (for fre
 
 Before the government shutdown, I was [migrating a site from Jekyll to GatsbyJS](https://revenuedata.doi.gov/blog/homepage-revamp-part-two/), which is built with React. I’ve struggled to learn React (thankfully I’m not the lead developer on the project), but I recognize its advantages.
 
-But for a content strategist, Jekyll is _just so great_. It is intuitive, powerful, and syntactically simple (relative to React, at least). Let me give you a few examples.
+But for a content strategist, Jekyll is _just so great_. It is intuitive, powerful, and syntactically simple (compared to React, at least). Let me give you a few examples.
 
 ## Include me
 
