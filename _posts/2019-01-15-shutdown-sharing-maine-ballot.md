@@ -108,11 +108,9 @@ Jekyll `_includes` are great for patterns that repeat throughout the site, and t
 
 ## Still working
 
-I wish I was busy [publishing public-lands data](https://github.com/ONRR/doi-extractives-data), but in the meantime, I’ll be finding digital projects to enhance civic engagement and invigorate our democratic institutions. 
-<br>
-<br>
-<br>
-Is that too hopeful?
+I wish I was busy [publishing public-lands data](https://github.com/ONRR/doi-extractives-data), but in the meantime, I’ll try to find volunteer projects that enhance civic engagement and invigorate our democratic institutions.
+
+If you need a website that supports civic engagement, conservation, environmental advocacy, open data, or immigrants’ rights, [please let me know](https://twitter.com/forestglenroad).
 
 
 
