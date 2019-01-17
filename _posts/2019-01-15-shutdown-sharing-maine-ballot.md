@@ -12,7 +12,7 @@ The government is still shutdown, and I’m still furloughed. I can’t work, I�
 
 In the meantime, I’m helping a fellow furloughed team member migrate a site from Squarespace to GitHub Pages. 
 
-Nothing against Squarespace, but my friend is paying around $200 a year to host the site, and it’s a completely volunteer effort. It amounts to a significant annual donation to Maine’s voters to provide concise, approachable, accessible context for Maine’s ballot measures.
+Nothing against Squarespace, but my friend is paying around $200 a year to host the site, and it’s a completely volunteer effort. It amounts to a significant annual donation to Maine’s voters to [provide concise, approachable, accessible context for Maine’s ballot measures](https://maineballot.org/).
 
 By rebuilding the site with [Jekyll](https://jekyllrb.com/) and hosting (for free) with GitHub Pages, she can continue to deliver valuable information and context surrounding Maine’s ballot questions while avoiding most of the monetary costs of doing so.
 
