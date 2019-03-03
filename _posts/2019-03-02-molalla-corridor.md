@@ -8,7 +8,7 @@ tags: [walk, hike, molalla corridor, blm]
 comments: true
 ---
 
-I fled the [clusterfuck that is Facebook]({{ site.baseurl }}/leaving-facebook/) almost two years ago, and I reluctantly deleted Instagram from my phone last year. Consequently, I have limited digital avenues by which to share the kinds of things we humans tend to share with each other.
+I fled the [clusterfuck known as Facebook]({{ site.baseurl }}/leaving-facebook/) almost two years ago, and I reluctantly deleted Instagram from my phone last year. Consequently, I have limited digital avenues by which to share the kinds of things we humans tend to share with each other.
 
 I’ve gone on ad nauseum about social media, so I won’t do it again (although [Facebook continues to demonstrate its disgraceful disregard for privacy](https://www.nbcnews.com/tech/tech-news/some-apps-send-data-about-menstruation-home-buying-facebook-wsj-n974711)). Talking about and sharing photos from walks stretches the theme of this blog, but, let’s face it: this blog has been off the rails the whole time. There never were rails.
 
