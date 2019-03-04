@@ -14,7 +14,7 @@ I’ve gone on ad nauseam about social media, so I won’t do it again (although
 
 ## Walking
 
-I’m not quite right in the head unless I walk. I must walk. And I prefer to walk among the trees.
+I’m not right in the head unless I walk. I must walk. And I prefer to walk among the trees.
 
 ![dog on leash with a cabin in the distance]({{ site.baseurl }}/assets/images/molalla-march-2019-3.jpg)
 
