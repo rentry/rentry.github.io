@@ -6,6 +6,11 @@ description: "I don’t often blog about walking in the woods. In the past, I po
 categories: walking
 tags: [walk, hike, molalla corridor, blm]
 comments: true
+map-id: annies-cabin-map
+map-var: anniesCabinMap
+lat: 45.01916
+long: -122.48906
+zoom: 13
 ---
 
 I fled the [clusterfuck known as Facebook]({{ site.baseurl }}/leaving-facebook/) almost two years ago, and I reluctantly deleted Instagram from my phone last year. Consequently, I have limited digital avenues by which to share the kinds of things we humans tend to share with each other.
@@ -37,3 +42,8 @@ Today, we walked to Annie’s Cabin (a cabin for which there is a story I won’
 ![small cabin in the woods]({{ site.baseurl }}/assets/images/molalla-march-2019-6.jpg)
 
 I’ll try to include more recaps of my walks, as winter turns to spring.
+
+## Location
+Annie's Cabin is south of Molalla in the Molalla River Corridor. The area is largely publicly owned and managed by the Bureau of Land Management. It's also the gateway to the spectacular Table Rock Wilderness.
+
+{% include map.html %}
