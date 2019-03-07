@@ -19,7 +19,7 @@ This is crazy. There are so many mustaches ({ }) in Liquid _and_ JavaScript.
 
 But it turns out, a bunch of smart people figured out which mustaches (_fine_, curly brackets or braces or whatever) belong to which bits of code. Consequently, you can _use Liquid variables in your JavaScript_.
 
-I’ve alluded to this before, as smarter people than me (namely [Katy DeCorah](https://www.youtube.com/watch?v=s84wFRD8vfE)) have demonstrated the flexibility of Jekyll + JS before.
+I’ve alluded to this before, as smarter people than I (namely [Katy DeCorah](https://www.youtube.com/watch?v=s84wFRD8vfE)) have demonstrated the flexibility of Jekyll + JS before.
 
 ## DRY mapping
 
