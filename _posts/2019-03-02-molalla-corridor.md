@@ -4,7 +4,7 @@ title: "Walking in the woods: Annie’s Cabin"
 date: 2019-03-02
 description: "I don’t often blog about walking in the woods. In the past, I posted such self-indulgent, albeit personally necessary, excursions to social media. But I no longer subscribe to most social media, so I’ll share my walks here, starting with a walk to Annie’s Cabin near Molalla, Oregon."
 categories: walking
-tags: [walk, hike, molalla corridor, blm]
+tags: [walk, hike, Molalla Corridor, BLM]
 comments: true
 map-id: annies-cabin-map
 map-var: anniesCabinMap
