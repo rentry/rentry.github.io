@@ -38,10 +38,11 @@
 
 /* Typography */
 
-@import url('https://fonts.googleapis.com/css?family=Merriweather:300,300i,400,400i,700');
+@import url('https://fonts.googleapis.com/css?family=Martel:900|Roboto:300,300i,700,700i');
 
 // Our variables
-$base-font-family: 'Merriweather', serif;
+$heading-font-family: 'Martel', serif;
+$base-font-family: 'Roboto', sans-serif;
 $base-font-size:   21px/1;
 $small-font-size:  $base-font-size * 0.875;
 $base-line-height: 1.7;
@@ -187,7 +188,7 @@ $to:    #303030;
     
     .subtitle {
     font-size: 1rem;
-    margin-top: -0.7em;
+    margin-top: -1.3em;
     }
 
     ul.tag-group {
