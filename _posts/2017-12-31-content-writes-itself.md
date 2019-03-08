@@ -4,7 +4,7 @@ title: "Content that writes itself"
 date: 2017-12-31 13:33:00
 description: "There’s no replacing a content editor, but maintainability sometimes requires a content architecture wherein content can update itself."
 categories: web
-tags:  [web, 18F, content strategy, government, tools, jekyll]
+tags:  [web, 18F, content strategy, government, tools, Jekyll]
 comments: true
 ---
 

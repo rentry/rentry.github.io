@@ -4,7 +4,7 @@ title: "Tooling: it’s a buffet now"
 date: 2018-06-25 13:33:00
 description: "I have my favorite tools, and they can be a crutch. We have an absurd range of options now, and my eyes are wandering."
 categories: tools
-tags:  [web, tools, writing, photography]
+tags:  [web, tools, writing, photography, Jekyll]
 comments: true
 ---
 
