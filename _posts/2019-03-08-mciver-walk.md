@@ -2,7 +2,7 @@
 layout: post
 title: "Walking in the woods: Estacada Lake"
 date: 2019-03-08
-description: "Today our walk was on a path and horse trails near Estacada Lake in McIver State Park."
+description: "Today's walk was on a network of horse trails near Estacada Lake in McIver State Park."
 categories: walking
 tags: [walk, hike, McIver State Park, Estacada Lake]
 comments: true
