@@ -11,8 +11,8 @@ map-var: anniesCabinMap
 lat: 45.01916
 long: -122.48906
 zoom: 14
-popup-title: "Annie's Cabin"
-popup-text: "Visited on March 2, 2019"
+popup-title: "Map title"
+popup-text: "When I visited"
 ---
 
 This is crazy. There are so many mustaches ({ }) in Liquid _and_ JavaScript.
