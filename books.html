@@ -11,7 +11,7 @@ layout: default
     <div class="book-info">
       <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
       <p>{{ book.description }}</p>
-      <p class="post-meta">Date completed: {{ book.completed | date: "%b %-d, %Y" }}</p>
+      <p class="post-meta">Date completed: {{ book.completed | date: "%B %-d, %Y" }}</p>
     </div>
   </li>
 {% endfor %}
