@@ -393,17 +393,19 @@ span.arrow {
 .cover {
     float: left;
     width: 150px;
-    padding-right: 2rem;
+    padding: 0 1.5rem 1.5rem 0;
 }
 
 .book-list {
+    margin-top: 2em;
     margin-left: 0;
     list-style-type: none;
     display: block;
 }
 
 .book-item {
-    margin-bottom: 3rem;
+    display: table;
+    margin-bottom: 1.5rem;
     clear: left;
 }
 
