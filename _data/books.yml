@@ -1,0 +1,35 @@
+- title: Hiking with Nietzsche
+  link: https://us.macmillan.com/books/9780374170011
+  image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374170011.jpg
+  description: The author traces Nietzsche's footsteps through the Swiss Alps during two distinct life phases. He grapples with the tension between order and chaos in Nietzsche's work and his life.
+  completed: In progress
+
+- title: Red Rising
+  link: https://www.penguinrandomhouse.com/series/RRT/red-rising-series
+  image: https://images.penguinrandomhouse.com/cover/9780345539809
+  description: I'm a sucker for dystopian scifi revolution narratives intended for teens, so I'm here for this one. 
+  completed: In progress
+
+- title: Python Data Science Handbook
+  link: https://jakevdp.github.io/PythonDataScienceHandbook/
+  image: https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png
+  description: I'm re-learning Python in the context of data science and machine learning. Which is kind of weird and gross, to be honest. The book is quite good, though.
+  completed: In progress
+
+- title: Wild Migrations
+  link: http://osupress.oregonstate.edu/book/wild-migrations
+  image: http://osupress.oregonstate.edu/sites/default/files/9780870719431.jpg
+  description: I'm enamored with this intricate atlas of ungulate (hoofed mammals) migration in Wyoming. Not only is it a project that involved my two alma maters (University of Oregon for data visualization, Oregon State University press printed the book), but it also features my home state and research from its university (University of Wyoming). The book's photographs and data visualizations are beautiful. I'm passionate about photography, data visualization, GIS, and wildlife. 
+  completed: 2019-02-10 
+
+- title: The Slow Regard of Silent Things
+  link: https://www.patrickrothfuss.com/content/buy.asp
+  image: https://www.patrickrothfuss.com/images/page/cover-slow-regard_277.jpg
+  description: An intimate journey through the Underthing with my favorite character from Rothfuss's excellent series.
+  completed: 2019-01-15  
+
+- title: The Value of Everything
+  link: https://marianamazzucato.com/publications/books/value-of-everything/
+  image: https://marianamazzucato.com/wp-content/uploads/2018/08/VOE-US.png
+  description: A scathing and deserved endictment of how our modern capitalist economy (mis)assigns value.
+  completed: 2019-01-09
