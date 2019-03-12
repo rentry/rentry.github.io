@@ -51,7 +51,7 @@
     &,
     &:visited, &:hover {
         text-decoration: none;
-        color: #7923D5;
+        color: $grey-color-dark;
     }
 }
 
@@ -387,3 +387,36 @@ span.arrow {
     top: 0;
     font-size: 1em;
 }
+
+/* books */
+
+.cover {
+    float: left;
+    width: 150px;
+    padding-right: 2rem;
+}
+
+.book-list {
+    margin-left: 0;
+    list-style-type: none;
+    display: block;
+}
+
+.book-item {
+    margin-bottom: 3rem;
+    clear: left;
+}
+
+.book-title {
+    text-decoration: none;
+    color: $brand-color;
+
+    &:visited {
+        color: $grey-color-dark;
+      }
+
+        &:hover {
+        color: $brand-color-light;
+        }  
+}
+

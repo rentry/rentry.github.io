@@ -167,7 +167,7 @@ strong {
 
 .enemy {
     font-weight: 700;
-    color: s#4B2E83;
+    color: #4B2E83;
 }
 
 /**
@@ -235,7 +235,7 @@ $selectionColor: #b4d5fe;
     text-shadow: none;
   }
   &:visited {
-    color: $color;
+    color: $grey-color-dark;
   }
 
     &:hover {
