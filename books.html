@@ -3,6 +3,8 @@ layout: default
 ---
 <h1>Books</h1>
 
+<p>I started this book list at the beginning of 2019. It includes books I've started or completed since the beginning of that year.</p>
+
 <ul class="book-list">
 {% for book in site.data.books %}
   <li>
@@ -11,7 +13,13 @@ layout: default
     <div class="book-info">
       <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
       <p>{{ book.description }}</p>
-      <p class="post-meta">Date completed: {{ book.completed | date: "%B %-d, %Y" }}</p>
+      <p class="post-meta">Date completed:      
+        {% if book.completed == 'In progress' %}
+          <span style="color: #e71c4f">{{ book.completed }}</span>
+        {% else %}
+          {{ book.completed | date: "%B %-d, %Y" }}
+        {% endif %}  
+      </p>
     </div>
   </div> 
   </li>
