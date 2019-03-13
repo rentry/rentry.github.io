@@ -1,6 +1,5 @@
 ---
 layout: about
-title:  "Ryan Johnson"
 ---
 ## Words and maps
 
