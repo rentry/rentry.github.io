@@ -3,7 +3,9 @@ layout: about
 ---
 
 ## 👋 Hello, from Oregon
-I’m a content strategist living in Portland, Oregon. My background is in communications, design, publishing, development, and GIS.
+I work with words and maps.
+
+I’m a content strategist living in Portland, Oregon. My background is in conservation, communications, design, web development and GIS.
 
 Lately, I’ve been working on data-driven content design, information architecture, cartography, and data visualization.
 
