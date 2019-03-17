@@ -9,6 +9,8 @@ I’m a content strategist living in Portland, Oregon. My background is in conse
 
 Lately, I’ve been working on data-driven content design, information architecture, cartography, and data visualization.
 
+I spend my spare time walking among trees.
+
 ### Words
 ✍️ [blog](/posts)<br>
 📚 [books](/books)
