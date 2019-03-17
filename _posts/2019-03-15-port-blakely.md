@@ -29,6 +29,8 @@ _I don’t want to ruin a great thing, so be respectful if you access these land
 
 [Port Blakely](https://portblakely.com/) has an interesting story, dating back to 1852. The private company owns a significant amount of land in our area, with many parcels bordering public land. This is one area.
 
+![arrow in rock pointing at a side trail off the road]({{ site.baseurl }}/assets/images/arrow-at-blakely.jpg)
+
 ## Location
 This is private land. If you go there, be respectful and [follow the rules](https://portblakely.com/us-forestry/public-access).
 
