@@ -11,6 +11,6 @@ Lately, I’ve been working on data-driven content design, information architect
 ✍️ [blog](/posts)<br>
 📚 [books](/books)
 
-### Github
+### Work
 [{% include github_icon.html %} rentry](https://github.com/rentry)<br>
 [{% include github_icon.html %} brentryanjohnson](https://github.com/brentryanjohnson)
