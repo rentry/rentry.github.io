@@ -25,6 +25,6 @@ Perfect spring weather greeted us, and we were mostly alone on the trails.
 
 
 ## Location
-The Hardy Creek Trailhead is among the most used in the corridor, perhaps because it is centrally located between the South and North extents of the trail, and it offers double-track, road-width trails for horses.
+The Hardy Creek Trailhead is among the most used in the corridor, perhaps because it is centrally located between the South and North extents of the trail system, and it offers double-track, road-width paths for horses.
 
 {% include map.html %}
