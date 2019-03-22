@@ -5,7 +5,6 @@ date:   2017-05-27 12:30:00
 description: "Brooke Gladstone ruminates on the moral panic in our time."
 categories: politics
 tags: [books, politics]
-
 ---
 
 I’ve been seeking a way to describe the feeling of watching reality crumble around us in the wake of the election. I’m sure some would describe that statement as hyperbolic, and that’s part of why it’s been so difficult to describe.

@@ -5,7 +5,6 @@ date: 2018-06-25 13:33:00
 description: "I have my favorite tools, and they can be a crutch. We have an absurd range of options now, and my eyes are wandering."
 categories: tools
 tags:  [web, tools, writing, photography, Jekyll]
-
 ---
 
 We have a (minor) dilemma: our tools are expanding rapidly, and it’s difficult to keep up. I’m thrilled about it; I’m always excited to find and explore new tools (though I try to limit the number of hardware devices I have, although I have a [weak spot for cameras](/slowing-down-with-analog/)).

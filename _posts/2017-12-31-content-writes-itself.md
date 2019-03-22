@@ -5,7 +5,6 @@ date: 2017-12-31 13:33:00
 description: "There’s no replacing a content editor, but maintainability sometimes requires a content architecture wherein content can update itself."
 categories: web
 tags:  [web, 18F, content strategy, government, tools, Jekyll]
-
 ---
 
 As 2017 comes to an end, I’m thankful to be working with talented, civic-minded people at the Department of the Interior and 18F. Admittedly, it’s a weird time to have started working in the federal government, but I’ve been encouraged by the commitment to open data and service delivery exemplified by the civil servants at both institutions.

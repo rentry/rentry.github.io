@@ -5,7 +5,6 @@ date: 2018-12-29 10:00:00
 description: "I’ve been thinking a lot about the dumpster fire we live in with tech, and I wonder if content strategists can help resolve the ethical and privacy woes we’re experiencing. It’s a lot to ask, but content strategists bring skills to tech that might just mitigate some of its worst tendencies."
 categories: content strategy
 tags: [content strategy, humanities, ethics]
-
 ---
 
 I listen to [Kara Swisher’s](https://www.recode.net/authors/kara-swisher) [Recode Decode podcast](https://www.recode.net/recode-decode-podcast-kara-swisher) religiously. Kara’s prodigious output has a common theme of late: the leaders of big tech companies neglected the humanities as part of their (often truncated) education, and so lack the cognitive understanding and tools to truly contemplate the social, political, and ethical implications of their product choices.

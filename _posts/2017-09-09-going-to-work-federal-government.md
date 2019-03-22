@@ -5,7 +5,6 @@ date: 2017-09-08 08:33:00
 description: "I’m leaving my job in county government to join the Department of the Interior"
 categories: web
 tags:  [content strategy, 18F, web, government]
-
 ---
 
 In April 2016, I applied to join the federal digital-services-delivery office [18F](https://18f.gsa.gov/) as a content designer. If you’re not familiar with 18F, it was formed to [change the way the federal government approaches and delivers digital services](https://www.washingtonpost.com/business/on-it/meet-18f-the-gsas-bid-to-change-federal-it/2014/04/18/a9b58db8-c4d3-11e3-b195-dd0c1174052c_story.html) (and the [procurement process](https://modularcontracting.18f.gov/) for said services).

@@ -5,7 +5,6 @@ date: 2019-03-15
 description: "Today’s walk was a long time in the making. We’d been researching public land in our area for months and finally contacted the Bureau of Land Management’s Horning Seed Orchard, a federal research facility. Orchard land isn’t available for recreation, but the bordering private land welcomes responsible recreation."
 categories: walking
 tags: [walk, hike, Port Blakely, BLM]
-
 map-id: port-blakely-1
 map-var: portBlakely1
 lat: 45.217498

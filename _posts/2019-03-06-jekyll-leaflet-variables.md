@@ -5,7 +5,6 @@ date: 2019-03-06
 description: "This is going to sound crazy, and it is. You can use your Jekyll (Liquid) variables in your Leaflet JavaScript. Wut."
 categories: Jekyll
 tags: [JavaScript, Jekyll, maps, Leaflet]
-
 map-id: annies-cabin-map
 map-var: anniesCabinMap
 lat: 45.01916

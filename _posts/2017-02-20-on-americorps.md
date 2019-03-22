@@ -5,7 +5,6 @@ date:   2017-02-20 10:30:00
 description: "Slashing AmeriCorps is symbolic; it’s a drop in the federal budget."
 categories: ideas
 tags: [ideas, philosophy, politics]
-
 ---
 After I graduated from college, I spent a year in an AmeriCorps program in the Portland area. For those who don't know what AmeriCorps is, it's essentially a domestic Peace Corps, a program designed to provide real-world skill development while addressing a local need.
 
