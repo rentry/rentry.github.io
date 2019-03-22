@@ -5,7 +5,7 @@ date: 2019-03-17
 description: "Back to the Molalla Corridor, this time to the Hardy Creek Trail."
 categories: walking
 tags: [walk, hike, Molalla Corridor, BLM]
-comments: true
+
 map-id: hardy-creek-trail
 map-var: hardyCreekTrail
 lat: 45.039704

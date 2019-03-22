@@ -5,7 +5,7 @@ date:   2017-02-05 11:50:00
 description: "Arrival was my favorite film of 2016. It presents a challenge Nietzsche identified throughout his work."
 categories: film
 tags: [film, philosophy, books]
-comments: true
+
 ---
 Arrival was my favorite film of 2016. Granted, I didn't see every critically acclaimed film, but I did see many of them. I'm also not contending that Arrival was the most important film of the year; I'll leave that for others to decide.
 

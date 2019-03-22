@@ -5,7 +5,7 @@ date: 2018-10-26 15:30:00
 description: "Content design and information architecture are inseparable. This series covers methods to construct a flexible architecture for your content, starting with reading into a data file based on a blog post author’s name."
 categories: design
 tags: [design, content strategy, information architecture, tools, GatsbyJS]
-comments: true
+
 ---
 
 This post kicks off a series on how our options as content designers can be expanded or limited based on our site architecture. And while content strategists often depend on other team members (developers) to scope the desired features and build the supporting architecture, understanding how your architecture is built (or can be built) can spark your content design process. 

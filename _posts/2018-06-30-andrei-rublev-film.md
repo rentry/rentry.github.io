@@ -5,7 +5,7 @@ date: 2018-06-30 22:33:00
 description: This film, unlike many that receive the title, is truly epic. It’s one of the few films I own, and I’ve been lucky enough to see it once on the big screen at the Portland Film Festival. A restored version is about to be released to both theaters and video.
 categories: film
 tags:  [film]
-comments: true
+
 ---
 
 I first watched _Andrei Rublev_ nearly 20 years ago when I was in college, studying philosophy and reading [Deleuze’s revelatory, chronomaniacal books on cinema](/tarkovsky-stalker/#time). 

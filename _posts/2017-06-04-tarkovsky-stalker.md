@@ -5,7 +5,7 @@ date:   2017-06-04 10:30:00
 description: "Tarkovsky’s brilliant and immersive film gets a digital restoration and a new audience."
 categories: film
 tags: [film]
-comments: true
+
 ---
 
 Tarkovsky’s haunting 1979 film _Stalker_ has been digitally remastered and is in the middle of an arthouse run. Widely considered Tarkovsky’s best film, it was also his most demanding to make, with some speculation that the [primary film location may have caused Tarkovsky’s death](http://www.tasteofcinema.com/2016/8-famous-directors-who-died-or-almost-died-making-their-films/).
