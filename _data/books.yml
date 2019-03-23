@@ -39,7 +39,7 @@
   image: https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png
   description: I’m re-learning Python in the context of data science and machine learning. Which is kind of weird and gross, to be honest. That said, the book is well-structured, well-written, and informative, and it surveys a discipline conspicuously on the rise.
   genre: [computer science, programming, python, data science]
-  completed: In progress
+  completed: 2019-03-22
 
 - title: "Wild Migrations: Atlas of Wyoming’s Ungulates"
   link: http://osupress.oregonstate.edu/book/wild-migrations
