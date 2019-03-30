@@ -14,7 +14,7 @@ popup-title: "Rocky Mountain Arsenal National Wildlife Refuge"
 popup-text: "Visited on March 29, 2019"
 ---
 
-I had a few hours before I boarded a plane back to Portland (it turned out I had a few more, as the flight was delayed three more hours), so I stopped by the expansive [Rocky Mountain Arsenal National Wildlife Refuge](https://www.fws.gov/refuge/Rocky_Mountain_Arsenal/). Surrounded by human development, including Denver International Airport, the refuge offered a peaceful prelude to the cacophony of the airport terminal.
+I had a few hours before I boarded a plane back to Portland (it turned out I had a few more, as the flight was delayed three hours), so I stopped by the expansive [Rocky Mountain Arsenal National Wildlife Refuge](https://www.fws.gov/refuge/Rocky_Mountain_Arsenal/). Surrounded by human development, including Denver International Airport, the refuge offered a peaceful prelude to the cacophony of the airport terminal.
 
 I walked the Legacy Trail from the visitor center to Lake Mary and Lake Ladora and back, among White-tailed deer, Black-footed ferrets, and Black-tailed prairie dogs.
 
