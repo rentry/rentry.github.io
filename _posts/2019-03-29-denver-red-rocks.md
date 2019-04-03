@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Walking in the Denver: Red Rocks"
+title: "Walking in Denver: Red Rocks"
 date: 2019-03-29
 description: "I traveled to Denver for work and found some time for short walks. My shoes are red from my first visit to Red Rocks."
 categories: walking
