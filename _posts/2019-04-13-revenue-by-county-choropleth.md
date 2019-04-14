@@ -39,7 +39,7 @@ I also wanted to get a sense of the distribution of the data itself, especially 
 
 ![Map of the United States showing relative revenue figures by county]({{ site.baseurl }}/assets/images/revenue-by-county-map-quantize.svg)
 
-Among other problems, this scale had the effect of visually equating (for example) $88 million and $574 million at the top end, and $52 and $12 million at the low end. There was just too much variation in the data for this type of scale.
+Among other problems, this scale had the effect of visually equating (for example) $88 million and $574 million at the top end, and $52 and $12 million at the low end (not to mention _negative_ values on the low end). There was just too much variation in the data for this type of scale.
 
 Using Pandas, I soon discovered the reason why:
 
