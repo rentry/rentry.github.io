@@ -7,7 +7,7 @@ categories: data visualization
 tags: [data visualization, D3, choropleth, map, Python]
 ---
 
-I've been working on mapping [revenue data from natural resource extraction on federal lands](https://revenuedata.doi.gov/). I wanted to get a sense of the variation in the data, so I would know if it was feasible to present the data geographically. Assuming it was feasible to present the data geopgraphically, I also wanted to know which scale I would need to use to display the data in such a way as to convey sufficient variation in the data.
+I've been working on mapping [revenue data from natural resource extraction on federal lands](https://revenuedata.doi.gov/). I wanted to get a sense of the variation in the data, so I would know if it was feasible to present the data geographically. Assuming it was feasible to present the data geographically, I also wanted to know which scale I would need to use to display the data in such a way as to convey sufficient variation in the data.
 
 ## Python Pandas for data analysis
 
