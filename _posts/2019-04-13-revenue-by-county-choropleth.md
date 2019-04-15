@@ -62,4 +62,6 @@ I settled on a quantile scale that interpolates the values along a range, again,
 
 ![Map of the United States showing relative revenue figures by county]({{ site.baseurl }}/assets/images/revenue-by-county-map.svg)
 
+This scale preserves the variations in the data with more fidelity, especially at the lower end of the distribution.
+
 It needs more work, but it serves as a good prototype for evaluating the data.
