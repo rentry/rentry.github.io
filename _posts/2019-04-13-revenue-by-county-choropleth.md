@@ -11,7 +11,7 @@ I've been working on mapping [revenue data from natural resource extraction on f
 
 ## Python Pandas for data analysis
 
-I've been using the [Pandas library](https://pandas.pydata.org/) for [Python](https://www.python.org/) for just this sort of thing. Not only can one quickly derive statistics from the data—such as mean, median, and standard deviation—but Pandas also provides tools for manipulating, organizing, and exporting data, among other things.
+I've been using the [Pandas library](https://pandas.pydata.org/) for [Python](https://www.python.org/) for just this sort of thing. Not only can one quickly derive statistics from the data — such as mean, median, and standard deviation — but Pandas also provides tools for manipulating, organizing, and exporting data, among other things.
 
 The source dataset I used had multiple revenue line items for each county, since it included different types of revenue from extraction on federal land (such as [bonuses, rent, and royalties](https://revenuedata.doi.gov/how-it-works/revenues/#federal-lands-and-waters)). I manually eliminated some columns in Excel (because that was easier than using Pandas), but I summed up the `rate` (revenue) column for each county so there was only one line item for each (I forked the [choropleth Observable Notebook](https://observablehq.com/@d3/quantile-choropleth) from D3 creator Mike Bostock, and lazily retained the column header `rate` that he used for unemployment rates...it's a prototype, after all).
 
