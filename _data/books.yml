@@ -16,7 +16,6 @@
   link: https://yalebooks.yale.edu/book/9780300186093/new-testament
   image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/23404adeb877ac9ed84115181030b55e.jpg?itok=2pIfh7Mf
   description: "The translator said in a podcast (regarding Christianity in the U.S.), and I'm certain he's correct, “America is a great gnostic adventure at the end of the day. I'm not sure Christianity will ever reach these shores, but if it does, it's going to find a very intractable people here...very hard to convert.”"
-
   genre: [philosophy, religion, christianity, fascism]
   completed: In progress
 
@@ -33,6 +32,13 @@
   description: The author traces Nietzsche’s footsteps through the Swiss Alps during two distinct life phases. He grapples with the tension between order and chaos in Nietzsche’s work and his life.
   genre: [autobiography, guidebook, travel, philosophy]
   completed: 2019-03-17
+
+- title: "Dreyer's English: An Utterly Correct Guide to Clarity and Style"
+  link: https://www.penguinrandomhouse.com/books/232363/dreyers-english-by-benjamin-dreyer/9780812995701/
+  image: https://images.penguinrandomhouse.com/cover/9780812995701
+  description: "Benjamin Dreyer, copy chief at Random House, delivers a surprisingly humorous book on grammar and style. I couldn't put this book down, partly because I'm a grammar nerd and share many of the author's “peeves and crotchets,” but mostly because nearly every line of this book is exceptionally intelligent and funny."
+  genre: [writing, grammar, style]
+  completed: 2019-03-01
 
 - title: Red Rising
   link: https://www.penguinrandomhouse.com/series/RRT/red-rising-series
