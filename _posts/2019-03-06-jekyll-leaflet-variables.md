@@ -22,7 +22,9 @@ I’ve alluded to this before, as smarter people than I (namely [Katy DeCorah](h
 
 ## DRY mapping
 
-My [last post]({{site.baseurl}}/molalla-corridor/) demonstrated the need for a map to show walking trails. I prefer [Leaflet](https://leafletjs.com/) for this sort of thing, but I didn’t want to replicate the full script for each map instance. In other words, I wanted to remain faithful to the sacred **D**on’t **R**epeat **Y**ourself principle, and only add new code for new attributes.
+~~My last post demonstrated the need for a map to show walking trails.~~ (I’ve since removed my posts related to walking locations after reviewing updated [Leave No Trace Guidance](https://lnt.org/new-social-media-guidance/).
+
+I prefer [Leaflet](https://leafletjs.com/) for this sort of thing, but I didn’t want to replicate the full script for each map instance. In other words, I wanted to remain faithful to the sacred **D**on’t **R**epeat **Y**ourself principle, and only add new code for new attributes.
 
 So I abstracted the common code into a [Jekyll include](https://jekyllrb.com/docs/includes/), and I created front matter variables that allow me to control the latitude, longitude, zoom level, and pop-up text for each map instance.
 
