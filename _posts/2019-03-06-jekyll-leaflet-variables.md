@@ -22,7 +22,7 @@ I’ve alluded to this before, as smarter people than I (namely [Katy DeCorah](h
 
 ## DRY mapping
 
-~~My last post demonstrated the need for a map to show walking trails.~~ (_I’ve since removed my posts related to walking locations after reviewing updated [Leave No Trace Guidance](https://lnt.org/new-social-media-guidance/)_.)
+~~My last post demonstrated the need for a map to show walking trails.~~ (_I’ve since removed my posts related to walking locations after belatedly reviewing updated [Leave No Trace Guidance](https://lnt.org/new-social-media-guidance/)_.)
 
 I prefer [Leaflet](https://leafletjs.com/) for this sort of thing, but I didn’t want to replicate the full script for each map instance. In other words, I wanted to remain faithful to the sacred **D**on’t **R**epeat **Y**ourself principle, and only add new code for new attributes.
 
