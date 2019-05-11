@@ -1,9 +1,23 @@
+- title: "The Uninhabitable Earth: Life After Warming"
+  link: https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/9780525576709/
+  image: https://images.penguinrandomhouse.com/cover/9780525576709
+  description: "The book begins with an unsurprising truth, recognizable to those who've studied the climate change research: “It is worse, much worse, than you think.” This is the urgency we need, and of course, it's still too late to prevent the onset of climate change. Despite that, perhaps we can muster the will to prevent the worst of the devastating impacts coming our way."
+  genre: [climate change, global warming, environment, politics, science]
+  completed: In progress
+
+- title: "Becoming"
+  link: https://www.becomingmichelleobama.com/
+  image: https://www.becomingmichelleobama.com/assets/img/MO_bookshot_v3.jpg
+  description: "I can’t do better than this: “Warm, wise, and revelatory, Becoming is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.”"
+  genre: [politics]
+  completed: 2019-05-11
+
 - title: "The Best Interface is No Interface"
   link: http://www.nointerface.com/book/
   image: https://images-na.ssl-images-amazon.com/images/I/21uyjPvDriL._SY291_BO1,204,203,200_QL40_.jpg
   description: "By page 5, I knew this was a book we need right now: “Forget that 780 million people in the world, give or take, don't have access to clean drinking water, or that more than half a million people are homeless in the wealthy United States. We moved way past ‘mundane’ social issues and collectively propelled the technology field—where disruption and innovation has a proven track record of changing everyday lives—to giving the world what it really needs: more mobile apps.”"
   genre: [UX, design, technology, web, digital]
-  completed: In progress
+  completed: 2019-05-09
 
 - title: "The Plants of Middle-earth: Botany and sub-creation"
   link: https://www.goodreads.com/book/show/92013.The_Plants_of_Middle_Earth
