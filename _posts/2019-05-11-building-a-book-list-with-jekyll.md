@@ -2,7 +2,7 @@
 layout: post
 title: "Creating a book list"
 date: 2019-05-11
-description: "My site now includes a list of books I’ve completed or currently reading. This post covers how I built it with Jekyll’s data files."
+description: "My site now includes a list of books I’ve completed or am currently reading. This post covers how I built it with Jekyll’s data files."
 categories: books
 tags: [books, Jekyll, data, development]
 ---
@@ -85,4 +85,7 @@ I wrote a conditional that evaluates whether or not I’ve completed the book or
 {% endraw %}
 
 <br>
+
+Add some styling, and you’re good to go!
+
 Get nerdy, friends, and have a look at [📚the book list]({{ site.baseurl }}/books).
