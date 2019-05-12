@@ -7,7 +7,7 @@ categories: books
 tags: [books, Jekyll, data, development]
 ---
 
-I discovered I wanted keep track of what I’m reading, largely because I have an unfortunate habit of reading multiple books at a time.
+I have an unfortunate habit of reading multiple books at a time, so I wanted to keep track of my book list. Here’s how I built it.
 
 ## Book data
 I set about creating a Jekyll data file to store my book list. This data file is called `books.yml`, and it’s located in Jekyll’s `_data` directory. 
