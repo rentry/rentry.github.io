@@ -12,7 +12,7 @@ title: Books
   <div class="book-item">
     <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
     <div class="book-info">
-      <h2><em><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></em></h2>
+      <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
       <p>{{ book.description }}</p>
       <p class="post-meta">Date completed:      
         {% if book.completed == 'In progress' %}

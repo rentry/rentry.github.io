@@ -410,6 +410,8 @@ span.arrow {
 }
 
 .book-title {
+    font-family: $italic-font-family;
+    font-style: italic;
     text-decoration: none;
     color: $brand-color;
 
