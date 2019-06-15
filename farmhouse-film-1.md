@@ -1,16 +1,18 @@
 ---
 layout: farmhouse
-title:  House warming (and birthday) celebration
+title:  "Farmhouse films: <em>Pan's Labyrinth</em>"
 event-image: /assets/images/film-pans.png
 action: https://formspree.io/brentryanjohnson@gmail.com
 comments: false
 ---
 
-# Join us for a housewarming
+# Farmhouse film series
 
-Hi friends! It's been a minute.
+We're starting a summer film series. We'll watch films, projected outside, around the campfire.
 
-We recently moved into a new, _old_ farmhouse in the country, and we'd like you to come by and visit us.
+## Part 1: Pan's Labyrinth
+
+
 
 ## When
 
@@ -38,7 +40,7 @@ There is a [football game](https://goducks.com/schedule.aspx?schedule=2357) – 
 
 **Update:** The game is set for 12:30 p.m., so come by early, if you want to observe anxious Ryan!
 
-![The Farmhouse Warming with the farmhouse logo, a botanical theme](/assets/images/the-farmhouse-warming.jpg)
+![The Farmhouse Warming with the farmhouse logo, a botanical theme](/assets/images/the-farmhouse-invite-film-pans.png)
 
 ## Oh, and Ryan's birthday
 This housewarming also celebrates Ryan's birthday, which is the week before. Cool!

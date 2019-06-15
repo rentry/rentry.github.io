@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /farmhouse-warming/
+Disallow: /farmhouse-event/
