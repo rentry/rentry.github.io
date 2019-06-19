@@ -2,6 +2,7 @@
 layout: farmhouse
 title:  "Farmhouse films: <em>Pan's Labyrinth</em>"
 event-image: /assets/images/film-pans.png
+image-alt: Scary shit, as we see a naked, pale man, scary as shit, stuck to the bottom of our screen
 action: https://formspree.io/brentryanjohnson@gmail.com
 comments: false
 ---

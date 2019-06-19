@@ -2,7 +2,7 @@
 layout: about
 ---
 
-## 👋 Hello, from Oregon
+## Hello, from Oregon 🌲
 
 I’m a content strategist living in Portland, Oregon. My background is in conservation, communication, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
