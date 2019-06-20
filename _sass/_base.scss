@@ -24,7 +24,13 @@ margin-bottom: 20px;
  */
 
 html, body {   
-    height: 100%; 
+    height: 100%;
+    animation: fadein .3s;
+}
+
+@keyframes fadein {
+    from { opacity: 0; }
+    to   { opacity: 1; }
 }
 
 body {
