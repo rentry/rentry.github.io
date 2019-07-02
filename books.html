@@ -17,6 +17,8 @@ title: Books
       <p class="post-meta">Date completed:      
         {% if book.completed == 'In progress' %}
           <span style="color: #e71c4f">📖 {{ book.completed }}</span>
+        {% elsif book.completed == 'Abandoned' %}
+            <span style="color: #e71c4f"">{{ book.completed }} ¯\_(ツ)_/¯ </span>
         {% else %}
           {{ book.completed | date: "%B %-d, %Y" }}
         {% endif %}  
