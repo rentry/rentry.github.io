@@ -104,15 +104,32 @@ nav.site-nav {
 }
 
 .about-image {
-    margin-top: -1em;
+    background-image: url(../assets/images/header.jpg);
+    height: calc(100% - 194px);
+    //background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+@media only screen and (max-width: 1300px) {
+    .about-image {
+        background-image: url(../assets/images/header-medium.jpg);
+    }
+}
+
+@media only screen and (max-width: 980px) {
+    .about-image {
+        background-image: url(../assets/images/header-small.jpg);
+    }
 }
 
 @media only screen and (max-width: 640px) {
     .about-image {
-        width: 100%;
+        background-image: url(../assets/images/header-verysmall.jpg);
+        height: 281px;
     }
     #words-and-maps {
-        margin-top: .5rem;
+        margin-top: 1rem;
     }
 }
 
