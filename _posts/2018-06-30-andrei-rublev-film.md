@@ -13,8 +13,9 @@ I first watched _Andrei Rublev_ nearly 20 years ago when I was in college, study
 
 A restored version of _Andrei Rublev_, like Tarkovsky’s [_Stalker_](/tarkovsky-stalker/) and _The Sacrifice_ before it, is about to be re-released theatrically by [Janus Films](http://www.janusfilms.com/films/1827) and on DVD and Blu-ray by [The Criterion Collection](https://www.criterion.com/films/300-andrei-rublev).
 
-<iframe src="https://player.vimeo.com/video/274160443" width="100%" height="337" frameborder="0" allowfullscreen></iframe>
-<br>
+<div class="videowrapper">
+    <iframe src="https://player.vimeo.com/video/274160443" width="100%" height="337" frameborder="0" allowfullscreen></iframe>
+</div>
 
 _Andrei Rublev_ is a masterpiece that deserves to be experienced by a new audience. But you don’t have to take my word for it:
 
