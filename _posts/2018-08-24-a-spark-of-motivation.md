@@ -49,7 +49,7 @@ In his book _Beautiful Evidence_, Edward Tufte describes sparklines as "intense,
 
 > These little data lines, because of their active quality over time, are named _sparklines_ – small, high-resolution graphics usually embedded in a full context of words, numbers, images. Sparklines are _datawords_: data-intense, design-simple, word-sized graphics.
 
-The simplicity and utility of sparklines explains why they are representative of Tufte's approach to the presentation of information:
+The simplicity and utility of sparklines explain why they are representative of Tufte's approach to the presentation of information:
 
 - They have very high resolution.
 - They don't obscure the content, but rather augment and contextualize it.
