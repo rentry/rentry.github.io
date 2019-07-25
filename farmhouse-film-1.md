@@ -9,7 +9,7 @@ comments: false
 
 # Farmhouse film event
 
-Cousin Brian and Emily, you are cordially invited to this special film event. We'll watch one of my favorite films of all time, projected outside, around the campfire (if my projector still works, and fire restrictions allow).
+Cousin Brian and Emily, you are cordially invited to this special film event. My nephew, Owen, will also join us. We'll watch one of my favorite films of all time, projected outside, around the campfire (if my projector still works, and fire restrictions allow).
 
 ## Pan's Labyrinth
 
