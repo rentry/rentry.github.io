@@ -7,68 +7,29 @@ action: https://formspree.io/brentryanjohnson@gmail.com
 comments: false
 ---
 
-# Farmhouse film series
+# Farmhouse film event
 
-We're starting a summer film series. We'll watch films, projected outside, around the campfire.
+Cousin Brian and Emily, you are cordially invited to this special film event. We'll watch one of my favorite films of all time, projected outside, around the campfire (if my projector still works, and fire restrictions allow).
 
-## Part 1: Pan's Labyrinth
+## Pan's Labyrinth
 
+> Pan's Labyrinth (Spanish: El laberinto del fauno, lit. 'The Labyrinth of the Faun') is a 2006 Spanish dark fantasy drama film written and directed by Guillermo del Toro, and starring Ivana Baquero, Sergi López, Maribel Verdú, Doug Jones, and Ariadna Gil. The story takes place in Spain during the summer of 1944, five years after the Spanish Civil War, during the early Francoist period. The narrative intertwines this real world with a mythical world centered on an overgrown, abandoned labyrinth and a mysterious faun creature, with whom the main character, Ofelia, interacts. Ofelia's stepfather, the Falangist Captain Vidal, hunts the Spanish Maquis who fight against the Francoist regime in the region, while Ofelia's pregnant mother Carmen grows increasingly ill. Ofelia meets several strange and magical creatures who become central to her story, leading her through the trials of the old labyrinth garden. The film employs make-up, animatronics, and CGI effects to bring life to its creatures. - [Wikipedia](https://en.wikipedia.org/wiki/Pan's_Labyrinth)
 
+> El laberinto del fauno is explicitly about fascism, but is of interest not simply because of its subject matter but above all because of del Toro’s iconoclastic approach to the rendering of fascism on screen. In obvious ways, the film came through Hollywood by way of a distinctively non-U.S. sensibility, a Mexican sensibility in which the question of fascist dictatorship is perceived by the filmmaker both personally and historically. In del Toro’s case, following his father’s kidnapping in 1998 he was forced into exile, a condition in which he remains today. But what makes del Toro’s artistic approach to fascism so different from that of the run-of-the-mill Hollywood production, such as Steven Spielberg’s Schindler’s List, is his construction of a transcendent fascist-monster archetype. Schindler’s List, in contrast, offers fascist social types that cannot exist anywhere but in Nazi Germany. Moreover, unlike Schindler’s List, where there are antifascist German capitalists and fascist German capitalists (a clever ideological invention on Spielberg’s part, since in reality there were no German capitalists who opposed fascism), in El laberinto del fauno, all the capitalists are behind fascism, which is shown, as we shall see, in one of the film’s most compelling scenes. - [sdonline](http://sdonline.org/47/the-antifascist-aesthetics-of-pan%E2%80%99s-labyrinth/)
 
 ## When
 
-- <strike>Saturday, October 13<br>
-4 p.m. to whenever</strike>
-
-Event is over
+- Friday, July 26<br>
+6 p.m.<br>
+Film begins at 8:30 p.m.
 
 ## Where
-Event is complete
+Ryan and Erinn's farmhouse
 
 ## What to bring
-We'll grill some meats and provide some side dishes, but feel free to bring snacks or beverages (especially if you don't want to eat meat).
-
-## Pet stuff
-As you know, dogs will be here. Some of them are super cute and _super_ emotional (we all know I'm talking about Henry).
-
-Our dogs are good boys (especially Sam), but if you want to bring kids and/or dogs with you, let us know so we can plan accordingly.
-
-## What if it rains?!?
-Rain sounds really, really good right now, but I'm sure we'll be sick of it again soon. If it rains: we have a large, covered shop. We have a canopy to seek refuge under. Oh, and there's a house. So we're good.
-
-## The elephant in the room
-There is a [football game](https://goducks.com/schedule.aspx?schedule=2357) – <span class="ducks">Ducks</span> vs. <span class="enemy">The Enemy</span> – scheduled for Oct. 13. The exact time for this epic and sacred battle is yet to be determined. This unfortunate accident of history might affect the attention and focus of one of the hosts (and possibly some guests). But alas, we will adapt, and we shall not worry.
-
-**Update:** The game is set for 12:30 p.m., so come by early, if you want to observe anxious Ryan!
+We'll make some food. Bring some soda pops or other beverages. And your own popcorn. 🍿
 
 ![The Farmhouse Warming with the farmhouse logo, a botanical theme](/assets/images/the-farmhouse-invite-film-pans.png)
-
-## Oh, and Ryan's birthday
-This housewarming also celebrates Ryan's birthday, which is the week before. Cool!
-
-## RSVP
-Let us know if you'll be there! 
-
-You know what to do. Just fill in those boxes down there 👇 and let us know your plans.
-
-<form class="form-style-7" action="{{ page.action }}" method="POST">
-<ul>
-<li>
-    <label for="name">Name</label>
-    <input type="text" name="name" maxlength="100">
-    <span>Which friend are you, anyway? Enter your name above.</span>
-</li>
-<li>
-    <label for="rsvp">Will you be there?</label>
-    <textarea name="rsvp" onkeyup="adjust_textarea(this)"></textarea>
-    <span>Let us know if you'll be there, who might join you, and anything else we should know.</span>
-</li>
-<li style="padding-left: 0;">
-    <input type="submit" value="Send it" >
-    <input type="hidden" name="_next" value="{{ site.baseurl }}/farmhouse-warming-thanks"/>
-</li>
-</ul>
-</form>
 
 ## We're excited to see you
 
