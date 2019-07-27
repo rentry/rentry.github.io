@@ -62,6 +62,7 @@ I created a new file called `books.html` in the main directory, with the followi
   </div> 
   </li>
 {% endfor %}
+</ul>
 ```
 {% endraw %}
 
