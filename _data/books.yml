@@ -2,7 +2,14 @@
   link: https://www.penguinrandomhouse.com/books/541729/this-land-by-christopher-ketcham/9780735220980/
   image: https://images.penguinrandomhouse.com/cover/9780735220980
   description: "Outside magazine calls this book “the <em>Desert Solitaire</em> of Our Time,” and we need another Abbey right now. We're witenessing an unprecedented hostility toward our public lands from elected officials right now, at a time when those lands are already under threat from climate change."
-  genre: [politics, economics]
+  genre: [politics, economics, environment, conservation]
+  completed: In progress
+
+  - title: "Range: Why Generalists Triumph in a Specialized World"
+  link: https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/9780735214484
+  image: https://images.penguinrandomhouse.com/cover/9780735214484
+  description: "I've always been a generalist, and I often feel insecure about my lack of mastery over a particular discipline. And, of course, capitalism rewards specialization, a making it difficult to cultivate wide-ranging skills and knowledge."
+  genre: [psychology, business]
   completed: In progress
 
 - title: "All Art is Propaganda: Critical Essays"
