@@ -12,7 +12,7 @@ I spend my free time walking among trees.
 
 ### Words
 ✍️ [blog](/posts)<br>
-📚 [books](/books)
+📚 [reading list](/books)
 
 ### Work
 [{% include github_icon.html %} rentry](https://github.com/rentry)<br>
