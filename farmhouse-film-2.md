@@ -17,13 +17,17 @@ You are cordially invited to this special film event. We'll watch one of the bes
 
 ## When
 
-- <em>Coming soon</em>
+- **Friday, September 6**
+<br> arrive around: **6 p.m.**
+<br> film begins: **8 p.m.**
+
 
 ## Where
 Ryan and Erinn's farmhouse
+<br><em>email or text Ryan if you need directions.</em>
 
 ## What to bring
-We'll make some food. Bring some soda pops or other beverages. And your own popcorn. 🍿
+We'll make some food. Bring some soda pops 🥤 or other beverages 🍺. We'll provide some snacks at film time 🍿, but bring your own, too 🍬.
 
 ![The farmhouse logo, a botanical theme, with The Dark Knight projected in front](/assets/images/the-farmhouse-invite-film-darkknight.jpg)
 
