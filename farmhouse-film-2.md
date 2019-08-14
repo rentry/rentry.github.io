@@ -27,12 +27,12 @@ Ryan and Erinn's farmhouse
 <br><em>email or text Ryan if you need directions.</em>
 
 ## What to bring
-We'll make some food. Bring some soda pops 🥤 or other beverages 🍺. We'll provide some snacks at film time 🍿, but bring your own, too 🍬.
+We'll make some food. Bring some soda pops or other beverages. We'll provide some snacks at film time 🍿, but bring your own, too.
 
 ![The farmhouse logo, a botanical theme, with The Dark Knight projected in front](/assets/images/the-farmhouse-invite-film-darkknight.jpg)
 
 ## We're excited to see you
 
-✌️
+<em>Why so SERIOUS??</em>
 
 ![The Farmhouse in the gloaming](/assets/images/farmhouse.jpg)
