@@ -23,7 +23,7 @@ You are cordially invited to this special film event. We'll watch one of the bes
 
 
 ## Where
-Ryan and Erinn's farmhouse
+- Ryan and Erinn's farmhouse
 <br><em>email or text Ryan if you need directions.</em>
 
 ## What to bring
