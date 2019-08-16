@@ -1,3 +1,10 @@
+- title: "Natural Language Processing: A Quick Introduction to NLP with Python and NLTK "
+  link: https://www.amazon.com/Natural-Language-Processing-Step-Step-ebook/dp/B07V1F3PYQ/ref=zg_bs_271581011_26?_encoding=UTF8&psc=1&refRID=JH5EPQ5MKKY5VP7X8BXZ
+  image: https://images-na.ssl-images-amazon.com/images/I/51-vCgzAfNL.jpg
+  description: "I'm a word nerd."
+  genre: [machine learning, python, linguistics, computer science, data science, programming]
+  completed: In progress
+
 - title: "This Land: How Cowboys, Capitalism, and Corruption are Ruining the American West"
   link: https://www.penguinrandomhouse.com/books/541729/this-land-by-christopher-ketcham/9780735220980/
   image: https://images.penguinrandomhouse.com/cover/9780735220980
