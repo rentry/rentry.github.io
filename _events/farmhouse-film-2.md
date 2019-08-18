@@ -1,6 +1,7 @@
 ---
 layout: farmhouse
 title:  "Farmhouse films: <em>The Dark Knight</em>"
+permalink: /farmhouse-film-2/
 event-image: /assets/images/film_the_dark_knight.png
 image-alt: The joker, wearing a green vest and green hair, with white makeup and a pronounced red smile
 ---

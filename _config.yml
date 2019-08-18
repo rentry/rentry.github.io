@@ -12,6 +12,7 @@ github_username:  rentry
 markdown: kramdown
 permalink: ":title/"
 highlighter: rouge
+include: ['_events']
 
 # Pagination
 plugins: [jekyll-paginate]
