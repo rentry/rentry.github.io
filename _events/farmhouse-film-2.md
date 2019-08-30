@@ -20,8 +20,7 @@ You are cordially invited to this special film event. We'll watch one of the bes
 
 - **Friday, September 6**
 <br> arrive around: **6 p.m.**
-<br> film begins: **8 p.m.**
-
+<br> film begins: **7:45 p.m.**
 
 ## Where
 - Ryan and Erinn's farmhouse
