@@ -1,3 +1,17 @@
+- title: "Applied Text Analysis with Python"
+  link: http://shop.oreilly.com/product/0636920052555.do
+  image: https://covers.oreillystatic.com/images/0636920052555/lrg.jpg
+  description: "I'm not going to lie: I'm concerned about the rise of machine learning and artifical intelligence. Nevertheless, these fields are quickly asserting themselves as the next evolution of several existing fields, including content strategy and design. After months of trying to decide where to start exploring machine learning, I've landed on Natural Language Processing as the most obvious introduction. This book continues that exploration."
+  genre: [python, data, machine learning, natural language processing]
+  completed: In progress
+
+- title: "Design Systems Handbook"
+  link: https://www.designbetter.co/design-systems-handbook
+  image: https://s3.amazonaws.com/designco-web-assets/uploads/2017/11/systems-thumb.png
+  description: "Attendees of the excellent 2019 Clarity Conference each received a print version of this resourceful handbook about creating, managing, and deploying design systems."
+  genre: [design, technology]
+  completed: 2019-09-09
+
 - title: "Propaganda"
   link: https://en.wikipedia.org/wiki/Propaganda_(book)
   image: http://d.gr-assets.com/books/1354208717l/493212.jpg
