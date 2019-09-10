@@ -104,8 +104,8 @@ nav.site-nav {
 }
 
 .about-image {
-    background-image: url(../assets/images/header.jpg);
-    height: calc(100% - 194px);
+    background-image: url(../assets/images/header.png);
+    height: calc(100%);
     //background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -113,19 +113,19 @@ nav.site-nav {
 
 @media only screen and (max-width: 1300px) {
     .about-image {
-        background-image: url(../assets/images/header-medium.jpg);
+        background-image: url(../assets/images/header-medium.png);
     }
 }
 
 @media only screen and (max-width: 980px) {
     .about-image {
-        background-image: url(../assets/images/header-small.jpg);
+        background-image: url(../assets/images/header-small.png);
     }
 }
 
-@media only screen and (max-width: 640px) {
+@media only screen and (max-width: 450px) {
     .about-image {
-        background-image: url(../assets/images/header-verysmall.jpg);
+        background-image: url(../assets/images/header-verysmall.png);
         height: 281px;
     }
     #words-and-maps {
