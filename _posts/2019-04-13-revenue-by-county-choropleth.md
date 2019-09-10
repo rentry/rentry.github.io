@@ -4,7 +4,7 @@ title: "County choropleth map using Python and D3"
 date: 2019-04-13
 description: "I've been working with public lands revenue data by county to determine the most effective geospatial presentation."
 categories: data visualization
-tags: [data visualization, maps, Python]
+tags: [data visualization, maps, D3, Python]
 ---
 
 I've been working on mapping [revenue data from natural resource extraction on federal lands](https://revenuedata.doi.gov/). I wanted to get a sense of the variation in the data, so I would know if it was feasible to present the data geographically. Assuming it was feasible to present the data geographically, I also wanted to know which scale I would need to use to display the data in such a way as to convey sufficient variation in the data.
