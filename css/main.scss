@@ -143,7 +143,12 @@ $to:    #303030;
 
 .navbar-header a {
     text-decoration: none;
+
+    &:visited {
+        color: #29353a;
+    }
 }
+
 .brandStyle a:hover {
     text-decoration: none;
     color: #33cc33;
