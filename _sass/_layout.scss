@@ -358,19 +358,19 @@ Post List and items
 
 .tags {
     display: inline-block;
-    color: #0077b3;
+    color: $grey-color;
     font-size: 0.8em;
     font-weight: 300;
     list-style: none;
-    border: 1px solid #0077b3;
+    border: 1px solid $grey-color;
     margin-right: .3rem;
-    padding: 0.2em 0.5em ;
+    padding: 0.2em 0.5em;
     border-radius: 0.4em;
 }
 
 .tags:hover {
-    color: $grey-color-dark;
-    border-color: $grey-color-dark;
+    color: #0077b3;
+    border-color: #0077b3;
 }
     
 .post-date {
