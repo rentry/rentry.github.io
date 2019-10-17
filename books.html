@@ -4,7 +4,7 @@ title: Books
 ---
 <h1>Books</h1>
 
-<p>I started this book list at the beginning of 2019. It includes books I've started or completed since the beginning of that year.</p>
+<p>I started this book list at the beginning of 2019. It includes books I've started or completed since the beginning of that year. I prefer analog (paper-bound) books, but occasionally embrace an audiobook, marked 🎧 below.</p>
 
 <ul class="book-list">
 {% for book in site.data.books %}
@@ -21,7 +21,9 @@ title: Books
             <span style="color: #e71c4f"">{{ book.completed }} ¯\_(ツ)_/¯ </span>
         {% else %}
           {{ book.completed | date: "%B %-d, %Y" }}
-        {% endif %}  
+        {% endif %}
+        {% if book.audiobook == true %} <span>🎧</span>
+        {% endif %} 
       </p>
     </div>
   </div> 
