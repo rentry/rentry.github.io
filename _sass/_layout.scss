@@ -447,6 +447,12 @@ span.arrow {
         }  
 }
 
+.book-author {
+    color: $grey-color-dark;
+    font-size: 0.8em;
+    margin-top: -10px;
+}
+
 @media only screen and (max-width: 640px) {
     .cover {
         float: none;

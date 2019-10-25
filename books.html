@@ -15,6 +15,7 @@ title: Books
     <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
     <div class="book-info">
       <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
+      <p class="book-author">{{ book.author }}</p>
       <p>{{ book.description }}</p>
       <p class="post-meta">Date completed:      
         {% if book.completed == 'In progress' %}

@@ -1,4 +1,5 @@
 - title: "Catch and Kill"
+  author: Ronan Farrow
   link: https://www.littlebrown.com/landing-page/ronan-farrow-catch-and-kill/
   image: https://www.littlebrown.com/wp-content/uploads/2019/10/9780316486668-1.jpg?fit=309%2C480
   description: "“He didn’t let it go, though there were plenty of people who tried to pry him loose. In addition to the ‘all white, all male’ chain of command at NBC, there was Weinstein himself, waging a war on all fronts.” - Jennifer Szalai, New York Times"
@@ -7,13 +8,15 @@
   audiobook: true
 
 - title: "The Tyranny of Words"
+  author: Stuart Chase
   link: https://www.goodreads.com/book/show/2343374.The_Tyranny_of_Words
   image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348079763l/2343374.jpg
-  description: "This book begins with a question: “Is it possible to explain words with words?” It's an excellent question. Is it possible to explain with words why one would read a book attempting to explain words with words? I'm about to find out. (The book's author, Stuart Chase, combined a few words that were later adopted for a transformative socioeconomic policy: “A New Deal.” Of course, the phrase is making a comeback, accompanied by a new hue.)"
+  description: "This book begins with a question: “Is it possible to explain words with words?” It's an excellent question. Is it possible to explain with words why one would read a book attempting to explain words with words? Probably not. Even so, I found myself referencing line after line from this book, organizing quotes in my notes app. Even when focused on events from the 1930s (the decade in which this book was written), the ideas and framing feel more relevant than ever. The book's author, Stuart Chase, combined a few words that were later adopted for a transformative socioeconomic policy: “A New Deal.” Of course, the phrase is making a comeback, accompanied by a new hue."
   genre: [philosophy, language, linguistics, communication]
   completed: 2019-10-24
 
 - title: "Assholes: A Theory"
+  author: Aaron James
   link: https://www.penguinrandomhouse.com/books/215671/assholes-by-aaron-james/9780804171359#
   image: https://images2.penguinrandomhouse.com/cover/9780804171359
   description: "We're going to need a bigger boat. Since they're everywhere, and in our highest offices, time to dig in. “According to Karl Marx, capitalism is unstable but inevitably gives way to something better. The proliferation of assholes suggests that Marx was wrong: capitalism is unstable but can give way to something worse.”"
@@ -21,6 +24,7 @@
   completed: 2019-10-11
 
 - title: "Brave New World"
+  author: Aldous Huxley
   link: https://en.wikipedia.org/wiki/Brave_New_World
   image: https://upload.wikimedia.org/wikipedia/en/6/62/BraveNewWorld_FirstEdition.jpg
   description: "I haven't read this classic in about 20 years, so it was time to revisit it...even if it means, once again, confronting the fading line between fiction and non-fiction."
@@ -28,6 +32,7 @@
   completed: 2019-10-05
 
 - title: "Design Systems Handbook"
+  author: "Marco Suarez, Jina Anne, Katie Sylor-Miller, Diana Mounter, and Roy Stanfield"
   link: https://www.designbetter.co/design-systems-handbook
   image: https://s3.amazonaws.com/designco-web-assets/uploads/2017/11/systems-thumb.png
   description: "Attendees of the excellent 2019 Clarity Conference each received a print version of this resourceful handbook about creating, managing, and deploying design systems."
@@ -35,6 +40,7 @@
   completed: 2019-09-09
 
 - title: "Propaganda"
+  author: Edward Bernays
   link: https://en.wikipedia.org/wiki/Propaganda_(book)
   image: http://d.gr-assets.com/books/1354208717l/493212.jpg
   description: "“<em>Propaganda</em> explored the psychology behind manipulating masses and the ability to use symbolic action and propaganda to influence politics, effect social change, and lobby for gender and racial equality.” The principles described and advocated for in this book are ubiquitous and largely conspicuous in our society. I found them distasteful, as was the experience reading this book."
@@ -42,6 +48,7 @@
   completed: 2019-09-13
 
 - title: "Applied Text Analysis with Python"
+  author: "Benjamin Bengfort, Tony Ojeda, Rebecca Bilbro"
   link: http://shop.oreilly.com/product/0636920052555.do
   image: https://covers.oreillystatic.com/images/0636920052555/lrg.jpg
   description: "I'm not going to lie: I'm concerned about the rise of machine learning and artificial intelligence. Nevertheless, these fields are quickly asserting themselves as the next evolution of several existing fields, including content strategy and design. After months of trying to decide where to start exploring machine learning, I've landed on Natural Language Processing as the most obvious introduction. This book continues that exploration."
@@ -49,6 +56,7 @@
   completed: In progress  
 
 - title: "Ruined by Design: How Designers Destroyed the World, and What We Can Do to Fix It"
+  author: Mike Monteiro
   link: https://www.ruinedby.design/
   image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1558916139l/44432844._SY475_.jpg
   description: "“The world is working exactly as designed. And it’s not working very well. Which means we need to do a better job of designing it. Design is a craft with an amazing amount of power. The power to choose. The power to influence. As designers, we need to see ourselves as gatekeepers of what we are bringing into the world, and what we choose not to bring into the world. Design is a craft with responsibility. The responsibility to help create a better world for all.”"
@@ -56,6 +64,7 @@
   completed: 2019-09-07
 
 - title: "The Real World of Technology"
+  author: Ursula Franklin
   link: https://www.goodreads.com/book/show/1291973.The_Real_World_of_Technology
   image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328772206l/1291973.jpg
   description: "“Franklin argues that technology is more than the sum of its wheels, gears, and transmitters. It is a system that involves organization, procedures, symbols, new words, equations, and, most of all, a mindset.” This book is prescient, profound, and deeply human. Everyone working in technology should read it."
@@ -63,6 +72,7 @@
   completed: 2019-08-25
 
 - title: "Educated: A Memoir"
+  author: Tara Westover
   link: https://www.penguinrandomhouse.com/books/550168/educated-by-tara-westover/9780399590504/
   image: https://images4.penguinrandomhouse.com/cover/9780399590504
   description: "The buzz about this memoir has been unavoidable for several months, and it's finally climbed to the top of my queue. I grew up in a rural town in Wyoming, with Mormon grandparents and some radically conservative family members, among them my own parents. My journey to education wasn't nearly as dramatic, but the cultural landscape was not far from the author's. “Breathtaking, heart-wrenching, inspirational—I've never read anything like this.” –Amy Chua"
@@ -70,6 +80,7 @@
   completed: 2019-08-30
 
 - title: "Natural Language Processing: A Quick Introduction to NLP with Python and NLTK"
+  author: Samuel Burns
   link: https://www.amazon.com/Natural-Language-Processing-Step-Step-ebook/dp/B07V1F3PYQ/ref=zg_bs_271581011_26?_encoding=UTF8&psc=1&refRID=JH5EPQ5MKKY5VP7X8BXZ
   image: https://images-na.ssl-images-amazon.com/images/I/51-vCgzAfNL.jpg
   description: "I'm a word nerd. While this text isn't particularly well-written, it is a competent introduction to Natural Language Processing, a branch of machine learning focused on the statistical analysis of language."
@@ -77,6 +88,7 @@
   completed: 2019-08-17
 
 - title: "This Land: How Cowboys, Capitalism, and Corruption are Ruining the American West"
+  author: Christopher Ketcham
   link: https://www.penguinrandomhouse.com/books/541729/this-land-by-christopher-ketcham/9780735220980/
   image: https://images.penguinrandomhouse.com/cover/9780735220980
   description: "Outside magazine calls this book “the <em>Desert Solitaire</em> of Our Time,” and we need another Abbey right now. We're witnessing a renewed and virulent hostility toward our public lands from elected officials, at a time when those lands are already under threat from climate change. <em>This land is your land</em>. This is a record of the status of your property, and it doesn't look good."
@@ -84,6 +96,7 @@
   completed: 2019-08-14
 
 - title: "Range: Why Generalists Triumph in a Specialized World"
+  author: David Epstein
   link: https://www.penguinrandomhouse.com/books/550188/range-by-david-epstein/9780735214484
   image: https://images.penguinrandomhouse.com/cover/9780735214484
   description: "I've always been a generalist, and I often feel insecure about my lack of mastery over a particular discipline. And, of course, capitalism rewards specialization, making it difficult to cultivate wide-ranging skills and knowledge. “The challenge we all face is how to maintain the benefits of breadth, diverse experience, interdisciplinary thinking, and delayed concentration in a world that increasingly incentivizes, even demands, hyperspecialization.”"
@@ -91,6 +104,7 @@
   completed: 2019-08-25
 
 - title: "All Art is Propaganda: Critical Essays"
+  author: George Orwell
   link: https://b-ok.org/book/2072455/b36c10
   image: ../assets/images/all-art-is-propaganda.jpg
   description: "After reading <em>Politics and the English Language</em>, I was craving more prose from Orwell, so I'm reading an essay here and there from this diverse collection."
@@ -98,6 +112,7 @@
   completed: 2019-08-02
 
 - title: "Twilight of the Elites: America After Meritocracy"
+  author: Chris Hayes
   link: https://en.wikipedia.org/wiki/Twilight_of_the_Elites
   image: https://upload.wikimedia.org/wikipedia/en/c/c4/Twilight_of_the_Elites.jpg
   description: "Published back in 2012, this book has been showing up in my Twitter feed a lot lately for its prescient political commentary. “...we approach a terrifying prospect: a society that may no longer be capable of reaching the kind of basic agreement necessary for social progress. And this is happening at just the moment when we face the threat of catastrophic climate change, what is likely the single largest governing challenge that human beings have ever faced in the history of life on the planet.”"
@@ -105,6 +120,7 @@
   completed: 2019-08-02
 
 - title: "Down Girl: The Logic of Misogyny"
+  author: Kate Manne
   link: http://www.katemanne.net/book.html
   image: http://www.katemanne.net/uploads/7/3/8/4/73843037/published/9780190604981.jpg
   description: "My favorite episode of one of my favorite podcasts, <em>The Ezra Klein Show</em>, featured a lengthy discussion with author Kate Manne. Hearing Professor Manne describe structural misogyny feels at once revelatory and obvious, a contradiction characteristic of our time. “You will understand our current moment far better and more easily after having read <em>Down Girl</em>,” writes Rebecca Traister."
@@ -112,6 +128,7 @@
   completed: 2019-07-14
 
 - title: "Politics and the English Language"
+  author: George Orwell
   link: http://www.orwell.ru/library/essays/politics/english/e_polit
   image: https://upload.wikimedia.org/wikipedia/en/6/65/PoliticsandtheEnglishLanguage.jpg
   description: "I'm ashamed it's taken me this long to read this trim rant. It is a gem, from a legendary writer. “What is above all needed is to let the meaning choose the word, and not the other way about.” Its compendium — <em>Review of</em> Mein Kampf — is staggering and terrifying, because it's relevant."
@@ -119,6 +136,7 @@
   completed: 2019-06-11
 
 - title: "Conversational Design"
+  author: Erika Hall
   link: https://abookapart.com/products/conversational-design
   image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-25_100x@3x.png?v=1520281711
   description: "Erika Hall delivers another outstanding book about human- and conversation-driven content design, and offers up useful techniques and resources for content designers."
@@ -126,6 +144,7 @@
   completed: 2019-06-01
 
 - title: "Thinking, Fast and Slow"
+  author: Daniel Kahneman
   link: https://us.macmillan.com/books/9780374533557
   image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780374533557.jpg
   description: "I'd been hearing about and seeing this book around so much lately, I figured it was time to finally crack it open. “...Daniel Kahneman, the renowned psychologist and winner of the Nobel Prize in Economics, takes us on a groundbreaking tour of the mind and explains the two systems that drive the way we think. System 1 is fast, intuitive, and emotional; System 2 is slower, more deliberative, and more logical.” This book is a revelatory mindfuck that I highly recommend."
@@ -133,6 +152,7 @@
   completed: 2019-06-25
 
 - title: "The Uninhabitable Earth: Life After Warming"
+  author: David Wallace-Wells
   link: https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/9780525576709/
   image: https://images.penguinrandomhouse.com/cover/9780525576709
   description: "This books begins with a sobering reality, even though all thinking people understand it's very, very bad already: “It is worse, much worse, than you think.” This is the urgency we need, even while it’s too late to prevent the onset of climate change. Despite the catastrophic future we've created for ourselves, perhaps we can muster the will to prevent the worst of the devastating impacts coming our way?"
@@ -140,6 +160,7 @@
   completed: 2019-05-26
 
 - title: "Becoming"
+  author: Michelle Obama
   link: https://www.becomingmichelleobama.com/
   image: https://www.becomingmichelleobama.com/assets/img/MO_bookshot_v3.jpg
   description: "I can’t do better than this: “Warm, wise, and revelatory, <em>Becoming</em> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.”"
@@ -148,6 +169,7 @@
   audiobook: true
 
 - title: "The Best Interface is No Interface"
+  author: Golden Krishna
   link: http://www.nointerface.com/book/
   image: https://images-na.ssl-images-amazon.com/images/I/21uyjPvDriL._SY291_BO1,204,203,200_QL40_.jpg
   description: "By page 5, I knew this was a book we need right now: “Forget that 780 million people in the world, give or take, don't have access to clean drinking water, or that more than half a million people are homeless in the wealthy United States. We moved way past ‘mundane’ social issues and collectively propelled the technology field—where disruption and innovation has a proven track record of changing everyday lives—to giving the world what it really needs: more mobile apps.”"
@@ -155,6 +177,7 @@
   completed: 2019-05-09
 
 - title: "The Plants of Middle-earth: Botany and sub-creation"
+  author: "Dinah Hazell (Contributor), Marsha Mello (Illustrator)"
   link: https://www.goodreads.com/book/show/92013.The_Plants_of_Middle_Earth
   image: https://images.gr-assets.com/books/1348928184l/92013.jpg
   description: "Yes, I am <em>exactly</em> this nerdy about plants and Tolkien's work."
@@ -162,6 +185,7 @@
   completed: 2019-04-26
 
 - title: "Everyday Information Architecture"
+  author: Lisa Maria Marquis
   link: https://abookapart.com/products/everyday-information-architecture
   image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-29_100x@3x.png?v=1553027067
   description: "Chapter one begins with this often ignored truth: “When we organize information, we change it. The order in which it appears, the content that precedes or follows it, the ways we expand or condense it—everything we do to arrange information will alter its meaning.”"
@@ -169,6 +193,7 @@
   completed: 2019-04-21
 
 - title: "Utopia for Realists"
+  author: Rutger Bregman
   link: https://www.bloomsbury.com/uk/utopia-for-realists-9781408890264/
   image: https://media.bloomsbury.com/rep/f/9781408890264.jpg
   description: "Author Rutger Bregman first came on my radar by lobbing truth bombs at Davos, and he followed that up by further exposing Tucker Carlson's shallow, disgusting, and hateful perspective on just about everything in an unaired interview. Both convinced me to read this book."
@@ -176,6 +201,7 @@
   completed: 2019-04-29
 
 - title: "Let's Go (So We Can Get Back): A Memoir of Recording and Discording with Wilco, Etc."
+  author: Jeff Tweedy
   link: https://www.penguinrandomhouse.com/books/541712/lets-go-so-we-can-get-back-by-jeff-tweedy/9781101985267
   image: https://images.penguinrandomhouse.com/cover/9781101985267
   description: "I've been a Wilco fan for many years. I saw Wilco live in Eugene, Oregon, in 2003. I saw Jeff Tweedy solo in 2006 (with a demonstrably shitty audience in Portland, captured on the <em>Sunken Treasure</em> DVD). I took a few years off from listening to Wilco, but I've been rediscovering the catalog, just in time for this book."
@@ -183,6 +209,7 @@
   completed: 2019-04-13
 
 - title: "The New Testament"
+  author: Translated by David Bentley Hart
   link: https://yalebooks.yale.edu/book/9780300186093/new-testament
   image: https://yalebooks.co.uk/localjackets/m/9780300186093.jpg
   description: "The translator said in a podcast (regarding Christianity in the U.S.), and I'm certain he's correct, “America is a great gnostic adventure at the end of the day. I'm not sure Christianity will ever reach these shores, but if it does, it's going to find a very intractable people here...very hard to convert.”"
@@ -190,6 +217,7 @@
   completed: In progress
 
 - title: "American Fascists: The Christian Right and the War on America"
+  author: Chris Hedges
   link: https://en.wikipedia.org/wiki/American_Fascists
   image: https://upload.wikimedia.org/wikipedia/en/0/0a/American_Fascists.jpg
   description: "“The American fascist would prefer not to use violence. His method is to poison the channels of public information. With a fascist the problem is never how best to present the truth to the public but how best to use the news to deceive the public into giving the fascist and his group more money or more power...They claim to be super-patriots, but they would destroy every liberty guaranteed by the Constitution. They demand free enterprise, but are the spokesmen for monopoly and vested interest.” - Henry A. Wallace, Vice President of the U.S."
@@ -197,6 +225,7 @@
   completed: 2019-03-19
 
 - title: "Hiking with Nietzsche: On Becoming Who You Are"
+  author: John Kaag
   link: https://us.macmillan.com/books/9780374170011
   image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374170011.jpg
   description: The author traces Nietzsche’s footsteps through the Swiss Alps during two distinct life phases. He grapples with the tension between order and chaos in Nietzsche’s work and his life.
@@ -204,6 +233,7 @@
   completed: 2019-03-17
 
 - title: "Dreyer's English: An Utterly Correct Guide to Clarity and Style"
+  author: Benjamin Dreyer
   link: https://www.penguinrandomhouse.com/books/232363/dreyers-english-by-benjamin-dreyer/9780812995701/
   image: https://images.penguinrandomhouse.com/cover/9780812995701
   description: "Benjamin Dreyer, copy chief at Random House, delivers a surprisingly humorous book on grammar and style. I couldn't put this book down, partly because I'm a grammar nerd and share many of the author's “peeves and crotchets,” but mostly because nearly every line of this book is exceptionally intelligent and funny."
@@ -211,6 +241,7 @@
   completed: 2019-03-01
 
 - title: Red Rising
+  author: Pierce Brown
   link: https://www.penguinrandomhouse.com/series/RRT/red-rising-series
   image: https://images.penguinrandomhouse.com/cover/9780345539809
   description: I’m a sucker for dystopian scifi revolution narratives intended for teens, so I’m here for this one.
@@ -218,6 +249,7 @@
   completed: Abandoned
 
 - title: Python Data Science Handbook
+  author: Jake VanderPlas
   link: https://jakevdp.github.io/PythonDataScienceHandbook/
   image: https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png
   description: I’m re-learning Python in the context of data science and machine learning. Which is kind of weird and gross, to be honest. That said, the book is well-structured, well-written, and informative, and it surveys a discipline conspicuously on the rise.
@@ -225,6 +257,7 @@
   completed: 2019-03-22
 
 - title: "Wild Migrations: Atlas of Wyoming’s Ungulates"
+  author: "Matthew J. Kauffman, James E. Meacham, Hall Sawyer, Alethea Y. Steingisser, William J. Rudd and Emilene Ostlind"
   link: http://osupress.oregonstate.edu/book/wild-migrations
   image: http://osupress.oregonstate.edu/sites/default/files/9780870719431.jpg
   description: "I’m enamored with this intricate atlas of ungulate (hoofed mammals) migration in Wyoming. Not only is it a project that involved my two alma maters (University of Oregon for data visualization, Oregon State University Press printed the book), but it also features my home state and research from its university (University of Wyoming). The book’s photographs and data visualizations are beautiful. This book has all my favorites: photography, data visualization, GIS, and wildlife."
@@ -232,6 +265,7 @@
   completed: 2019-02-10 
 
 - title: The Slow Regard of Silent Things
+  author: Patrick Rothfuss
   link: https://www.patrickrothfuss.com/content/buy.asp
   image: https://www.patrickrothfuss.com/images/page/cover-slow-regard_277.jpg
   description: An intimate journey through the Underthing with my favorite character from Rothfuss’s excellent Kingkiller series (I read <em>The Name of the Wind</em> and <em>The Wise Man’s Fear</em> in December, 2018).
@@ -239,6 +273,7 @@
   completed: 2019-01-15  
 
 - title: The Value of Everything
+  author: Mariana Mazzucato
   link: https://marianamazzucato.com/publications/books/value-of-everything/
   image: https://marianamazzucato.com/wp-content/uploads/2018/08/VOE-US.png
   description: A scathing and deserved endictment of how our modern capitalist economy (mis)assigns value.
