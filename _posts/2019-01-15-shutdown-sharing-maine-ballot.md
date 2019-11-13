@@ -51,11 +51,13 @@ Rather than repeat this table in the markdown file every time it needs to appear
 {% raw %}
 ```html
 <table style="width: 100%; table-layout: fixed;">
-    <tbody>
+    <thead>
         <tr>
             <th style="color: #2FB260; font-size: 1rem;"><strong>Yes means</strong></th>
             <th style="color: #FF4C43; font-size: 1rem;"><strong>No means</strong></th>
-        </tr>    
+        </tr>
+    </thead>
+    <tbody>
         <tr>
             <td style="vertical-align: top; border-bottom: none; padding-right: 2rem;">{{page.yes_vote}}</td>
             <td style="vertical-align: top; border-bottom: none;">{{page.no_vote}}</td>
