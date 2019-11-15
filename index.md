@@ -11,8 +11,8 @@ Lately, I’ve been working with a small team to keep government data open and u
 I spend my free time walking among trees.
 
 ### Words
-✍️ [blog](/posts)<br>
-📚 [reading list](/books)
+✍️ [writing](/posts)<br>
+📚 [reading](/books)
 
 ### Work
 [{% include github_icon.html %} rentry](https://github.com/rentry)<br>
