@@ -1,22 +1,12 @@
 list:
-  - year: "2020"
-    books:
-      - title: "First book of 2020"
-        author: Yvon Chouinard
-        link: https://www.patagonia.com/product/let-my-people-go-surfing-revised-paperback-book/BK067.html
-        image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.gr-assets.com%2Fbooks%2F1515589515l%2F186074.jpg&f=1&nofb=1
-        description: "A friend of mine just landed a job with Patagonia, so I'm revisiting this book after several years, with this new(ish) edition. Patagonia isn't perfect, but its business model allows the company to have values beyond just profit to shareholders."
-        genre: [environment, business]
-        completed: 2020-01-01
-        audiobook: true
 
-  - year: "2019"
+  - year: 2019
     books:
       - title: "Let My People Go Surfing (Including 10 More Years of Business Unusual)"
         author: Yvon Chouinard
         link: https://www.patagonia.com/product/let-my-people-go-surfing-revised-paperback-book/BK067.html
         image: ../assets/images/book-let-surf.jpg
-        description: "A friend of mine just landed a job with Patagonia, so I'm revisiting this book after several years, with this new(ish) edition. Patagonia isn't perfect, but its business model allows the company to have values beyond just profit to shareholders."
+        description: "A friend of mine just landed a job with Patagonia, so I'm revisiting this book after several years, with this new(ish) edition. Patagonia isn't perfect, but its business model allows the company to pursue values beyond profit to shareholders. For Patagonia's size, it's a rare model, making Patagonia about as revolutionary as they come these days."
         genre: [environment, business]
         completed: 2019-11-19
         audiobook: true
