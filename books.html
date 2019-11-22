@@ -11,7 +11,14 @@ title: Books
 {% for entry in site.data.books.list %}
   <div>
     <div class="line-header">
-      <h2>{{entry.year}}</h2> <span class="details">{{entry.books | size}} books</span>
+      {% assign bookSize = entry.books | size %}
+      {% if bookSize == 1 %}
+        <h2>{{entry.year}}</h2> <span class="details">{{ bookSize }} book</span>
+      {% elsif bookSize > 1 %}
+        <h2>{{entry.year}}</h2> <span class="details">{{ bookSize }} books</span>
+      {% else %}
+        <p>I haven't read any books so far this year. Bummer.</p> 
+      {% endif %}
     </div>  
     <div>
       <ul class="book-list">
