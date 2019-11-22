@@ -8,29 +8,38 @@ title: Books
 
 <p>I prefer analog books, but some I listen to. Audiobooks are marked with 🎧.</p>
 
-<ul class="book-list">
-{% for book in site.data.books %}
-  <li>
-  <div class="book-item">
-    <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
-    <div class="book-info">
-      <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
-      <p class="book-author">{{ book.author }}</p>
-      <p>{{ book.description }}</p>
-      <p class="post-meta">Date completed:      
-        {% if book.completed == 'In progress' %}
-          <span style="color: #e71c4f">📖 {{ book.completed }}</span>
-        {% elsif book.completed == 'Abandoned' %}
-            <span style="color: #e71c4f"">{{ book.completed }} ¯\_(ツ)_/¯ </span>
-        {% else %}
-          {{ book.completed | date: "%B %-d, %Y" }}
-        {% endif %}
-        {% if book.audiobook == true %} 
-          <span> 🎧</span>
-        {% endif %} 
-      </p>
+{% for entry in site.data.books.list %}
+  <div>
+    <div class="line-header">
+      <h2>{{entry.year}}</h2> <span class="details">{{entry.books | size}} books</span>
+    </div>  
+    <div>
+      <ul class="book-list">
+        {% for book in entry.books %}
+        <li>
+          <div class="book-item">
+            <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+            <div class="book-info">
+              <h2><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h2>
+              <p class="book-author">{{ book.author }}</p>
+              <p>{{ book.description }}</p>
+              <p class="post-meta">Date completed:      
+                {% if book.completed == 'In progress' %}
+                  <span style="color: #e71c4f">📖 {{ book.completed }}</span>
+                {% elsif book.completed == 'Abandoned' %}
+                    <span style="color: #e71c4f"">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                {% else %}
+                  {{ book.completed | date: "%B %-d, %Y" }}
+                {% endif %}
+                {% if book.audiobook == true %} 
+                  <span> 🎧</span>
+                {% endif %} 
+              </p>
+            </div>
+          </div> 
+        </li>
+        {% endfor %}
+      </ul>
     </div>
-  </div> 
-  </li>
+  </div>
 {% endfor %}
-</ul>
