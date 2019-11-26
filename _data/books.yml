@@ -17,7 +17,7 @@ list:
         image: ../assets/images/book_words-into-type.jpg
         description: "An indispensable classic for writers, editors, and publishers."
         genre: [language, writing, grammar, editing]
-        completed: In progress
+        completed: 2019-11-26
 
       - title: "Dune"
         author: Frank Herbert
