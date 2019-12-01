@@ -33,7 +33,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg
         description: I'm revisiting this classic after many years, ahead of <a href="https://en.wikipedia.org/wiki/Dune_(2020_film)">the new film adaptation</a>.
         genre: [fiction, science fiction, politics, religion]
-        completed: In progress
+        completed: 2019-12-01
 
       - title: "Catch and Kill"
         author: Ronan Farrow
