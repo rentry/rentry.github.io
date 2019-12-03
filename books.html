@@ -13,11 +13,11 @@ title: Reading
     <div class="line-header">
       {% assign bookSize = entry.books | size %}
       {% if bookSize == 1 %}
-        <h2>{{entry.year}}</h2><span class="details">{{ bookSize }} book</span>
+        <h2>{{ entry.year }}</h2><span class="details">{{ bookSize }} book</span>
       {% elsif bookSize > 1 %}
-        <h2>{{entry.year}}</h2><span class="details">{{ bookSize }} books</span>
+        <h2>{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
       {% else %}
-        <h2>{{entry.year}}</h2><span class="details">I haven't read any books this year. So far.</span>
+        <h2>{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
       {% endif %}
     </div>  
     <div>
