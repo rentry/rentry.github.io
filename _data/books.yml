@@ -2,6 +2,14 @@ list:
 
   - year: 2019
     books:
+      - title: "How Charts Lie: Getting Smarter about Visual Information"
+        author: Alberto Cairo
+        link: https://wwnorton.co.uk/books/9781324001560-how-charts-lie
+        image: https://cdn.wwnorton.com/dam_booktitles/065/img/cover/9781324001560_198.jpeg
+        description: “[Alberto Cairo's] book reminds readers not to infer too much from a chart, especially when it shows them what they already wanted to see. Mr Cairo has sent a copy to the White House.” — The Economist
+        genre: [media, data]
+        completed: In progress
+
       - title: "Parable of the Talents"
         author: Octavia E. Butler
         link: https://www.grandcentralpublishing.com/titles/octavia-e-butler/parable-of-the-talents/9781538732199/
