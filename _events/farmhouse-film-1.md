@@ -1,6 +1,6 @@
 ---
 layout: farmhouse
-title:  "Farmhouse films: <em>Pan's Labyrinth</em>"
+title:  "Farmhouse films: <cite>Pan's Labyrinth</cite>"
 permalink: /farmhouse-film-1/
 event-image: /assets/images/film-pans.png
 image-alt: Scary shit, as we see a naked, pale man, scary as shit, stuck to the bottom of our screen

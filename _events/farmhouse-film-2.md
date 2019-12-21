@@ -1,6 +1,6 @@
 ---
 layout: farmhouse
-title:  "Farmhouse films: <em>The Dark Knight</em>"
+title:  "Farmhouse films: <cite>The Dark Knight</cite>"
 permalink: /farmhouse-film-2/
 event-image: /assets/images/film_the_dark_knight.png
 image-alt: The joker, wearing a green vest and green hair, with white makeup and a pronounced red smile
@@ -10,9 +10,9 @@ image-alt: The joker, wearing a green vest and green hair, with white makeup and
 
 You are cordially invited to this special film event. We'll watch one of the best superhero films of all time, projected outside, around the campfire (if my projector still works, and fire restrictions allow).
 
-<em>Film event no. 2</em>
+<cite>Film event no. 2</cite>
 
-## <em>The Dark Knight</em>
+## <cite>The Dark Knight</cite>
 
 > The Dark Knight was released on July 18, 2008. Film critics considered it one of the best films of its decade and one of the best superhero films of all time; the film received highly positive reviews, particularly for its action, score, screenplay, performances (particularly Ledger's), visual effects, and direction, setting numerous records during its theatrical run. The Dark Knight appeared on 287 critics' top ten lists, more than any other film of 2008 with the exception of WALL-E, and more critics (77) named The Dark Knight the best film released that year. [Wikipedia](https://en.m.wikipedia.org/wiki/The_Dark_Knight_(film))
 
@@ -33,6 +33,6 @@ We'll make some food. Bring some soda pops or other beverages. We'll provide som
 
 ## We're excited to see you
 
-<em>Why so SERIOUS??</em>
+<cite>Why so SERIOUS??</cite>
 
 ![The Farmhouse in the gloaming](/assets/images/farmhouse.jpg)

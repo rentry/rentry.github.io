@@ -30,7 +30,7 @@ list:
         author: Octavia E. Butler
         link: https://www.grandcentralpublishing.com/titles/octavia-e-butler/parable-of-the-sower/9781538732182/
         image: https://www.grandcentralpublishing.com/wp-content/uploads/2018/08/978153873218211.jpg?fit=315%2C480
-        description: Originally published in 1993 and 1998 respectively, this book and its sequel, <em>Parable of the Talents</em>, have <a href="https://www.newyorker.com/books/second-read/octavia-butlers-prescient-vision-of-a-zealot-elected-to-make-america-great-again">proven to be disturbingly prescient</a>. Climate change, crippling inequality, mass privatization, and widespread arson form the backdrop of the series, while a right-wing fanatic promises to “make America great again.” Prescient, indeed. 
+        description: Originally published in 1993 and 1998 respectively, this book and its sequel, <cite>Parable of the Talents</cite>, have <a href="https://www.newyorker.com/books/second-read/octavia-butlers-prescient-vision-of-a-zealot-elected-to-make-america-great-again">proven to be disturbingly prescient</a>. Climate change, crippling inequality, mass privatization, and widespread arson form the backdrop of the series, while a right-wing fanatic promises to “make America great again.” Prescient, indeed. 
         genre: [dystopian, fiction]
         completed: 2019-12-08
       
@@ -38,7 +38,7 @@ list:
         author: George Orwell
         link: https://en.wikipedia.org/wiki/Homage_to_Catalonia
         image: https://upload.wikimedia.org/wikipedia/en/b/b6/Homage_to_Catalonia%2C_Cover%2C_1st_Edition.jpg
-        description: "<em>Homage to Catalonia</em> is Orwell's personal account of his experience fighting against fascists during the Spanish Civil War in the 1930s. It's difficult to imagine a contemporary author of Orwell's stature joining the front lines of such a war, but perhaps that's why Orwell is so unique among western authors. Following the war, Orwell wrote, “Every line of serious work that I have written since 1936 has been written, directly or indirectly, against totalitarianism and for Democratic Socialism, as I understand it.”"
+        description: "<cite>Homage to Catalonia</cite> is Orwell's personal account of his experience fighting against fascists during the Spanish Civil War in the 1930s. It's difficult to imagine a contemporary author of Orwell's stature joining the front lines of such a war, but perhaps that's why Orwell is so unique among western authors. Following the war, Orwell wrote, “Every line of serious work that I have written since 1936 has been written, directly or indirectly, against totalitarianism and for Democratic Socialism, as I understand it.”"
         genre: [politics, journalism, memoir, war]
         completed: 2019-12-14
       
@@ -112,7 +112,7 @@ list:
         author: Edward Bernays
         link: https://en.wikipedia.org/wiki/Propaganda_(book)
         image: http://d.gr-assets.com/books/1354208717l/493212.jpg
-        description: "“<em>Propaganda</em> explored the psychology behind manipulating masses and the ability to use symbolic action and propaganda to influence politics, effect social change, and lobby for gender and racial equality.” The principles described and advocated for in this book are ubiquitous and largely conspicuous in our society. I found them distasteful, as was the experience reading this book."
+        description: "“<cite>Propaganda</cite> explored the psychology behind manipulating masses and the ability to use symbolic action and propaganda to influence politics, effect social change, and lobby for gender and racial equality.” The principles described and advocated for in this book are ubiquitous and largely conspicuous in our society. I found them distasteful, as was the experience reading this book."
         genre: [communication, design, politics, political psychology]
         completed: 2019-09-13
 
@@ -160,7 +160,7 @@ list:
         author: Christopher Ketcham
         link: https://www.penguinrandomhouse.com/books/541729/this-land-by-christopher-ketcham/9780735220980/
         image: https://images.penguinrandomhouse.com/cover/9780735220980
-        description: "Outside magazine calls this book “the <em>Desert Solitaire</em> of Our Time,” and we need another Abbey right now. We're witnessing a renewed and virulent hostility toward our public lands from elected officials, at a time when those lands are already under threat from climate change. <em>This land is your land</em>. This is a record of the status of your property, and it doesn't look good."
+        description: "Outside magazine calls this book “the <cite>Desert Solitaire</cite> of Our Time,” and we need another Abbey right now. We're witnessing a renewed and virulent hostility toward our public lands from elected officials, at a time when those lands are already under threat from climate change. <cite>This land is your land</cite>. This is a record of the status of your property, and it doesn't look good."
         genre: [politics, economics, environment, conservation]
         completed: 2019-08-14
 
@@ -176,7 +176,7 @@ list:
         author: George Orwell
         link: https://b-ok.org/book/2072455/b36c10
         image: ../assets/images/all-art-is-propaganda.jpg
-        description: "After reading <em>Politics and the English Language</em>, I was craving more prose from Orwell, so I'm reading an essay here and there from this diverse collection."
+        description: "After reading <cite>Politics and the English Language</cite>, I was craving more prose from Orwell, so I'm reading an essay here and there from this diverse collection."
         genre: [politics, economics]
         completed: 2019-08-02
 
@@ -192,7 +192,7 @@ list:
         author: Kate Manne
         link: http://www.katemanne.net/book.html
         image: http://www.katemanne.net/uploads/7/3/8/4/73843037/published/9780190604981.jpg
-        description: "My favorite episode of one of my favorite podcasts, <em>The Ezra Klein Show</em>, featured a lengthy discussion with author Kate Manne. Hearing Professor Manne describe structural misogyny feels at once revelatory and obvious, a contradiction characteristic of our time. “You will understand our current moment far better and more easily after having read <em>Down Girl</em>,” writes Rebecca Traister."
+        description: "My favorite episode of one of my favorite podcasts, <cite>The Ezra Klein Show</cite>, featured a lengthy discussion with author Kate Manne. Hearing Professor Manne describe structural misogyny feels at once revelatory and obvious, a contradiction characteristic of our time. “You will understand our current moment far better and more easily after having read <cite>Down Girl</cite>,” writes Rebecca Traister."
         genre: [politics, philosophy, feminism, gender]
         completed: 2019-07-14
 
@@ -200,7 +200,7 @@ list:
         author: George Orwell
         link: http://www.orwell.ru/library/essays/politics/english/e_polit
         image: https://upload.wikimedia.org/wikipedia/en/6/65/PoliticsandtheEnglishLanguage.jpg
-        description: "I'm ashamed it's taken me this long to read this trim rant. It is a gem, from a legendary writer. “What is above all needed is to let the meaning choose the word, and not the other way about.” Its compendium — <em>Review of</em> Mein Kampf — is staggering and terrifying, because it's relevant."
+        description: "I'm ashamed it's taken me this long to read this trim rant. It is a gem, from a legendary writer. “What is above all needed is to let the meaning choose the word, and not the other way about.” Its compendium — <cite>Review of Mein Kampf</cite>  — is staggering and terrifying, because it's relevant."
         genre: [politics, writing, grammar, style]
         completed: 2019-06-11
 
@@ -232,7 +232,7 @@ list:
         author: Michelle Obama
         link: https://www.becomingmichelleobama.com/
         image: https://www.becomingmichelleobama.com/assets/img/MO_bookshot_v3.jpg
-        description: "I can’t do better than this: “Warm, wise, and revelatory, <em>Becoming</em> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.”"
+        description: "I can’t do better than this: “Warm, wise, and revelatory, <cite>Becoming</cite> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.”"
         genre: [politics]
         completed: 2019-05-11
         audiobook: true
@@ -273,7 +273,7 @@ list:
         author: Jeff Tweedy
         link: https://www.penguinrandomhouse.com/books/541712/lets-go-so-we-can-get-back-by-jeff-tweedy/9781101985267
         image: https://images.penguinrandomhouse.com/cover/9781101985267
-        description: "I've been a Wilco fan for many years. I saw Wilco live in Eugene, Oregon, in 2003. I saw Jeff Tweedy solo in 2006 (with a demonstrably shitty audience in Portland, captured on the <em>Sunken Treasure</em> DVD). I took a few years off from listening to Wilco, but I've been rediscovering the catalog, just in time for this book."
+        description: "I've been a Wilco fan for many years. I saw Wilco live in Eugene, Oregon, in 2003. I saw Jeff Tweedy solo in 2006 (with a demonstrably shitty audience in Portland, captured on the <cite>Sunken Treasure</cite> DVD). I took a few years off from listening to Wilco, but I've been rediscovering the catalog, just in time for this book."
         genre: [music, Wilco]
         completed: 2019-04-13
 
@@ -337,7 +337,7 @@ list:
         author: Patrick Rothfuss
         link: https://www.patrickrothfuss.com/content/buy.asp
         image: https://www.patrickrothfuss.com/images/page/cover-slow-regard_277.jpg
-        description: An intimate journey through the Underthing with my favorite character from Rothfuss’s excellent Kingkiller series (I read <em>The Name of the Wind</em> and <em>The Wise Man’s Fear</em> in December, 2018).
+        description: An intimate journey through the Underthing with my favorite character from Rothfuss’s excellent Kingkiller series (I read <cite>The Name of the Wind</cite> and <cite>The Wise Man’s Fear</cite> in December, 2018).
         genre: fantasy fiction
         completed: 2019-01-15  
 

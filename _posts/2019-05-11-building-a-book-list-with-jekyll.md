@@ -26,7 +26,7 @@ I should probably add the author to this list as well (at the very least), but h
 - title: The Slow Regard of Silent Things
   link: https://www.patrickrothfuss.com/content/buy.asp
   image: https://www.patrickrothfuss.com/images/page/cover-slow-regard_277.jpg
-  description: An intimate journey through the Underthing with my favorite character from Rothfuss’s excellent Kingkiller series (I read <em>The Name of the Wind</em> and <em>The Wise Man’s Fear</em> in December, 2018).
+  description: An intimate journey through the Underthing with my favorite character from Rothfuss’s excellent Kingkiller series (I read <cite>The Name of the Wind</cite> and <cite>The Wise Man’s Fear</cite> in December, 2018).
   genre: fantasy fiction
   completed: 2019-01-15  
 
@@ -49,7 +49,7 @@ I created a new file called `books.html` in the main directory, with the followi
   <div class="book-item">
     <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
     <div class="book-info">
-      <h2><em><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></em></h2>
+      <h2><cite><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></cite></h2>
       <p>{{ book.description }}</p>
       <p class="post-meta">Date completed:      
         {% if book.completed == 'In progress' %}

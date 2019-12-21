@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     line-height: 1.2;
 
-    > em {
+    > em, > cite {
         font-family: $italic-font-family;
         font-style: italic;
     }
@@ -169,11 +169,7 @@ p {
 }
 
 // Styling
-em {
-    font-style: italic;
-}
-
-i {
+em, i, cite {
     font-style: italic;
 }
 

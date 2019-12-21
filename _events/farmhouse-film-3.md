@@ -10,9 +10,9 @@ image-alt: "Four individuals, Theo and Kee from Children of Men walking together
 
 Coming soon: 3 nights of dystopian film this fall.
 
-- <em>The Matrix</em>
-- <em>Children of Men</em>
-- <em>WALL-E</em>
+- <cite>The Matrix</cite>
+- <cite>Children of Men</cite>
+- <cite>WALL-E</cite>
 
 ## When
 
@@ -20,7 +20,7 @@ TBD
 
 ## Where
 - Ryan and Erinn's farmhouse
-<br><em>email or text Ryan if you need directions.</em>
+<br><cite>email or text Ryan if you need directions.</cite>
 
 ## What to bring
 We'll make some food. Bring some soda pops or other beverages. We'll provide some snacks at film time 🍿, but bring your own, too.

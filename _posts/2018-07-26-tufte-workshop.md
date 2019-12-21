@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edward Tufte’s <em>Presenting Data and Information</em> course recap
+title: Edward Tufte’s <cite>Presenting Data and Information</cite> course recap
 date: 2018-07-26 23:33:00
 description: “The da Vinci of data” was in Portland for a one-day course on data visualization, cartography, statistics, presentations, and more. I had high expectations; Tufte surpassed them.
 categories: data
@@ -72,7 +72,7 @@ Go to Edward Tufte’s course, if you can; it’s certainly worth it (in additio
 
 ![Edward Tufte books, Beautiful Evidence, Visual Explanations, Envisioning Information, The Visual Display of Quantitative Information](/assets/images/tufte.jpg)
 
-<p style="font-size: .6em; text-align: center;">Tufte’s four books: <em>Envisioning Information, Visual Explanations, The Visual Display of Quantitative Information, Beautiful Evidence.</em></p>
+<p style="font-size: .6em; text-align: center;">Tufte’s four books: <cite>Envisioning Information, Visual Explanations, The Visual Display of Quantitative Information, Beautiful Evidence.</cite></p>
 <br>
 [Tufte is on the road between July and December](https://www.edwardtufte.com/tufte/courses), traveling to Denver, Minneapolis, Chicago, Boston, Philadelphia, Brooklyn, San Francisco, and San Jose.
 
