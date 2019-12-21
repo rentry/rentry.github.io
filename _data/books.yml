@@ -2,6 +2,16 @@ list:
 
   - year: 2019
     books:
+      
+      - title: "The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from A Secret World"
+        author: Peter Wohlleben
+        link: https://greystonebooks.com/products/the-hidden-life-of-trees
+        image: https://cdn.shopify.com/s/files/1/1133/5284/products/9781771642484.jpg?v=1466716502
+        description: "“You will never look at a tree the same way after reading Peter Wohlleben’s <cite>The Hidden Life of Trees</cite>, which reveals the mindboggling properties and behavior of these terrestrial giants. Read this electrifying book, then go out and hug a tree — with admiration and gratitude.” —Dr. David Suzuki"
+        genre: [environment, ecology]
+        completed: In progress
+        audiobook: true
+
       - title: "A Wilderness Original: The Life of Bob Marshall"
         author: James M. Glover
         link: https://www.mountaineers.org/books/books/a-wilderness-original-the-life-of-bob-marshall
