@@ -3,13 +3,21 @@ list:
   - year: 2019
     books:
       
+      - title: "Some Stories: Lessons from the Edge of Business and Sport"
+        author: Yvon Chouinard
+        link: https://www.patagonia.com/product/some-stories-lessons-from-the-edge-of-business-and-sport-by-yvon-chouinard-hardcover-book-published-by-patagonia/BK805.html
+        image: https://www.patagonia.com/dis/dw/image/v2/ABBM_PRD/on/demandware.static/-/Sites-patagonia-master/default/dw6cc96b9a/images/hi-res/BK805_000.jpg?sw=750&sh=750&sm=fit&sfrm=png
+        description: "A gift from a friend who works at Patagonia, this hardcover book came autographed by Yvon Chouinard. I've rarely been more excited about a gift. My enthusiasm about the signature was quickly accompanied by adoration of the stories. In an early story, he writes, “All winter I forged gear. For the rest of the year, I continued to lead a counter-culture life on the fringes of society—living on fifty cents a day on a diet of oatmeal, potatoes, and canned cat food; camping all summer in an old incinerator in the abandoned CCC (Civilian Conservation Corps) camp in the Tetons of Wyoming.”"
+        genre: [environment, business, outdoor]
+        completed: In progress
+
       - title: "The Hidden Life of Trees: What They Feel, How They Communicate – Discoveries from A Secret World"
         author: Peter Wohlleben
         link: https://greystonebooks.com/products/the-hidden-life-of-trees
         image: https://cdn.shopify.com/s/files/1/1133/5284/products/9781771642484.jpg?v=1466716502
         description: "“You will never look at a tree the same way after reading Peter Wohlleben’s <cite>The Hidden Life of Trees</cite>, which reveals the mindboggling properties and behavior of these terrestrial giants. Read this electrifying book, then go out and hug a tree — with admiration and gratitude.” —Dr. David Suzuki"
         genre: [environment, ecology]
-        completed: In progress
+        completed: 2019-12-26
         audiobook: true
 
       - title: "A Wilderness Original: The Life of Bob Marshall"
