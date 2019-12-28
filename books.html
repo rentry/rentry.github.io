@@ -8,16 +8,23 @@ title: Reading
 
 <p>I prefer analog books, but some I listen to. Audiobooks are marked with 🎧.</p>
 
+
+<ul class="tag-group">
+  {% for entry in site.data.books.list %}
+      <a href="#{{entry.year}}-books"><li class="tags">{{entry.year}}</li></a>
+  {% endfor %}  
+  </ul>
+
 {% for entry in site.data.books.list %}
   <div>
     <div class="line-header">
       {% assign bookSize = entry.books | size %}
       {% if bookSize == 1 %}
-        <h2>{{ entry.year }}</h2><span class="details">{{ bookSize }} book</span>
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} book</span>
       {% elsif bookSize > 1 %}
-        <h2>{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
       {% else %}
-        <h2>{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
       {% endif %}
     </div>  
     <div>
