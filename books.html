@@ -8,13 +8,18 @@ title: Reading
 
 <p>I prefer analog books, but some I listen to. Audiobooks are marked with 🎧.</p>
 
+{% assign bookYears = site.data.books.list | size %}
 
+<!--Anchor nav for years if more than one exists-->
 <ul class="tag-group">
   {% for entry in site.data.books.list %}
+    {% if bookYears > 1 %}
       <a href="#{{entry.year}}-books"><li class="tags">{{ entry.year }}</li></a>
+    {% endif %}
   {% endfor %}  
 </ul>
 
+<!--Subheadings for each year and number of books for that year-->
 {% for entry in site.data.books.list %}
   <div>
     <div class="line-header">
@@ -28,6 +33,7 @@ title: Reading
       {% endif %}
     </div>  
     <div>
+      <!--Books for each year-->
       <ul class="book-list">
         {% for book in entry.books %}
         <li>
