@@ -10,14 +10,14 @@ title: Reading
 
 {% assign bookYears = site.data.books.list | size %}
 
-<!--Anchor nav for years if more than one exists-->
+<!--Anchor nav for years, but only if more than one exists-->
+{% if bookYears > 1 %}
 <ul class="tag-group">
   {% for entry in site.data.books.list %}
-    {% if bookYears > 1 %}
       <a href="#{{entry.year}}-books"><li class="tags">{{ entry.year }}</li></a>
-    {% endif %}
   {% endfor %}  
 </ul>
+{% endif %}
 
 <!--Subheadings for each year and number of books for that year-->
 {% for entry in site.data.books.list %}
