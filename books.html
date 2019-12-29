@@ -8,9 +8,8 @@ title: Reading
 
 <p>I prefer analog books, but some I listen to. Audiobooks are marked with 🎧.</p>
 
-{% assign bookYears = site.data.books.list | size %}
-
 <!--Anchor nav for years, but only if more than one exists-->
+{% assign bookYears = site.data.books.list | size %}
 {% if bookYears > 1 %}
 <ul class="tag-group">
   {% for entry in site.data.books.list %}

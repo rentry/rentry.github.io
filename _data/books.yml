@@ -20,14 +20,6 @@ list:
         completed: 2019-12-26
         audiobook: true
 
-      - title: "A Wilderness Original: The Life of Bob Marshall"
-        author: James M. Glover
-        link: https://www.mountaineers.org/books/books/a-wilderness-original-the-life-of-bob-marshall
-        image: https://www.mountaineers.org/books/books/a-wilderness-original-the-life-of-bob-marshall/@@images/35116a3f-5630-4f44-9acd-5bf3978e86bc.jpeg
-        description: "I'd been contemplating a gift for a family member, and I couldn't think of a better one than the biography of my absolute hero, Bob Marshall. I decided to take the opportunity to read my copy of his biography for the third time. My own hardcover copy was withdrawn at some unknown date from the Chickasaw Library System in Ardmore, Oklahoma. Marshall was a forester, writer, socialist, and founder of The Wilderness Society, all before dying of heart failure at the age of just 38. He was, truly, an original."
-        genre: [biography, conservation, bob marshall]
-        completed: In progress
-
       - title: "Parable of the Talents"
         author: Octavia E. Butler
         link: https://www.grandcentralpublishing.com/titles/octavia-e-butler/parable-of-the-talents/9781538732199/
