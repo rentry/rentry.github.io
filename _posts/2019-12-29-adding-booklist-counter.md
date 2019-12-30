@@ -32,7 +32,7 @@ list:
         completed: 2019-12-28
 ```
 
-I could have organized the list by the `completed` key—which includes the year in the date format—but it’s just as easy to organize the data file by year, since I only need to add it once a year. Plus, I was unsure whether I would want the list for each year to include books I _started_ that year, or list only the books I _completed_ that year. For instance, this year I will carry over at least one book that I started in 2019, but will likely finish in early 2020.
+Basically, I added the keys `list` and `year` and nested the book list under the year key. Now, I can organize my books by year and loop through each year. More about that next...
 
 ## Expanding the template
 
