@@ -82,7 +82,7 @@ Here goes!
                 {% if book.completed == 'In progress' %}
                   <span style="color: #EB002B">📖 {{ book.completed }}</span>
                 {% elsif book.completed == 'Abandoned' %}
-                    <span style="color: #EB002B"">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                    <span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
                 {% else %}
                   {{ book.completed | date: "%B %-d, %Y" }}
                 {% endif %}
