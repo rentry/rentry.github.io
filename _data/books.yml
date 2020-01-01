@@ -1,5 +1,16 @@
 list:
 
+  - year: 2020
+    books:
+      
+      - title: "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy"
+        author: Cathy O’Neil
+        link: https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/
+        image: https://images2.penguinrandomhouse.com/cover/9780553418835
+        description: "“O’Neil’s book offers a frightening look at how algorithms are increasingly regulating people...Her knowledge of the power and risks of mathematical models, coupled with a gift for analogy, makes her one of the most valuable observers of the continuing weaponization of big data… [She] does a masterly job explaining the pervasiveness and risks of the algorithms that regulate our lives.” —New York Times Book Review"
+        genre: [politics, business]
+        completed: In progress
+
   - year: 2019
     books:
       
@@ -26,7 +37,7 @@ list:
         image: https://www.grandcentralpublishing.com/wp-content/uploads/2018/08/9781538732199-1-1.jpg?fit=315%2C480
         description: The second volume in Butler's terrifying and <a href="https://www.newyorker.com/books/second-read/octavia-butlers-prescient-vision-of-a-zealot-elected-to-make-america-great-again">astonishingly prescient</a> dystopian vision.
         genre: [dystopian, fiction]
-        completed: In progress
+        completed: 2019-12-31
 
       - title: "How Charts Lie: Getting Smarter about Visual Information"
         author: Alberto Cairo
