@@ -59,6 +59,8 @@ I evaluate the number of books in order to change the content from singular to p
 
 I also include an `id` with a variable for the year, so I can later link to the respective year (more on that in a moment).
 
+_**Note (added 1/2/2020):** I tend to avoid plugins for simple sites like this one, in part because I often find managing plugins to be more work than it's worth. However, [there is a plugin](https://github.com/bdesham/pluralize) that removes much of the repetition in the `if/then` statements above. Once installed, it can produce singular and plural versions of a variable within a single line of code. In this case, you'd add the `pluralize` filter to the variable:_ {% raw %}`{{ bookSize | pluralize: "book" }}`{% endraw %}.
+
 ## Loops within loops
 
 Okay, now for the weird part. We haven’t closed our first loop ({% raw %}`{% for entry in site.data.books.list %}`{% endraw %}), and we’re now going to loop within our loop 🤯.
