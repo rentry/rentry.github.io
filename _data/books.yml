@@ -29,7 +29,7 @@ list:
         description: "“You will never look at a tree the same way after reading Peter Wohlleben’s <cite>The Hidden Life of Trees</cite>, which reveals the mindboggling properties and behavior of these terrestrial giants. Read this electrifying book, then go out and hug a tree — with admiration and gratitude.” —Dr. David Suzuki"
         genre: [environment, ecology]
         completed: 2019-12-26
-        audiobook: true
+        format: audiobook
 
       - title: "Parable of the Talents"
         author: Octavia E. Butler
@@ -70,7 +70,7 @@ list:
         description: "A friend of mine just landed a job with Patagonia, so I'm revisiting this book after several years, with this new(ish) edition. Patagonia isn't perfect, but its business model allows the company to pursue values beyond profit to shareholders. For Patagonia's size, it's a rare model, making Patagonia about as revolutionary as they come these days."
         genre: [environment, business]
         completed: 2019-11-19
-        audiobook: true
+        format: audiobook
 
       - title: "Words into Type"
         author: Marjorie E. Skillin and Robert M. Gay
@@ -95,7 +95,7 @@ list:
         description: "“He didn’t let it go, though there were plenty of people who tried to pry him loose. In addition to the ‘all white, all male’ chain of command at NBC, there was Weinstein himself, waging a war on all fronts.” - Jennifer Szalai, New York Times"
         genre: [politics, society]
         completed: 2019-11-02
-        audiobook: true
+        format: audiobook
 
       - title: "The Tyranny of Words"
         author: Stuart Chase
@@ -256,7 +256,7 @@ list:
         description: "I can’t do better than this: “Warm, wise, and revelatory, <cite>Becoming</cite> is the deeply personal reckoning of a woman of soul and substance who has steadily defied expectations—and whose story inspires us to do the same.”"
         genre: [politics]
         completed: 2019-05-11
-        audiobook: true
+        format: audiobook
 
       - title: "The Best Interface is No Interface"
         author: Golden Krishna
