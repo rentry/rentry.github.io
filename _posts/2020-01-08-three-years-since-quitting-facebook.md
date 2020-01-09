@@ -15,7 +15,7 @@ I left Instagram shortly after. It seemed wildly hypocritical to reject Facebook
 
 So what do I think now? 
 
-Frankly, I rarely think about Facebook on my own, despite its almost daily presence in the media ([here’s a recent article](https://www.nytimes.com/2020/01/07/technology/facebook-trump-2020.html), and [another](https://variety.com/2020/film/news/sacha-baron-cohen-mark-zuckerberg-golden-globes-1203457397/)). There’s no question Facebook’s cultural influence is, at the moment, insurmountable and inescapable, despite my opt-out. I still feel the presence of Facebook all around me, which makes my exit more protestation than therapy (leaving was motivated by both).
+Frankly, I rarely think about Facebook on my own, but it’s difficult to ignore its almost daily presence in the media ([here’s a recent article](https://www.nytimes.com/2020/01/07/technology/facebook-trump-2020.html), and [another](https://variety.com/2020/film/news/sacha-baron-cohen-mark-zuckerberg-golden-globes-1203457397/)). There’s no question Facebook’s cultural influence is, at the moment, insurmountable and inescapable, despite my opt-out. I still feel the presence of Facebook all around me, which makes my exit more protestation than therapy (leaving was motivated by both).
 
 ## Controlling the FOMO
 
