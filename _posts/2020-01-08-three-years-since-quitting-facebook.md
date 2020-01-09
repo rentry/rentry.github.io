@@ -19,7 +19,7 @@ Frankly, I rarely think about Facebook on my own, but it’s difficult to ignore
 
 ## Controlling the FOMO
 
-I do miss out on quite a lot. I know this because just about everyone in my life is still on these social media platforms, including my spouse. 
+I do miss out on quite a lot. I know this because just about everyone in my life, including my spouse, is still on these social media platforms. 
 
 I never found Facebook’s value to be commensurate with its reservoir of pettiness, and so I’ve never regretted getting out. I do consistently miss out on photos and adventures of my most cherished friends and family, but many of them are gracious enough to send me updates and photos via text. 
 
