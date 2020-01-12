@@ -4,7 +4,7 @@ title: "Three years since I quit Facebook"
 date: 2020-01-08
 description: "In January 2017, I decided I'd had enough of Facebook. I closed my account, and less than a year later, ditched Instagram, too. Here's what I think about it now."
 categories: social media
-tags: [social, web]
+tags: [social media]
 ---
 
 Shortly after I built this blog, [I wrote about my decision to leave Facebook]({{ site.baseurl }}/leaving-facebook/). Perhaps with an unusual (for me) abundance of snark, I titled the post <cite>Libertarians are all up in your social media</cite>. 

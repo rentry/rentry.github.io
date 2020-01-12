@@ -4,7 +4,7 @@ title:  "DrupalCon Baltimore recap"
 date:   2017-04-29 12:00:00
 description: "Recapping my first DrupalCon and my first visit to Baltimore"
 categories: drupal
-tags: [publishing, Drupal, web, conferences]
+tags: [publishing, Drupal, conferences]
 ---
 
 I just returned from DrupalCon in Baltimore. It was my first DrupalCon, but it felt like the continuation of a journey back to Drupal after a relatively long absence.

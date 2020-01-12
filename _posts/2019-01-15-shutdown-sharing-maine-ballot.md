@@ -4,7 +4,7 @@ title: "Shutdown sharing: Migrating Maine Ballot"
 date: 2019-01-15 17:00:00
 description: "The government is still shut down, and I’m still furloughed. In the meantime, I’m helping a fellow furloughed friend rebuild a civic website."
 categories: content strategy
-tags: [content strategy, Jekyll, GitHub, civic, elections, Maine]
+tags: [content strategy, Jekyll, GitHub, civic tech]
 ---
 
 The government is still shutdown, and I’m still furloughed. I can’t work, I’m not getting paid, and there doesn’t seem to be an end in sight.

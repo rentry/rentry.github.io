@@ -4,7 +4,7 @@ title: "Another new, old film camera"
 date: 2018-08-17 17:33:00
 description: "My Nikon FE had to take a week off for repair. Luckily, I recently bought yet another film camera."
 categories: photography
-tags:  [photography, analog, Nikon, cameras]
+tags:  [photography, Nikon, cameras]
 ---
 
 I wrote last year about [how I’ve returned to shooting film](/slowing-down-with-analog/), but since then I’ve added yet another Nikon machine to my cramped camera bag: the [Nikon FM3A](https://imaging.nikon.com/history/chronicle/history-fm3a/).

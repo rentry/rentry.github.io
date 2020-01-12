@@ -4,7 +4,7 @@ title:  "Tools for writing and editing"
 date:   2017-01-11 19:11:00
 description: "Tools I use daily and some I’m trying out"
 categories: writing
-tags: [tools, web, writing, editing]
+tags: [tools, writing, editing]
 ---
 Following up on my last post about keeping up with web trends and tools, I wanted to share some of the writing and editing tools I use regularly, along with some I have been playing with recently.
 
