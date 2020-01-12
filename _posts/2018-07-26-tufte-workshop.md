@@ -4,7 +4,7 @@ title: Edward Tufte’s <cite>Presenting Data and Information</cite> course reca
 date: 2018-07-26 23:33:00
 description: “The da Vinci of data” was in Portland for a one-day course on data visualization, cartography, statistics, presentations, and more. I had high expectations; Tufte surpassed them.
 categories: data
-tags:  [data visualization, design, data, conferences, books, content strategy, ideas, writing]
+tags:  [data visualization, design, conferences, books, content strategy, writing]
 ---
 
 [Edward Tufte](https://www.edwardtufte.com/tufte/) opens his [one-day course](https://www.edwardtufte.com/tufte/courses) with the [Music Animation Machine](https://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00005y/#bboard_content) by Stephen Malinowski. In near total darkness, backlit by Chopin’s _Berceuse, Op. 57_ rendered in scrolling neon lights, leaning over the concentrated beam of a desk lamp, Tufte sets the stage for his five-hour study of the presentation of information. 

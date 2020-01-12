@@ -4,7 +4,7 @@ title: "Creating a book list"
 date: 2019-05-11
 description: "My site now includes a list of books I’ve completed or am currently reading. This post covers how I built it with Jekyll’s data files."
 categories: books
-tags: [books, Jekyll, data]
+tags: [books, Jekyll]
 ---
 
 I have an unfortunate habit of reading multiple books at a time, so I wanted to keep track of my book list. Here’s how I built it.
