@@ -29,7 +29,7 @@ I mostly shoot 35mm, so that’s what I’ll cover here. I’ve had Nikon gear f
 ### Nikon F3HP
 Years ago, my father bought a Nikon F3HP to take on a fishing trip to Alaska. He purchased the camera from a family friend, a professional photographer in our hometown. My dad isn’t particularly interested in photography, so he gave me the camera when he got back from his trip. That was in 1998, and I’ve had it ever since.
 
-![Nikon F3HP camera](../assets/images/nikonf3hp.jpg)
+![Nikon F3HP camera](../assets/images/nikonf3hp.jpg#full)
 
 The Nikon F3 is a beautiful and resilient piece of machinery. Introduced in 1980, Nikon continued producing the F3 until 2001, even after releasing the Nikon F4, F5, _and_ D1, the latter being Nikon’s first DSLR. Designed by [Giorgetto Giugiaro](https://en.wikipedia.org/wiki/Giorgetto_Giugiaro), famous for his automotive designs, the F3 was the first camera to the bear the iconic red accent that has defined Nikon cameras ever since. 
 
@@ -42,7 +42,7 @@ For those who wear glasses, like me, the HP (“high eyepoint”) viewfinder all
 ### Nikon FE
 I have a 20-year history shooting the F3, but I have a  confession: the FE is _my camera_. I love this little machine.
 
-![Nikon FE camera](../assets/images/nikonfe.jpg)
+![Nikon FE camera](../assets/images/nikonfe.jpg#full)
 
 I bought this FE just this year, and I haven’t regretted it a single time, having decisively – almost instinctively – reached for it when packing for vacation or weekend trips.
 
