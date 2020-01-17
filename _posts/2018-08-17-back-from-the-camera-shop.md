@@ -11,7 +11,7 @@ I wrote last year about [how I’ve returned to shooting film](/slowing-down-wit
 
 The FM3A has been my dream SLR for a long time, and I finally tracked one down.
 
-![The Nikon FM3A film camera]({{ site.baseurl }}/assets/images/nikonfm3a.jpg)
+![The Nikon FM3A film camera]({{ site.baseurl }}/assets/images/nikonfm3a.jpg#full)
 
 But before I get into that, I was reminded on a recent trip to Utah why a backup camera is _not_ an excessive purchase, but rather an absolute necessity. Having (and hauling) at least one backup camera is non-negotiable, assuming you want to bring home photos. That backup could be a spare SLR, a spare DSLR, a crappy point-and-shoot, or (in my case) an iPhone. I should have stashed a spare SLR, but air travel can make that difficult.
 
@@ -21,7 +21,7 @@ But before I get into that, I was reminded on a recent trip to Utah why a backup
 
 I debilitated my Nikon FE on the second day of my Utah trip, having set it on the rented Mazda’s console shortly before I gunned the vehicle up a precipitous remote dirt road. The FE landed violently on the back floor – directly on the lens – breaking its aperture control ring. Miraculously, my favorite 35mm lens was unharmed.
 
-![The Nikon FE, Nikon F3HP, and Nikon FM3A film cameras]({{ site.baseurl }}/assets/images/nikon-cameras.jpg)
+![The Nikon FE, Nikon F3HP, and Nikon FM3A film cameras]({{ site.baseurl }}/assets/images/nikon-cameras.jpg#full)
 
 Today I retrieved my FE from [Associated Camera Repair](https://associatedcamera.webs.com/), and it’s ready to be loaded up again. I’m glad it’s back, even if I paid roughly what the camera is worth to repair one part. 
 
