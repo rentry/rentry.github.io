@@ -9,7 +9,7 @@ tags: [books, photography]
 
 A couple weeks ago, I attended a book reading at Working Library, a project of the [c3 incubator](http://www.c3initiative.org/incubator.html) in the St. Johns neighborhood of Portland. 
 
-![Working Library membership cards](../assets/images/wl1.jpg)
+![Working Library membership cards](../assets/images/wl1.jpg#full)
 
 ![Books from the library](../assets/images/wl8.jpg)
 
@@ -27,7 +27,7 @@ The reading was by Chelsea Werner-Jatzke, who collaborated with Laura Oâ€™Quin â
 
 >This signature is a study of the poetics of scientific error. A compact edition with complete text reproduced micrographically. It is accompanied by a 4x magnifying looking glass that generates a discursive position between the tiny 4pt text and the reader.
 
-![A book titled Thunder Lizard](../assets/images/wl11.jpg)
+![A book titled Thunder Lizard](../assets/images/wl11.jpg#full)
 
 Analog tools to read analog books. 
 
