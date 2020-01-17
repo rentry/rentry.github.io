@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
       
+      - title: "The Economist Style Guide: 12th edition"
+        author: The Economist
+        link: https://shop.economist.com/products/the-economist-style-guide-12th-edition
+        image: https://cdn.shopify.com/s/files/1/0535/3509/products/Style_Guide_12th_ed_grande_6642cea5-e5a6-4d80-a1a7-2203284d2624.jpg?v=1575931770
+        description: I'm obsessed with style guides, and I'm always looking out for new ones. The introduction to this excellent guide from <cite>The Economist</cite> lists six rules from George Orwell's <cite>Politics and the English Language</cite>, the last of which reads, “Break any of these rules sooner than say anything outright barbarous.”
+        genre: [writing, grammar, style]
+        completed: 2020-01-17
+
       - title: "The Soul of America: The Battle for Our Better Angels"
         author: Jon Meacham
         link: https://www.penguinrandomhouse.com/books/554220/the-soul-of-america-by-jon-meacham/
