@@ -23,7 +23,7 @@ _Andrei Rublev_ is a masterpiece that deserves to be experienced by a new audien
 > Tarkovsky for me is the greatest (director), the one who invented a new language, true to the nature of film, as it captures life as a reflection, life as a dream.
 
 [**_The Guardian_ (Steve Rose)**   
-_Andrei Rublev: the best arthouse film of all time_](https://www.theguardian.com/film/2011/apr/24/film-changed-life-joanna-hogg):
+_Andrei Rublev: the best arthouse film of all time_](https://www.theguardian.com/film/2010/oct/20/andrei-rublev-tarkovsky-arthouse):
 > Viewers and critics always have their personal favourites, but some films achieve a masterpiece status that becomes unanimously agreed upon – something that's undoubtedly true of Andrei Rublev, even though it's a film that people often feel they don't, or won't get. It is 205 minutes long (in its fullest version), in Russian, and in black and white. Few characters are clearly identified, little actually happens, and what does happen isn't necessarily in chronological order. Its subject is a 15th-century icon painter and national hero, yet we never see him paint, nor does he do anything heroic. In many of the film's episodes, he is not present at all, and in the latter stages, he takes a vow of silence. But in a sense, there is nothing to "get" about Andrei Rublev. It is not a film that needs to be processed or even understood, only experienced and wondered at.
 
 [**_The Guardian_ (Joanna Hogg)**   
