@@ -85,8 +85,6 @@ I wrote a conditional that evaluates whether or not I’ve completed the book or
 ```
 {% endraw %}
 
-<br>
-
 Add some styling, and you’re good to go!
 
 Get nerdy, friends, and have a look at [📚the book list]({{ site.baseurl }}/books).
