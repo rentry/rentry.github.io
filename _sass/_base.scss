@@ -326,13 +326,19 @@ pre {
     padding-bottom: 14px;
     display: block;
     line-height: 1.4;
-
+    margin-left: calc(60% - 50vw);
+    margin-right: calc(60% - 50vw);
 
     > code {
         border: 0;
         padding-right: 0;
         padding-left: 0;
     }
+
+    @media only screen and (max-width: 1042px) {
+        margin: 0 auto;
+    }
+
 }
 
 
