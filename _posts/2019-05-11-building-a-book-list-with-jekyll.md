@@ -42,7 +42,7 @@ I should probably add the author to this list as well (at the very least), but h
 I created a new file called `books.html` in the main directory, with the following code looping through the data file and printing the content:
 
 {% raw %}
-```html
+```liquid
 <ul class="book-list">
 {% for book in site.data.books %}
   <li>
@@ -74,7 +74,7 @@ I created a new file called `books.html` in the main directory, with the followi
 I wrote a conditional that evaluates whether or not I’ve completed the book or am currently reading it (“In progress”):
 
 {% raw %}
-```html
+```liquid
       <p class="post-meta">Date completed:      
         {% if book.completed == 'In progress' %}
           <span style="color: #e71c4f">📖 {{ book.completed }}</span>
