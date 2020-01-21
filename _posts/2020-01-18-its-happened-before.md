@@ -47,7 +47,7 @@ Progress _seems_ possible, except in reality we’ve simply relocated the venues
 
 Have we made progress? I don’t think we have. Any political stability we have left is contingent on our economic security, which is itself contingent on the stability of our markets and the resiliency of our environment. Relying on either of those is a dangerous gamble, the latter especially, as we inherit the consequences of our inaction.
 
-What is progress, then? How do we measure it? Is the world truly better now than it has been throughout history? In the U.S., [life expectancy continues to decline](https://www.cnn.com/2019/11/26/health/us-life-expectancy-decline-study/index.html) and climate change threatens mass extinction and human civilization.
+What is progress, then? How do we measure it? Is the world truly better now than it has been throughout history? In the U.S., [life expectancy continues to decline](https://www.cnn.com/2019/11/26/health/us-life-expectancy-decline-study/index.html) and climate change threatens mass extinction and the foundations of human civilization.
 
 So, am I comforted by the fact that, as our nation turned to its worst impulses in response to economic and climatic pressures, it’s happened in some form before? 
 
