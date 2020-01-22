@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand"
+        author: Megan Devine
+        link: https://www.soundstrue.com/store/it-s-ok-that-you-re-not-ok-1.html
+        image: https://prod-ecom-media.soundstrue.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/t/itsokbook_1.jpg
+        description: It doesn't bring me pleasure that I need this book right now, but that is, after all, the point of the book.
+        genre: [mental health]
+        format: audiobook
+        completed: In progress
+
       - title: "Exhalation"
         author: Ted Chiang
         link: https://www.penguinrandomhouse.com/books/538034/exhalation-by-ted-chiang/
