@@ -12,12 +12,12 @@ list:
         format: audiobook
         completed: In progress
 
-      - title: "Exhalation"
-        author: Ted Chiang
-        link: https://www.penguinrandomhouse.com/books/538034/exhalation-by-ted-chiang/
-        image: https://images1.penguinrandomhouse.com/cover/9781101947883
-        description: The author of the source material for the film <a href="https://www.theguardian.com/books/booksblog/2016/nov/11/ted-chiang-science-fiction-genius-arrival-writer"><cite>Arrival</cite></a>? I'm in! Plus, I could use a break from the politics of it all.
-        genre: [literary fiction, science fiction]
+      - title: "A Very Stable Genius: Donald J. Trump's Testing of America"
+        author: Philip Rucker and Carol Leonnig
+        link: https://en.wikipedia.org/wiki/A_Very_Stable_Genius
+        image: https://upload.wikimedia.org/wikipedia/en/4/41/A_Very_Stable_Genius_cover.jpg
+        description: “This taut and terrifying book is among the most closely observed accounts of Donald J. Trump’s shambolic tenure in office to date.” - Dwight Garner, The New York Times
+        genre: [politics]
         completed: In progress
 
       - title: "The Soul of America: The Battle for Our Better Angels"
