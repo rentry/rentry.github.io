@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Arrival and the eternal return of the same"
+title:  "<cite>Arrival</cite> and the eternal return of the same"
 date:   2017-02-05 11:50:00
 description: "Arrival was my favorite film of 2016. It presents a challenge Nietzsche identified throughout his work."
 categories: film
@@ -9,13 +9,13 @@ tags: [film, philosophy, books]
 Arrival was my favorite film of 2016. Granted, I didn't see every critically acclaimed film, but I did see many of them. I'm also not contending that Arrival was the most important film of the year; I'll leave that for others to decide.
 
 ## Nietzsche's concept of eternal return
-Nietzsche introduced the concept of eternal return (often referred to as "eternal recurrence") in _The Gay Science_, and the concept forms the underlying conceptual framework of _Thus Spoke Zarathustra_. It's one of the most powerful concepts in continental philosophy, and though it certainly borrows heavily from Hinduism and Buddhism, Nietzsche's treatment isn't meant to articulate a physical or spiritual cosmology. Rather, he treats it as a challenge and a "burden". While modern quantum theory has explored the cosmological relevance of the concept, the underlying "burden" Nietzsche articulated remains the central challenge, regardless of its scientific validity.
+Nietzsche introduced the concept of eternal return (often referred to as "eternal recurrence") in <cite>The Gay Science</cite>, and the concept forms the underlying conceptual framework of <cite>Thus Spoke Zarathustra</cite>. It's one of the most powerful concepts in continental philosophy, and though it certainly borrows heavily from Hinduism and Buddhism, Nietzsche's treatment isn't meant to articulate a physical or spiritual cosmology. Rather, he treats it as a challenge and a "burden". While modern quantum theory has explored the cosmological relevance of the concept, the underlying "burden" Nietzsche articulated remains the central challenge, regardless of its scientific validity.
 
 Nietzsche's first reference to eternal return may be his most concise description of the "burden" inherent in the contemplation of the concept:
 
 >**The greatest weight.** — What, if some day or night a demon were to steal after you into your loneliest loneliness and say to you: "This life as you now live it and have lived it, you will have to live once more and innumerable times more; and there will be nothing new in it, but every pain and every joy and every thought and sigh and everything unutterably small or great in your life will have to return to you, all in the same succession and sequence—even this spider and this moonlight between the trees, and even this moment and I myself. The eternal hourglass of existence is turned upside down again and again, and you with it, speck of dust!"
 
-This is from aphorism 341 in _The Gay Science_. Nietzsche goes on to convey the burden:
+This is from aphorism 341 in <cite>The Gay Science</cite>. Nietzsche goes on to convey the burden:
 
 >Would you not throw yourself down and gnash your teeth and curse the demon who spoke thus? [...] If this thought gained possession of you, it would change you as you are or perhaps crush you. The question in each and every thing, "Do you desire this once more and innumerable times more?" would lie upon your actions as the greatest weight.
 
@@ -43,9 +43,9 @@ There are several themes wrapped up in Louise's emerging understanding of the al
 
 The question as to whether or not Louise _chooses_ to bear a child she knows will die at young age is one of the central questions of the film. The concept of eternal return implies determinism. If everything finite is happening repeatedly within the infinite, it leaves little room for agency; after all, everything has already happened. But that's sort of the point: the affirmation of life means the affirmation of what has happened, is happening, and will happen, all at once. It's a burden indeed, with no room for regret.
 
-Nietzsche wrote extensively about nihilism and affirmation. It seems to me it was the central theme of his philosophical project. He thought the most extreme nihilism was the springboard for the highest affirmation, as exemplified through the tension of "going under" in order to become the "overman" in _Thus Spoke Zarathustra_. 
+Nietzsche wrote extensively about nihilism and affirmation. It seems to me it was the central theme of his philosophical project. He thought the most extreme nihilism was the springboard for the highest affirmation, as exemplified through the tension of "going under" in order to become the "overman" in <cite>Thus Spoke Zarathustra</cite>. 
 
-Nihilism is portrayed in Arrival not through Louise herself, but through the international community. The cynicism embodied by the international community, the lack of curiosity, the militant skepticism, and the attempts to understand via combative games, all point to a nihilistic approach to the arrival. Louise exemplifies the key tenet of _The Gay Science_, the title of which refers to the joy of scientific discovery divorced from utility. Louise ends up discovering a "weapon," but her approach and her success in communicating with the heptapods derives from her curiosity and lack of utilitarian expectation.
+Nihilism is portrayed in Arrival not through Louise herself, but through the international community. The cynicism embodied by the international community, the lack of curiosity, the militant skepticism, and the attempts to understand via combative games, all point to a nihilistic approach to the arrival. Louise exemplifies the key tenet of <cite>The Gay Science</cite>, the title of which refers to the joy of scientific discovery divorced from utility. Louise ends up discovering a "weapon," but her approach and her success in communicating with the heptapods derives from her curiosity and lack of utilitarian expectation.
 
 Finally, Louise's character ends up being defined by her "choice" to affirm the life she was always going to live. Whether she chooses to have her daughter or not, she _affirms_ having her daughter. We see her affirming this over and over again during the course of the film via her discovery of the properties of the heptapod language. And she never regrets it.
 
