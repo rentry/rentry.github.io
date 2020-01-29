@@ -27,7 +27,7 @@ list:
         description: It doesn't bring me pleasure that I need this book right now, but that is, after all, the point of the book.
         genre: [mental health]
         format: audiobook
-        completed: In progress
+        completed: 2020-01-29
 
       - title: "The Soul of America: The Battle for Our Better Angels"
         author: Jon Meacham
