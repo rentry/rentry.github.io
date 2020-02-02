@@ -3,13 +3,21 @@ list:
   - year: 2020
     books:
 
+      - title: "Hope in the Dark: Untold Histories, Wild Possibilities"
+        author: Rebecca Solnit
+        link: https://www.haymarketbooks.org/books/791-hope-in-the-dark
+        image: https://cdn-ed.haymarketbooks.org/images/000001/856/9781608465767_FC-f_medium-f9c71889461786c3ab8b99dca25d59c0.jpg
+        description: "A friend of mine sent me this book, described by <cite>The Guardian</cite> as “One of the Best Books of the 21st Century.” I could use some hope right now."
+        genre: [political science, activism]
+        completed: In progress
+
       - title: "In Praise of Shadows"
         author: "Jun'ichirō Tanizaki"
         link: https://en.wikipedia.org/wiki/In_Praise_of_Shadows
         image: https://upload.wikimedia.org/wikipedia/en/d/d4/In_praise_of_shadows.jpg
         description: "I'm rereading this trim book, given to me by a friend, which contrasts Western and Japanese cultural aesthetics, particularly those centered around light and dark."
         genre: [philosophy, aesthetics]
-        completed: In progress
+        completed: 2020-02-01
 
       - title: "Exhalation"
         author: Ted Chiang
