@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "American Oligarchs: The Kushners, the Trumps, and the Marriage of Money and Power"
+        author: Andrea Bernstein
+        link: https://www.penguinrandomhouse.com/books/647309/american-oligarchs-by-andrea-bernstein/
+        image: https://images2.penguinrandomhouse.com/cover/9781984828057
+        description: "“Anyone concerned about American democracy should read Andrea Bernstein’s devastating exposé of the Trump and Kushner families. With meticulous precision, she documents the pernicious effects of dynastic wealth and power, now threatening to turn the highest rungs of the US government into a corrupt oligarchy.”—Jane Mayer, <cite>The New Yorker</cite> staff writer and <cite>New York Times</cite> best-selling author of <cite>Dark Money</cite>"
+        genre: [politics, economics, history]
+        format: audiobook
+        completed: In progress
+
       - title: "Hope in the Dark: Untold Histories, Wild Possibilities"
         author: Rebecca Solnit
         link: https://www.haymarketbooks.org/books/791-hope-in-the-dark
@@ -34,7 +43,7 @@ list:
         description: “This taut and terrifying book is among the most closely observed accounts of Donald J. Trump’s shambolic tenure in office to date.” - Dwight Garner, The New York Times
         genre: [politics]
         format: audiobook
-        completed: In progress        
+        completed: 2020-02-04       
       
       - title: "It's OK That You're Not OK: Meeting Grief and Loss in a Culture That Doesn't Understand"
         author: Megan Devine
