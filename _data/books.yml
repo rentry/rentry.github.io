@@ -20,14 +20,6 @@ list:
         format: audiobook
         completed: In progress
 
-      - title: "Hope in the Dark: Untold Histories, Wild Possibilities"
-        author: Rebecca Solnit
-        link: https://www.haymarketbooks.org/books/791-hope-in-the-dark
-        image: https://cdn-ed.haymarketbooks.org/images/000001/856/9781608465767_FC-f_medium-f9c71889461786c3ab8b99dca25d59c0.jpg
-        description: "A friend of mine sent me this book, described by <cite>The Guardian</cite> as “One of the Best Books of the 21st Century.” I could use some hope right now."
-        genre: [political science, activism]
-        completed: In progress
-
       - title: "In Praise of Shadows"
         author: "Jun'ichirō Tanizaki"
         link: https://en.wikipedia.org/wiki/In_Praise_of_Shadows
