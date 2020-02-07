@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "The Chapo Guide to Revolution"
+        author: Felix Biederman, Matt Christman, Brendan James, Will Menaker, Virgil Texas
+        link: https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution
+        image: https://upload.wikimedia.org/wikipedia/en/3/39/The_Chapo_Guide_to_Revolution.jpg
+        description: "To be honest, I'm conflicted about the Chapo guys. I find them cynical, unnecessarily (unproductively) ironic, and occasionally cruel. On the other hand, I don't blame them for being angry. Things get worse for almost everyone almost everyday. And, when it comes to climate, we're simply running out of time."
+        genre: [politics, satire]
+        completed: In progress
+
       - title: "American Oligarchs: The Kushners, the Trumps, and the Marriage of Money and Power"
         author: Andrea Bernstein
         link: https://www.penguinrandomhouse.com/books/647309/american-oligarchs-by-andrea-bernstein/
