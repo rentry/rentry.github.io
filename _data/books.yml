@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Developer's Guide to Content Creation"
+        author: Stephanie Morillo
+        link: https://www.developersguidetocontent.com/
+        image: https://static.wixstatic.com/media/1ff14f_a319ec7cd9f94a21a6ebba9ba97167fc~mv2_d_1410_2250_s_2.png/v1/fill/w_848,h_1308,al_c,q_90,usm_0.66_1.00_0.01/DevelopersGuidetoContentBookCover.webp
+        description: "I'm not a developer, but a book about content creation from a developer's perspective is irresistible, although the <em>content marketing</em> frame early in the book is worrisome."
+        genre: [content strategy, design, web]
+        completed: Next
+    
+
       - title: "The Chapo Guide to Revolution: A Manifesto Against Logic, Facts, and Reason"
         author: Felix Biederman, Matt Christman, Brendan James, Will Menaker, Virgil Texas
         link: https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution

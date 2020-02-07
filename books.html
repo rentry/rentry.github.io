@@ -42,13 +42,15 @@ title: Reading
               <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
               <p class="book-author">{{ book.author }}</p>
               <p>{{ book.description }}</p>
-              <p class="post-meta">Date completed:      
+              <p class="post-meta">    
                 {% if book.completed == 'In progress' %}
-                  <span style="color: #EB002B">📖 {{ book.completed }}</span>
+                  <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }}</span>
                 {% elsif book.completed == 'Abandoned' %}
-                    <span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                  <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                {% elsif book.completed == 'Next' %}
+                  <span>Status: </span><span style="color: #026431">📚 Next up</span>    
                 {% else %}
-                  {{ book.completed | date: "%B %-d, %Y" }}
+                  <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
                 {% endif %}
                 {% if book.format == 'audiobook' %} 
                   <span> 🎧</span>
