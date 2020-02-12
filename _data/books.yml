@@ -3,11 +3,11 @@ list:
   - year: 2020
     books:
 
-      - title: "The Developer's Guide to Content Creation"
-        author: Stephanie Morillo
-        link: https://www.developersguidetocontent.com/
-        image: https://static.wixstatic.com/media/1ff14f_a319ec7cd9f94a21a6ebba9ba97167fc~mv2_d_1410_2250_s_2.png/v1/fill/w_848,h_1308,al_c,q_90,usm_0.66_1.00_0.01/DevelopersGuidetoContentBookCover.webp
-        description: "I'm not a developer, but a book about content creation from a developer's perspective is irresistible, although the <em>content marketing</em> frame early in the book is worrisome."
+      - title: "Does Your Content Work?: Why Evaluate Your Content and How to Start "
+        author: Colleen Jones
+        link: http://www.peachpit.com/store/does-your-content-work-why-evaluate-your-content-and-9780133765076
+        image: http://www.peachpit.com/ShowCover.aspx?isbn=9780133765076&type=f
+        description: "I've developed content evaluation metrics in the past, but I'd like to expand my toolkit (especially while I'm starting a new job). The title of this book is awkward, in my view, but I read and value Jones's earlier work <cite>Clout: The Art and Science of Influential Web Content</cite>."
         genre: [content strategy, design, web]
         completed: Next
     
