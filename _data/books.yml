@@ -3,14 +3,21 @@ list:
   - year: 2020
     books:
 
-      - title: "Does Your Content Work?: Why Evaluate Your Content and How to Start "
+      - title: "Marx, Capital, and the Madness of Economic Reason"
+        author: David Harvey
+        link: https://global.oup.com/academic/product/marx-capital-and-the-madness-of-economic-reason-9780190691486?cc=us&lang=en&
+        image: https://global.oup.com/academic/covers/pdp/9780190691486
+        description: "“In <cite>Marx, Capital, and the Madness of Economic Reason</cite>, David Harvey not only provides a concise distillation of his famous course on Capital, but also makes the text relevant to the twenty-first century's continuing processes of globalization.”"
+        genre: [economics, society, politics]
+        completed: In progress
+
+      - title: "Does Your Content Work?: Why Evaluate Your Content and How to Start"
         author: Colleen Jones
         link: http://www.peachpit.com/store/does-your-content-work-why-evaluate-your-content-and-9780133765076
         image: http://www.peachpit.com/ShowCover.aspx?isbn=9780133765076&type=f
         description: "I've developed content evaluation metrics in the past, but I'd like to expand my toolkit (especially while I'm starting a new job). The title of this book is awkward, in my view, but I read and value Jones's earlier work <cite>Clout: The Art and Science of Influential Web Content</cite>."
         genre: [content strategy, design, web]
         completed: In progress
-    
 
       - title: "The Chapo Guide to Revolution: A Manifesto Against Logic, Facts, and Reason"
         author: Felix Biederman, Matt Christman, Brendan James, Will Menaker, Virgil Texas
