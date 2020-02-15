@@ -41,7 +41,7 @@ title: Reading
             <div class="book-info">
               <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
               <p class="book-author">{{ book.author }}</p>
-              <p>{{ book.description }}</p>
+              <p>{{ book.description | smartify }}</p>
               <p class="post-meta">    
                 {% if book.completed == 'In progress' %}
                   <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }}</span>

@@ -9,16 +9,16 @@ list:
         image: http://www.peachpit.com/ShowCover.aspx?isbn=9780133765076&type=f
         description: "I've developed content evaluation metrics in the past, but I'd like to expand my toolkit (especially while I'm starting a new job). The title of this book is awkward, in my view, but I read and value Jones's earlier work <cite>Clout: The Art and Science of Influential Web Content</cite>."
         genre: [content strategy, design, web]
-        completed: Next
+        completed: In progress
     
 
       - title: "The Chapo Guide to Revolution: A Manifesto Against Logic, Facts, and Reason"
         author: Felix Biederman, Matt Christman, Brendan James, Will Menaker, Virgil Texas
         link: https://en.wikipedia.org/wiki/The_Chapo_Guide_to_Revolution
         image: https://upload.wikimedia.org/wikipedia/en/3/39/The_Chapo_Guide_to_Revolution.jpg
-        description: "To be honest, I'm conflicted about the Chapo guys. I find them cynical, often unnecessarily and unproductively ironic, and occasionally cruel. On the other hand, I don't blame them for being angry. Things keep getting worse for almost everyone, almost everyday. Their analysis on the first page of this book is precise: “If you're reading these words, you're likely living in despair and hopelessness.”"
+        description: "To be honest, I've been conflicted about Chapo. I find them cynical, often unnecessarily and unproductively ironic, and occasionally cruel. On the other hand, I don't blame them for being angry. Things keep getting worse for almost everyone, almost everyday. Their analysis on the first page of this book is precise: “If you're reading these words, you're likely living in despair and hopelessness.” There are moments of earnestness, truth, authenticity, and desperation throughout this book. It's worth a read."
         genre: [politics, satire]
-        completed: In progress
+        completed: 2020-02-15
 
       - title: "American Oligarchs: The Kushners, the Trumps, and the Marriage of Money and Power"
         author: Andrea Bernstein
@@ -83,7 +83,7 @@ list:
         author: Ellen Meloy
         link: https://www.penguinrandomhouse.com/books/113090/the-anthropology-of-turquoise-by-ellen-meloy/
         image: https://images1.penguinrandomhouse.com/cover/9780375708138
-        description: “Exquisitely rendered....Meloy’s gem-studded collection calls us to be mindful of the physical world, to see it—really see it—with fresh eyes.” —Los Angeles Times <br><br> This book is exquisite, indeed, so far. The revelations include, for instance, an account of how the color purple was once only accessible to humans via ”milking“ mollusks. Perhaps writing with vivid imagery runs in the family, as <a href="https://en.wikipedia.org/wiki/Ellen_Meloy">the author‘s nephew has built a musical career doing so</a>. A line near the end of the book captures much of the book's ambivalent essence...“I write a book about a river and cannot tell if it is a love story or an obituary or both.”
+        description: “Exquisitely rendered....Meloy’s gem-studded collection calls us to be mindful of the physical world, to see it—really see it—with fresh eyes.” —Los Angeles Times <br><br> This book is exquisite, indeed, so far. The revelations include, for instance, an account of how the color purple was once only accessible to humans via “milking” mollusks. Perhaps writing with vivid imagery runs in the family, as <a href="https://en.wikipedia.org/wiki/Ellen_Meloy">the author‘s nephew has built a musical career doing so</a>. A line near the end of the book captures much of the book's ambivalent essence...“I write a book about a river and cannot tell if it is a love story or an obituary or both.”
         genre: [science, natural history]
         completed: 2020-01-17
 
