@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Burn the Place: A Memoir"
+        author: Iliana Regan
+        link: https://www.agatepublishing.com/titles/burn-the-place
+        image: https://images.squarespace-cdn.com/content/v1/5518c489e4b0d9aaa8c77dbc/1548273121260-QH8U8F5B90LR6L3LQ2U1/ke17ZwdGBToddI8pDm48kKUaLkAkhi2tkgF_RprmEql7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UfIVpT4CpvUt15iw7qAUuuPee9f4mfLa0NQA9TYh_DVOiVdbxG2wdQnuRzzWls2B1A/9781572842670.jpg?format=500w
+        description: "“<cite>Burn the Place</cite> is a galvanizing memoir that chronicles Iliana Regan’s journey from foraging on the family farm to running her Michelin-starred restaurant, Elizabeth. Her story is raw like that first bite of wild onion, alive with startling imagery, and told with uncommon emotional power.”"
+        genre: [biography, culinary]
+        completed: Next
+
       - title: "Marx, Capital, and the Madness of Economic Reason"
         author: David Harvey
         link: https://global.oup.com/academic/product/marx-capital-and-the-madness-of-economic-reason-9780190691486?cc=us&lang=en&
