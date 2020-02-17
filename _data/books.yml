@@ -17,6 +17,7 @@ list:
         image: https://global.oup.com/academic/covers/pdp/9780190691486
         description: "“In <cite>Marx, Capital, and the Madness of Economic Reason</cite>, David Harvey not only provides a concise distillation of his famous course on <cite>Capital</cite>, but also makes the text relevant to the twenty-first century's continuing processes of globalization.”"
         genre: [economics, society, politics]
+        format: audiobook
         completed: In progress
 
       - title: "Does Your Content Work?: Why Evaluate Your Content and How to Start"
