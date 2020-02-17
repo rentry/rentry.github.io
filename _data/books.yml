@@ -17,7 +17,6 @@ list:
         image: https://pine.fm/images/LTP2_cover.jpg
         description: "I'm revisiting this 2009 book on programming with Ruby. Many of the sites I've been working on lately are Jekyll-based, with custom Ruby plugins. I'm fairly proficient in Jekyll and Liquid, but I need to freshen up on Ruby itself."
         genre: [programming]
-        format: audiobook
         completed: In progress
 
       - title: "Marx, Capital, and the Madness of Economic Reason"
