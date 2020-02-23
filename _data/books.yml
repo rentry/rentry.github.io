@@ -9,7 +9,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/2/22/Station_Eleven_Cover.jpg
         description: "“In her much-tipped fourth novel, longlisted last week for a US National Book award, Canadian author Emily St John Mandel makes something subtle and unusual out of elements that have become garishly overfamiliar.”–<cite>The Guardian</cite>"
         genre: [science fiction, dystopia, apocalyptic]
-        completed: Next
+        completed: In progress
 
       - title: "Burn the Place: A Memoir"
         author: Iliana Regan
@@ -26,7 +26,7 @@ list:
         image: https://pine.fm/images/LTP2_cover.jpg
         description: "I'm revisiting this 2009 book on programming with Ruby. Many of the sites I've been working on lately are Jekyll-based, with custom Ruby plugins. I'm fairly proficient in Jekyll and Liquid, but I need to freshen up on Ruby itself."
         genre: [programming]
-        completed: In progress
+        completed: 2020-02-22
 
       - title: "Marx, Capital, and the Madness of Economic Reason"
         author: David Harvey
