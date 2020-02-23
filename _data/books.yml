@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Station Eleven"
+        author: Emily St. John Mandel
+        link: https://en.wikipedia.org/wiki/Station_Eleven
+        image: https://upload.wikimedia.org/wikipedia/en/2/22/Station_Eleven_Cover.jpg
+        description: "My partner recently read and recommended this 2014 bestseller. “In her much-tipped fourth novel, longlisted last week for a US National Book award, Canadian author Emily St John Mandel makes something subtle and unusual out of elements that have become garishly overfamiliar.”–<cite>The Guardian</cite>"
+        genre: [science fiction, dystopia, apocalyptic]
+        completed: Next
+
       - title: "Burn the Place: A Memoir"
         author: Iliana Regan
         link: https://www.agatepublishing.com/titles/burn-the-place
