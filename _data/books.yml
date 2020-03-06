@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Good Services: How to design services that work"
+        author: Lou Downe
+        link: https://good.services/
+        image: https://cdn.webshopapp.com/shops/71491/files/312179357/800x1024x2/image.jpg
+        description: "“Lou Downe has been designing good services for quite a while. And they’re good at it! I can’t tell you how many times I got stuck trying to solve something and thought: ‘Well, let’s go see how GOV.UK solved it.’ If you’re looking for help in doing the right thing I have good news for you. This book is going to help. It’s brilliant!”— Mike Montiero"
+        genre: [government, civic tech, content strategy]
+        completed: Next
+
       - title: "Capital and Ideology"
         author: Thomas Piketty
         link: https://en.wikipedia.org/wiki/Capital_and_Ideology
