@@ -25,7 +25,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/2/22/Station_Eleven_Cover.jpg
         description: "This book is excellent, but I wouldn't recommend reading it during a pandemic. Oops. “Deeply melancholy, but beautifully written, and wonderfully elegiac...A book that I will long remember, and return to.”— George R. R. Martin"
         genre: [science fiction, dystopia, apocalyptic]
-        completed: In progress
+        completed: 2020-03-06
 
       - title: "Burn the Place: A Memoir"
         author: Iliana Regan
