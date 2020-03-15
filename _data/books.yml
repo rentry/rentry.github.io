@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Heartland: A Memoir of Working Hard and Being Broke in the Richest Country on Earth"
+        author: Sarah Smarsh
+        link: https://www.simonandschuster.com/books/Heartland/Sarah-Smarsh/9781501133107
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781501133107/heartland-9781501133107_lg.jpg
+        description: I'd heard of this book, but it wasn't at the top of my reading list until I read <a href="https://www.nytimes.com/2020/03/06/opinion/elizabeth-warren-women-president.html">Smarsh's piece in <em>The New York Times</em></a>, and found the book at our library.
+        genre: [politics, memoir]
+        format: audiobook
+        completed: 2020-03-08
+
       - title: "Dog Songs"
         author: Mary Oliver
         link: https://www.penguinrandomhouse.com/books/311092/dog-songs-by-mary-oliver/
