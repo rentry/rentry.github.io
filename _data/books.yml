@@ -10,7 +10,7 @@ list:
         description: I wanted to read this book after I read <a href="https://www.nytimes.com/2020/03/06/opinion/elizabeth-warren-women-president.html">Smarsh's compelling piece in <em>The New York Times</em></a>. Thanks to our library, I moved it up my list.
         genre: [politics, memoir]
         format: audiobook
-        completed: In progress
+        completed: 2020-03-28
 
       - title: "Dog Songs"
         author: Mary Oliver
