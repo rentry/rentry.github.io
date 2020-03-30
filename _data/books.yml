@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Plot Against America"
+        author: Philip Roth
+        link: https://en.wikipedia.org/wiki/The_Plot_Against_America
+        image: https://upload.wikimedia.org/wikipedia/en/7/73/Plot_against_usa.jpg
+        description: I'm sure I'm not alone in turning to this one after the debut of the HBO miniseries envisioning an alternate, fascist history that seems increasingly recognizable.
+        genre: [politics, history, fiction]
+        format: audiobook
+        completed: In progress
+      
       - title: "Heartland: A Memoir of Working Hard and Being Broke in the Richest Country on Earth"
         author: Sarah Smarsh
         link: https://www.simonandschuster.com/books/Heartland/Sarah-Smarsh/9781501133107
