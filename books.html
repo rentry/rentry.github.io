@@ -34,32 +34,35 @@ title: Reading
     <div>
       <!--Books for each year-->
       <ul class="book-list">
-        {% for book in entry.books %}
-        <li>
-          <div class="book-item">
-            <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
-            <div class="book-info">
-              <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
-              <p class="book-author">{{ book.author }}</p>
-              <p>{{ book.description | smartify }}</p>
-              <p class="post-meta">    
-                {% if book.completed == 'In progress' %}
-                  <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }}</span>
-                {% elsif book.completed == 'Abandoned' %}
-                  <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
-                {% elsif book.completed == 'Next' %}
-                  <span>Status: </span><span style="color: #026431">📚 Next up</span>    
-                {% else %}
-                  <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
-                {% endif %}
-                {% if book.format == 'audiobook' %} 
-                  <span> 🎧</span>
-                {% endif %} 
+        <!--Sorts books in progress in DOM-->
+        {% assign in_progress = entry.books | where: "completed", "In progress" %}
+        {% for book in in_progress %}
+          {% include book-item.html %}
+              <p class="post-meta">
+                <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }} {% if book.progress %}<span class="book-author">{{ book.progress }}%</span>{% endif %}</span>
+                {% include book-format.html %}
               </p>
-            </div>
-          </div> 
-        </li>
+            </li>
         {% endfor %}
+        {% for book in entry.books %}
+        <!--Books that aren't in progress-->
+        {% unless book.completed == "In progress" %}
+          {% include book-item.html %}
+                <p class="post-meta"> 
+                  {% if book.completed == 'Abandoned' %}
+                    <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
+                  {% elsif book.completed == 'Next' %}
+                    <span>Status: </span><span style="color: #026431">📚 Next up</span>    
+                  {% else %}
+                    <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
+                  {% endif %}
+                  {% include book-format.html %}
+                </p>
+              </div>
+            </div> 
+          </li>
+        {% endunless %}   
+        {% endfor %}   
       </ul>
     </div>
   </div>

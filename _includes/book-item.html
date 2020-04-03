@@ -1,0 +1,7 @@
+<li>
+    <div class="book-item">
+      <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+      <div class="book-info">
+        <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
+        <p class="book-author">{{ book.author }}</p>
+        <p>{{ book.description | smartify }}</p>
