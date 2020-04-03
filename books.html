@@ -45,9 +45,6 @@ title: Reading
               <p class="post-meta">    
                 {% if book.completed == 'In progress' %}
                   <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }}</span>
-                  {% if book.progress %}
-                    <progress max="100" value="{{ book.progress }}"></progress>
-                  {% endif %}
                 {% elsif book.completed == 'Abandoned' %}
                   <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
                 {% elsif book.completed == 'Next' %}
