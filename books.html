@@ -39,8 +39,7 @@ title: Reading
         {% for book in in_progress %}
           {% include book-item.html %}
               <p class="post-meta">
-                <span>Status: </span><span style="color: #EB002B">📖 {{ book.completed }} {% if book.progress %}<span class="book-author">{{ book.progress }}%</span>{% endif %}</span>
-                {% include book-format.html %}
+                <span>Status: </span><span style="color: #EB002B">{% if book.format == 'audiobook' %} 🎧 {{ book.completed }}{% else %} 📖 {{ book.completed }}{% endif %} {% if book.progress %}<span class="book-author">{{ book.progress }}%</span>{% endif %}</span>
               </p>
             </li>
         {% endfor %}
