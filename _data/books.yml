@@ -3,14 +3,14 @@ list:
   - year: 2020
     books:
 
-      - title: "The Plot Against America"
-        author: Philip Roth
-        link: https://en.wikipedia.org/wiki/The_Plot_Against_America
-        image: https://upload.wikimedia.org/wikipedia/en/7/73/Plot_against_usa.jpg
-        description: I'm sure I'm not alone in turning to this one after the debut of the HBO miniseries envisioning an alternate, fascist history that seems increasingly recognizable.
-        genre: [politics, history, fiction]
+      - title: "That All Shall Be Saved: Heaven, Hell, and Universal Salvation"
+        author: David Bentley Hart
+        link: https://yalebooks.yale.edu/book/9780300246223/all-shall-be-saved
+        image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/7724a4cfcb78f20b1eb3fda9449a0f00.jpg
+        description: "“In this momentous book, David Bentley Hart makes the case that nearly two millennia of dogmatic tradition have misled readers on the crucial matter of universal salvation. On the basis of the earliest Christian writings, theological tradition, scripture, and logic, Hart argues that if God is the good creator of all, he is the savior of all, without fail.”—Yale University Press"
+        genre: [religion, Christianity]
         format: audiobook
-        progress: 10
+        progress: 1
         completed: In progress
       
       - title: "Heartland: A Memoir of Working Hard and Being Broke in the Richest Country on Earth"
