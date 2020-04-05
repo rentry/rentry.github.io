@@ -52,7 +52,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Capital_and_Ideology.jpg/440px-Capital_and_Ideology.jpg
         description: "The sequel to the most important book I've read in a long time (<cite>Capital in the Twenty-First Century</cite>), this prodigious volume (1,093 pages) will occupy me for some time and may limit the number of books I read this year, but I'm certain I won't regret it."
         genre: [politics, economics, history]
-        progress: 35
+        progress: 40
         completed: In progress
 
       - title: "Station Eleven"
