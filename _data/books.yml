@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Lessons from Walden: Thoreau and the Crisis of American Democracy"
+        author: Bob Pepperman Taylor
+        link: https://undpress.nd.edu/9780268107338/lessons-from-walden/
+        image: https://notredamepress-us.imgix.net/covers/9780268107338.jpg
+        description: "“In Lessons from Walden, Taylor lets all sides have their say, even as he persistently steers the discussion back to a nuanced reading of Thoreau's actual position. With its tone of friendly urgency, this interdisciplinary tour de force will interest students and scholars of American literature, environmental ethics, and political theory. It deserves to be read by a more general readership, including environmental activists, concerned citizens, and anyone troubled with the future of democracy.”–Notre Dame Press"
+        genre: [history, biography, biology]
+        completed: Next
+
       - title: "Sapiens: A Brief History of Humankind"
         author: Yuval Noah Harari
         link: https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind
@@ -10,7 +18,7 @@ list:
         description: "“The book surveys the history of humankind from the evolution of archaic human species in the Stone Age up to the twenty-first century, focusing on <em>Homo sapiens</em>. The account is situated within a framework provided by the natural sciences, particularly evolutionary biology. The reception of the book has been mixed. Whereas the general public's reaction to the book has been positive, scholars with relevant subject matter expertise have been very critical of the book.”—<a href='https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind'>Wikipedia</a>"
         genre: [history, anthropology, biology]
         format: audiobook
-        progress: 20
+        progress: 25
         completed: In progress
 
       - title: "That All Shall Be Saved: Heaven, Hell, and Universal Salvation"
