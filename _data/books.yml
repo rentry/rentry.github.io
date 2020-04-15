@@ -18,8 +18,7 @@ list:
         description: "“The book surveys the history of humankind from the evolution of archaic human species in the Stone Age up to the twenty-first century, focusing on <em>Homo sapiens</em>. The account is situated within a framework provided by the natural sciences, particularly evolutionary biology. The reception of the book has been mixed. Whereas the general public's reaction to the book has been positive, scholars with relevant subject matter expertise have been very critical of the book.”—<a href='https://en.wikipedia.org/wiki/Sapiens:_A_Brief_History_of_Humankind'>Wikipedia</a>"
         genre: [history, anthropology, biology]
         format: audiobook
-        progress: 70
-        completed: In progress
+        completed: 2020-04-14
 
       - title: "That All Shall Be Saved: Heaven, Hell, and Universal Salvation"
         author: David Bentley Hart
