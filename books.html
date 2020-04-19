@@ -32,9 +32,9 @@ title: Reading
       {% endif %}
     </div>  
     <div>
-      <!--Books for each year-->
+      {% comment %} Books for each year {% endcomment %}
       <ul class="book-list">
-        <!--Sorts books in progress in DOM-->
+        {% comment %} Books in progress {% endcomment %}
         {% assign in_progress = entry.books | where: "completed", "In progress" %}
         {% for book in in_progress %}
           {% include book-item.html %}
@@ -43,8 +43,8 @@ title: Reading
               </p>
             </li>
         {% endfor %}
+        {% comment %} Books that aren't in progress {% endcomment %}
         {% for book in entry.books %}
-        <!--Books that aren't in progress-->
         {% unless book.completed == "In progress" %}
           {% include book-item.html %}
                 <p class="post-meta"> 
