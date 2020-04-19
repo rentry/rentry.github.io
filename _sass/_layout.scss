@@ -281,6 +281,10 @@ Post List and items
 
 /* Links */
 
+a {
+    color: $brand-color;
+}
+
 .post a:hover {
     color: brand-color-light;
 }
