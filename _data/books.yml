@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Politics and the English Language"
+        author: George Orwell
+        link: http://www.orwell.ru/library/essays/politics/english/e_polit
+        image: https://upload.wikimedia.org/wikipedia/en/6/65/PoliticsandtheEnglishLanguage.jpg
+        description: "A (at least) yearly read for me."
+        genre: [politics, writing, grammar, style]
+        completed: 2020-04-19
+
+
       - title: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants"
         author: Robin Wall Kimmerer
         link: https://milkweed.org/book/braiding-sweetgrass
