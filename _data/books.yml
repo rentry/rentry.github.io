@@ -10,7 +10,7 @@ list:
         description: "“Robin Wall Kimmerer is writer of rare grace. She writes about the natural world from a place of such abundant passion that one can never quite see the world the same way after having seen it through Kimmerer’s eyes. In <cite>Braiding Sweetgrass</cite>, she takes us on a journey that is every bit as mythic as it is scientific, as sacred as it is historical, as clever as it is wise. She is a great teacher, and her words are a hymn of love to the world.”–Elizabeth Gilbert"
         genre: [ecology, botany, environment]
         format: audiobook
-        progress: 25
+        progress: 30
         completed: In progress
 
       - title: "Lessons from Walden: Thoreau and the Crisis of American Democracy"
@@ -19,7 +19,6 @@ list:
         image: https://notredamepress-us.imgix.net/covers/9780268107338.jpg
         description: "“In Lessons from Walden, Taylor lets all sides have their say, even as he persistently steers the discussion back to a nuanced reading of Thoreau's actual position. With its tone of friendly urgency, this interdisciplinary tour de force will interest students and scholars of American literature, environmental ethics, and political theory. It deserves to be read by a more general readership, including environmental activists, concerned citizens, and anyone troubled with the future of democracy.”–Notre Dame Press"
         genre: [history, biography, politics, environment]
-        progress: 30
         completed: 2020-04-18
 
       - title: "Sapiens: A Brief History of Humankind"
@@ -71,7 +70,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Capital_and_Ideology.jpg/440px-Capital_and_Ideology.jpg
         description: "The sequel to the most important book I've read in a long time (<cite>Capital in the Twenty-First Century</cite>), this prodigious volume (1,093 pages) will occupy me for some time and may limit the number of books I read this year, but I'm certain I won't regret it."
         genre: [politics, economics, history]
-        progress: 40
+        progress: 50
         completed: In progress
 
       - title: "Station Eleven"
