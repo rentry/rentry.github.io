@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Theological Territories: A David Bentley Hart Digest"
+        author: David Bentley Hart
+        link: https://undpress.nd.edu/9780268107185/theological-territories/
+        image: https://notredamepress-us.imgix.net/covers/9780268107185.jpg?auto=format&w=600
+        description: "“In Theological Territories, David Bentley Hart, one of America's most eminent contemporary writers on religion, reflects on the state of theology ‘at the borders’ of other fields of discourse—metaphysics, philosophy of mind, science, the arts, ethics, and biblical hermeneutics in particular. The book advances many of Hart's larger theological projects, developing and deepening numerous dimensions of his previous work. Theological Territories constitutes something of a manifesto regarding the manner in which theology should engage other fields of concern and scholarship.”"
+        genre: [theology, religion, christianity]
+        completed: Next
+
       - title: "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants"
         author: Robin Wall Kimmerer
         link: https://milkweed.org/book/braiding-sweetgrass
@@ -501,7 +509,7 @@ list:
         link: https://yalebooks.yale.edu/book/9780300186093/new-testament
         image: https://yalebooks.co.uk/localjackets/m/9780300186093.jpg
         description: "The translator said in a podcast (regarding Christianity in the U.S.), and I'm certain he's correct, “America is a great gnostic adventure at the end of the day. I'm not sure Christianity will ever reach these shores, but if it does, it's going to find a very intractable people here...very hard to convert.”"
-        genre: [philosophy, religion, christianity, fascism]
+        genre: [theology, religion, christianity]
         completed: 2020-03-20
 
       - title: "American Fascists: The Christian Right and the War on America"
