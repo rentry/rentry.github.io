@@ -279,8 +279,8 @@ $selectionColor: #b4d5fe;
  * Blockquotes
  */
 blockquote {
-    color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    color: $grey-color-medium;
+    border-left: 1px solid $grey-color;
     padding-left: $spacing-unit / 2;
     font-size: 22px;
     font-style: italic;
