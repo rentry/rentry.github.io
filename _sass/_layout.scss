@@ -374,6 +374,10 @@ a {
     > a {
         color: $grey-color-dark;
         text-decoration: none;
+
+        &:hover {
+            color: $brand-color;
+        }
     }
 }
 
