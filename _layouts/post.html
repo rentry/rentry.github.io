@@ -11,7 +11,7 @@ layout: default
 <!-- tags-->
 <ul class="tag-group">
     {% for tag in page.tags limit:5 %}
-    <a href="/tags#{{tag}}"><li class="tags">{{ tag }}</li></a>     
+      <li class="tags"><a href="/tags#{{tag}}">{{ tag }}</a></li>    
     {% endfor %}
   </ul> 
          
@@ -25,10 +25,12 @@ layout: default
 
   <div class="related">
     <h2>Recent</h2>
-    {% for post in site.related_posts limit:3 %}
-      <li><a href="{{site.url}}{{ post.url }}" title="{{ post.title }}">{{ post.title | smartify }}</a>
-       &nbsp; <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-    {% endfor %}
+    <ul class="unmargin">
+      {% for post in site.related_posts limit:3 %}
+        <li><a href="{{site.url}}{{ post.url }}" title="{{ post.title }}">{{ post.title | smartify }}</a>
+        &nbsp; <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span></li>
+      {% endfor %}
+    </ul>
   </div>
 
     

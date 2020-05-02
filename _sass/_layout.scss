@@ -370,6 +370,11 @@ a {
     margin-right: .3rem;
     padding: 0.2em 0.5em;
     border-radius: 0.4em;
+
+    > a {
+        color: $grey-color-dark;
+        text-decoration: none;
+    }
 }
 
 .tags:hover {
