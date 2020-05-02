@@ -13,7 +13,7 @@ title: Reading
 {% if bookYears > 1 %}
 <ul class="tag-group">
   {% for entry in site.data.books.list %}
-      <a href="#{{entry.year}}-books"><li class="tags">{{ entry.year }}</li></a>
+  <li class="tags"><a href="#{{entry.year}}-books">{{ entry.year }}</a></li>
   {% endfor %}  
 </ul>
 {% endif %}
