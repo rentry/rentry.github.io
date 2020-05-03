@@ -6,7 +6,7 @@ layout: about
 
 I live just outside Portland, Oregon. My background is in content strategy, communication, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
-Lately, I’ve been working with a small team to keep government data open and useful.
+Over the last several years, I've been working to improve government services, most recently at [18F](https://18f.gsa.gov/).
 
 I spend my free time walking among trees.
 
