@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Library Book"
+        author: Susan Orlean
+        link: https://www.simonandschuster.com/books/The-Library-Book/Susan-Orlean/9781476740195
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476740195/the-library-book-9781476740195_lg.jpg
+        description: "“‘A book lover’s dream...an ambitiously researched, elegantly written book that serves as a portal into a place of history, drama, culture, and stories’ (Star Tribune, Minneapolis), Susan Orlean’s thrilling journey through the stacks reveals how these beloved institutions provide much more than just books—and why they remain an essential part of the heart, mind, and soul of our country.”"
+        genre: [history, crime]
+        format: audiobook
+        completed: In progress      
+      
       - title: "Theological Territories: A David Bentley Hart Digest"
         author: David Bentley Hart
         link: https://undpress.nd.edu/9780268107185/theological-territories/
