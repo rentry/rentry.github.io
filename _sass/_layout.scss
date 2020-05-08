@@ -363,27 +363,23 @@ a {
 .tags {
     display: inline-block;
     color: $grey-color-dark;
-    font-size: 0.8em;
-    font-weight: 300;
     list-style: none;
-    border: 1px solid $grey-color-dark;
     margin-right: .3rem;
-    padding: 0.2em 0.5em;
-    border-radius: 0.4em;
 
     > a {
+        border: 1px solid $grey-color-dark;
+        padding: 0.45em 0.5em;
+        border-radius: 0.4em;
+        font-size: 0.8em;
+        font-weight: 300;
         color: $grey-color-dark;
         text-decoration: none;
 
         &:hover {
             color: $brand-color;
+            border-color: $brand-color;
         }
     }
-}
-
-.tags:hover {
-    color: #0077b3;
-    border-color: #0077b3;
 }
     
 .post-date {

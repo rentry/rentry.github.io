@@ -4,7 +4,7 @@ title: "Libraries everywhere"
 date: 2020-05-07
 description: "Libraries have been on my mind lately. Although the buildings are temporarily closed, libraries continue to demonstrate their indispensable value to society."
 categories: books
-tags: [libraries, books]
+tags: [books]
 ---
 
 Libraries have been on my mind lately, even though library buildings are closed right now due to covid-19.  
