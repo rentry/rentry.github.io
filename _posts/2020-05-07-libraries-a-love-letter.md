@@ -24,7 +24,9 @@ I love my current job, but _librarian_ has long been my dream job. Surrounded by
 We need to expand the role of libraries in society. My county’s libraries are already doing so, launching [libraries of things](https://www.orcity.org/library/library-things). It’s amazing. From snow shoes to sewing machines to Cards Against Humanity, the library of things makes available tools, technology, games, and gear that one may need from time to time, but rarely needs to own. It also allows for risk-free trial use of these objects, while the whole belongs to the community.
 
 ## Libraries everywhere
-We’re learning a lot about our society right now...its vulnerabilities, its hidden possibilities, its limitations. I think we’re finding the logic of libraries should be extended to other aspects of our lives. Education, the foundation of a logic of libraries, is integral to combatting inequality, as conveyed in Thomas Piketty’s <cite>Capital and Ideology</cite>:
+We’re learning a lot about our society right now...its vulnerabilities, its hidden possibilities, its limitations. Indeed, for all the value libraries continue to provide in this time, the current lack of access to the physical buildings ([providing shelter, internet access, and safety, among other things](https://americanlibrariesmagazine.org/2014/11/24/a-home-to-the-homeless/)) further demonstrates the indispensable role of libraries in our society. 
+
+I think we’re finding the logic of libraries should be extended to other aspects of our lives. Education, the foundation of a logic of libraries, is integral to combatting inequality, as conveyed in Thomas Piketty’s <cite>Capital and Ideology</cite>:
 
 > Not only is educational equality the biggest factor in economic development (more so than property rights, [Piketty] argues), the sharp division between graduates and non-graduates produced political schisms that, by the 1990s, had left the working class electorally homeless.—[The Guardian](https://www.theguardian.com/books/2020/feb/19/capital-and-ideology-by-thomas-piketty-review-if-inequality-is-illegitimate-why-not-reduce-it)
 
