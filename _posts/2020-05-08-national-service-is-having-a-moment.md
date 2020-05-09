@@ -11,7 +11,7 @@ Back in 2017, [I wrote about my experience in AmeriCorps and the importance of n
 
 > This service could be military, civic, environmental, housing, emergency response…there are seemingly endless possibilities to provide practical career training while creating a workforce that can respond to national emergencies such as Hurricane Katrina and local crises such as homelessness.
 
-This week, which happens to be [Public Service Recognition Week](https://psrw.ourpublicservice.org/), we’ve seen a surge in acknowledgement of the value and potential of national service, both in the media and government.
+This week, which happens to be [Public Service Recognition Week](https://psrw.ourpublicservice.org/), we’ve seen a surge both in the media and government in acknowledgement of the value and potential of national service.
 
 ## In the media
 Here is just a sample of articles from the past week promoting or covering national and public service.
