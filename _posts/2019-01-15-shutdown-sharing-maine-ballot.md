@@ -7,6 +7,8 @@ categories: content strategy
 tags: [content strategy, Jekyll, GitHub, civic tech]
 ---
 
+_Update: [The story of Maine Ballot and the shutdown was featured on the Civic Tech Chat podcast](https://civictech.chat/2019/07/maine-ballot) in July, 2019._
+
 The government is still shutdown, and I’m still furloughed. I can’t work, I’m not getting paid, and there doesn’t seem to be an end in sight.
 
 In the meantime, I’m helping a fellow furloughed team member migrate a site from Squarespace to GitHub Pages. 
