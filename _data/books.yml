@@ -10,7 +10,7 @@ list:
         description: "“‘A book lover’s dream...an ambitiously researched, elegantly written book that serves as a portal into a place of history, drama, culture, and stories’ (Star Tribune, Minneapolis), Susan Orlean’s thrilling journey through the stacks reveals how these beloved institutions provide much more than just books—and why they remain an essential part of the heart, mind, and soul of our country.”"
         genre: [history, crime, books]
         format: audiobook
-        progress: 25
+        progress: 65
         completed: In progress      
       
       - title: "Theological Territories: A David Bentley Hart Digest"
@@ -87,7 +87,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Capital_and_Ideology.jpg/440px-Capital_and_Ideology.jpg
         description: "The sequel to the most important book I've read in a long time (<cite>Capital in the Twenty-First Century</cite>), this prodigious volume (1,093 pages) will occupy me for some time and may limit the number of books I read this year, but I'm certain I won't regret it."
         genre: [politics, economics, history]
-        progress: 72
+        progress: 81
         completed: In progress
 
       - title: "Station Eleven"
