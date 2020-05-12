@@ -13,7 +13,7 @@ The blend of expectation and surprise, the integration of the auditory and the v
 
 [![A replication of Charles Joseph Minard's graphic that portrays the losses suffered by Napoleon's army in the Russian campaign of 1812](https://www.edwardtufte.com/tufte/graphics/poster_OrigMinard.gif)](https://www.edwardtufte.com/tufte/posters)
 
-<p style="font-size: .6em; text-align: center;">Charles Joseph Minard’s famous quantitative visualization of the losses suffered by Napoleon's army in the Russian campaign of 1812. <a href="https://www.edwardtufte.com/tufte/posters">Image from edwardtufte.com</a></p>
+<figcaption>Charles Joseph Minard’s famous quantitative visualization of the losses suffered by Napoleon's army in the Russian campaign of 1812. <a href="https://www.edwardtufte.com/tufte/posters">Image from edwardtufte.com</a></figcaption>
 
 <br>
 Tufte’s talk revealed his tenacious commitment to truth, transparency, pragmatism, and open-source technologies. He delivered his lecture with a no-bullshit attitude and surprising (to me, at least) humor.
@@ -72,7 +72,7 @@ Go to Edward Tufte’s course, if you can; it’s certainly worth it (in additio
 
 ![Edward Tufte books, Beautiful Evidence, Visual Explanations, Envisioning Information, The Visual Display of Quantitative Information](/assets/images/tufte.jpg)
 
-<p style="font-size: .6em; text-align: center;">Tufte’s four books: <cite>Envisioning Information, Visual Explanations, The Visual Display of Quantitative Information, Beautiful Evidence.</cite></p>
+<figcaption>Tufte’s four books: <cite>Envisioning Information, Visual Explanations, The Visual Display of Quantitative Information, Beautiful Evidence.</cite></figcaption>
 <br>
 [Tufte is on the road between July and December](https://www.edwardtufte.com/tufte/courses), traveling to Denver, Minneapolis, Chicago, Boston, Philadelphia, Brooklyn, San Francisco, and San Jose.
 

@@ -12,7 +12,7 @@ As 2017 comes to an end, I’m thankful to be working with talented, civic-minde
 I was brought in by the [Office of Natural Resources Revenue](https://www.onrr.gov/) to help [transition an 18F project into the department](/going-to-work-federal-government/). As a result, I’ve been able to work directly with the folks at 18F to modernize our process, while inheriting [a site elegantly designed to present public-lands data](https://revenuedata.doi.gov/).
 
 [![Natural Resources Revenue Data website](../assets/images/nrrd.png)](https://revenuedata.doi.gov/)
-<p style="font-size: .6em; text-align: center;"><a href="https://revenuedata.doi.gov/">Natural Resources Revenue Data</a></p>
+<figcaption><a href="https://revenuedata.doi.gov/">Natural Resources Revenue Data</a></figcaption>
 
 ## Static is the new dynamic
 

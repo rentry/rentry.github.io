@@ -33,7 +33,7 @@ As it turns out, the visual language of the alien "heptapods" is powerful indeed
 
 ![heptapod symbol](https://assets.wired.com/photos/w_1534/wp-content/uploads/2016/11/Arrival8-1.jpg)
 
-<p style="font-size: .6em; text-align: center;"><a href="https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/">Image from wired.com</a></p>
+<figcaption><a href="https://www.wired.com/2016/11/arrivals-designers-crafted-mesmerizing-alien-alphabet/">Image from wired.com</a></figcaption>
 
 The heptapods' language is circular in both a visual and cosmological sense. Understanding their language is to perceive time cyclically rather than linearly. And as it turns out, the heptapods arrive on earth to share the "weapon" of their language with humanity as a quid pro quo – they have foreseen they will need humanity's help in 3,000 years.
 

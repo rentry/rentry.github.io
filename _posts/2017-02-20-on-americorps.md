@@ -24,7 +24,7 @@ I made a modest stipend in AmeriCorps, barely enough to get by (AmeriCorps membe
 
 ![watershed restoration in action](../assets/images/watershed.jpg)
 
-<p style="font-size: .6em; text-align: center;">The restoration project I designed in southern Washington state.</p>
+<figcaption>The restoration project I designed in southern Washington state.</figcaption>
 
 During the course of the year, I designed a restoration project covering 9 acres, learned GIS tools and techniques, ran a plant nursery, led service-learning outings for local schools, and made some good friends.
 

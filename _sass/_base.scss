@@ -107,7 +107,9 @@ figure > img {
 }
 
 figcaption {
-    font-size: $small-font-size;
+    font-size: $tiny-font-size;
+    text-align: center;
+    margin-bottom: $spacing-unit / 1.5;
 }
 
 
