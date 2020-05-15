@@ -110,11 +110,18 @@ nav.site-nav {
 }
 
 .about-image {
-    background-image: url(../assets/images/header.gif);
+    background: url(../assets/images/header.png);
     height: calc(100%);
+    width: 50%;
+    margin: 0 auto;
     //background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
+
+    &:hover {
+        background: url(../assets/images/header-switch.png) no-repeat;
+        background-position: center;
+    }
 }
 
 @media only screen and (max-width: 1300px) {
