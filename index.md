@@ -8,7 +8,7 @@ I live just outside Portland, Oregon. My work is in content strategy, communicat
 
 Over the past several years, I've been working to improve government services, most recently at [18F](https://18f.gsa.gov/).
 
-When I'm not working, I'm likely reading a book, walking among trees, or trying to help save democracy.
+When I'm not working, I'm likely reading a book or walking among trees.
 
 ### Words
 ✍️ [writing](/posts)<br>
