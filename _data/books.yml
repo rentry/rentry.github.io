@@ -86,8 +86,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Capital_and_Ideology.jpg/440px-Capital_and_Ideology.jpg
         description: "The sequel to the most important book I've read in a long time (<cite>Capital in the Twenty-First Century</cite>), this prodigious volume (1,093 pages) will occupy me for some time and may limit the number of books I read this year, but I'm certain I won't regret it."
         genre: [politics, economics, history]
-        progress: 82
-        completed: In progress
+        completed: 2020-05-18
 
       - title: "Station Eleven"
         author: Emily St. John Mandel
