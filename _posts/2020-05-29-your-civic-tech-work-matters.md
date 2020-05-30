@@ -26,7 +26,7 @@ Of course, there’s plenty of misinformation and confusion about vaccinations i
 
 Mainers noticed the ambiguity inherent in the question, and turned to (among other sources) Maine Ballot.
 
-As with all statewide ballot questions, the Open Maine team had written new descriptions for the results of a yes vote and no vote:
+As with all statewide ballot questions, the Open Maine team had written descriptions for the results of a yes vote and no vote:
 
 <table style="width: 100%; table-layout: fixed; margin-bottom: 2em;">
     <tbody>
