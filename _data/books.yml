@@ -35,7 +35,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/0/00/Fifth_risk_cover.jpg
         description: "“Michael Lewis’s brilliant narrative of the Trump administration’s botched presidential transition takes us into the engine rooms of a government under attack by its leaders through willful ignorance and greed. The government manages a vast array of critical services that keep us safe and underpin our lives from ensuring the safety of our food and drugs and predicting extreme weather events to tracking and locating black market uranium before the terrorists do. <cite>The Fifth Risk</cite> masterfully and vividly unspools the consequences if the people given control over our government have no idea how it works.”"
         genre: [government, politics]
-        progress: 15
+        progress: 25
         completed: In progress
 
       - title: "The Library Book"
