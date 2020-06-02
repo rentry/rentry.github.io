@@ -15,7 +15,7 @@ The site is now part of [Open Maine](http://openmaine.org/), a [Code for America
 
 Motivated by Shannon’s commitment to civic engagement and her desire to help others better understand the meaning and implications of Maine’s ballot questions, Maine Ballot is proof that the product of one individual’s civic initiative can become a crucial resource for a community.
 
-## “This question should be a lot clearer”
+## “This question should be a lot clearer.”
 Maine’s March 2020 statewide ballot had a single question:
 
 > Do you want to reject the new law that removes religious and philosophical exemptions to requiring immunization against certain communicable diseases for students to attend schools and colleges and for employees of nursery schools and health care facilities?
