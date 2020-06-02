@@ -31,8 +31,8 @@ As with all statewide ballot questions, the Open Maine team had written descript
 <table style="width: 100%; table-layout: fixed; margin-bottom: 2em;">
     <tbody>
         <tr>
-            <th style="color: #2FB260; font-size: 1em;"><strong>Yes means</strong></th>
-            <th style="color: #FF4C43; font-size: 1em;"><strong>No means</strong></th>
+            <th style="color: #2FB260; font-size: 1em; text-align: left;"><strong>Yes means</strong></th>
+            <th style="color: #FF4C43; font-size: 1em; text-align: left;"><strong>No means</strong></th>
         </tr>    
         <tr>
             <td style="vertical-align: top; border-bottom: none; padding-right: 2rem;">{{page.yes_vote}}</td>
