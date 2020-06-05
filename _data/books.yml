@@ -17,7 +17,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/f/f1/The_Ballad_of_Songbirds_and_Snakes_%28Suzanne_Collins%29.png
         description: "This Hunger Games prequel hasn't received the greatest reviews so far, but I'm a sucker for anything from this dystopian series, having read all three books in just two days when they were originally released."
         genre: [fiction, dystopia]
-        progress: 50
+        progress: 70
         completed: In progress
 
       - title: "Where the Crawdads Sing"
