@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "How to Tame a Fox (and Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution"
+        author: Lee Alan Dugatkin, Lyudmila Trut
+        link: https://press.uchicago.edu/ucp/books/book/chicago/H/bo25568406.html
+        image: https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/59/9780226599717.jpg
+        description: "“Tucked away in Siberia, there are furry, four-legged creatures with wagging tails and floppy ears that are as docile and friendly as any lapdog. But, despite appearances, these are not dogs—they are foxes. They are the result of the most astonishing experiment in breeding ever undertaken—imagine speeding up thousands of years of evolution into a few decades. In 1959, biologists Dmitri Belyaev and Lyudmila Trut set out to do just that, by starting with a few dozen silver foxes from fox farms in the USSR and attempting to recreate the evolution of wolves into dogs in real time in order to witness the process of domestication. This is the extraordinary, untold story of this remarkable undertaking.”"
+        genre: [biology, science, natural history]
+        format: audiobook
+        completed: Next      
+      
       - title: "The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay"
         author: Emmanuel Saez, Gabriel Zucman
         link: https://wwnorton.com/books/9781324002727
