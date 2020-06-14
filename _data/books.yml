@@ -10,7 +10,8 @@ list:
         description: "“Tucked away in Siberia, there are furry, four-legged creatures with wagging tails and floppy ears that are as docile and friendly as any lapdog. But, despite appearances, these are not dogs—they are foxes. They are the result of the most astonishing experiment in breeding ever undertaken—imagine speeding up thousands of years of evolution into a few decades. In 1959, biologists Dmitri Belyaev and Lyudmila Trut set out to do just that, by starting with a few dozen silver foxes from fox farms in the USSR and attempting to recreate the evolution of wolves into dogs in real time in order to witness the process of domestication. This is the extraordinary, untold story of this remarkable undertaking.”"
         genre: [biology, science, natural history]
         format: audiobook
-        completed: Next      
+        progress: 20
+        completed: In progress   
       
       - title: "The Triumph of Injustice: How the Rich Dodge Taxes and How to Make Them Pay"
         author: Emmanuel Saez, Gabriel Zucman
@@ -27,7 +28,7 @@ list:
         image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
         description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
         genre: [fiction, dystopia]
-        progress: 5
+        progress: 15
         completed: In progress
 
       - title: "The Ballad of Songbirds and Snakes"
