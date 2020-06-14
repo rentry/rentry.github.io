@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Disrupting White Supremacy From Within: White People on What WE Need to Do"
+        author: Jennifer Harvey, Karin A. Case, Robin Hawley Gorsline
+        link: https://www.thepilgrimpress.com/collections/bestsellers/products/disrupting-white-supremacy-from-within-white-people-on-what-we-need-to-do-harvey-case-gorsline
+        image: https://cdn.shopify.com/s/files/1/0291/5177/products/disruptingwhitesupremacy_720x.jpg?v=1391455243
+        description: "“The contributors to <cite>Disrupting White Supremacy from Within</cite>, an all-white group of theologians, ethicists, teachers, ministers, and activists, propose that a fundamental part of the answer to racism lies in white peoples' unwillingness to admit, understand, and confront the power of white supremacy, white privilege, in their own lives.”"
+        genre: [religion, christianity, race]
+        progress: 20
+        completed: In progress 
+
       - title: "How to Tame a Fox (and Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution"
         author: Lee Alan Dugatkin, Lyudmila Trut
         link: https://press.uchicago.edu/ucp/books/book/chicago/H/bo25568406.html
