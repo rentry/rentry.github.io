@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Python for Data Science: A Crash Course for Data Science and Analysis, Python Machine Learning and Big Data"
+        author: Computer Science Academy 
+        link: https://bookshop.org/books/python-for-data-science-a-crash-course-for-data-science-and-analysis-python-machine-learning-and-big-data/9781676140252
+        image: https://images-production.bookshop.org/spree/images/attachments/11226091/original/9781676140252.jpg?1587783267
+        description: "Another in my data science graduate certificate curriculum."
+        genre: [computer science, python, data science]
+        completed: In progress 
+
       - title: "Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter"
         author: Charlton D. McIlwain
         link: https://global.oup.com/academic/product/black-software-9780190863845?cc=us&lang=en&
@@ -18,6 +26,14 @@ list:
         description: "“The <em>co-production</em> of oppression and our whiteness is one reason that, early in this chapter, I described as vexing the question of who we are as white selves. If you were to ask a group of white people to make a list of five characteristics unique to our racial identity that do not result from power and privilege, we, unlike our sisters and brothers of colors, will have little or nothing to offer.”"
         genre: [religion, christianity, race]
         completed: 2020-06-14
+
+      - title: "Python for Data Science: The Ultimate Beginners’ Guide to Learning Python Data Science Step by Step"
+        author: Ethan Williams
+        link: https://bookshop.org/books/python-for-data-science-the-ultimate-beginners-guide-to-learning-python-data-science-step-by-step/9781687159106
+        image: https://images-production.bookshop.org/spree/images/attachments/3893666/original/9781687159106.jpg?1588293827
+        description: "I've started a graduate certificate program in data science, and this book is among the recommended reading. Several similar to come."
+        genre: [computer science, python, data science]
+        completed: 2020-06-12        
 
       - title: "How to Tame a Fox (and Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution"
         author: Lee Alan Dugatkin, Lyudmila Trut
