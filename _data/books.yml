@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "The Worlds of J. R. R. Tolkien: The Places That Inspired Middle-earth"
+        author: John Garth
+        link: https://press.princeton.edu/books/hardcover/9780691196947/the-worlds-of-j-r-r-tolkien
+        image: https://pup-assets.imgix.net/onix/images/9780691196947.jpg?w=640
+        description: "When I need a break from the madness surrounding us, I often turn to Tolkien (almost anything Tolkien). “Fascinating, gorgeously illustrated and thought-provoking...[A] masterful book.—Elizabeth Hand, Washington Post”"
+        genre: [Tolkien, fantasy, fiction]
+        completed: In progress
+
       - title: "Python for Data Science: A Crash Course for Data Science and Analysis, Python Machine Learning and Big Data"
         author: Computer Science Academy 
         link: https://bookshop.org/books/python-for-data-science-a-crash-course-for-data-science-and-analysis-python-machine-learning-and-big-data/9781676140252
