@@ -6,7 +6,7 @@ description: Edward Tufte’s sparklines provide an elegantly simple way to conv
 categories: data
 tags:  [data visualization, design, D3, content strategy, Jekyll]
 ---
-
+{% include d3.html %}
 <script>
 var width = 100;
 var height = 25;
