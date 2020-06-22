@@ -17,7 +17,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/11226091/original/9781676140252.jpg?1587783267
         description: "Another in my data science graduate certificate curriculum."
         genre: [computer science, python, data science]
-        completed: In progress 
+        completed: 2020-06-21 
 
       - title: "Black Software: The Internet & Racial Justice, from the AfroNet to Black Lives Matter"
         author: Charlton D. McIlwain
@@ -25,7 +25,7 @@ list:
         image: https://global.oup.com/academic/covers/pop-up/9780190863845
         description: "“Reveals the previously untold collaboration between the federal government, the computing industry, and elite science and engineering education institutions to use new computer technology for the purpose of containing, profiling, and detaining Black Americans, beginning in the early 1960s.”"
         genre: [computer science, race]
-        completed: Next
+        completed: In progress
 
       - title: "Disrupting White Supremacy From Within: White People on What WE Need to Do"
         author: Jennifer Harvey, Karin A. Case, Robin Hawley Gorsline
