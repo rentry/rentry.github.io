@@ -12,12 +12,12 @@ When I'm not working, I'm likely reading a book or walking among trees.
 
 ### Words
 <ul class="contact-list">
-<li>✍️ <a href="/posts">writing</a></li>
-<li>📚 <a href="/books">reading</a></li>
+    <li>✍️ <a href="/posts">writing</a></li>
+    <li>📚 <a href="/books">reading</a></li>
 </ul>
 
 ### Work
 <ul class="contact-list">
-<li><a href="https://github.com/rentry">{% include github_icon.html %} rentry</a></li>
-<li><a href="https://github.com/brentryanjohnson">{% include github_icon.html %} brentryanjohnson</a></li>
+    <li><a href="https://github.com/rentry">{% include github_icon.html %} rentry</a></li>
+    <li><a href="https://github.com/brentryanjohnson">{% include github_icon.html %} brentryanjohnson</a></li>
 </ul>
