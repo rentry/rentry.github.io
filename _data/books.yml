@@ -7,7 +7,7 @@ list:
         author: Joel Grus
         link: https://www.oreilly.com/library/view/data-science-from/9781491901410/
         image: https://learning.oreilly.com/library/cover/9781491901410/250w/
-        description: "More data science reading for class. This one is a relatively trim, nicely structured introduction."
+        description: "Another data science book for class. This one is a relatively trim, nicely structured introduction."
         genre: [computer science, python, data science]
         progress: 20
         completed: In progress
