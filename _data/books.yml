@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Data Science from Scratch"
+        author: Joel Grus
+        link: https://www.oreilly.com/library/view/data-science-from/9781491901410/
+        image: https://learning.oreilly.com/library/cover/9781491901410/250w/
+        description: "More data science reading for class. This one is a relatively trim, nicely structured introduction."
+        genre: [computer science, python, data science]
+        progress: 20
+        completed: In progress
+
       - title: "The Worlds of J. R. R. Tolkien: The Places That Inspired Middle-earth"
         author: John Garth
         link: https://press.princeton.edu/books/hardcover/9780691196947/the-worlds-of-j-r-r-tolkien
