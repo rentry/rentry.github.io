@@ -47,6 +47,8 @@ Ahead of the election, these descriptions began to show up on social media, as v
 
 By clarifying in plain language the results of voters’ choices, and providing more resources and context, Maine Ballot is demonstrating the value of volunteer-led civic initiatives.
 
+_Update (6/26/20): Em Burnett of Open Maine wrote [an excellent blog post about Maine Ballot and this ballot question](http://openmaine.org/stories/2020/04/10/the-viral-vaccine-ballot-question/)._
+
 ## Your civic tech work matters
 As I write this, everything is difficult. A global pandemic, systemic racism, crippling inequality, and climate change seem too overwhelming to possibly overcome.
 
