@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Theological Territories: A David Bentley Hart Digest"
+        author: David Bentley Hart
+        link: https://undpress.nd.edu/9780268107185/theological-territories/
+        image: hhttps://notredamepress-us.imgix.net/covers/9780268107185.jpg?auto=format&w=600
+        description: "“In <cite>Theological Territories</cite>, David Bentley Hart, one of America's most eminent contemporary writers on religion, reflects on the state of theology “at the borders” of other fields of discourse—metaphysics, philosophy of mind, science, the arts, ethics, and biblical hermeneutics in particular. The book advances many of Hart's larger theological projects, developing and deepening numerous dimensions of his previous work. Theological Territories constitutes something of a manifesto regarding the manner in which theology should engage other fields of concern and scholarship.”"
+        genre: [theology, religon, Christianity]
+        completed: 2020-06-27
+
       - title: "Data Science from Scratch"
         author: Joel Grus
         link: https://www.oreilly.com/library/view/data-science-from/9781491901410/
@@ -136,7 +144,7 @@ list:
         link: https://yalebooks.yale.edu/book/9780300246223/all-shall-be-saved
         image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/7724a4cfcb78f20b1eb3fda9449a0f00.jpg
         description: "“In this momentous book, David Bentley Hart makes the case that nearly two millennia of dogmatic tradition have misled readers on the crucial matter of universal salvation. On the basis of the earliest Christian writings, theological tradition, scripture, and logic, Hart argues that if God is the good creator of all, he is the savior of all, without fail.”—Yale University Press"
-        genre: [religion, Christianity]
+        genre: [theology, religion, Christianity]
         format: audiobook
         completed: 2020-04-03
       
