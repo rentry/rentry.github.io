@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Anatomy of Fascism"
+        author: Robert O. Paxton
+        link: https://www.penguinrandomhouse.com/books/128540/the-anatomy-of-fascism-by-robert-o-paxton/
+        image: https://images3.penguinrandomhouse.com/cover/9781400033911
+        description: "“From the first violent uniformed bands beating up ‘enemies of the state,’ through Mussolini’s rise to power, to Germany’s fascist radicalization in World War II, Paxton shows clearly why fascists came to power in some countries and not others, and explores whether fascism could exist outside the early-twentieth-century European setting in which it emerged.”"
+        genre: [politics, history]
+        format: audiobook
+        completed: In progress
+
       - title: "Theological Territories: A David Bentley Hart Digest"
         author: David Bentley Hart
         link: https://undpress.nd.edu/9780268107185/theological-territories/
