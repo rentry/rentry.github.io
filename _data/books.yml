@@ -10,7 +10,7 @@ list:
         description: "“From the first violent uniformed bands beating up ‘enemies of the state,’ through Mussolini’s rise to power, to Germany’s fascist radicalization in World War II, Paxton shows clearly why fascists came to power in some countries and not others, and explores whether fascism could exist outside the early-twentieth-century European setting in which it emerged.”"
         genre: [politics, history]
         format: audiobook
-        progress: 20
+        progress: 50
         completed: In progress
 
       - title: "Theological Territories: A David Bentley Hart Digest"
@@ -27,7 +27,7 @@ list:
         image: https://learning.oreilly.com/library/cover/9781491901410/250w/
         description: "Another data science book for class. This one is a relatively trim, nicely structured introduction."
         genre: [computer science, python, data science]
-        progress: 20
+        progress: 30
         completed: In progress
 
       - title: "The Worlds of J. R. R. Tolkien: The Places That Inspired Middle-earth"
@@ -86,7 +86,7 @@ list:
         image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
         description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
         genre: [fiction, dystopia]
-        progress: 15
+        progress: 25
         completed: In progress
 
       - title: "The Ballad of Songbirds and Snakes"
