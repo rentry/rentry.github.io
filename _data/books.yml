@@ -10,7 +10,7 @@ list:
         description: "“Authorized by the George Orwell estate, Shelden’s biography of Orwell was published in 1991 and was a finalist for the Pulitzer Prize in Biography. Among other things, the book included the first detailed account of Orwell’s controversial list of people whom he considered politically dishonest and unreliable in British society.”–Wikipedia"
         genre: [biography, history, literature]
         format: audiobook
-        progress: 30
+        progress: 75
         completed: In progress
 
       - title: "The Anatomy of Fascism"
@@ -36,7 +36,7 @@ list:
         image: https://learning.oreilly.com/library/cover/9781491901410/250w/
         description: "Another data science book for class. This one is a relatively trim, nicely structured introduction."
         genre: [computer science, python, data science]
-        progress: 30
+        progress: 75
         completed: In progress
 
       - title: "The Worlds of J. R. R. Tolkien: The Places That Inspired Middle-earth"
