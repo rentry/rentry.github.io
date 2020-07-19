@@ -3,6 +3,32 @@ list:
   - year: 2020
     books:
 
+      - title: "The Return of Nature: Socialism and Ecology"
+        author: John Bellamy Foster
+        link: https://monthlyreview.org/product/the-return-of-nature/
+        image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
+        description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
+        genre: [fiction, dystopia]
+        progress: 35
+        completed: In progress
+
+      - title: "Nineteen Eighty-Four"
+        author: George Orwell
+        link: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
+        image: https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg
+        description: "After reading Orwell's biography, and especially after learning that Orwell wrote <cite>Nineteen Eighty-Four</cite> from a remote farmhouse on the Scottish island of Jura, it was time to revisit this classic."
+        format: audiobook
+        progress: 15
+        completed: In progress
+
+      - title: "Walden"
+        author: Henry David Thoreau
+        link: https://en.wikipedia.org/wiki/Walden
+        image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/440px-Walden_Thoreau.jpg
+        description: "I read <cite>Walden</cite> every few years, and decided it was time to crack it open once again."
+        progress: 50
+        completed: In progress
+
       - title: "Orwell: The Authorized Biography"
         author: Michael Shelden
         link: https://openlibrary.org/books/OL7284516M/Orwell
@@ -86,15 +112,6 @@ list:
         genre: [economics, society, inequality]
         format: audiobook
         completed: 2020-06-07
-
-      - title: "The Return of Nature: Socialism and Ecology"
-        author: John Bellamy Foster
-        link: https://monthlyreview.org/product/the-return-of-nature/
-        image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
-        description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
-        genre: [fiction, dystopia]
-        progress: 35
-        completed: In progress
 
       - title: "The Ballad of Songbirds and Snakes"
         author: Suzanne Collins
