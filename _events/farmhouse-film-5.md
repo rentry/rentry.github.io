@@ -14,7 +14,7 @@ image-alt: "An underrated film from the year 2000, <cite>Wonder Boys</cite> is a
 
 ## When
 
-Saturday, August 15, 2020<br>
+Saturday, August 8, 2020<br>
 7:30 P.M.
 
 ## Where
