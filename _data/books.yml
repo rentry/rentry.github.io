@@ -18,8 +18,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg
         description: "After reading Orwell's biography, and especially after learning that Orwell wrote <cite>Nineteen Eighty-Four</cite> from a remote farmhouse on the Scottish island of Jura, it was time to revisit this classic."
         format: audiobook
-        progress: 15
-        completed: In progress
+        completed: 2020-07-20
 
       - title: "Walden"
         author: Henry David Thoreau
