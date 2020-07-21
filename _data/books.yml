@@ -25,7 +25,7 @@ list:
         image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
         description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
         genre: [politics, environment]
-        progress: 45
+        progress: 65
         completed: In progress
 
       - title: "Nineteen Eighty-Four"
@@ -42,8 +42,8 @@ list:
         link: https://en.wikipedia.org/wiki/Walden
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/440px-Walden_Thoreau.jpg
         description: "I revisit <cite>Walden</cite> every few years and decided it was time to crack it open once again."
-        genre: [autobiography, history, memoir]
-        progress: 50
+        genre: [history, memoir]
+        progress: 90
         completed: In progress
 
       - title: "Orwell: The Authorized Biography"
