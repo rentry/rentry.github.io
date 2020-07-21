@@ -3,12 +3,28 @@ list:
   - year: 2020
     books:
 
+      - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality Polarization, and the Decline of Civic Life"
+        author: Eric Klinenberg
+        link: https://www.penguinrandomhouse.com/books/557044/palaces-for-the-people-by-eric-klinenberg/
+        image: https://images1.penguinrandomhouse.com/cover/9781524761172
+        description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how “social infrastructure” is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
+        genre: [politics, society, art]
+        completed: Next
+
+      - title: "William Morris: Romantic to Revolutionary"
+        author: E. P. Thompson
+        link: https://bookshop.org/books/william-morris-romantic-to-revolutionary/9781604862430
+        image: https://images-production.bookshop.org/spree/images/attachments/3083145/original/9781604862430.jpg?1588344512
+        description: "This biographical study is a window into 19th-century British society and the life of William Morris—the great craftsman, architect, designer, poet, and writer—who remains a monumental and influential figure to this day. This account chronicles how his concern with artistic and human values led him to cross what he called the “river of fire” and become a committed socialist—committed not only to the theory of socialism but also to the practice of it in the day-to-day struggle of working women and men in Victorian England."
+        genre: [biography, art, politics]
+        completed: Next
+
       - title: "The Return of Nature: Socialism and Ecology"
         author: John Bellamy Foster
         link: https://monthlyreview.org/product/the-return-of-nature/
         image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
         description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
-        genre: [fiction, dystopia]
+        genre: [politics, environment]
         progress: 45
         completed: In progress
 
@@ -17,6 +33,7 @@ list:
         link: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
         image: https://upload.wikimedia.org/wikipedia/en/c/c3/1984first.jpg
         description: "After reading Orwell's biography, and especially after learning that Orwell wrote <cite>Nineteen Eighty-Four</cite> from a remote farmhouse on the Scottish island of Jura, it was time to revisit this classic."
+        genre: [fiction, dystopia]
         format: audiobook
         completed: 2020-07-20
 
@@ -25,6 +42,7 @@ list:
         link: https://en.wikipedia.org/wiki/Walden
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/440px-Walden_Thoreau.jpg
         description: "I read <cite>Walden</cite> every few years, and decided it was time to crack it open once again."
+        genre: [autobiography, history, memoir]
         progress: 50
         completed: In progress
 
