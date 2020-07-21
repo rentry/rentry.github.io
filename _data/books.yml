@@ -41,7 +41,7 @@ list:
         author: Henry David Thoreau
         link: https://en.wikipedia.org/wiki/Walden
         image: https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Walden_Thoreau.jpg/440px-Walden_Thoreau.jpg
-        description: "I read <cite>Walden</cite> every few years and decided it was time to crack it open once again."
+        description: "I revisit <cite>Walden</cite> every few years and decided it was time to crack it open once again."
         genre: [autobiography, history, memoir]
         progress: 50
         completed: In progress
