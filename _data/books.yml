@@ -3,11 +3,11 @@ list:
   - year: 2020
     books:
 
-      - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality Polarization, and the Decline of Civic Life"
+      - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life"
         author: Eric Klinenberg
         link: https://www.penguinrandomhouse.com/books/557044/palaces-for-the-people-by-eric-klinenberg/
         image: https://images1.penguinrandomhouse.com/cover/9781524761172
-        description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how “social infrastructure” is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
+        description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how ‘social infrastructure’ is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
         genre: [politics, society, art]
         completed: Next
 
