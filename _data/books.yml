@@ -44,7 +44,7 @@ list:
         description: "I revisit <cite>Walden</cite> every few years and decided it was time to crack it open once again."
         genre: [history, memoir]
         progress: 90
-        completed: In progress
+        completed: 2020-07-22
 
       - title: "Orwell: The Authorized Biography"
         author: Michael Shelden
