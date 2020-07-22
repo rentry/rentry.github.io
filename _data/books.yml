@@ -9,7 +9,8 @@ list:
         image: https://images1.penguinrandomhouse.com/cover/9781524761172
         description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how ‘social infrastructure’ is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
         genre: [politics, society, art]
-        completed: Next
+        progress: 10
+        completed: In progress
 
       - title: "William Morris: Romantic to Revolutionary"
         author: E. P. Thompson
@@ -25,7 +26,7 @@ list:
         image: https://monthlyreview.org/wp-content/uploads/2020/03/00-TRON-F-scaled.jpg
         description: "I read John Bellamy Foster's <cite>Marx's Ecology</cite> shortly after it was published in 2000, and it was among the most revelatory and influential books in my intellectual formation and worldview. It turns out the environmental catastrophe is the perfect lens through which to study the insatiably destructive capacity of capital."
         genre: [politics, environment]
-        progress: 65
+        progress: 70
         completed: In progress
 
       - title: "Nineteen Eighty-Four"
