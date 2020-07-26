@@ -9,7 +9,7 @@ list:
         image: https://images1.penguinrandomhouse.com/cover/9781524761172
         description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how ‘social infrastructure’ is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
         genre: [politics, society, art]
-        progress: 10
+        progress: 30
         completed: In progress
 
       - title: "William Morris: Romantic to Revolutionary"
@@ -18,6 +18,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/3083145/original/9781604862430.jpg?1588344512
         description: "“This biographical study is a window into 19th-century British society and the life of William Morris—the great craftsman, architect, designer, poet, and writer—who remains a monumental and influential figure to this day. This account chronicles how his concern with artistic and human values led him to cross what he called the ‘river of fire’ and become a committed socialist—committed not only to the theory of socialism but also to the practice of it in the day-to-day struggle of working women and men in Victorian England.”"
         genre: [biography, art, politics]
+        progress: 20
         completed: In progress
 
       - title: "The Return of Nature: Socialism and Ecology"
