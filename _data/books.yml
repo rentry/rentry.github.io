@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Native: Identity, Belonging, and Rediscovering God"
+        author: Kaitlin B. Curtice
+        link: https://kaitlincurtice.com/book/
+        image: http://cdn.bakerpublishinggroup.com/processed/books/covers/listing/9781587434310.jpg?1582265148
+        description: '“<cite>Native</cite> is about identity, soul-searching, and being on the never-ending journey of finding ourselves and finding God. As both a member of the Potawatomi Nation and a Christian, Kaitlin Curtice offers a unique perspective on these topics. In this book, she shows how reconnecting with her Native American roots both informs and challenges her Christian faith.”'
+        genre: [religion, biography]
+        completed: Next
+
       - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life"
         author: Eric Klinenberg
         link: https://www.penguinrandomhouse.com/books/557044/palaces-for-the-people-by-eric-klinenberg/
