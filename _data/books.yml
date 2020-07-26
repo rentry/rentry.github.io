@@ -3,12 +3,22 @@ list:
   - year: 2020
     books:
 
+      - title: "Tightrope: Americans Reaching for Hope"
+        author: Nicholas D. Kristof and Sheryl WuDunn
+        link: https://tightropeusa.com/book/
+        image: https://tightropeusa.com/app/uploads/2019/10/book-1200.jpg
+        description: "“Across the country communities are struggling to stay afloat as blue-collar jobs disappear and an American dies of a drug overdose every seven minutes. Stagnant wages, weak education, bad decisions, and a lack of health care force millions of Americans into a precarious balancing act that many of them fail to master. With stark poignancy, <cite>Tightrope</cite> draws us deep into this ‘other America,’ and shows that if America is to remain a superpower, it must empower <em>all</em> its people.”"
+        genre: [society, politics]
+        format: audiobook
+        completed: Next
+
       - title: "Native: Identity, Belonging, and Rediscovering God"
         author: Kaitlin B. Curtice
         link: https://kaitlincurtice.com/book/
         image: http://cdn.bakerpublishinggroup.com/processed/books/covers/listing/9781587434310.jpg?1582265148
-        description: '“<cite>Native</cite> is about identity, soul-searching, and being on the never-ending journey of finding ourselves and finding God. As both a member of the Potawatomi Nation and a Christian, Kaitlin Curtice offers a unique perspective on these topics. In this book, she shows how reconnecting with her Native American roots both informs and challenges her Christian faith.”'
+        description: "“<cite>Native</cite> is about identity, soul-searching, and being on the never-ending journey of finding ourselves and finding God. As both a member of the Potawatomi Nation and a Christian, Kaitlin Curtice offers a unique perspective on these topics. In this book, she shows how reconnecting with her Native American roots both informs and challenges her Christian faith.”"
         genre: [religion, biography]
+        format: audiobook
         completed: Next
 
       - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life"
@@ -17,6 +27,7 @@ list:
         image: https://images1.penguinrandomhouse.com/cover/9781524761172
         description: "“In Palaces for the People, Eric Klinenberg suggests a way forward. He believes that the future of democratic societies rests not simply on shared values but on shared spaces: the libraries, childcare centers, churches, and parks where crucial connections are formed. Interweaving his own research with examples from around the globe, Klinenberg shows how ‘social infrastructure’ is helping to solve some of our most pressing societal challenges. Richly reported and ultimately uplifting, Palaces for the People offers a blueprint for bridging our seemingly unbridgeable divides.”"
         genre: [politics, society, art]
+        format: audiobook
         progress: 30
         completed: In progress
 
@@ -122,7 +133,7 @@ list:
         completed: 2020-06-12        
 
       - title: "How to Tame a Fox (and Build a Dog): Visionary Scientists and a Siberian Tale of Jump-Started Evolution"
-        author: Lee Alan Dugatkin, Lyudmila Trut
+        author: Lee Alan Dugatkin and Lyudmila Trut
         link: https://press.uchicago.edu/ucp/books/book/chicago/H/bo25568406.html
         image: https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/59/9780226599717.jpg
         description: "“Tucked away in Siberia, there are furry, four-legged creatures with wagging tails and floppy ears that are as docile and friendly as any lapdog. But, despite appearances, these are not dogs—they are foxes. They are the result of the most astonishing experiment in breeding ever undertaken—imagine speeding up thousands of years of evolution into a few decades. In 1959, biologists Dmitri Belyaev and Lyudmila Trut set out to do just that, by starting with a few dozen silver foxes from fox farms in the USSR and attempting to recreate the evolution of wolves into dogs in real time in order to witness the process of domestication. This is the extraordinary, untold story of this remarkable undertaking.”"
