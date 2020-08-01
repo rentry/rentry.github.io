@@ -9,7 +9,8 @@ list:
         image: http://www.osupress.oregonstate.edu/sites/all/themes/osupress/resize.php?image=sites/default/files/images/AvaHelen.jpg&w=170
         description: By way of a side project I've been working on (<a href="https://beavercreekportraitlibrary.org/">Beavercreek Portrait Library</a>), I've been researching the rural community in which I live. Among its most impressive former residents is Ava Helen Pauling, whose story has been overshadowed by that of her husband, Linus Pauling. I sought out the only book about Ava I could find, with the hope of eventually adding another side project to promote her legacy.
         genre: [biography, oregon]
-        completed: Next
+        progress: 10
+        completed: In progress
 
       - title: "Tightrope: Americans Reaching for Hope"
         author: Nicholas D. Kristof and Sheryl WuDunn
@@ -27,7 +28,7 @@ list:
         description: "“<cite>Native</cite> is about identity, soul-searching, and being on the never-ending journey of finding ourselves and finding God. As both a member of the Potawatomi Nation and a Christian, Kaitlin Curtice offers a unique perspective on these topics. In this book, she shows how reconnecting with her Native American roots both informs and challenges her Christian faith.”"
         genre: [religion, biography]
         format: audiobook
-        completed: Next
+        completed: 2020-08-01
 
       - title: "Palaces for the People: How Social Infrastructure Can Help Fight Inequality, Polarization, and the Decline of Civic Life"
         author: Eric Klinenberg
