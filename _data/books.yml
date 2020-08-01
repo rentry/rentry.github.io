@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Twilight of Democracy: The Seductive Lure of Authoritarianism"
+        author: Anne Applebaum
+        link: https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/
+        image: https://images3.penguinrandomhouse.com/cover/9780385545808
+        description: "“A Pulitzer Prize–winning historian explains, with electrifying clarity, why elites in democracies around the world are turning toward nationalism and authoritarianism.”"
+        genre: [politics, society]
+        format: audiobook
+        completed: Next
+
       - title: "Ava Helen Pauling: Partner, Activist, Visionary"
         author: Mina Carson
         link: http://www.osupress.oregonstate.edu/book/ava-helen-pauling
