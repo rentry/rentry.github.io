@@ -10,7 +10,8 @@ list:
         description: "“A Pulitzer Prize–winning historian explains, with electrifying clarity, why elites in democracies around the world are turning toward nationalism and authoritarianism.”"
         genre: [politics, society]
         format: audiobook
-        completed: Next
+        progress: 50
+        completed: In progress
 
       - title: "Ava Helen Pauling: Partner, Activist, Visionary"
         author: Mina Carson
@@ -18,7 +19,7 @@ list:
         image: http://www.osupress.oregonstate.edu/sites/all/themes/osupress/resize.php?image=sites/default/files/images/AvaHelen.jpg&w=170
         description: By way of a side project I've been working on (<a href="https://beavercreekportraitlibrary.org/">Beavercreek Portrait Library</a>), I've been researching the rural community in which I live. Among its most impressive former residents is Ava Helen Pauling, whose story has been overshadowed by that of her husband, Linus Pauling. I sought out the only book about Ava I could find, with the hope of eventually adding another side project to promote her legacy.
         genre: [biography, oregon]
-        progress: 10
+        progress: 20
         completed: In progress
 
       - title: "Tightrope: Americans Reaching for Hope"
