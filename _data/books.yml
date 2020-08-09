@@ -8,8 +8,16 @@ list:
         link: https://en.wikipedia.org/wiki/The_Overstory
         image: https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/The_Overstory_%28Powers_novel%29.png/220px-The_Overstory_%28Powers_novel%29.png
         description: "“<cite>The Overstory</cite>, winner of the Pulitzer Prize in Fiction, is a sweeping, impassioned work of activism and resistance that is also a stunning evocation of—and paean to—the natural world. From the roots to the crown and back to the seeds, Richard Powers’s twelfth novel unfolds in concentric rings of interlocking fables that range from antebellum New York to the late twentieth-century Timber Wars of the Pacific Northwest and beyond.”"
-        genre: [fiction, ecology]
+        genre: [fiction, environment, ecology]
         format: audiobook
+        completed: Next
+
+      - title: "World Wide Waste"
+        author: Gerry McGovern
+        link: https://gerrymcgovern.com/books/world-wide-waste/
+        image: https://gerrymcgovern.com/wp-content/uploads/2020/03/c02c_final_big.jpg
+        description: "“Digital is physical. Digital is not green. Digital costs the Earth. Every time I download an email I contribute to global warming. Every time I tweet, do a search, check a webpage, I create pollution. Digital is physical. Those data centers are not in the Cloud. They’re on land in massive physical buildings packed full of computers hungry for energy. It seems invisible. It seems cheap and free. It’s not. Digital costs the Earth.”"
+        genre: [technology, environment]
         completed: Next
 
       - title: "Ava Helen Pauling: Partner, Activist, Visionary"
