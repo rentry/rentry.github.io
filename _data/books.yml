@@ -3,15 +3,6 @@ list:
   - year: 2020
     books:
 
-      - title: "A Tree Grows in Brooklyn"
-        author: Betty Smith
-        link: https://en.wikipedia.org/wiki/A_Tree_Grows_in_Brooklyn_(novel)
-        image: https://upload.wikimedia.org/wikipedia/en/e/e6/TreeGrowsInBrooklyn.jpg
-        description: "“A Tree Grows in Brooklyn is a 1943 semi-autobiographical novel written by Betty Smith. The story focuses on an impoverished but aspirational adolescent girl and her family living in Williamsburg, Brooklyn, New York City, during the first two decades of the 20th century.”"
-        genre: [fiction]
-        format: audiobook
-        completed: Next
-
       - title: "Twilight of Democracy: The Seductive Lure of Authoritarianism"
         author: Anne Applebaum
         link: https://www.penguinrandomhouse.com/books/621076/twilight-of-democracy-by-anne-applebaum/
