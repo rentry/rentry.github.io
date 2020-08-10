@@ -26,8 +26,7 @@ list:
         image: http://www.osupress.oregonstate.edu/sites/all/themes/osupress/resize.php?image=sites/default/files/images/AvaHelen.jpg&w=170
         description: By way of a side project I've been working on (<a href="https://beavercreekportraitlibrary.org/">Beavercreek Portrait Library</a>), I've been researching the rural community in which I live. Among its most impressive former residents is Ava Helen Pauling, whose story has been overshadowed by that of her husband, Linus Pauling. I sought out the only book about Ava I could find, with the hope of eventually adding another side project to promote her legacy.
         genre: [biography, oregon]
-        progress: 60
-        completed: In progress
+        completed: 2020-08-09
 
       - title: "Tightrope: Americans Reaching for Hope"
         author: Nicholas D. Kristof and Sheryl WuDunn
