@@ -22,3 +22,9 @@ paginate_path: posts/page:num/
 # Minification
 sass:
   style: compressed
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
