@@ -10,7 +10,7 @@ There are 416 Roper family photos below. This page may take a few minutes to loa
 
 ![Roper family slides 1960s and 1970s]({{ "assets/images/roper_slides.jpg" | relative_url }})
 
-<div style="text-align: center;" >
+<div style="text-align: center;">
 {% assign image_files = site.static_files | where: "image", true %}
 {% for slide in image_files %}
     {% if slide.path contains 'roper-slides' %}
