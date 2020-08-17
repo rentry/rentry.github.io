@@ -10,7 +10,7 @@ list:
         description: "“<cite>The Overstory</cite>, winner of the Pulitzer Prize in Fiction, is a sweeping, impassioned work of activism and resistance that is also a stunning evocation of—and paean to—the natural world. From the roots to the crown and back to the seeds, Richard Powers’s twelfth novel unfolds in concentric rings of interlocking fables that range from antebellum New York to the late twentieth-century Timber Wars of the Pacific Northwest and beyond.”"
         genre: [fiction, environment, ecology]
         format: audiobook
-        progress: 40
+        progress: 70
         completed: In progress
 
       - title: "World Wide Waste"
@@ -62,7 +62,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/3083145/original/9781604862430.jpg?1588344512
         description: "“This biographical study is a window into 19th-century British society and the life of William Morris—the great craftsman, architect, designer, poet, and writer—who remains a monumental and influential figure to this day. This account chronicles how his concern with artistic and human values led him to cross what he called the ‘river of fire’ and become a committed socialist—committed not only to the theory of socialism but also to the practice of it in the day-to-day struggle of working women and men in Victorian England.”"
         genre: [biography, art, politics]
-        progress: 40
+        progress: 55
         completed: In progress
 
       - title: "The Return of Nature: Socialism and Ecology"
