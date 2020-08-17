@@ -5,12 +5,12 @@ title: Roper Family Slides
 
 <h1>{{ page.title }}</h1>
 
-There are 416 Roper family photos below. This page may take a few minutes to load. You can download photos by right clicking on them and selecting "download" or "save link as..."
+There are 416 Roper family photos below. This page may take a few minutes to load. You can download photos by right clicking on them and selecting "download" or "save image as..."
 
 
 ![Roper family slides 1960s and 1970s]({{ "assets/images/roper_slides.jpg" | relative_url }})
 
-<div>
+<div style="text-align: center;" >
 {% assign image_files = site.static_files | where: "image", true %}
 {% for slide in image_files %}
     {% if slide.path contains 'roper-slides' %}
