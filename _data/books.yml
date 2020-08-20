@@ -3,6 +3,22 @@ list:
   - year: 2020
     books:
 
+      - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
+        author: Neil M. Maher
+        link: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195306019.001.0001/acprof-9780195306019
+        image: https://oxford.universitypressscholarship.com/view/covers/9780195306019.jpg
+        description: "“Neil Maher has done us a great service by recalling the forgotten history of the New Deal's conservation programs. His research is impressive, and he writes with clarity and grace. His study offers us valuable insights for understanding the environment controversies of our time.”—Howard Zinn"
+        genre: [environment, society, politics]
+        completed: Next
+
+      - title: "World Wide Waste"
+        author: Gerry McGovern
+        link: https://gerrymcgovern.com/books/world-wide-waste/
+        image: https://gerrymcgovern.com/wp-content/uploads/2020/03/c02c_final_big.jpg
+        description: "“Digital is physical. Digital is not green. Digital costs the Earth. Every time I download an email I contribute to global warming. Every time I tweet, do a search, check a webpage, I create pollution. Digital is physical. Those data centers are not in the Cloud. They’re on land in massive physical buildings packed full of computers hungry for energy. It seems invisible. It seems cheap and free. It’s not. Digital costs the Earth.”"
+        genre: [technology, environment]
+        completed: Next
+
       - title: "America: The Farewell Tour"
         author: Chris Hedges
         link: https://www.simonandschuster.com/books/America-The-Farewell-Tour/Chris-Hedges/9781501152689
@@ -10,7 +26,7 @@ list:
         description: "“Chris Hedges’s profound and unsettling examination of America in crisis is ‘an exceedingly...provocative book, certain to arouse controversy, but offering a point of view that needs to be heard’ (Booklist), about how bitter hopelessness and malaise have resulted in a culture of sadism and hate.”"
         genre: [politics, society]
         format: audiobook
-        completed: Next
+        completed: 40
 
       - title: "The Overstory"
         author: Richard Powers
@@ -20,14 +36,6 @@ list:
         genre: [fiction, environment, ecology]
         format: audiobook
         completed: 2020-08-18
-
-      - title: "World Wide Waste"
-        author: Gerry McGovern
-        link: https://gerrymcgovern.com/books/world-wide-waste/
-        image: https://gerrymcgovern.com/wp-content/uploads/2020/03/c02c_final_big.jpg
-        description: "“Digital is physical. Digital is not green. Digital costs the Earth. Every time I download an email I contribute to global warming. Every time I tweet, do a search, check a webpage, I create pollution. Digital is physical. Those data centers are not in the Cloud. They’re on land in massive physical buildings packed full of computers hungry for energy. It seems invisible. It seems cheap and free. It’s not. Digital costs the Earth.”"
-        genre: [technology, environment]
-        completed: Next
 
       - title: "Ava Helen Pauling: Partner, Activist, Visionary"
         author: Mina Carson
