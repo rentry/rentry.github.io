@@ -26,8 +26,7 @@ list:
         description: "“Chris Hedges’s profound and unsettling examination of America in crisis is ‘an exceedingly...provocative book, certain to arouse controversy, but offering a point of view that needs to be heard’ (Booklist), about how bitter hopelessness and malaise have resulted in a culture of sadism and hate.”"
         genre: [politics, society]
         format: audiobook
-        progress: 40
-        completed: In progress
+        completed: 2020-08-21
 
       - title: "The Overstory"
         author: Richard Powers
