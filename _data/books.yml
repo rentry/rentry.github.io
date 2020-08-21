@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Children of Men"
+        author: P.D. James
+        link: https://en.wikipedia.org/wiki/The_Children_of_Men
+        image: https://upload.wikimedia.org/wikipedia/en/a/aa/Children-of-Men-bookcover.jpg
+        description: "<cite>Children of Men</cite> is one of my favorite films, but I hadn't read the book. As our world begins to look terrifyingly like the film, I decided to read the source material for the film."
+        genre: [dystopia, fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
         author: Neil M. Maher
         link: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195306019.001.0001/acprof-9780195306019
