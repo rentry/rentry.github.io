@@ -3,15 +3,14 @@ list:
   - year: 2020
     books:
 
-      - title: "The Children of Men"
-        author: P.D. James
-        link: https://en.wikipedia.org/wiki/The_Children_of_Men
-        image: https://upload.wikimedia.org/wikipedia/en/a/aa/Children-of-Men-bookcover.jpg
-        description: "<cite>Children of Men</cite> is one of my favorite films, but I hadn't read the book. As our world begins to look terrifyingly like the film, I decided to read the source material for the film."
-        genre: [dystopia, fiction]
+      - title: "The Wizard and the Prophet"
+        author: Charles Mann
+        link: https://www.penguinrandomhouse.com/books/220698/the-wizard-and-the-prophet-by-charles-c-mann/
+        image: https://images1.penguinrandomhouse.com/cover/9780345802842
+        description: "“In forty years, Earth’s population will reach ten billion. Can our world support that? What kind of world will it be? Those answering these questions generally fall into two deeply divided groups—Wizards and Prophets, as Charles Mann calls them in this balanced, authoritative, nonpolemical new book.”"
+        genre: [science, history]
         format: audiobook
-        progress: 10
-        completed: In progress
+        completed: Next
 
       - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
         author: Neil M. Maher
