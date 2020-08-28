@@ -16,8 +16,8 @@ Saturday, September 12, 2020<br>
 7:00 P.M.
 
 ## Where
-- Ryan and Erinn's farmhouse
-<br><cite>email or text Ryan if you need directions.</cite>
+Ryan and Erinn's farmhouse
+<br><em>email or text Ryan if you need directions.</em>
 
 ## What to bring
 Bring food, drinks, facemasks, and whatever optimism about the future you have left.
