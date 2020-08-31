@@ -88,8 +88,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/3083145/original/9781604862430.jpg?1588344512
         description: "“This biographical study is a window into 19th-century British society and the life of William Morris—the great craftsman, architect, designer, poet, and writer—who remains a monumental and influential figure to this day. This account chronicles how his concern with artistic and human values led him to cross what he called the ‘river of fire’ and become a committed socialist—committed not only to the theory of socialism but also to the practice of it in the day-to-day struggle of working women and men in Victorian England.”"
         genre: [biography, art, politics]
-        progress: 80
-        completed: In progress
+        completed: 2020-08-30
 
       - title: "The Return of Nature: Socialism and Ecology"
         author: John Bellamy Foster
