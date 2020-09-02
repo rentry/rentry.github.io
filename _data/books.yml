@@ -10,7 +10,7 @@ list:
         description: "“In forty years, Earth’s population will reach ten billion. Can our world support that? What kind of world will it be? Those answering these questions generally fall into two deeply divided groups—Wizards and Prophets, as Charles Mann calls them in this balanced, authoritative, nonpolemical new book.”"
         genre: [science, history]
         format: audiobook
-        progress: 10
+        progress: 30
         completed: In progress
 
       - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
@@ -35,7 +35,7 @@ list:
         image: https://gerrymcgovern.com/wp-content/uploads/2020/03/c02c_final_big.jpg
         description: "“Digital is physical. Digital is not green. Digital costs the Earth. Every time I download an email I contribute to global warming. Every time I tweet, do a search, check a webpage, I create pollution. Digital is physical. Those data centers are not in the Cloud. They’re on land in massive physical buildings packed full of computers hungry for energy. It seems invisible. It seems cheap and free. It’s not. Digital costs the Earth.”"
         genre: [technology, environment]
-        progress: 10
+        progress: 50
         completed: In progress
 
       - title: "America: The Farewell Tour"
