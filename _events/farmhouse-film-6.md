@@ -37,3 +37,5 @@ Bring food, drinks, facemasks, and whatever optimism about the future you have l
 
 
 ![The Farmhouse in the gloaming](/assets/images/farmhouse.jpg)
+
+<figcaption>Icon: Fire by Maxim Kulikov from the Noun Project</figcaption>
