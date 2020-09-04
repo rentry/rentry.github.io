@@ -8,6 +8,12 @@ image-alt: "Pleasantville film scene, with a black and white character and a wom
 
 # Farmhouse film event: <cite>Pleasantville</cite>
 
+_Update (9/4):_
+
+<img src="/assets/images/no_fire.svg" alt="Flames crossed out indicating no fire" width="30px" height="30px" /> <em>Sadly, we won't be able to have a campfire during this film event. The fire district rating is currently `Extreme`. We live in an Oregon Department of Forestry "protection zone," which bans recreational fires under those conditions.</em>
+
+## About the film
+
 > Director Gary Ross stated, "This movie is about the fact that personal repression gives rise to larger political oppression...That when we're afraid of certain things in ourselves or we're afraid of change, we project those fears on to other things, and a lot of very ugly social situations can develop."
 
 ## When
