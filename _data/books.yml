@@ -27,7 +27,8 @@ list:
         image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-33_100x@3x.png?v=1598365557
         description: "“We humans are messy, illogical creatures who like to imagine we’re in control—but we blithely let our biases lead us astray. In <cite>Design for Cognitive Bias</cite>, David Dylan Thomas lays bare the irrational forces that shape our everyday decisions and, inevitably, inform the experiences we craft. Once we grasp the logic powering these forces, we stand a fighting chance of confronting them, tempering them, and even harnessing them for good.”"
         genre: [web, digitial, design, technology, society]
-        completed: Next        
+        progress: 10
+        completed: In progress       
 
       - title: "World Wide Waste"
         author: Gerry McGovern
