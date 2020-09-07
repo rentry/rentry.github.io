@@ -3,6 +3,22 @@ list:
   - year: 2020
     books:
 
+      - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
+        author: Neil M. Maher
+        link: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195306019.001.0001/acprof-9780195306019
+        image: https://oxford.universitypressscholarship.com/view/covers/9780195306019.jpg
+        description: "“Neil Maher has done us a great service by recalling the forgotten history of the New Deal's conservation programs. His research is impressive, and he writes with clarity and grace. His study offers us valuable insights for understanding the environment controversies of our time.”—Howard Zinn"
+        genre: [environment, society, politics]
+        completed: Next
+
+      - title: "Unfuck Your Anger: Using Science to Understand Frustration, Rage, and Forgiveness"
+        author: Faith G. Harper
+        link: https://microcosmpublishing.com/catalog/zines/3794/#
+        image: https://static.microcosmpublishing.com/previews/image00001_copy10_lg.jpg
+        description: "A friend of mine suggested I read this book (which says something in itself), but it does feel timely. I'm skeptical of anyone who isn't constantly angry right now, but perpetual anger isn't sustainable for anybody. As the author writes, “When we lose our fucking minds on a regular basis, we are wiring our brains into a constantly heightened state that eventually fries our circuits (and pushes away everyone we love in the process).”"
+        genre: [mental health, science]
+        completed: 2020-09-07
+
       - title: "The Wizard and the Prophet"
         author: Charles Mann
         link: https://www.penguinrandomhouse.com/books/220698/the-wizard-and-the-prophet-by-charles-c-mann/
@@ -12,14 +28,6 @@ list:
         format: audiobook
         progress: 30
         completed: In progress
-
-      - title: "Nature's New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
-        author: Neil M. Maher
-        link: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195306019.001.0001/acprof-9780195306019
-        image: https://oxford.universitypressscholarship.com/view/covers/9780195306019.jpg
-        description: "“Neil Maher has done us a great service by recalling the forgotten history of the New Deal's conservation programs. His research is impressive, and he writes with clarity and grace. His study offers us valuable insights for understanding the environment controversies of our time.”—Howard Zinn"
-        genre: [environment, society, politics]
-        completed: Next
 
       - title: "Design for Cognitive Bias"
         author: David Dylan Thomas
