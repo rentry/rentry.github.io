@@ -9,7 +9,8 @@ list:
         image: https://oxford.universitypressscholarship.com/view/covers/9780195306019.jpg
         description: "“Neil Maher has done us a great service by recalling the forgotten history of the New Deal's conservation programs. His research is impressive, and he writes with clarity and grace. His study offers us valuable insights for understanding the environment controversies of our time.”—Howard Zinn"
         genre: [environment, society, politics]
-        completed: Next
+        progress: 15
+        completed: In progress
 
       - title: "Unfuck Your Anger: Using Science to Understand Frustration, Rage, and Forgiveness"
         author: Faith G. Harper
