@@ -2,7 +2,7 @@
 layout: post
 title: "Notes from evacuation"
 date: 2020-09-10
-description: "We evacuated our home two days ago, as fires continue to approach our doorstep. We're in a hotel during a pandemic. The sky is orange and grey. And it all feels like it only gets worse now."
+description: "We evacuated our home two days ago, as fires continue to approach our doorstep. We're in a hotel during a pandemic. The sky is orange and grey. And it feels like it only gets worse now."
 categories: thoughts
 tags: [thoughts, climate change]
 ---
