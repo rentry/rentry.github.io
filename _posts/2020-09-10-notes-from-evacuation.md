@@ -13,7 +13,7 @@ We began the year by losing both of our dogs, one to old age (15) and the other 
 
 Oh, and climate change, of course. 
 
-Which is the context for the increasingly likely outcome that my home burns to ground in a forest fire. 
+Which is the context for the increasingly likely outcome that my home burns to the ground in a forest fire. 
 
 We left Tuesday night after an unprecedented (saying that a lot these days, aren't we?) wind storm combined with record low humidity and months with no rain created explosive fire conditions.
 
