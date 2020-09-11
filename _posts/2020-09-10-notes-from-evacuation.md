@@ -26,8 +26,3 @@ Our negligence of each other, our systems of oppression and ignorance, our denia
 We can’t keep doing things the way we’ve been doing them. We must change. 
 
 Our house is still standing for now. But the flames are at the doorstep.
-
-
-
-
-
