@@ -41,6 +41,7 @@ body {
     -moz-osx-font-smoothing: grayscale;
     -moz-font-feature-settings: "liga", "kern";
     font-weight: 300;
+    font-display: swap;
 }
 
 /**
@@ -57,6 +58,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
     letter-spacing: -1px;
     margin-bottom: $spacing-unit / 5;
+    font-display: swap;
 }
 
 
