@@ -8,6 +8,10 @@ image-alt: "Pleasantville film scene, with a black and white character and a wom
 
 # Farmhouse film event: <cite>Pleasantville</cite>
 
+_Update (9/12):_
+
+<img src="/assets/images/no_fire.svg" alt="Flames crossed out indicating no fire" width="30px" height="30px" /> We're evacuated because of wildfires in Oregon. We obviously cannot show this wonderful film at this time, as we wait for word on if and when we can go home.
+
 _Update (9/4):_
 
 <img src="/assets/images/no_fire.svg" alt="Flames crossed out indicating no fire" width="30px" height="30px" /> <em>Sadly, we won't be able to have a campfire during this film event. The fire district rating is currently `Extreme`. We live in an Oregon Department of Forestry "protection zone," which bans recreational fires under those conditions.</em>
@@ -18,8 +22,8 @@ _Update (9/4):_
 
 ## When
 
-Saturday, September 12, 2020<br>
-7:00 P.M.
+~~Saturday, September 12, 2020~~<br>
+~~7:00 P.M.~~
 
 ## Where
 Ryan and Erinn's farmhouse
