@@ -8,6 +8,14 @@ image-alt: "Pleasantville film scene, with a black and white character and a wom
 
 # Farmhouse film event: <cite>Pleasantville</cite>
 
+_Update (9/13):_
+
+We'll still show this movie (weather permitting...honestly, if it's ruined by rain, that sounds okay, too), in celebration of my cousin's birthday, and gratitude that our house is still standing.
+
+New date (maybe):
+
+- Saturday, September 26, 2020 <br>6:00 PM
+
 _Update (9/12):_
 
 We're evacuated because of wildfires in Oregon. We obviously cannot show this wonderful film at this time, as we wait for word on if and when we can go home.
