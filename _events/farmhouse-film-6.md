@@ -6,7 +6,7 @@ event-image: /assets/images/film-pleasantville.png
 image-alt: "Pleasantville film scene, with a black and white character and a women in full color with an umbrella twirling"
 ---
 
-# Farmhouse film event: <cite>Pleasantville</cite>
+<h1>Farmhouse <em>house cooling</em> and film event: <cite>Pleasantville</cite></h1>
 
 _Update (9/13):_
 
