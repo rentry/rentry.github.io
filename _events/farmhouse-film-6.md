@@ -3,10 +3,10 @@ layout: farmhouse
 title:  "Farmhouse films: <cite>Pleasantville</cite>"
 permalink: /farmhouse-film-pleasantville/
 event-image: /assets/images/film-pleasantville.png
-image-alt: "Pleasantville film scene, with a black and white character and a women in full color with an umbrella twirling"
+image-alt: "Pleasantville film scene, with a black and white character and a woman in full color with an umbrella twirling"
 ---
 
-<h1>Farmhouse <em>house cooling</em> and film event: <cite>Pleasantville</cite></h1>
+<h1>Farmhouse film event and <span style="color: #074e9e;">house cooling</span>: <cite>Pleasantville</cite></h1>
 
 _Update (9/13):_
 
