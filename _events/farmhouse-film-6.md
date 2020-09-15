@@ -18,7 +18,7 @@ New date (maybe):
 
 _Update (9/12):_
 
-We're evacuated because of wildfires in Oregon. We obviously cannot show this wonderful film at this time, as we wait for word on if and when we can go home.
+⚠️ We're evacuated because of wildfires in Oregon. We obviously cannot show this wonderful film at this time, as we wait for word on if and when we can go home.
 
 _Update (9/4):_
 
