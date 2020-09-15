@@ -31,7 +31,7 @@ _Update (9/4):_
 ## When
 
 ~~Saturday, September 12, 2020~~<br>
-~~7:00 P.M.~~
+~~7:00 PM~~
 
 Saturday, September 26, 2020 <br>6:00 PM
 
