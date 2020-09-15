@@ -33,6 +33,8 @@ _Update (9/4):_
 ~~Saturday, September 12, 2020~~<br>
 ~~7:00 P.M.~~
 
+Saturday, September 26, 2020 <br>6:00 PM
+
 ## Where
 Ryan and Erinn's farmhouse
 <br><em>email or text Ryan if you need directions.</em>
