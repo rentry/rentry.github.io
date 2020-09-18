@@ -3,6 +3,16 @@ list:
   - year: 2020
     books:
 
+      - title: "Hitler's First Hundred Days: When Germans Embraced the Third Reich"
+        author: Peter Fritzsche
+        link: https://www.basicbooks.com/titles/peter-fritzsche/hitlers-first-hundred-days/9781541697447/
+        image: https://www.basicbooks.com/wp-content/uploads/2020/03/9781541697447.jpg?fit=436%2C675
+        description: "I've read before about the rise of Nazism, but not in the context of an aggressive fascist movement in the United States. The parallels are staggering, and it's unlikely to end regardless of what happens in the next election."
+        genre: [history]
+        progress: 15
+        format: audiobook
+        completed: In progress
+
       - title: "This Ugly Civilization"
         author: Ralph Borsodi
         link: http://www.thisuglycivilization.com/
