@@ -35,8 +35,7 @@ list:
         description: "“In forty years, Earth’s population will reach ten billion. Can our world support that? What kind of world will it be? Those answering these questions generally fall into two deeply divided groups—Wizards and Prophets, as Charles Mann calls them in this balanced, authoritative, nonpolemical new book.”"
         genre: [science, history]
         format: audiobook
-        progress: 30
-        completed: In progress
+        completed: 2020-09-18
 
       - title: "Design for Cognitive Bias"
         author: David Dylan Thomas
