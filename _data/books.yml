@@ -13,12 +13,12 @@ list:
         format: audiobook
         completed: In progress
 
-      - title: "This Ugly Civilization"
-        author: Ralph Borsodi
-        link: http://www.thisuglycivilization.com/
-        image: https://i1.wp.com/www.thisuglycivilization.com/wp-content/uploads/2018/06/ThisUgly.jpg?w=600
-        description: "“There are three basic themes in Ralph Borsodi’s <cite>This Ugly Civilization</cite>: a critique of modern industrial civilization, achieving personal economic independence, and maximizing individual potential. Borsodi advocates a lifestyle of self-reliance and decentralized power, and outlines how it can be realized either by one man or by all. The logical steps are given for moving beyond a ‘victory garden’ so that each of us may cultivate a human-scale existence compatible with nature and the pursuit of the good life.”"
-        genre: [environment, society]
+      - title: "The Way Home: Tales from a life without technology"
+        author: Mark Boyle
+        link: https://oneworld-publications.com/the-way-home.html
+        image: https://oneworld-publications.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/9/7/9781786077271.jpg
+        description: "“No running water, no car, no electricity or any of the things it powers: the internet, phone, washing machine, radio or light bulb. Just a wooden cabin, on a smallholding, by the edge of a stand of spruce. In this honest and lyrical account of a remarkable life without modern technology, Mark Boyle explores the hard won joys of building a home with his bare hands, learning to make fire, collecting water from the spring, foraging and fishing.”"
+        genre: [environment, society, autobiography]
         completed: Next
 
       - title: "Nature’s New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
