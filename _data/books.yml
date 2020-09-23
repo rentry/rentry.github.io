@@ -9,7 +9,7 @@ list:
         image: https://www.basicbooks.com/wp-content/uploads/2020/03/9781541697447.jpg?fit=436%2C675
         description: "I've read before about the rise of Nazism, but not in the context of an aggressive fascist movement in the United States. The parallels are staggering, and it's unlikely to end regardless of what happens in the next election."
         genre: [history]
-        progress: 36
+        progress: 78
         format: audiobook
         completed: In progress
 
@@ -35,7 +35,7 @@ list:
         image: https://oxford.universitypressscholarship.com/view/covers/9780195306019.jpg
         description: "“Neil Maher has done us a great service by recalling the forgotten history of the New Deal's conservation programs. His research is impressive, and he writes with clarity and grace. His study offers us valuable insights for understanding the environment controversies of our time.”—Howard Zinn"
         genre: [environment, society, politics]
-        progress: 35
+        progress: 60
         completed: In progress
 
       - title: "Unfuck Your Anger: Using Science to Understand Frustration, Rage, and Forgiveness"
