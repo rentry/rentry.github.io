@@ -3,23 +3,14 @@ list:
   - year: 2020
     books:
 
-      - title: "Hitler’s First Hundred Days: When Germans Embraced the Third Reich"
-        author: Peter Fritzsche
-        link: https://www.basicbooks.com/titles/peter-fritzsche/hitlers-first-hundred-days/9781541697447/
-        image: https://www.basicbooks.com/wp-content/uploads/2020/03/9781541697447.jpg?fit=436%2C675
-        description: "I've read before about the rise of Nazism, but not in the context of an aggressive fascist movement in the United States. The parallels are staggering, and it's unlikely to end regardless of what happens in the next election."
-        genre: [history]
-        progress: 78
-        format: audiobook
-        completed: In progress
-
       - title: "A Planet to Win: Why We Need a Green New Deal"
         author: Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and Thea Riofrancos
         link: https://www.versobooks.com/books/3107-a-planet-to-win
         image: https://cdn-ed.versobooks.com/images/000015/060/9781788738316-515c5aecc5c7893284555e5f3b4b4754.jpg
         description: "“<cite>A Planet to Win</cite> explores the political potential and concrete first steps of a Green New Deal. It calls for dismantling the fossil fuel industry, building beautiful landscapes of renewable energy, and guaranteeing climate-friendly work, no-carbon housing, and free public transit. And it shows how a Green New Deal in the United States can strengthen climate justice movements worldwide.”"
         genre: [environment, society, climate, politics]
-        completed: Next
+        progress: 50
+        completed: In progress
 
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
@@ -29,6 +20,16 @@ list:
         genre: [environment, society, autobiography]
         completed: Next
 
+      - title: "How Fascism Works: The Politics of Us and Them"
+        author: Jason Stanley
+        link: https://www.penguinrandomhouse.com/books/586030/how-fascism-works-by-jason-stanley/
+        image: https://images2.penguinrandomhouse.com/cover/9780525511854
+        description: "“A vital read for a nation under Trump.”­—The Guardian"
+        genre: [politics, history, philosophy]
+        format: audiobook
+        progress: 10
+        completed: In progress
+
       - title: "Nature’s New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
         author: Neil M. Maher
         link: https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780195306019.001.0001/acprof-9780195306019
@@ -37,6 +38,15 @@ list:
         genre: [environment, society, politics]
         progress: 60
         completed: In progress
+
+      - title: "Hitler’s First Hundred Days: When Germans Embraced the Third Reich"
+        author: Peter Fritzsche
+        link: https://www.basicbooks.com/titles/peter-fritzsche/hitlers-first-hundred-days/9781541697447/
+        image: https://www.basicbooks.com/wp-content/uploads/2020/03/9781541697447.jpg?fit=436%2C675
+        description: "I've read before about the rise of Nazism, but not in the context of an aggressive fascist movement in the United States. The parallels are staggering, and it's unlikely to end regardless of what happens in the next election."
+        genre: [history, politics]
+        format: audiobook
+        completed: 2020-09-24
 
       - title: "Unfuck Your Anger: Using Science to Understand Frustration, Rage, and Forgiveness"
         author: Faith G. Harper
