@@ -14,10 +14,6 @@ We'll still show this movie (weather permitting...honestly, if it's ruined by ra
 
 New date (maybe):
 
-Saturday, September 26, 2020 <br>6:00 p.m.
-
-or
-
 Sunday, September 27, 2020 <br>6:00 p.m.
 
 _Update (9/12):_
@@ -36,10 +32,6 @@ _Update (9/4):_
 
 ~~Saturday, September 12, 2020~~<br>
 ~~7:00 p.m.~~
-
-Saturday, September 26, 2020 <br>6:00 p.m.
-
-or
 
 Sunday, September 27, 2020 <br>6:00 p.m.
 
