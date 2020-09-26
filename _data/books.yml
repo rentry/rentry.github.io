@@ -9,8 +9,7 @@ list:
         image: https://cdn-ed.versobooks.com/images/000015/060/9781788738316-515c5aecc5c7893284555e5f3b4b4754.jpg
         description: "“<cite>A Planet to Win</cite> explores the political potential and concrete first steps of a Green New Deal. It calls for dismantling the fossil fuel industry, building beautiful landscapes of renewable energy, and guaranteeing climate-friendly work, no-carbon housing, and free public transit. And it shows how a Green New Deal in the United States can strengthen climate justice movements worldwide.”"
         genre: [environment, society, climate, politics]
-        progress: 50
-        completed: In progress
+        completed: 2020-09-26
 
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
@@ -27,7 +26,7 @@ list:
         description: "“A vital read for a nation under Trump.”­—The Guardian"
         genre: [politics, history, philosophy]
         format: audiobook
-        progress: 10
+        progress: 60
         completed: In progress
 
       - title: "Nature’s New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
