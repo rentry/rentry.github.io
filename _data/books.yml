@@ -26,8 +26,7 @@ list:
         description: "“A vital read for a nation under Trump.”­—The Guardian"
         genre: [politics, history, philosophy]
         format: audiobook
-        progress: 60
-        completed: In progress
+        completed: 2020-09-26
 
       - title: "Nature’s New Deal: The Civilian Conservation Corps and the Roots of the American Enviromental Movement"
         author: Neil M. Maher
