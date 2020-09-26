@@ -14,7 +14,7 @@ We'll still show this movie (weather permitting...honestly, if it's ruined by ra
 
 New date (maybe):
 
-Sunday, September 27, 2020 <br>6:00 p.m.
+Sunday, September 27, 2020 <br>5:30 p.m.
 
 _Update (9/12):_
 
@@ -33,7 +33,7 @@ _Update (9/4):_
 ~~Saturday, September 12, 2020~~<br>
 ~~7:00 p.m.~~
 
-Sunday, September 27, 2020 <br>6:00 p.m.
+Sunday, September 27, 2020 <br>5:30 p.m.
 
 ## Where
 Ryan and Erinn's farmhouse
