@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins"
+        author: Anna Lowenhaupt Tsing
+        link: https://press.princeton.edu/books/ebook/9781400873548/the-mushroom-at-the-end-of-the-world
+        image: https://pup-assets.imgix.net/onix/images/9781400873548.jpg?w=640
+        description: "I'm rereading this fantastic book, which acknowledges the precarity of our moment, but infuses it with hope via a study of anthropological and natural resilience...all by way of fungus."
+        genre: [environment, society, capitalism, botany]
+        progress: 15
+        completed: In progress
+
       - title: "A Planet to Win: Why We Need a Green New Deal"
         author: Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and Thea Riofrancos
         link: https://www.versobooks.com/books/3107-a-planet-to-win
