@@ -9,7 +9,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/13081096/original/9781735286501.jpg?1599607067
         description: "“This friendly guide is for technology people who work, or want to work, in the public sector. In it, Cyd Harrell outlines the types of projects, partnerships, and people that civic technologists encounter, and the methods they can use to make lasting change. She focuses on principles and sets of questions to help technologists find the right way to do the most good, starting with finding the people already doing the work.”"
         genre: [technology, government]
-        progress: 15
+        progress: 25
         completed: In progress
 
       - title: "The Way Home: Tales from a life without technology"
@@ -26,7 +26,7 @@ list:
         image: https://pup-assets.imgix.net/onix/images/9781400873548.jpg?w=640
         description: "I'm rereading this fantastic book, which acknowledges the precarity of our moment, but infuses it with hope via a study of anthropological and natural resilience...all by way of fungus."
         genre: [environment, society, capitalism, botany]
-        progress: 15
+        progress: 60
         completed: In progress
 
       - title: "A Planet to Win: Why We Need a Green New Deal"
