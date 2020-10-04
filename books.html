@@ -36,6 +36,7 @@ title: Reading
       <ul class="book-list">
         {% comment %} Books in progress {% endcomment %}
         {% assign in_progress = entry.books | where: "completed", "In progress" %}
+        {% assign next_up = entry.books | where: "completed", "Next" %}
         {% for book in in_progress %}
           {% include book-item.html %}
               <p class="post-meta">
@@ -43,15 +44,20 @@ title: Reading
               </p>
             </li>
         {% endfor %}
+        {% for book in next_up %}
+          {% include book-item.html %}
+              <p class="post-meta">
+                <span>Status: </span><span style="color: #026431">📚 Next up</span>
+              </p>
+            </li>
+        {% endfor %}
         {% comment %} Books that aren't in progress {% endcomment %}
         {% for book in entry.books %}
-        {% unless book.completed == "In progress" %}
+        {% unless book.completed == "In progress" or book.completed == "Next" %}
           {% include book-item.html %}
                 <p class="post-meta"> 
                   {% if book.completed == 'Abandoned' %}
                     <span>Status: </span><span style="color: #EB002B">{{ book.completed }} ¯\_(ツ)_/¯ </span>
-                  {% elsif book.completed == 'Next' %}
-                    <span>Status: </span><span style="color: #026431">📚 Next up</span>    
                   {% else %}
                     <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
                   {% endif %}
