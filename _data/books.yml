@@ -17,7 +17,8 @@ list:
         image: https://oneworld-publications.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/9/7/9781786077271.jpg
         description: "“No running water, no car, no electricity or any of the things it powers: the internet, phone, washing machine, radio or light bulb. Just a wooden cabin, on a smallholding, by the edge of a stand of spruce. In this honest and lyrical account of a remarkable life without modern technology, Mark Boyle explores the hard won joys of building a home with his bare hands, learning to make fire, collecting water from the spring, foraging and fishing.”"
         genre: [environment, society, autobiography]
-        completed: Next        
+        progress: 25
+        completed: In progress     
 
       - title: "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins"
         author: Anna Lowenhaupt Tsing
