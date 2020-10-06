@@ -3,14 +3,6 @@ list:
   - year: 2020
     books:
 
-      - title: "A Civic Technologist's Practice Guide"
-        author: Cyd Harrell
-        link: https://bookshop.org/books/a-civic-technologist-s-practice-guide/9781735286501
-        image: https://images-production.bookshop.org/spree/images/attachments/13081096/original/9781735286501.jpg?1599607067
-        description: "“This friendly guide is for technology people who work, or want to work, in the public sector. In it, Cyd Harrell outlines the types of projects, partnerships, and people that civic technologists encounter, and the methods they can use to make lasting change. She focuses on principles and sets of questions to help technologists find the right way to do the most good, starting with finding the people already doing the work.”"
-        genre: [technology, government]
-        completed: 2020-10-03
-
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
         link: https://oneworld-publications.com/the-way-home.html
@@ -18,7 +10,15 @@ list:
         description: "“No running water, no car, no electricity or any of the things it powers: the internet, phone, washing machine, radio or light bulb. Just a wooden cabin, on a smallholding, by the edge of a stand of spruce. In this honest and lyrical account of a remarkable life without modern technology, Mark Boyle explores the hard won joys of building a home with his bare hands, learning to make fire, collecting water from the spring, foraging and fishing.”"
         genre: [environment, society, autobiography]
         progress: 25
-        completed: In progress     
+        completed: In progress   
+        
+      - title: "A Civic Technologist's Practice Guide"
+        author: Cyd Harrell
+        link: https://bookshop.org/books/a-civic-technologist-s-practice-guide/9781735286501
+        image: https://images-production.bookshop.org/spree/images/attachments/13081096/original/9781735286501.jpg?1599607067
+        description: "“This friendly guide is for technology people who work, or want to work, in the public sector. In it, Cyd Harrell outlines the types of projects, partnerships, and people that civic technologists encounter, and the methods they can use to make lasting change. She focuses on principles and sets of questions to help technologists find the right way to do the most good, starting with finding the people already doing the work.”"
+        genre: [technology, government]
+        completed: 2020-10-03  
 
       - title: "The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins"
         author: Anna Lowenhaupt Tsing
@@ -26,8 +26,7 @@ list:
         image: https://pup-assets.imgix.net/onix/images/9781400873548.jpg?w=640
         description: "I'm rereading this fantastic book, which acknowledges the precarity of our moment, but infuses it with hope via a study of anthropological and natural resilience...all by way of fungus."
         genre: [environment, society, capitalism, botany]
-        progress: 60
-        completed: In progress
+        completed: 2020-10-05
 
       - title: "A Planet to Win: Why We Need a Green New Deal"
         author: Kate Aronoff, Alyssa Battistoni, Daniel Aldana Cohen, and Thea Riofrancos
