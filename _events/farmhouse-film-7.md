@@ -17,7 +17,7 @@ _The greatest action film of all time._
 
 ## When
 
-🎃 Saturday, October 31, 2020 (or the next dry day that works)<br>
+Saturday, October 24, 2020 (or the next dry day that works)<br>
 5:00 p.m.
 
 ## Where
