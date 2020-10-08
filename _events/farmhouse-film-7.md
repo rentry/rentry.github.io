@@ -6,7 +6,7 @@ event-image: /assets/images/film-madmax.png
 image-alt: "Max and Furiosa holding ground with firearms ready"
 ---
 
-<h1>Farmhouse film event 🍁 Fall edition 🍁<br><br><cite>Mad Max Fury Road: Black & Chrome Edition</cite></h1>
+<h1>Farmhouse film event<br><br><cite>Mad Max Fury Road: Black & Chrome Edition</cite></h1>
 
 
 _The greatest action film of all time._
