@@ -16,7 +16,7 @@ _The greatest action film ever made._
 Saturday, October 24, 2020<br>
 5:00 p.m.
 
-We'll only hold show this film if there's no rain in the forecast 🌤️ and if conditions allow for a campfire 🔥.
+We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
 
 ## Where
 Ryan and Erinn's farmhouse
