@@ -11,6 +11,15 @@ list:
         genre: [philosophy, nature]
         completed: In progress
 
+      - title: "The Scorpio Races"
+        author: Maggie Stiefvater
+        link: https://bookshop.org/books/the-scorpio-races-9780545224918/9780545224918
+        image: https://images-production.bookshop.org/spree/images/attachments/5198928/original/9780545224918.jpg?1588425064
+        description: "One of my partner's favorite books, we selected it for our drive to a remote forest cabin."
+        genre: [fiction, fantasy, adventure]
+        format: audiobook
+        completed: In progress        
+
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
         link: https://oneworld-publications.com/the-way-home.html
