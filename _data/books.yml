@@ -7,17 +7,9 @@ list:
         author: Selected and Edited by Lewis Hyde
         link: https://us.macmillan.com/books/9780865476462
         image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780865476462.jpg
-        description: "I'm soon taking a short vacation in the forest, and I thought I'd revisit some of my favorite Thoreau essays."
+        description: "I'm soon taking a short vacation in the forest, so it seems like a good time to revisit some of my favorite Thoreau essays."
         genre: [philosophy, nature]
-        completed: Next
-
-      - title: "Heart Mountain"
-        author: Gretel Ehrlich
-        link: https://www.goodreads.com/book/show/216499.Heart_Mountain
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327891019l/216499.jpg
-        description: "I grew up about 10 miles from the Heart Mountain Relocation Center, the site of a historic injustice in which over 10,000 Japanese Americans were forcibly interned during World War II. Despite being raised nearby, I don't recall learning anything about the camp in school. This book, while fiction, tells the story of the camp and the people who lived there against their will, along with those in the surrounding communities."
-        genre: [historical fiction]
-        completed: Next
+        completed: In progress
 
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
@@ -25,8 +17,7 @@ list:
         image: https://oneworld-publications.com/media/catalog/product/cache/1/image/650x/040ec09b1e35df139433887a97daa66f/9/7/9781786077271.jpg
         description: "“No running water, no car, no electricity or any of the things it powers: the internet, phone, washing machine, radio or light bulb. Just a wooden cabin, on a smallholding, by the edge of a stand of spruce. In this honest and lyrical account of a remarkable life without modern technology, Mark Boyle explores the hard won joys of building a home with his bare hands, learning to make fire, collecting water from the spring, foraging and fishing.”"
         genre: [environment, society, autobiography]
-        progress: 50
-        completed: In progress   
+        completed: 2020-10-10   
 
       - title: "A Civic Technologist's Practice Guide"
         author: Cyd Harrell
