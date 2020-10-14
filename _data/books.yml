@@ -10,8 +10,7 @@ list:
         description: "I'm revisiting this fantasy fiction work with my wife as we travel for a short vacation in the forest."
         genre: [fiction, fantasy, adventure]
         format: audiobook
-        progress: 70
-        completed: In progress
+        completed: 2020-10-14
         
       - title: "The Essays of Henry D. Thoreau"
         author: Selected and Edited by Lewis Hyde
