@@ -9,15 +9,17 @@ list:
         image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780865476462.jpg
         description: "I'm soon taking a short vacation in the forest, so it seems like a good time to revisit some of my favorite Thoreau essays."
         genre: [philosophy, nature]
+        progress: 40
         completed: In progress
 
       - title: "The Scorpio Races"
         author: Maggie Stiefvater
         link: https://bookshop.org/books/the-scorpio-races-9780545224918/9780545224918
         image: https://images-production.bookshop.org/spree/images/attachments/5198928/original/9780545224918.jpg?1588425064
-        description: "One of my partner's favorite books, we selected it for our drive to a remote forest cabin."
+        description: "I'm revisiting this fantasy fiction work with my wife as we travel for a short vacation in the forest."
         genre: [fiction, fantasy, adventure]
         format: audiobook
+        progress: 70
         completed: In progress        
 
       - title: "The Way Home: Tales from a life without technology"
