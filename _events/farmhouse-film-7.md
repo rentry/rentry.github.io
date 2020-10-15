@@ -1,7 +1,7 @@
 ---
 layout: farmhouse
 title:  "Farmhouse films: <cite>Mad Max Fury Road</cite>"
-permalink: /farmhouse-film-mad-max-fury-road
+permalink: /farmhouse-film-mad-max-fury-road/
 event-image: /assets/images/film-madmax.png
 image-alt: "Max and Furiosa holding ground with firearms ready"
 ---

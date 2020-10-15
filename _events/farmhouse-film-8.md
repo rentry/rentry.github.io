@@ -1,7 +1,7 @@
 ---
 layout: farmhouse
 title:  "Farmhouse films: <cite>The Village</cite>"
-permalink: /farmhouse-film-the-village
+permalink: /farmhouse-film-the-village/
 event-image: /assets/images/film-thevillage.png
 image-alt: "Red cloaked figure with long claws and ominous presence"
 ---
