@@ -1,20 +1,21 @@
 ---
 layout: farmhouse
 title:  "Farmhouse films: <cite>Mad Max Fury Road</cite>"
-permalink: /farmhouse-film-mad-max-fury-road/
+permalink: /farmhouse-film-mad-max-fury-road
 event-image: /assets/images/film-madmax.png
 image-alt: "Max and Furiosa holding ground with firearms ready"
 ---
 
 <h1>Farmhouse film event: <br><cite>Mad Max Fury Road, Black & Chrome Edition</cite></h1>
 
-
 _The greatest action film ever made._
 
 ## When
 
-Saturday, October 17, 2020<br>
-5:00 p.m.
+~~Saturday, October 17, 2020~~<br>
+~~5:00 p.m.~~
+
+**Delayed until 2021**
 
 We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
 
