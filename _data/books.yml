@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Why You Should Be a Socialist"
+        author: Nathan J. Robinson
+        link: hhttps://us.macmillan.com/books/9781250200877
+        image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9781250200877.jpg
+        description: "Obviously."
+        genre: [politics, economics]
+        format: audiobook
+        completed: 2020-10-18
+
       - title: "Design Engineering Handbook"
         author: Natalya Shelburne, Adekunle Oduye, Kim Williams, Eddie Lou
         link: https://www.designbetter.co/design-engineering-handbook
