@@ -3,6 +3,16 @@ list:
   - year: 2020
     books:
 
+      - title: "Henry David Thoreau: A Life"
+        author: Laura Dassow Walls
+        link: https://press.uchicago.edu/ucp/books/book/chicago/H/bo23013074.html
+        image: https://press.uchicago.edu/dam/ucp/books/jacket/978/02/26/34/9780226344690.jpg
+        description: "“The Thoreau I sought was not in any book, so I wrote this one,” says Walls. The result is a Thoreau unlike any seen since he walked the streets of Concord, a Thoreau for our time and all time."
+        genre: [biography, nature]
+        format: audiobook
+        progress: 15
+        completed: In progress
+
       - title: "Entitled: How Male Privilege Hurts Women"
         author: Kate Manne
         link: http://www.katemanne.net/entitled.html
