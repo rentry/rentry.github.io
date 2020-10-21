@@ -10,7 +10,7 @@ list:
         description: "“Drawing on Thoreau’s copious writings, published and unpublished, Walls presents a Thoreau vigorously alive in all his quirks and contradictions: the young man shattered by the sudden death of his brother; the ambitious Harvard College student; the ecstatic visionary who closed <cite>Walden</cite> with an account of the regenerative power of the Cosmos. We meet the man whose belief in human freedom and the value of labor made him an uncompromising abolitionist; the solitary walker who found society in nature, but also found his own nature in the society of which he was a deeply interwoven part. And, running through it all, Thoreau the passionate naturalist, who, long before the age of environmentalism, saw tragedy for future generations in the human heedlessness around him.”"
         genre: [biography, nature]
         format: audiobook
-        progress: 15
+        progress: 25
         completed: In progress
 
       - title: "Entitled: How Male Privilege Hurts Women"
@@ -54,7 +54,7 @@ list:
         image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780865476462.jpg
         description: "I'm soon taking a short vacation in the forest, so it seems like a good time to revisit some of my favorite Thoreau essays."
         genre: [philosophy, nature]
-        progress: 40
+        progress: 50
         completed: In progress        
 
       - title: "The Way Home: Tales from a life without technology"
