@@ -63,8 +63,7 @@ list:
         image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9780865476462.jpg
         description: "I'm soon taking a short vacation in the forest, so it seems like a good time to revisit some of my favorite Thoreau essays."
         genre: [philosophy, nature]
-        progress: 50
-        completed: In progress        
+        completed: 2020-10-23       
 
       - title: "The Way Home: Tales from a life without technology"
         author: Mark Boyle
