@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Disability Visibility: First-Person Stories from the Twenty-First Century"
+        author: Edited by Alice Wong
+        link: https://www.penguinrandomhouse.com/books/617802/disability-visibility-by-alice-wong/
+        image: https://images2.penguinrandomhouse.com/cover/9781984899422
+        description: "“One in five people in the United States lives with a disability. Some disabilities are visible, others less apparent—but all are underrepresented in media and popular culture. Now, just in time for the thirtieth anniversary of the Americans with Disabilities Act, activist Alice Wong brings together this urgent, galvanizing collection of contemporary essays by disabled people.”"
+        genre: [biography, society]
+        format: audiobook
+        completed: Next
+
       - title: "Henry David Thoreau: A Life"
         author: Laura Dassow Walls
         link: https://press.uchicago.edu/ucp/books/book/chicago/H/bo23013074.html
