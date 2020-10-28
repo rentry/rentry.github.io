@@ -10,7 +10,8 @@ list:
         description: "“One in five people in the United States lives with a disability. Some disabilities are visible, others less apparent—but all are underrepresented in media and popular culture. Now, just in time for the thirtieth anniversary of the Americans with Disabilities Act, activist Alice Wong brings together this urgent, galvanizing collection of contemporary essays by disabled people.”"
         genre: [biography, society]
         format: audiobook
-        completed: Next
+        progress: 20
+        completed: In progress
 
       - title: "Henry David Thoreau: A Life"
         author: Laura Dassow Walls
