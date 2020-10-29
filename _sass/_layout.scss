@@ -109,7 +109,7 @@ nav.site-nav {
 }
 
 .about-image {
-    background-image: url(../assets/images/header.gif);
+    background-image: url(../assets/images/header.png);
     height: calc(100%);
     //background-attachment: fixed;
     background-position: center;
@@ -118,19 +118,19 @@ nav.site-nav {
 
 @media only screen and (max-width: 1300px) {
     .about-image {
-        background-image: url(../assets/images/header-medium.gif);
+        background-image: url(../assets/images/header-medium.png);
     }
 }
 
 @media only screen and (max-width: 980px) {
     .about-image {
-        background-image: url(../assets/images/header-small.gif);
+        background-image: url(../assets/images/header-small.png);
     }
 }
 
 @media only screen and (max-width: 450px) {
     .about-image {
-        background-image: url(../assets/images/header-verysmall.gif);
+        background-image: url(../assets/images/header-verysmall.png);
         height: 350px;
     }
     #words-and-maps {
