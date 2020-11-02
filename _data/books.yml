@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Writing for Dollars, Writing to Please: The Case for Plain Language in Business, Government, and Law"
+        author: Joseph Kimble
+        link: https://cap-press.com/books/isbn/9781611631913/Writing-for-Dollars-Writing-to-Please
+        image: https://cap-press.com/covers/2390.png
+        description: "I joined several sessions of this year's <a href='https://digital.gov/event/2020/10/27/plain-language-summit-2020/'>Plain Language Summit</a>, and none was better than Mr. Kimble's <cite>Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection</cite>. I bought his book before his presentation ended."
+        genre: [writing, law]
+        progress: 20
+        completed: In progress
+
       - title: "Disability Visibility: First-Person Stories from the Twenty-First Century"
         author: Edited by Alice Wong
         link: https://www.penguinrandomhouse.com/books/617802/disability-visibility-by-alice-wong/
@@ -19,7 +28,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/6094487/original/9780226599373.jpg?1588406798
         description: "“Drawing on Thoreau’s copious writings, published and unpublished, Walls presents a Thoreau vigorously alive in all his quirks and contradictions: the young man shattered by the sudden death of his brother; the ambitious Harvard College student; the ecstatic visionary who closed <cite>Walden</cite> with an account of the regenerative power of the Cosmos. We meet the man whose belief in human freedom and the value of labor made him an uncompromising abolitionist; the solitary walker who found society in nature, but also found his own nature in the society of which he was a deeply interwoven part. And, running through it all, Thoreau the passionate naturalist, who, long before the age of environmentalism, saw tragedy for future generations in the human heedlessness around him.”"
         genre: [biography, nature]
-        progress: 35
+        progress: 70
         completed: In progress
 
       - title: "Entitled: How Male Privilege Hurts Women"
