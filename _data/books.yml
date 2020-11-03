@@ -27,8 +27,7 @@ list:
         image: https://images-production.bookshop.org/spree/images/attachments/6094487/original/9780226599373.jpg?1588406798
         description: "“Drawing on Thoreau’s copious writings, published and unpublished, Walls presents a Thoreau vigorously alive in all his quirks and contradictions: the young man shattered by the sudden death of his brother; the ambitious Harvard College student; the ecstatic visionary who closed <cite>Walden</cite> with an account of the regenerative power of the Cosmos. We meet the man whose belief in human freedom and the value of labor made him an uncompromising abolitionist; the solitary walker who found society in nature, but also found his own nature in the society of which he was a deeply interwoven part. And, running through it all, Thoreau the passionate naturalist, who, long before the age of environmentalism, saw tragedy for future generations in the human heedlessness around him.”"
         genre: [biography, nature]
-        progress: 70
-        completed: In progress
+        completed: 2020-11-03
 
       - title: "Entitled: How Male Privilege Hurts Women"
         author: Kate Manne
