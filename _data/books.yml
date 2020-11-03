@@ -3,7 +3,16 @@ list:
   - year: 2020
     books:
 
-      - title: "Mismatch: How Inclusion Shapes Design "
+      - title: "Between You & Me: Confessions of a Comma Queen"
+        author: Mary Norris
+        link: https://wwnorton.com/books/9780393352146
+        image: https://cdn.wwnorton.com/dam_booktitles/641/img/cover/9780393352146_300.jpeg
+        description: "Mary Norris has spent more than three decades working in The New Yorker’s renowned copy department, helping to maintain its celebrated high standards. In <cite>Between You & Me</cite>, she brings her vast experience with grammar and usage, her good cheer and irreverence, and her finely sharpened pencils to help the rest of us in a boisterous language book as full of life as it is of practical advice."
+        genre: [writing, language]
+        format: audiobook
+        completed: Next
+
+      - title: "Mismatch: How Inclusion Shapes Design"
         author: Kat Holmes
         link: https://mitpress.mit.edu/books/mismatch
         image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262539487%26type%3D.jpg?itok=UGSqkGL9
@@ -26,8 +35,7 @@ list:
         description: "“One in five people in the United States lives with a disability. Some disabilities are visible, others less apparent—but all are underrepresented in media and popular culture. Now, just in time for the thirtieth anniversary of the Americans with Disabilities Act, activist Alice Wong brings together this urgent, galvanizing collection of contemporary essays by disabled people.”"
         genre: [biography, society]
         format: audiobook
-        progress: 20
-        completed: In progress
+        completed: 2020-11-02
 
       - title: "Henry David Thoreau: A Life"
         author: Laura Dassow Walls
