@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Mismatch: How Inclusion Shapes Design "
+        author: Kat Holmes
+        link: https://mitpress.mit.edu/books/mismatch
+        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262539487%26type%3D.jpg?itok=UGSqkGL9
+        description: "“Kat Holmes shows us how to make inclusion a source of innovation. An important read for anyone who aspires to build great products for the greatest number of people.” –Satya Nadella, CEO, Microsoft"
+        genre: [design, technology, business]
+        completed: Next
+
       - title: "Writing for Dollars, Writing to Please: The Case for Plain Language in Business, Government, and Law"
         author: Joseph Kimble
         link: https://cap-press.com/books/isbn/9781611631913/Writing-for-Dollars-Writing-to-Please
@@ -33,7 +41,7 @@ list:
         author: Kate Manne
         link: http://www.katemanne.net/entitled.html
         image: http://www.katemanne.net/uploads/7/3/8/4/73843037/published/9780241398807.jpg?1592170025
-        description: "“Kate Manne continues to be a thrilling and provocative feminist thinker, who helps readers make sense of how power and privilege is distributed along gendered lines. Her work is indispensable.” —Rebecca Traister, author of <cite>Good & Mad</cite>"
+        description: "“Kate Manne continues to be a thrilling and provocative feminist thinker, who helps readers make sense of how power and privilege is distributed along gendered lines. Her work is indispensable.” –Rebecca Traister, author of <cite>Good & Mad</cite>"
         genre: [society, politics]
         completed: Next
 
