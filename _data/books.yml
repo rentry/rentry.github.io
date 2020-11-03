@@ -9,8 +9,7 @@ list:
         image: https://cap-press.com/covers/2390.png
         description: "I joined several sessions of this year's <a href='https://digital.gov/event/2020/10/27/plain-language-summit-2020/'>Plain Language Summit</a>, and none was better than Mr. Kimble's <cite>Flimsy Claims for Legalese and False Criticisms of Plain Language: A 30-Year Collection</cite>. I bought his book before his presentation ended."
         genre: [writing, law]
-        progress: 20
-        completed: In progress
+        completed: 2020-11-02
 
       - title: "Disability Visibility: First-Person Stories from the Twenty-First Century"
         author: Edited by Alice Wong
