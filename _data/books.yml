@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Proposed Roads to Freedom"
+        author: Bertrand Russell
+        link: https://www.gutenberg.org/ebooks/690
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347467176l/1449309.jpg
+        description: "“The great majority of men and women, in ordinary times, pass through life without ever contemplating or criticising, as a whole, either their own conditions or those of the world at large. They find themselves born into a certain place in society, and they accept what each day brings forth, without any effort of thought beyond what the immediate present requires. Almost as instinctively as the beasts of the field, they seek the satisfaction of the needs of the moment, without much forethought, and without considering that by sufficient effort the whole conditions of their lives could be changed.”"
+        genre: [philosophy, economics, society]
+        format: audiobook
+        completed: In progress
+
       - title: "Between You & Me: Confessions of a Comma Queen"
         author: Mary Norris
         link: https://wwnorton.com/books/9780393352146
