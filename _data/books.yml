@@ -3,13 +3,14 @@ list:
   - year: 2020
     books:
 
-      - title: "Proposed Roads to Freedom"
-        author: Bertrand Russell
-        link: https://www.gutenberg.org/ebooks/690
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1347467176l/1449309.jpg
-        description: "“The great majority of men and women, in ordinary times, pass through life without ever contemplating or criticising, as a whole, either their own conditions or those of the world at large. They find themselves born into a certain place in society, and they accept what each day brings forth, without any effort of thought beyond what the immediate present requires. Almost as instinctively as the beasts of the field, they seek the satisfaction of the needs of the moment, without much forethought, and without considering that by sufficient effort the whole conditions of their lives could be changed.”"
-        genre: [philosophy, economics, society]
+      - title: "The Enchantments of Mammon: How Capitalism Became the Religion of Modernity"
+        author: Eugene McCarraher
+        link: https://www.hup.harvard.edu/catalog.php?isbn=9780674984615
+        image: https://www.hup.harvard.edu/images/jackets/9780674984615.jpg
+        description: "“Far from displacing religions, as has been supposed, capitalism <em>became</em> one, with money as its deity. Eugene McCarraher reveals how mammon ensnared us and how we can find a more humane, sacramental way of being in the world.”"
+        genre: [philosophy, economics, religion]
         format: audiobook
+        progress: 5
         completed: In progress
 
       - title: "Between You & Me: Confessions of a Comma Queen"
