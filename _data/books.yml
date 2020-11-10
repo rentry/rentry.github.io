@@ -10,7 +10,7 @@ list:
         description: "“Far from displacing religions, as has been supposed, capitalism <em>became</em> one, with money as its deity. Eugene McCarraher reveals how mammon ensnared us and how we can find a more humane, sacramental way of being in the world.”"
         genre: [philosophy, economics, religion]
         format: audiobook
-        progress: 5
+        progress: 10
         completed: In progress
 
       - title: "Between You & Me: Confessions of a Comma Queen"
@@ -28,7 +28,7 @@ list:
         image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262539487%26type%3D.jpg?itok=UGSqkGL9
         description: "“Kat Holmes shows us how to make inclusion a source of innovation. An important read for anyone who aspires to build great products for the greatest number of people.” –Satya Nadella, CEO, Microsoft"
         genre: [design, technology, business]
-        completed: Next
+        completed: 25
 
       - title: "Writing for Dollars, Writing to Please: The Case for Plain Language in Business, Government, and Law"
         author: Joseph Kimble
