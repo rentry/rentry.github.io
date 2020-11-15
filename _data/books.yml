@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Anarchy & Beauty: William Morris and His Legacy, 1860–1960"
+        author: Fiona MacCarthy
+        link: https://yalebooks.yale.edu/book/9780300209464/anarchy-beauty
+        image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/29bac0aa1a19a2573a52edabd351bfa4.jpg?itok=vTq35HGh
+        description: "“<cite>Anarchy and Beauty</cite> takes the reader through Morris’s fascinating career, from the establishment of his decorative arts shop (later Morris & Co.), to his radical sexual politics and libertarianism, and the publication in 1890 of his novel <cite>News from Nowhere</cite>, which envisions a utopian socialist society.”"
+        genre: [art, design, politics]
+        completed: 2020-11-15
+
       - title: "News from Nowhere"
         author: William Morris
         link: https://en.wikipedia.org/wiki/News_from_Nowhere
