@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "For Who the Bell Tolls: One Man's Quest for Grammatical Perfection"
+        author: David Marsh
+        link: https://www.goodreads.com/book/show/18624475-for-who-the-bell-tolls
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380828909l/18624475.jpg
+        description: "“This is a book that explains the grammar that people really need to know, such as the fact that an apostrophe is the difference between a company that knows its shit and a company that knows it's shit, or the importance of capital letters to avoid ambiguity in such sentences as ‘I helped my Uncle Jack off his horse.’”"
+        genre: [grammar, writing, style]
+        progress: 20
+        completed: In progress
+
       - title: "Anarchy & Beauty: William Morris and His Legacy, 1860–1960"
         author: Fiona MacCarthy
         link: https://yalebooks.yale.edu/book/9780300209464/anarchy-beauty
@@ -27,14 +36,6 @@ list:
         genre: [society, politics]
         completed: Next
 
-      - title: "A Secular Age"
-        author: Charles Taylor
-        link: https://www.hup.harvard.edu/catalog.php?isbn=9780674986916
-        image: https://www.hup.harvard.edu/images/jackets/9780674986916.jpg
-        description: "“What does it mean to say that we live in a secular age? Almost everyone would agree that we—in the West, at least—largely do. And clearly the place of religion in our societies has changed profoundly in the last few centuries. In what will be a defining book for our time, Charles Taylor takes up the question of what these changes mean—of what, precisely, happens when a society in which it is virtually impossible not to believe in God becomes one in which faith, even for the staunchest believer, is only one human possibility among others.”"
-        genre: [society, religion]
-        completed: Next        
-
       - title: "The Enchantments of Mammon: How Capitalism Became the Religion of Modernity"
         author: Eugene McCarraher
         link: https://www.hup.harvard.edu/catalog.php?isbn=9780674984615
@@ -42,7 +43,7 @@ list:
         description: "“Far from displacing religions, as has been supposed, capitalism <em>became</em> one, with money as its deity. Eugene McCarraher reveals how mammon ensnared us and how we can find a more humane, sacramental way of being in the world.”"
         genre: [philosophy, economics, religion]
         format: audiobook
-        progress: 40
+        progress: 60
         completed: In progress
 
       - title: "Between You & Me: Confessions of a Comma Queen"
@@ -50,7 +51,7 @@ list:
         link: https://wwnorton.com/books/9780393352146
         image: https://cdn.wwnorton.com/dam_booktitles/641/img/cover/9780393352146_300.jpeg
         description: "Mary Norris has spent more than three decades working in The New Yorker’s renowned copy department, helping to maintain its celebrated high standards. In <cite>Between You & Me</cite>, she brings her vast experience with grammar and usage, her good cheer and irreverence, and her finely sharpened pencils to help the rest of us in a boisterous language book as full of life as it is of practical advice."
-        genre: [writing, language]
+        genre: [writing, grammar, style]
         format: audiobook
         completed: 2020-11-06
 
