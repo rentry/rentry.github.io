@@ -20,14 +20,6 @@ list:
         genre: [art, design, politics]
         completed: 2020-11-15
 
-      - title: "News from Nowhere"
-        author: William Morris
-        link: https://en.wikipedia.org/wiki/News_from_Nowhere
-        image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Kelmscott_Manor_News_from_Nowhere.jpg/440px-Kelmscott_Manor_News_from_Nowhere.jpg
-        description: "“<cite>News from Nowhere</cite> (1890) is a classic work combining utopian socialism and soft science fiction written by the artist, designer and socialist pioneer William Morris...In the novel, the narrator, William Guest, falls asleep after returning from a meeting of the Socialist League and awakes to find himself in a future society based on common ownership and democratic control of the means of production. In this society there is no private property, no big cities, no authority, no monetary system, no divorce, no courts, no prisons, and no class systems. This agrarian society functions simply because the people find pleasure in nature, and therefore they find pleasure in their work.”"
-        genre: [society, politics, fiction, economics]
-        completed: Next
-
       - title: "Entitled: How Male Privilege Hurts Women"
         author: Kate Manne
         link: http://www.katemanne.net/entitled.html
