@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "Bob Dylan: A Spiritual Life"
+        author: Scott M. Marshall
+        link: https://www.goodreads.com/book/show/32446990-bob-dylan
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487839511l/32446990.jpg
+        description: "“Tracking an American original—from his Jewish roots to his controversial embrace of Jesus to his enduring legacy as the composer of the Tempest album—Bob Dylan: A Spiritual Life delivers the story of a man in dogged pursuit of redemption.”"
+        genre: [biography, music, religion]
+        completed: Next
+
       - title: "Grand Hotel Abyss: The Lives of the Frankfurt School"
         author: Stuart Jeffries
         link: https://www.versobooks.com/books/2501-grand-hotel-abyss
