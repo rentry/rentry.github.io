@@ -3,6 +3,14 @@ list:
   - year: 2020
     books:
 
+      - title: "The Ministry for the Future"
+        author: Kim Stanley Robinson
+        link: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
+        image: https://upload.wikimedia.org/wikipedia/en/0/05/The_Ministry_for_the_Future.png
+        description: "“<cite>The Ministry for the Future</cite> is a masterpiece of the imagination, using fictional eyewitness accounts to tell the story of how climate change will affect us all over the decades to come. Its setting is not a desolate, postapocalyptic world, but a future that is almost upon us — and in which we might just overcome the extraordinary challenges we face.”"
+        genre: [fiction, climate change]
+        completed: Next
+
       - title: "Bob Dylan: A Spiritual Life"
         author: Scott M. Marshall
         link: https://www.goodreads.com/book/show/32446990-bob-dylan
@@ -160,7 +168,7 @@ list:
         link: https://www.versobooks.com/books/3107-a-planet-to-win
         image: https://cdn-ed.versobooks.com/images/000015/060/9781788738316-515c5aecc5c7893284555e5f3b4b4754.jpg
         description: "“<cite>A Planet to Win</cite> explores the political potential and concrete first steps of a Green New Deal. It calls for dismantling the fossil fuel industry, building beautiful landscapes of renewable energy, and guaranteeing climate-friendly work, no-carbon housing, and free public transit. And it shows how a Green New Deal in the United States can strengthen climate justice movements worldwide.”"
-        genre: [environment, society, climate, politics]
+        genre: [environment, society, climate change, politics]
         completed: 2020-09-26
 
       - title: "How Fascism Works: The Politics of Us and Them"
@@ -610,7 +618,7 @@ list:
         link: https://thischangeseverything.org/book/
         image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451697391/this-changes-everything-9781451697391_hr.jpg
         description: "“A book of such ambition and consequence that it is almost unreviewable … the most momentous and contentious environmental book since ‘Silent Spring.’” — New York Times Book Review"
-        genre: [climate change, global warming, environment, politics, science]
+        genre: [climate change, environment, politics, science]
         completed: 2020-01-15
         format: audiobook
       
