@@ -3,6 +3,16 @@ list:
   - year: 2020
     books:
 
+      - title: "Why We Swim"
+        author: Bonnie Tsui
+        link: https://www.workman.com/products/why-we-swim
+        image: https://d17lzgq6gc2tox.cloudfront.net/product/cover_image/bigger_cover_image/9781616207861.jpg?1588997898
+        description: "“Bonnie Tsui captures the joy, peril and utility of swimming, within her family and across civilizations . . . The breadth of her reporting and grace of her writing make the elements of <cite>Why We Swim</cite> move harmoniously as one.”—The San Francisco Chronicle"
+        genre: [health, history, sports]
+        format: audiobook
+        progress: 10
+        completed: In progress
+
       - title: "The Ministry for the Future"
         author: Kim Stanley Robinson
         link: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
