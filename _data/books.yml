@@ -7,7 +7,7 @@ list:
         author: Bonnie Tsui
         link: https://www.workman.com/products/why-we-swim
         image: https://d17lzgq6gc2tox.cloudfront.net/product/cover_image/bigger_cover_image/9781616207861.jpg?1588997898
-        description: "“Bonnie Tsui captures the joy, peril and utility of swimming, within her family and across civilizations . . . The breadth of her reporting and grace of her writing make the elements of <cite>Why We Swim</cite> move harmoniously as one.”—The San Francisco Chronicle"
+        description: "“Bonnie Tsui captures the joy, peril and utility of swimming, within her family and across civilizations...The breadth of her reporting and grace of her writing make the elements of <cite>Why We Swim</cite> move harmoniously as one.”—The San Francisco Chronicle"
         genre: [health, history, sports]
         format: audiobook
         progress: 10
@@ -60,8 +60,7 @@ list:
         image: https://images1.penguinrandomhouse.com/cover/9781984826558
         description: "“Kate Manne continues to be a thrilling and provocative feminist thinker, who helps readers make sense of how power and privilege is distributed along gendered lines. Her work is indispensable.” –Rebecca Traister, author of <cite>Good & Mad</cite>"
         genre: [society, politics]
-        progress: 70
-        completed: In progress
+        completed: 2020-12-02
 
       - title: "The Enchantments of Mammon: How Capitalism Became the Religion of Modernity"
         author: Eugene McCarraher
