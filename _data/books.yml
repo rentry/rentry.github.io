@@ -35,7 +35,8 @@ list:
         image: https://cdn-ed.versobooks.com/images/000011/208/FINAL_COVER_FILES_Grand_Hotel_Abyss_%28PB_Edition%29-45bee3f36d88d5d05fff4f9e0ae6807e.jpg
         description: "“In 1923, a group of young radical German thinkers and intellectuals came together to at Victoria Alle 7, Frankfurt, determined to explain the workings of the modern world. Among the most prominent members of what became the Frankfurt School were the philosophers Walter Benjamin, Theodor Adorno, Max Horkheimer, and Herbert Marcuse. Not only would they change the way we think, but also the subjects we deem worthy of intellectual investigation.”"
         genre: [philosophy, society]
-        completed: Next
+        progress: 5
+        completed: In progress
 
       - title: "For Who the Bell Tolls: One Man's Quest for Grammatical Perfection"
         author: David Marsh
