@@ -10,8 +10,7 @@ list:
         description: "“Bonnie Tsui captures the joy, peril and utility of swimming, within her family and across civilizations...The breadth of her reporting and grace of her writing make the elements of <cite>Why We Swim</cite> move harmoniously as one.”—The San Francisco Chronicle"
         genre: [health, history, sports]
         format: audiobook
-        progress: 10
-        completed: In progress
+        completed: 2020-12-05
 
       - title: "The Ministry for the Future"
         author: Kim Stanley Robinson
@@ -19,7 +18,9 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/0/05/The_Ministry_for_the_Future.png
         description: "“<cite>The Ministry for the Future</cite> is a masterpiece of the imagination, using fictional eyewitness accounts to tell the story of how climate change will affect us all over the decades to come. Its setting is not a desolate, postapocalyptic world, but a future that is almost upon us — and in which we might just overcome the extraordinary challenges we face.”"
         genre: [fiction, climate change]
-        completed: Next
+        format: audiobook
+        progress: 15
+        completed: In progress
 
       - title: "Bob Dylan: A Spiritual Life"
         author: Scott M. Marshall
