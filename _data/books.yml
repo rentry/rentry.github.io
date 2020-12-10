@@ -12,23 +12,14 @@ list:
         format: audiobook
         completed: 2020-12-05
 
-      - title: "The Ministry for the Future"
-        author: Kim Stanley Robinson
-        link: https://en.wikipedia.org/wiki/The_Ministry_for_the_Future
-        image: https://upload.wikimedia.org/wikipedia/en/0/05/The_Ministry_for_the_Future.png
-        description: "“<cite>The Ministry for the Future</cite> is a masterpiece of the imagination, using fictional eyewitness accounts to tell the story of how climate change will affect us all over the decades to come. Its setting is not a desolate, postapocalyptic world, but a future that is almost upon us — and in which we might just overcome the extraordinary challenges we face.”"
-        genre: [fiction, climate change]
-        format: audiobook
-        progress: 15
-        completed: In progress
-
       - title: "Bob Dylan: A Spiritual Life"
         author: Scott M. Marshall
         link: https://www.goodreads.com/book/show/32446990-bob-dylan
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1487839511l/32446990.jpg
         description: "“Tracking an American original—from his Jewish roots to his controversial embrace of Jesus to his enduring legacy as the composer of the <cite>Tempest</cite> album—<cite>Bob Dylan: A Spiritual Life</cite> delivers the story of a man in dogged pursuit of redemption.”"
         genre: [biography, music, religion]
-        completed: Next
+        progress: 40
+        completed: In progress
 
       - title: "Grand Hotel Abyss: The Lives of the Frankfurt School"
         author: Stuart Jeffries
@@ -36,7 +27,7 @@ list:
         image: https://cdn-ed.versobooks.com/images/000011/208/FINAL_COVER_FILES_Grand_Hotel_Abyss_%28PB_Edition%29-45bee3f36d88d5d05fff4f9e0ae6807e.jpg
         description: "“In 1923, a group of young radical German thinkers and intellectuals came together to at Victoria Alle 7, Frankfurt, determined to explain the workings of the modern world. Among the most prominent members of what became the Frankfurt School were the philosophers Walter Benjamin, Theodor Adorno, Max Horkheimer, and Herbert Marcuse. Not only would they change the way we think, but also the subjects we deem worthy of intellectual investigation.”"
         genre: [philosophy, society]
-        progress: 5
+        progress: 30
         completed: In progress
 
       - title: "For Who the Bell Tolls: One Man's Quest for Grammatical Perfection"
