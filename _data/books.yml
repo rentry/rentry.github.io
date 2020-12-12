@@ -36,8 +36,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380828909l/18624475.jpg
         description: "“This is a book that explains the grammar that people really need to know, such as the fact that an apostrophe is the difference between a company that knows its shit and a company that knows it's shit, or the importance of capital letters to avoid ambiguity in such sentences as ‘I helped my Uncle Jack off his horse.’”"
         genre: [grammar, writing, style]
-        progress: 20
-        completed: In progress
+        completed: 2020-12-11
 
       - title: "Anarchy & Beauty: William Morris and His Legacy, 1860–1960"
         author: Fiona MacCarthy
