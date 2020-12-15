@@ -3,16 +3,6 @@ list:
   - year: 2020
     books:
 
-      - title: "Why Marx Was Right"
-        author: Terry Eagleton
-        link: https://yalebooks.yale.edu/book/9780300231069/why-marx-was-right
-        image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/97bc01f4901b0d755c07a5a3d4e77371.jpg?itok=8HTVWhEW
-        description: "“In this combative, controversial book, Terry Eagleton takes issue with the prejudice that Marxism is dead and done with. Taking ten of the most common objections to Marxism—that it leads to political tyranny, that it reduces everything to the economic, that it is a form of historical determinism, and so on—he demonstrates in each case what a woeful travesty of Marx's own thought these assumptions are.”"
-        genre: [philosophy, economics, society]
-        format: audiobook
-        progress: 30
-        completed: In progress
-
       - title: "Bob Dylan: A Spiritual Life"
         author: Scott M. Marshall
         link: https://www.goodreads.com/book/show/32446990-bob-dylan
@@ -22,6 +12,15 @@ list:
         format: audiobook
         progress: 40
         completed: In progress
+
+      - title: "Why Marx Was Right"
+        author: Terry Eagleton
+        link: https://yalebooks.yale.edu/book/9780300231069/why-marx-was-right
+        image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/97bc01f4901b0d755c07a5a3d4e77371.jpg?itok=8HTVWhEW
+        description: "“In this combative, controversial book, Terry Eagleton takes issue with the prejudice that Marxism is dead and done with. Taking ten of the most common objections to Marxism—that it leads to political tyranny, that it reduces everything to the economic, that it is a form of historical determinism, and so on—he demonstrates in each case what a woeful travesty of Marx's own thought these assumptions are.”"
+        genre: [philosophy, economics, society]
+        format: audiobook
+        completed: 2020-12-14        
 
       - title: "Grand Hotel Abyss: The Lives of the Frankfurt School"
         author: Stuart Jeffries
