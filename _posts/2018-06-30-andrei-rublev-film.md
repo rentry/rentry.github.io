@@ -27,7 +27,7 @@ _Andrei Rublev: the best arthouse film of all time_](https://www.theguardian.com
 > Viewers and critics always have their personal favourites, but some films achieve a masterpiece status that becomes unanimously agreed upon – something that's undoubtedly true of Andrei Rublev, even though it's a film that people often feel they don't, or won't get. It is 205 minutes long (in its fullest version), in Russian, and in black and white. Few characters are clearly identified, little actually happens, and what does happen isn't necessarily in chronological order. Its subject is a 15th-century icon painter and national hero, yet we never see him paint, nor does he do anything heroic. In many of the film's episodes, he is not present at all, and in the latter stages, he takes a vow of silence. But in a sense, there is nothing to "get" about Andrei Rublev. It is not a film that needs to be processed or even understood, only experienced and wondered at.
 
 [**_The Guardian_ (Joanna Hogg)**   
-The film that changed my life](https://www.theguardian.com/film/2011/apr/24/film-changed-life-joanna-hogg):
+_The film that changed my life_](https://www.theguardian.com/film/2011/apr/24/film-changed-life-joanna-hogg):
 > My understanding of the film now is possibly no greater than it was aged 13 but I remember being completely sucked into the story, following it as if it were an amazing fairy tale. Maybe that's not surprising because Tarkovsky himself said: "We worked at drowning our idea in the atmosphere, in the characters."
 
 [**_The Guardian_ (Jonathan Jones)**   
