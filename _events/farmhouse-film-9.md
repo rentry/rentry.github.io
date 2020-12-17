@@ -1,6 +1,6 @@
 ---
 layout: farmhouse
-title:  "Farmhouse films: <cite>It's a Wonderful Life</cite>"
+title:  "Farmhouse films: <cite>It’s a Wonderful Life</cite>"
 permalink: /farmhouse-film-wonderful-life/
 event-image: /assets/images/film-wonderful-life.png
 image-alt: "Family in snow globe embracing each other and celebrating"
