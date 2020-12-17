@@ -15,7 +15,7 @@ Wednesday, December 23, 2020<br>
 
 We'll only show the movie if weather cooperates. This will be a chilly outdoor event. We'll have the campfire, but no popcorn or beverages. Bring your own holiday snacks! And bring layers and blankets!
 
-Also, this is my sister's birthday! (Sadly, she won't be here)
+Also, this is my sister's birthday! (Sadly, she won't be here.)
 
 ## Where
 Ryan and Erinn's farmhouse
