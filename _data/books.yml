@@ -10,8 +10,7 @@ list:
         description: "“Tracking an American original—from his Jewish roots to his controversial embrace of Jesus to his enduring legacy as the composer of the <cite>Tempest</cite> album—<cite>Bob Dylan: A Spiritual Life</cite> delivers the story of a man in dogged pursuit of redemption.”"
         genre: [biography, music, religion]
         format: audiobook
-        progress: 60
-        completed: In progress
+        completed: 2020-12-19
 
       - title: "Why Marx Was Right"
         author: Terry Eagleton
