@@ -30,7 +30,7 @@ Ryan and Erinn's farmhouse
 I adore this classic, and I watch it every year. I can't wait to watch it outside around the campfire!
 
 ## What to bring
-Bring food, drinks, facemasks, and whatever optimism about the future you have left.
+Bring food, drinks, face masks, and whatever optimism about the future you have left.
 
 We won't provide any snacks this time, so please bring everything you need to be comfortable and warm.
 
