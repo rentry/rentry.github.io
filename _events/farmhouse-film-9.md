@@ -13,12 +13,12 @@ image-alt: "Family in snow globe embracing each other and celebrating"
 Wednesday, December 23, 2020<br>
 4:30 p.m.
 
-We'll only show the movie if weather cooperates. This will be a chilly outdoor event. We'll have the campfire, but no popcorn or beverages. Bring your own holiday snacks! And bring layers and blankets! Please bring your face masks.
-
 **Update:** _Please wear a mask when you arrive, even though we'll be outside. We can safely remove masks while watching the movie (since we'll be seated more than 6 feet apart), but please wear them before and after the film (especially if we're exchanging gifts)._
 
 ![George Bailey wearing an added face mask with his hands extended](/assets/images/masked-its-a-wonderful-life.jpg) 
 <figcaption>George Bailey explains the concept of physical distancing while wearing his holiday face mask.</figcaption>
+
+We'll only show the movie if weather cooperates. This will be a chilly outdoor event. We'll have the campfire, but no popcorn or beverages. Bring your own holiday snacks! And bring layers and blankets! Please bring your face masks.
 
 ## Where
 Ryan and Erinn's farmhouse
