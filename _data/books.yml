@@ -3,6 +3,15 @@ list:
   - year: 2020
     books:
 
+      - title: "Materialism"
+        author: Terry Eagleton
+        link: https://wwnorton.com/books/Greek-to-Me
+        image: https://cdn.wwnorton.com/dam_booktitles/868/img/cover/9780393357868_300.jpeg
+        description: "“In this eye-opening, intellectually stimulating appreciation of a fascinating school of philosophy, Terry Eagleton makes a powerful argument that materialism is at the center of today’s important scientific and cultural as well as philosophical debates. The author reveals entirely fresh ways of considering the values and beliefs of three very different materialists—Marx, Nietzsche, and Wittgenstein—drawing striking comparisons between their philosophies while reflecting on a wide array of topics, from ideology and history to language, ethics, and the aesthetic.”"
+        genre: [philosophy, economics]
+        progress: 50
+        completed: In progress
+
       - title: "Greek to Me: Adventures of the Comma Queen"
         author:  Mary Norris
         link: https://wwnorton.com/books/Greek-to-Me
