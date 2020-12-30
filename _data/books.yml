@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Data Action: Using Data for Public Good"
+        author: Sarah Williams
+        link: https://mitpress.mit.edu/books/data-action
+        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262044196%26type%3D.jpg?itok=jCaKEa6S
+        description: "“Big data can be used for good—from tracking disease to exposing human rights violations—and for bad: implementing surveillance and control. Data inevitably represents the ideologies of those who control its use; data analytics and algorithms too often exclude women, the poor, and ethnic groups. In <cite>Data Action</cite>, Sarah Williams provides a guide for working with data in more ethical and responsible ways.”"
+        genre: [technology, data, media]
+        progress: 10
+        completed: In progress
+
       - title: "Shuggie Bain"
         author: Douglas Stuart
         link: https://en.wikipedia.org/wiki/Shuggie_Bain
