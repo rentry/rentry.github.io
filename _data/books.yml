@@ -61,6 +61,14 @@ list:
         format: audiobook
         completed: 2020-12-19
 
+      - title: "The Conquest of Bread"
+        author: Peter Kropotkin
+        link: https://en.wikipedia.org/wiki/The_Conquest_of_Bread
+        image: https://upload.wikimedia.org/wikipedia/commons/3/36/La_conqu%C3%AAte_du_pain.jpg
+        description: "I'm not sure why it took me so long to read this classic, but I finally got around to it this year."
+        genre: [philosophy, economics]
+        completed: 2020-12-17
+
       - title: "Why Marx Was Right"
         author: Terry Eagleton
         link: https://yalebooks.yale.edu/book/9780300231069/why-marx-was-right
