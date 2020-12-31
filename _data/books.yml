@@ -9,7 +9,7 @@ list:
         image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262044196%26type%3D.jpg?itok=jCaKEa6S
         description: "“Big data can be used for good—from tracking disease to exposing human rights violations—and for bad: implementing surveillance and control. Data inevitably represents the ideologies of those who control its use; data analytics and algorithms too often exclude women, the poor, and ethnic groups. In <cite>Data Action</cite>, Sarah Williams provides a guide for working with data in more ethical and responsible ways.”"
         genre: [technology, data, media]
-        progress: 10
+        progress: 50
         completed: In progress
 
       - title: "Shuggie Bain"
