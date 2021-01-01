@@ -9,7 +9,7 @@ list:
         image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262044196%26type%3D.jpg?itok=jCaKEa6S
         description: "“Big data can be used for good—from tracking disease to exposing human rights violations—and for bad: implementing surveillance and control. Data inevitably represents the ideologies of those who control its use; data analytics and algorithms too often exclude women, the poor, and ethnic groups. In <cite>Data Action</cite>, Sarah Williams provides a guide for working with data in more ethical and responsible ways.”"
         genre: [technology, data, media]
-        progress: 50
+        progress: 60
         completed: In progress
 
       - title: "Shuggie Bain"
@@ -20,15 +20,6 @@ list:
         genre: [fiction]
         format: audiobook
         progress: 12
-        completed: In progress
-
-      - title: "Materialism"
-        author: Terry Eagleton
-        link: https://yalebooks.co.uk/display.asp?K=9780300246629
-        image: https://yalebooks.co.uk/localjackets/m/9780300246629.jpg
-        description: "“In this eye-opening, intellectually stimulating appreciation of a fascinating school of philosophy, Terry Eagleton makes a powerful argument that materialism is at the center of today’s important scientific and cultural as well as philosophical debates. The author reveals entirely fresh ways of considering the values and beliefs of three very different materialists—Marx, Nietzsche, and Wittgenstein—drawing striking comparisons between their philosophies while reflecting on a wide array of topics, from ideology and history to language, ethics, and the aesthetic.”"
-        genre: [philosophy, economics]
-        progress: 50
         completed: In progress
 
       - title: "Grand Hotel Abyss: The Lives of the Frankfurt School"
@@ -42,6 +33,14 @@ list:
 
   - year: 2020
     books:
+
+      - title: "Materialism"
+        author: Terry Eagleton
+        link: https://yalebooks.co.uk/display.asp?K=9780300246629
+        image: https://yalebooks.co.uk/localjackets/m/9780300246629.jpg
+        description: "“In this eye-opening, intellectually stimulating appreciation of a fascinating school of philosophy, Terry Eagleton makes a powerful argument that materialism is at the center of today’s important scientific and cultural as well as philosophical debates. The author reveals entirely fresh ways of considering the values and beliefs of three very different materialists—Marx, Nietzsche, and Wittgenstein—drawing striking comparisons between their philosophies while reflecting on a wide array of topics, from ideology and history to language, ethics, and the aesthetic.”"
+        genre: [philosophy, economics]
+        completed: 2020-12-31
 
       - title: "Greek to Me: Adventures of the Comma Queen"
         author:  Mary Norris
