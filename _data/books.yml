@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks"
+        author: Keith Houston
+        link: https://wwnorton.com/books/Shady-Characters/
+        image: https://cdn.wwnorton.com/dam_booktitles/627/img/cover/9780393349726_300.jpeg%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262044196%26type%3D.jpg?itok=jCaKEa6S
+        description: "“A charming and indispensable tour of two thousand years of the written word, Shady Characters weaves a fascinating trail across the parallel histories of language and typography.”"
+        genre: [style, grammar, history]
+        format: audiobook
+        completed: Next
+
       - title: "Data Action: Using Data for Public Good"
         author: Sarah Williams
         link: https://mitpress.mit.edu/books/data-action
@@ -18,8 +27,7 @@ list:
         description: "“He’s lovely, Douglas Stuart, fierce and loving and lovely. He shows us lots of monstrous behavior, but not a single monster — only damage. If he has a sharp eye for brokenness, he is even keener on the inextinguishable flicker of love that remains. The book is long, more than 400 pages, but its length seems crucial to its overall effect.”—Leah Hager Cohen, <cite>The New York Times</cite>"
         genre: [fiction]
         format: audiobook
-        progress: 90
-        completed: In progress
+        completed: 2021-01-11
 
       - title: "Grand Hotel Abyss: The Lives of the Frankfurt School"
         author: Stuart Jeffries
@@ -27,7 +35,7 @@ list:
         image: https://cdn-ed.versobooks.com/images/000011/208/FINAL_COVER_FILES_Grand_Hotel_Abyss_%28PB_Edition%29-45bee3f36d88d5d05fff4f9e0ae6807e.jpg
         description: "“In 1923, a group of young radical German thinkers and intellectuals came together to at Victoria Alle 7, Frankfurt, determined to explain the workings of the modern world. Among the most prominent members of what became the Frankfurt School were the philosophers Walter Benjamin, Theodor Adorno, Max Horkheimer, and Herbert Marcuse. Not only would they change the way we think, but also the subjects we deem worthy of intellectual investigation.”"
         genre: [philosophy, society]
-        progress: 65
+        progress: 70
         completed: In progress
 
   - year: 2020
