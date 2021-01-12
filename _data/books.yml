@@ -3,12 +3,12 @@ list:
   - year: 2021
     books:
 
-      - title: "Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks"
-        author: Keith Houston
-        link: https://wwnorton.com/books/Shady-Characters/
-        image: https://shadycharacters.co.uk/wp/wp-content/uploads/2014/09/ShadyCharactersPBK_9780393349726.jpg
-        description: "“A charming and indispensable tour of two thousand years of the written word, Shady Characters weaves a fascinating trail across the parallel histories of language and typography.”"
-        genre: [style, grammar, history]
+      - title: "IF THEN: How the Simulmatics Corporation Invented the Future"
+        author: Jill Lepore
+        link: https://scholar.harvard.edu/jlepore/publications/if-then-how-simulmatics-corporation-invented-future
+        image: https://scholar.harvard.edu/files/styles/book_cover/public/jlepore/files/ifthen_9781631496103.jpg?m=1582850471&itok=dIUThb3t
+        description: "“The Simulmatics Corporation, founded in 1959, mined data, targeted voters, accelerated news, manipulated consumers, destabilized politics, and disordered knowledge—decades before Facebook, Google, Amazon, and Cambridge Analytica. Silicon Valley likes to imagine it has no past but the scientists of Simulmatics are the long-dead grandfathers of Mark Zuckerberg and Elon Musk.”"
+        genre: [politics, technology, history]
         format: audiobook
         completed: Next
 
