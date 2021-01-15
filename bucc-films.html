@@ -1,0 +1,38 @@
+---
+layout: default
+title: BUCC Racial Justice Film Series
+---
+<h1>{{ page.title }}</h1>
+
+{% assign bucc_movies = site.data.bucc-films-1 %}
+
+<table>
+    <thead>
+        <th>Title</th>
+        <th>Netflix</th>
+        <th>Prime</th>
+        <th>Hulu</th>
+        <th>Kanopy</th>
+        <th>Apple TV</th>
+        <th>Google Play</th>
+        <th>HBO</th>
+        <th>YouTube</th>
+        <th>PBS</th>
+    </thead>
+    <tbody>
+{% for film in bucc_movies %}        
+        <tr>
+            <td>{{ film.title }}</td>
+            <td>{{ film.netflix }}</td>
+            <td>{{ film.prime }}</td>
+            <td>{{ film.hulu }}</td>
+            <td>{{ film.kanopy }}</td>
+            <td>{{ film.apple_tv }}</td>
+            <td>{{ film.google_play }}</td>
+            <td>{{ film.hbo }}</td>
+            <td>{{ film.youtube }}</td>
+            <td>{{ film.pbs }}</td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
