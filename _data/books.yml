@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks"
+        author: Keith Houston
+        link: https://wwnorton.com/books/Shady-Characters/
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366560992l/17573647.jpg
+        description: "“A charming and indispensable tour of two thousand years of the written word, Shady Characters weaves a fascinating trail across the parallel histories of language and typography. Whether investigating the asterisk (*) and dagger (†)—which alternately illuminated and skewered heretical verses of the early Bible—or the at sign (@), which languished in obscurity for centuries until rescued by the Internet, Keith Houston draws on myriad sources to chart the life and times of these enigmatic squiggles, both exotic (¶) and everyday (&).”"
+        genre: [grammar, language, style]
+        completed: In progress
+
       - title: "IF THEN: How the Simulmatics Corporation Invented the Future"
         author: Jill Lepore
         link: https://scholar.harvard.edu/jlepore/publications/if-then-how-simulmatics-corporation-invented-future
@@ -10,7 +18,7 @@ list:
         description: "“The Simulmatics Corporation, founded in 1959, mined data, targeted voters, accelerated news, manipulated consumers, destabilized politics, and disordered knowledge—decades before Facebook, Google, Amazon, and Cambridge Analytica. Silicon Valley likes to imagine it has no past but the scientists of Simulmatics are the long-dead grandfathers of Mark Zuckerberg and Elon Musk.”"
         genre: [politics, technology, history]
         format: audiobook
-        progress: 32
+        progress: 50
         completed: In progress
 
       - title: "Data Action: Using Data for Public Good"
@@ -36,8 +44,7 @@ list:
         image: https://cdn-ed.versobooks.com/images/000011/208/FINAL_COVER_FILES_Grand_Hotel_Abyss_%28PB_Edition%29-45bee3f36d88d5d05fff4f9e0ae6807e.jpg
         description: "“In 1923, a group of young radical German thinkers and intellectuals came together to at Victoria Alle 7, Frankfurt, determined to explain the workings of the modern world. Among the most prominent members of what became the Frankfurt School were the philosophers Walter Benjamin, Theodor Adorno, Max Horkheimer, and Herbert Marcuse. Not only would they change the way we think, but also the subjects we deem worthy of intellectual investigation.”"
         genre: [philosophy, society]
-        progress: 70
-        completed: In progress
+        completed: 2021-01-17
 
   - year: 2020
     books:
