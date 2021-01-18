@@ -9,7 +9,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366560992l/17573647.jpg
         description: "“A charming and indispensable tour of two thousand years of the written word, Shady Characters weaves a fascinating trail across the parallel histories of language and typography. Whether investigating the asterisk (*) and dagger (†)—which alternately illuminated and skewered heretical verses of the early Bible—or the at sign (@), which languished in obscurity for centuries until rescued by the Internet, Keith Houston draws on myriad sources to chart the life and times of these enigmatic squiggles, both exotic (¶) and everyday (&).”"
         genre: [grammar, language, style]
-        progress: 20
+        progress: 40
         completed: In progress
 
       - title: "IF THEN: How the Simulmatics Corporation Invented the Future"
