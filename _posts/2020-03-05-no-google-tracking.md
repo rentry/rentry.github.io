@@ -13,4 +13,4 @@ Not anymore. I’m removing all tracking from this site (at least that which is 
 
 There’s no reason, outside of my own curiosity, to track you. But by using Google Analytics, I’m exposing your visit to Google, too. I don’t want to do that. I don’t want to make that decision for you. And I don’t know what they’re up to.
 
-So whomever you are, from wherever you came, I won’t know _anything_ about you or what you looked at here. I hope you found something of value.
+So whoever you are, from wherever you came, I won’t know _anything_ about you or what you looked at here. I hope you found something of value.
