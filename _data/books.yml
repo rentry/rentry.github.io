@@ -9,6 +9,7 @@ list:
         image: https://cdn.wwnorton.com/dam_booktitles/397/img/cover/9780393244793_300.jpeg
         description: "“Everybody who has ever read a book will benefit from the way Keith Houston explores the most powerful object of our time. And everybody who has read it will agree that reports of the book’s death have been greatly exaggerated.”—Erik Spiekermann, typographer."
         genre: [typography, history]
+        format: audiobook
         completed: Next
 
       - title: "The History of Middle-earth, Part One"
