@@ -27,8 +27,7 @@ list:
         description: "“The Simulmatics Corporation, founded in 1959, mined data, targeted voters, accelerated news, manipulated consumers, destabilized politics, and disordered knowledge—decades before Facebook, Google, Amazon, and Cambridge Analytica. Silicon Valley likes to imagine it has no past but the scientists of Simulmatics are the long-dead grandfathers of Mark Zuckerberg and Elon Musk.”"
         genre: [politics, technology, history]
         format: audiobook
-        progress: 60
-        completed: In progress
+        completed: 2021-01-27
 
       - title: "Data Action: Using Data for Public Good"
         author: Sarah Williams
