@@ -10,7 +10,8 @@ list:
         description: "“Everybody who has ever read a book will benefit from the way Keith Houston explores the most powerful object of our time. And everybody who has read it will agree that reports of the book’s death have been greatly exaggerated.”—Erik Spiekermann, typographer."
         genre: [typography, history]
         format: audiobook
-        completed: Next
+        progress: 10
+        completed: In progress
 
       - title: "The History of Middle-earth, Part One"
         author: Christopher Tolkien, J.R.R. Tolkien
