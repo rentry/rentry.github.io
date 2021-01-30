@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Parable of the Sower: A Graphic Novel Adaptation"
+        author: Octavia E. Butler, Adapted by Damian Duffy, Illustrated by John Jennings 
+        link: https://www.abramsbooks.com/product/parable-of-the-sower-a-graphic-novel-adaptation_9781419731334/
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550354651l/43908991._SX318_.jpg
+        description: "<cite>Parable of the Sower</cite> and <cite>Parable of the Talents</cite> <a href='/best-books-of-2019/'>topped my list of my favorite books I read in 2019</a>. Recently, my love for these books was rekindled by the amazing <a href='https://podcasts.apple.com/us/podcast/octavias-parables/id1519024926'><cite>Octavia's Parables</cite> podcast</a>, through which I found out about this graphic novel adaptation."
+        genre: [dystopian, fiction, graphic novel]
+        completed: Next
+
       - title: "The Book: A Cover-to-Cover Exploration of the Most Powerful Object of Our Time"
         author: Keith Houston
         link: https://wwnorton.com/books/9780393244793
