@@ -12,8 +12,6 @@ Two films are planned for Spring 2021...
 
 ## First Cow
 
-> Behind every great fortune, someone once said — not quite Balzac, though he often gets the credit — lies a great crime. The fortune amassed by Cookie (John Magaro) and King-Lu (Orion Lee), partners in a mid-19th-century artisanal snack-food start-up in a rough section of the Oregon Territory, is a modest one: a cloth sack filled with shells, cutup coins and company scrip. The crime that brings them that bounty is correspondingly small-scale. Under cover of night, the two men sneak over to a pasture near the cabin they share and milk someone else’s cow. (King-Lu takes lookout duty in a tree, while Cookie fills the pail.)
-
 > That patient, inscrutable animal is the title character, and in effect the female lead, of First Cow, Kelly Reichardt’s deceptively simple and wondrously subtle new film. A parable of economics and politics, with shrewd insights into the workings of supply and demand, scarcity and scale and other puzzles of the marketplace, the movie is also keenly attuned to details of history, both human and natural… And like many great westerns it critiques some of the genre’s foundational myths with bracing, beautiful rigor, including the myth of heroic individualism.
 
 – A.O. Scott, <cite>The New York Times</cite>
