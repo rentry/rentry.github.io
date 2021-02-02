@@ -12,7 +12,7 @@ Two films are planned for Spring 2021...
 
 ## First Cow
 
-> That patient, inscrutable animal is the title character, and in effect the female lead, of First Cow, Kelly Reichardt’s deceptively simple and wondrously subtle new film. A parable of economics and politics, with shrewd insights into the workings of supply and demand, scarcity and scale and other puzzles of the marketplace, the movie is also keenly attuned to details of history, both human and natural… And like many great westerns it critiques some of the genre’s foundational myths with bracing, beautiful rigor, including the myth of heroic individualism.
+> The word “epic” when applied to movies usually suggests sweep and grandeur, world-shaking events and a cast of thousands. But for Ezra Pound, an epic was “a poem containing history,” and by that standard Kelly Reichardt’s quietly ambitious, mischievously profound film surely qualifies. It’s a quiet, lyrical story of friendship and enterprise, set in the Oregon Territory before the Civil War, with John Magaro and Orion Lee as tender comrades and unlikely business partners. But the history is there if you pay attention — the grand, terrible story of global capitalism and territorial conquest. The cow is pretty awesome, too.
 
 – A.O. Scott, <cite>The New York Times</cite>
 
