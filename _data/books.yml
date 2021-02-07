@@ -3,6 +3,16 @@ list:
   - year: 2021
     books:
 
+      - title: "How to Hide an Empire: A History of the Greater United States"
+        author: Daniel Immerwahr 
+        link: https://us.macmillan.com/books/9780374172145
+        image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780374172145.jpg
+        description: "“We are familiar with maps that outline all fifty states. And we are also familiar with the idea that the United States is an ‘empire,’ exercising power around the world. But what about the actual territories—the islands, atolls, and archipelagos—this country has governed and inhabited?.”"
+        genre: [history, politics]
+        format: audiobook
+        progress: 10
+        completed: In progress
+
       - title: "Parable of the Sower: A Graphic Novel Adaptation"
         author: Octavia E. Butler, Adapted by Damian Duffy, Illustrated by John Jennings 
         link: https://www.abramsbooks.com/product/parable-of-the-sower-a-graphic-novel-adaptation_9781419731334/
