@@ -3,12 +3,21 @@ list:
   - year: 2021
     books:
 
+      - title: "The Name of the Wind"
+        author: Patrick Rothfuss
+        link: https://en.wikipedia.org/wiki/The_Name_of_the_Wind
+        image: https://upload.wikimedia.org/wikipedia/en/5/56/TheNameoftheWind_cover.jpg
+        description: "Our power was out for 12 days this month, and I started rereading this classic by headlamp and candlelight."
+        genre: [fiction, fantasy]
+        progress: 50
+        completed: In progress    
+
       - title: "Welcome to the Goddamn Ice Cube: Chasing Fear and Finding Home in the Great White North"
         author: Blair Braverman 
         link: https://www.harpercollins.com/products/welcome-to-the-goddamn-ice-cube-blair-braverman?variant=32208124543010
         image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062311573_e4d99ac4-18f5-4af1-be92-b89f8a14288f.jpg?v=1614049414
         description: "“A rich and revelatory memoir of a young woman confronting her fears and finding home in the North.Blair Braverman fell in love with the North at an early age: By the time she was nineteen, she had left her home in California, moved to Norway to learn how to drive sled dogs, and worked as a tour guide on a glacier in Alaska.”"
-        genre: [politics, economics, art, history]
+        genre: [memoir, dogs]
         format: audiobook
         progress: 50
         completed: In progress
