@@ -3,13 +3,24 @@ list:
   - year: 2021
     books:
 
+      - title: "Welcome to the Goddamn Ice Cube: Chasing Fear and Finding Home in the Great White North"
+        author: Blair Braverman 
+        link: https://www.harpercollins.com/products/welcome-to-the-goddamn-ice-cube-blair-braverman?variant=32208124543010
+        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062311573_e4d99ac4-18f5-4af1-be92-b89f8a14288f.jpg?v=1614049414
+        description: "“A rich and revelatory memoir of a young woman confronting her fears and finding home in the North.Blair Braverman fell in love with the North at an early age: By the time she was nineteen, she had left her home in California, moved to Norway to learn how to drive sled dogs, and worked as a tour guide on a glacier in Alaska.”"
+        genre: [politics, economics, art, history]
+        format: audiobook
+        progress: 50
+        completed: In progress
+
       - title: "How I Became A Socialist"
         author: William Morris 
         link: https://www.penguinrandomhouse.com/books/610427/how-i-became-a-socialist-by-william-morris/
         image: https://images1.penguinrandomhouse.com/cover/9781788736916
         description: "“What I mean by Socialism is a condition of scoiety in which there should be neither rich nor poor, neither master master nor master's man, neither idle nor overworked, neither brain-sick brain workers, nor heart-sick hand workers, in a word, in which all men would be living in equality of condition, and would manage their affairs unwastefully, and with the full consciousness that harm to one would mean harm to all.”"
         genre: [politics, economics, art, history]
-        completed: Next
+        progress: 50
+        completed: In progress
 
       - title: "How to Hide an Empire: A History of the Greater United States"
         author: Daniel Immerwahr 
@@ -18,8 +29,7 @@ list:
         description: "“We are familiar with maps that outline all fifty states. And we are also familiar with the idea that the United States is an ‘empire,’ exercising power around the world. But what about the actual territories—the islands, atolls, and archipelagos—this country has governed and inhabited?.”"
         genre: [history, politics]
         format: audiobook
-        progress: 30
-        completed: In progress
+        completed: 2021-02-23
 
       - title: "Parable of the Sower: A Graphic Novel Adaptation"
         author: Octavia E. Butler, Adapted by Damian Duffy, Illustrated by John Jennings 
