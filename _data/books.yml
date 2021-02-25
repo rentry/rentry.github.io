@@ -19,8 +19,7 @@ list:
         description: "“A rich and revelatory memoir of a young woman confronting her fears and finding home in the North.Blair Braverman fell in love with the North at an early age: By the time she was nineteen, she had left her home in California, moved to Norway to learn how to drive sled dogs, and worked as a tour guide on a glacier in Alaska.”"
         genre: [memoir, dogs]
         format: audiobook
-        progress: 50
-        completed: In progress
+        completed: 2021-02-25
 
       - title: "How I Became A Socialist"
         author: William Morris 
@@ -63,7 +62,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593147988l/48930348.jpg
         description: "I asked for and received for Christmas the 12-volume <cite>The History of Middle-earth</cite>, and I'm excited to dig in. This first part of three is, by itself, 1920 pages containing five volumes, so the journey through Middle-earth will take some time."
         genre: [fiction, fantasy]
-        progress: 5
+        progress: 10
         completed: In progress
 
       - title: "Shady Characters: The Secret Life of Punctuation, Symbols, and Other Typographical Marks"
