@@ -16,7 +16,7 @@ But [this most recent event](https://www.oregonlive.com/clackamascounty/2021/02/
 
 We lost power for 12 consecutive days. So we couldn't have tracked national media it if we wanted to. We lost cell service for 2 days, so we couldn't call the power company or emergency services. We were carrying water to flush the toilet for 12 days (thanks to a garbage can we filled in the days before the storm), and charging phones via solar, once cell service was restored. There were miles of power lines laying in the street or otherwise on the ground, broken power poles everywhere.
 
-It's understandable, of course, the limited coverage. Texas was absolutely slammed, with temperatures in the single digits, a neglectful and irresponsible government, infrastructure issues (mostly not related to windmills), and many people who presumably wouldn't have prepared for such an anomalous weather event. [The repercussions continue there](https://www.wymt.com/2021/03/03/single-mother-staying-at-texas-hotel-with-5-kids-after-historic-storm-causes-water-problems/_).
+It's understandable, of course, the limited coverage. Texas was absolutely slammed, with temperatures in the single digits, a neglectful and irresponsible government, infrastructure issues (largely [not related to windmills](https://theintercept.com/2021/02/19/deconstructed-texas-republicans-experiment/)), and many people who presumably wouldn't have prepared for such an anomalous weather event. [The repercussions continue there](https://www.wymt.com/2021/03/03/single-mother-staying-at-texas-hotel-with-5-kids-after-historic-storm-causes-water-problems/_).
 
 I've talked to several friends and colleagues in Texas who went 75 hours without power, and that is unpleasant, and in some cases dangerous. 
 
