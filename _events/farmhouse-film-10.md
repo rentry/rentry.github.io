@@ -10,8 +10,8 @@ image-alt: "Family in snow globe embracing each other and celebrating"
 
 ## When
 
-One day in March 2021<br>
-7:00 p.m.
+Friday, March 12, 2021<br>
+6:30 p.m.
 
 We'll only show the movie if weather cooperates. This will be a chilly outdoor event. We'll have the campfire, but no popcorn or beverages. Bring your own holiday snacks! And bring layers and blankets! Please bring your face masks.
 
