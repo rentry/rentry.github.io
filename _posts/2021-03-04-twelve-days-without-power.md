@@ -34,6 +34,6 @@ And this brings me to my main points:
 ![A branch, covered in ice, hangs on a power line]({{'assets/images/2021-ice-storm-3.JPG' | relative_url }})
 <figcaption>A tree branch hangs on a damaged power line in our yard</figcaption>
 
-This year, we evacuated from our house for over a week because of wildfires, we had a covid case, we lost power and water for 12 days due to an ice storm, and that hasn't even been the worst of it. And yet, I know there are worse experiences than mine. And I fear this is just the beginning.
+In 2020 and early 2021, we evacuated from our house for over a week because of wildfires, we had a covid case, we lost power and water for 12 days due to an ice storm, and that hasn't even been the worst of it. And yet, I know there are worse experiences than mine. And I fear this is just the beginning.
 
 I hope you all are hanging in there. And I hope we all find ways to repair what is broken, together.
