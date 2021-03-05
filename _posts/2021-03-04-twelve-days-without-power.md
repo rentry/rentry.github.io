@@ -32,7 +32,7 @@ And this brings me to my main points:
 - We can't rely on big fixes anymore...we needed them a long time ago, but we now need to create resilient communities. I'm going to buy a generator for a church down the road, knowing that it will be a place of refuge (and it stores a food pantry, with refrigeration needs).
 
 ![A pile of tree branches from the storm, incense cedar branches in the front and deciduous, leafless branches in the back]({{'assets/images/2021-ice-storm-4.JPG' | relative_url }})
-<figcaption>A third, maybe, of the tree damage to work through</figcaption>
+<figcaption>A sample of the tree damage to work through. There is much more.</figcaption>
 
 In 2020 and early 2021, we evacuated from our house for over a week because of wildfires, we had a covid case, we lost power and water for 12 days due to an ice storm, and that hasn't even been the worst of it. And yet, I know there are worse experiences than mine. And I fear this is just the beginning.
 
