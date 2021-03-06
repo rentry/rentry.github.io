@@ -3,6 +3,16 @@ list:
   - year: 2021
     books:
 
+      - title: "Debt: The First 5000 Years"
+        author: David Graeber
+        link: https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years
+        image: https://upload.wikimedia.org/wikipedia/en/8/83/Debt_Graeber.jpg
+        description: "“Here anthropologist David Graeber presents a stunning reversal of conventional wisdom. He shows that for more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.”"
+        genre: [economics, history]
+        format: audiobook
+        progress: 10
+        completed: In progress   
+
       - title: "A Children's Bible"
         author: Lydia Millet
         link: https://wwnorton.com/books/a-childrens-bible
@@ -11,16 +21,7 @@ list:
         genre: [fiction]
         format: audiobook
         progress: 52
-        completed: In progress 
-
-      - title: "The Name of the Wind"
-        author: Patrick Rothfuss
-        link: https://en.wikipedia.org/wiki/The_Name_of_the_Wind
-        image: https://upload.wikimedia.org/wikipedia/en/5/56/TheNameoftheWind_cover.jpg
-        description: "Our power was out for 12 days this month, and I started rereading this classic by headlamp and candlelight."
-        genre: [fiction, fantasy]
-        progress: 50
-        completed: In progress    
+        completed: In progress  
 
       - title: "Welcome to the Goddamn Ice Cube: Chasing Fear and Finding Home in the Great White North"
         author: Blair Braverman 
