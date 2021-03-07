@@ -10,7 +10,7 @@ list:
         description: "“Here anthropologist David Graeber presents a stunning reversal of conventional wisdom. He shows that for more than 5,000 years, since the beginnings of the first agrarian empires, humans have used elaborate credit systems to buy and sell goods—that is, long before the invention of coins or cash. It is in this era, Graeber argues, that we also first encounter a society divided into debtors and creditors.”"
         genre: [economics, history]
         format: audiobook
-        progress: 10
+        progress: 30
         completed: In progress   
 
       - title: "A Children's Bible"
@@ -18,7 +18,7 @@ list:
         link: https://wwnorton.com/books/a-childrens-bible
         image: https://cdn.wwnorton.com/dam_booktitles/183/img/cover/9780393867381_300.jpeg
         description: "“<cite>A Children’s Bible</cite> follows a group of twelve eerily mature children on a forced vacation with their families at a sprawling lakeside mansion. Contemptuous of their parents, the children decide to run away when a destructive storm descends on the summer estate, embarking on a dangerous foray into the apocalyptic chaos outside. Lydia Millet’s prophetic and heartbreaking story of generational divide offers a haunting vision of what awaits us on the far side of Revelation.”"
-        genre: [fiction]
+        genre: [fiction, climate]
         format: audiobook
         completed: 2021-03-06
 
