@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "The City We Became"
+        author: N. K. Jemisin
+        link: https://en.wikipedia.org/wiki/The_City_We_Became
+        image: https://upload.wikimedia.org/wikipedia/en/d/d9/The_City_We_Became.jpg
+        description: "The New York Times review stated, ”In the face of current events, <cite>The City We Became</cite> takes a broad-shouldered stand on the side of sanctuary, family and love. It’s a joyful shout, a reclamation and a call to arms.”"
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: Next 
+
       - title: "Debt: The First 5000 Years"
         author: David Graeber
         link: https://en.wikipedia.org/wiki/Debt:_The_First_5000_Years
