@@ -45,8 +45,7 @@ list:
         image: https://images1.penguinrandomhouse.com/cover/9781788736916
         description: "“What I mean by Socialism is a condition of scoiety in which there should be neither rich nor poor, neither master master nor master's man, neither idle nor overworked, neither brain-sick brain workers, nor heart-sick hand workers, in a word, in which all men would be living in equality of condition, and would manage their affairs unwastefully, and with the full consciousness that harm to one would mean harm to all.”"
         genre: [politics, economics, art, history]
-        progress: 50
-        completed: In progress
+        completed: 2021-03-13
 
       - title: "How to Hide an Empire: A History of the Greater United States"
         author: Daniel Immerwahr 
