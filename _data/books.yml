@@ -10,7 +10,8 @@ list:
         description: "The New York Times review stated, ”In the face of current events, <cite>The City We Became</cite> takes a broad-shouldered stand on the side of sanctuary, family and love. It’s a joyful shout, a reclamation and a call to arms.”"
         genre: [fantasy, fiction]
         format: audiobook
-        completed: Next 
+        progress: 50
+        completed: In progress
 
       - title: "Debt: The First 5000 Years"
         author: David Graeber
