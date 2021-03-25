@@ -21,7 +21,7 @@ Ryan and Erinn's farmhouse
 
 ## Wait, what?
 
-I have a [Super Nintendo Classic](https://www.nintendo.com/super-nes-classic/) ("NOW YOU’RE PLAYING WITH SUPER POWER,"...says the website 🙄). We'll plug it in to the projector via HDMI outside and...figure it out.  If it doesn't work, we'll have the campfire to warm us and heal our emotional wounds.
+I have a [Super Nintendo Classic](https://www.nintendo.com/super-nes-classic/) ("NOW YOU’RE PLAYING WITH SUPER POWER,"...says the website 🙄). We'll plug it into the projector via HDMI outside and...figure it out.  If it doesn't work, we'll have the campfire to warm us and heal our emotional wounds.
 
 ## About the ~~film~~ game
 
