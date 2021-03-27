@@ -10,7 +10,7 @@ list:
         description: "I'm revisiting this classic ahead of <a href='https://www.pbs.org/kenburns/hemingway/'>a new PBS documentary about Hemingway</a>."
         genre: [fiction, war]
         format: audiobook
-        progress: 15
+        progress: 70
         completed: In progress
 
       - title: "The Name of the Wind"
