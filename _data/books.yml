@@ -3,15 +3,22 @@ list:
   - year: 2021
     books:
 
+      - title: "Ernest Hemingway in the Yellowstone High Country
+        author: Chris Warren
+        link: https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls
+        image: https://upload.wikimedia.org/wikipedia/en/4/48/ErnestHemmingway_ForWhomTheBellTolls.jpg
+        description: "Another Hemingway book, this time biographical, ahead of <a href='https://www.pbs.org/kenburns/hemingway/'>a new PBS documentary about Hemingway</a>. I grew up not far from the places in this book."
+        genre: [fiction, hemingway]
+        completed: In progress
+
       - title: "For Whom the Bell Tolls"
         author: Ernest Hemingway
         link: https://en.wikipedia.org/wiki/For_Whom_the_Bell_Tolls
         image: https://upload.wikimedia.org/wikipedia/en/4/48/ErnestHemmingway_ForWhomTheBellTolls.jpg
         description: "I'm revisiting this classic ahead of <a href='https://www.pbs.org/kenburns/hemingway/'>a new PBS documentary about Hemingway</a>."
-        genre: [fiction, war]
+        genre: [fiction, war, hemingway]
         format: audiobook
-        progress: 70
-        completed: In progress
+        completed: 2021-03-27
 
       - title: "The Name of the Wind"
         author: Patrick Rothfuss
