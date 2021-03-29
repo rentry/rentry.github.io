@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "The Hemingway Stories"
+        author: Ernest Hemingway, selected and introduced by Tobias Wolff
+        link: https://shop.pbs.org/WD1822.html
+        image: https://shop.pbs.org/graphics/products/zoom/WD1822.jpg
+        description: "More Hemingway...reading now his short stories, most of which I've haven't previously read. This collection is a companion to the <a href='https://www.pbs.org/kenburns/hemingway/'>new PBS series</a>."
+        genre: [fiction, hemingway]
+        completed: Next
+
       - title: "Ernest Hemingway in the Yellowstone High Country"
         author: Chris Warren
         link: https://app.mt.gov/Shop/mhsstore/ernest-hemingway-in-the-yellowstone-high-country
