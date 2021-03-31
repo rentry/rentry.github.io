@@ -3,13 +3,22 @@ list:
   - year: 2021
     books:
 
+      - title: "The Wander Society"
+        author: Keri Smith
+        link: https://www.penguinrandomhouse.com/books/531605/the-wander-society-by-keri-smith/
+        image: https://images2.penguinrandomhouse.com/cover/9780143108368
+        description: "“Within these pages, you’ll find the results of Smith’s research: A guide to the Wander Society, a secretive group that holds up the act of wandering, or unplanned exploring, as a way of life. You’ll learn about the group’s mysterious origins, meet fellow wanderers through time, discover how wandering feeds the creative mind, and learn how to best practice the art of wandering, should you choose to accept the mission.”"
+        genre: [walking, nonfiction]
+        completed: Next
+
       - title: "The Hemingway Stories"
         author: Ernest Hemingway, selected and introduced by Tobias Wolff
         link: https://shop.pbs.org/WD1822.html
         image: https://shop.pbs.org/graphics/products/zoom/WD1822.jpg
         description: "More Hemingway...reading now his short stories, most of which I haven't read before. This collection is a companion to the <a href='https://www.pbs.org/kenburns/hemingway/'>new PBS series</a>."
         genre: [fiction, hemingway]
-        completed: Next
+        progress: 30
+        completed: In progress
 
       - title: "Ernest Hemingway in the Yellowstone High Country"
         author: Chris Warren
