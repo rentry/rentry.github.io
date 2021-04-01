@@ -4,10 +4,10 @@ list:
     books:
 
       - title: "Mad at the World: A Life of John Steinbeck"
-        author:  William Souder
+        author: William Souder
         link: https://wwnorton.com/books/9780393292268
         image: https://cdn.wwnorton.com/dam_booktitles/862/img/cover/9780393292268_300.jpeg
-        description: "“Angered by the plight of the Dust Bowl migrants who were starving even as they toiled to harvest California’s limitless bounty, fascinated by the guileless decency of the downtrodden denizens of Cannery Row, and appalled by the country’s refusal to recognize the humanity common to all of its citizens, Steinbeck took a stand against social injustice—paradoxically given his inherent misanthropy—setting him apart from the writers of the so-called "lost generation."”"
+        description: "“Angered by the plight of the Dust Bowl migrants who were starving even as they toiled to harvest California’s limitless bounty, fascinated by the guileless decency of the downtrodden denizens of Cannery Row, and appalled by the country’s refusal to recognize the humanity common to all of its citizens, Steinbeck took a stand against social injustice—paradoxically given his inherent misanthropy—setting him apart from the writers of the so-called ‘lost generation.’”"
         genre: [biography, steinbeck]
         completed: Next
 
