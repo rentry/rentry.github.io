@@ -36,8 +36,7 @@ list:
         image: https://shop.pbs.org/graphics/products/zoom/WD1822.jpg
         description: "More Hemingway...reading now his short stories, most of which I haven't read before. This collection is a companion to the <a href='https://www.pbs.org/kenburns/hemingway/'>new PBS series</a>."
         genre: [fiction, hemingway]
-        progress: 30
-        completed: In progress
+        completed: 2021-04-03
 
       - title: "Ernest Hemingway in the Yellowstone High Country"
         author: Chris Warren
