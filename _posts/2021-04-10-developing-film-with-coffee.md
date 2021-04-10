@@ -56,7 +56,7 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 ![Photo development tank, beakers, bottles, and measuring spoons]({{ '/assets/images/caffenol-10.JPG' | relative_url }})
 
 ### The not-so-good stuff
-- I accidentally scratched the negatives when using the squeegee to try to avoid water marks.
+- I accidentally scratched the negatives when using the squeegee to try to eliminate water marks.
 - I didn't let the negatives dry for long enough before cutting them.
 - I don't have many dust-free areas of my old farmhouse, so it's difficult to keep the negatives clean after developing.
 
