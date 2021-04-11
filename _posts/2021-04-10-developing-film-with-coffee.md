@@ -32,7 +32,7 @@ If you're just getting started, you can get most of what you need with the [Pate
 
 ## Recipe
 
-There are several caffenol recipes out there, but I ultimately settled on [this one from shootitwithfilm.com](https://shootitwithfilm.com/caffenol-film-developing-tutorial/), mostly because I wanted to use teaspoons instead of a scale to measure ingredients.
+There are [several caffenol recipes](https://www.caffenol.org/recipes/) out there, but I ultimately settled on [this recipe from shootitwithfilm.com](https://shootitwithfilm.com/caffenol-film-developing-tutorial/), mostly because I wanted to use teaspoons instead of a scale to measure ingredients.
 
 1. Mix 150 ML of cold water with six heaping teaspoons of your instant coffee (heaping = not leveled; more than leveled). Stir with a spoon until all the coffee crystals are dissolved.
 1. In a separate measuring cup, mix 200 ML of cold water with four level teaspoons of washing soda. Stir with a spoon until all the crystals are dissolved.
