@@ -3,14 +3,15 @@ list:
   - year: 2021
     books:
 
-      - title: "The Only Good Indians"
-        author: Stephen Graham Jones
-        link: https://www.simonandschuster.com/books/The-Only-Good-Indians/Stephen-Graham-Jones/9781982136468
-        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982136468/the-only-good-indians-9781982136468_lg.jpg
-        description: "“From <cite>New York Times</cite> bestselling author Stephen Graham Jones comes a novel that is equal parts psychological horror and cutting social commentary on identity politics and the American Indian experience. Fans of Jordan Peele and Tommy Orange will love this story as it follows the lives of four American Indian men and their families, all haunted by a disturbing, deadly event that took place in their youth. Years later, they find themselves tracked by an entity bent on revenge, totally helpless as the culture and traditions they left behind catch up to them in a violent, vengeful way.”"
-        genre: [fiction, horror]
-        format: audio
-        completed: Next
+      - title: "A Farewell to Arms"
+        author: Ernest Hemingway
+        link: https://en.wikipedia.org/wiki/A_Farewell_to_Arms
+        image: https://upload.wikimedia.org/wikipedia/en/4/48/Hemingway_farewell.png
+        description: "I'm continuing to revisit Hemingway's classics after watching <a href='https://www.pbs.org/kenburns/hemingway/'>the new PBS documentary about Hemingway</a>."
+        genre: [fiction, war, hemingway]
+        format: audiobook
+        progress: 90
+        completed: In progress
 
       - title: "The Walker’s Guide to Outdoor Clues and Signs"
         author: Tristan Gooley
