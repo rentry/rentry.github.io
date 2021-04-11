@@ -8,7 +8,7 @@ tags: [photography, film]
 shot-with: Nikon F3HP
 ---
 
-The last time I developed my own film was nearly 25 years ago, when I was in high school. Today, I developed a roll of 35mm [Kodak T-Max 400](https://en.wikipedia.org/wiki/Kodak_T-MAX) in my basement.
+The last time I developed my own film was nearly 25 years ago, when I was in high school. Today, I developed a roll of 35mm [Kodak T-Max 400](https://en.wikipedia.org/wiki/Kodak_T-MAX) in my basement, using instant coffee and few other ingredients.
 
 Ever since I returned to shooting film a few years ago, I've wanted to develop it myself. But I didn't want to deal with the chemicals or build out a full darkroom. There isn't an easy way to safely dispose of conventional development chemicals, and it seemed like more of a hassle than it was worth. So for the last several years, I've been sending my film to a Portland lab.
 
