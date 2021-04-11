@@ -5,6 +5,7 @@ date: 2021-04-10
 description: "I was skeptical at first, but developing black and white film with instant coffee, washing soda, and vitamin C <em>actually works</em>."
 categories: photography
 tags: [photography, film]
+shot-with: Nikon F3HP
 ---
 
 The last time I developed my own film was nearly 25 years ago, when I was in high school. Today, I developed a roll of 35mm [Kodak T-Max 400](https://en.wikipedia.org/wiki/Kodak_T-MAX) in my basement.
@@ -54,6 +55,7 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 - Though it was the first time I've used one, the film changing bag worked great. I thought I would need a few times to get the hang of it, but I didn't have any issues, and loaded the film into the tank in just a couple of minutes.
 
 ![Photo development tank, beakers, bottles, and measuring spoons]({{ '/assets/images/caffenol-10.JPG' | relative_url }})
+<figcaption>Paterson tank and other equipment in my basement</figcaption>
 
 ### The not-so-good stuff
 - I accidentally scratched the negatives when using the squeegee to try to eliminate water marks.
@@ -61,3 +63,5 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 - I don't have many dust-free areas of my old farmhouse, so it's difficult to keep the negatives clean after developing.
 
 ![A hummingbird visiting a feeder]({{ '/assets/images/caffenol-6.JPG' | relative_url }}#full)
+
+<figcaption>All film shot with <a href="{{ '/slowing-down-with-analog/#nikon-f3hp' | relative_url }}">{{ page.shot-with }}</a></figcaption>
