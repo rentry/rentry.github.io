@@ -66,3 +66,5 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 ![A hummingbird visiting a feeder]({{ '/assets/images/caffenol-6.JPG' | relative_url }}#full)
 
 <figcaption>All film shot with <a href="{{ '/slowing-down-with-analog/#nikon-f3hp' | relative_url }}">{{ page.shot-with }}</a></figcaption>
+
+Without question, I'll be returning to this method. I'll likely continue to send precious film into the lab, as I'm not yet fully confident in my home development skills. But I'm encouraged by my first use of caffenol, and I'm pleased to have found an environmentally friendly and practical way to develop film at home.
