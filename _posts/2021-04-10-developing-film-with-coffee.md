@@ -16,7 +16,7 @@ But a couple months ago, I came across an [article about caffenol](https://www.f
 
 ![A hummingbird feeder being visited by a hummingbird with a shrub to the left]({{ '/assets/images/caffenol-7.JPG' | relative_url }}#full)
 
-I won't go into the [history of caffenol](https://en.wikipedia.org/wiki/Caffenol#History), as an internet search will yield plenty of results. But I will share some of the process I used.
+I won't go into the [history of caffenol](https://en.wikipedia.org/wiki/Caffenol#History), as a search will yield plenty of results. But I will share some of the process I used.
 
 ![Daffodils and other flowers]({{ '/assets/images/caffenol-2.JPG' | relative_url }})
 
