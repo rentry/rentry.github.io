@@ -26,7 +26,7 @@ I won't go into the [history of caffenol](https://en.wikipedia.org/wiki/Caffenol
 
 Since I'm just developing negatives (not prints), I loaded the film onto a reel and into a [Paterson developing tank](https://www.patersonphotographic.com/product/paterson-super-system-4-developing-tanks/) using [Paterson's film changing bag](https://www.patersonphotographic.com/product/paterson-changing-bag/). 
 
-If you're just getting started, you can get most of what you need with the [Paterson film processing kit](https://www.patersonphotographic.com/product/paterson-film-processing-kit/), although you'll have to buy the changing bag separately.
+If you're just getting started, you can get most of what you need with the [Paterson film processing kit](https://www.patersonphotographic.com/product/paterson-film-processing-kit/), although you'll have to buy the changing bag and caffenol ingredients separately.
 
 ![A stack of logs against a shed]({{ '/assets/images/caffenol-3.JPG' | relative_url }})
 
