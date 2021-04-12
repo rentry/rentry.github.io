@@ -61,6 +61,7 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 ### The not-so-good stuff
 - I accidentally scratched the negatives when using the squeegee to try to eliminate water marks.
 - I didn't let the negatives dry for long enough before cutting them.
+- It's possible that both of the issues 👆 were the result of using dish soap instead of a proper wetting agent at the end of the process. I've ordered the [Photographers' Formulary wetting agent](http://stores.photoformulary.com/form-a-flo-wetting-agent/) to try next time.
 - I don't have many dust-free areas of my old farmhouse, so it's difficult to keep the negatives clean after developing.
 
 ![A hummingbird hovering near a feeder]({{ '/assets/images/caffenol-11.JPG' | relative_url }})
@@ -69,4 +70,6 @@ Without question, I'll return to this method. I'll likely continue to send preci
 
 ![A hummingbird visiting a feeder]({{ '/assets/images/caffenol-6.JPG' | relative_url }}#full)
 
-<figcaption>All film shot with <a href="{{ '/slowing-down-with-analog/#nikon-f3hp' | relative_url }}">{{ page.shot-with }}</a></figcaption>
+<figcaption>All film shot with my <a href="{{ '/slowing-down-with-analog/#nikon-f3hp' | relative_url }}">{{ page.shot-with }}</a></figcaption>
+
+In my next post, I'll share the relative development time and agitation frequency I used during my first attempt using caffenol.
