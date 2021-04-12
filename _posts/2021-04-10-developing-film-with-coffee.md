@@ -56,7 +56,7 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 - Most caffenol recipes you find will insist that the temperature of your mixture and rinse water must be 20℃ / 68℉, but I ignored this and just used tap water from our well, which was almost certainly colder than that. It worked just fine.
 
 ![Photo development tank, folgers instant coffee, washing soda, vitamin c, changing bag, beakers, and paterson development tank]({{ '/assets/images/caffenol-12.JPG' | relative_url }})
-<figcaption>Paterson tank and other equipment in my basement</figcaption>
+<figcaption>Caffenol ingredients, Paterson tank, and changing bag</figcaption>
 
 ### The not-so-good stuff
 - I accidentally scratched the negatives when using the squeegee to try to eliminate water marks.
