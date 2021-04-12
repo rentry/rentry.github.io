@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "A Moveable Feast"
+        author: Ernest Hemingway
+        link: https://en.wikipedia.org/wiki/A_Moveable_Feast
+        image: https://upload.wikimedia.org/wikipedia/en/a/aa/MoveableFeast.jpg
+        description: "I'm waiting on some library holds, so yet another Hemingway classic in the meantime. Although, I haven't yet read this one."
+        genre: [fiction, hemingway]
+        progress: 20
+        completed: In progress
+
       - title: "All Marketers <strike>are Liars</strike> Tell Stories"
         author: Seth Godin
         link: https://www.penguinrandomhouse.com/books/296997/all-marketers-are-liars-by-seth-godin/
