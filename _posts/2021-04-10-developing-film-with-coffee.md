@@ -55,7 +55,7 @@ The negatives aren't super clean, but that had more to do with me being rusty th
 - Though it was the first time I've used one, the film changing bag worked great. I thought I would need a few practice runs to get the hang of it, but I didn't have any issues, and loaded the film into the tank in just a couple of minutes.
 - Most caffenol recipes you find will insist that the temperature of your mixture and rinse water must be 20℃ / 68℉, but I ignored this and just used tap water from our well, which was almost certainly colder than that. It worked just fine.
 
-![Photo development tank, beakers, bottles, and measuring spoons]({{ '/assets/images/caffenol-10.JPG' | relative_url }})
+![Photo development tank, folgers instant coffee, washing soda, vitamin c, changing bag, beakers, and paterson development tank]({{ '/assets/images/caffenol-12.JPG' | relative_url }})
 <figcaption>Paterson tank and other equipment in my basement</figcaption>
 
 ### The not-so-good stuff
