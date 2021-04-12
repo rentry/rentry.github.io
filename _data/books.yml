@@ -19,8 +19,7 @@ list:
         description: "I'm continuing to revisit Hemingway's classics after watching <a href='https://www.pbs.org/kenburns/hemingway/'>the new PBS documentary about Hemingway</a>."
         genre: [fiction, war, hemingway]
         format: audiobook
-        progress: 90
-        completed: In progress
+        completed: 2021-04-11
 
       - title: "The Walker’s Guide to Outdoor Clues and Signs"
         author: Tristan Gooley
