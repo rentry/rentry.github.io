@@ -71,5 +71,3 @@ Without question, I'll return to this method. I'll likely continue to send preci
 ![A hummingbird visiting a feeder]({{ '/assets/images/caffenol-6.JPG' | relative_url }}#full)
 
 <figcaption>All film shot with my <a href="{{ '/slowing-down-with-analog/#nikon-f3hp' | relative_url }}">{{ page.shot-with }}</a></figcaption>
-
-In my next post, I'll share the relative development time and agitation frequency I used during my first attempt using caffenol.
