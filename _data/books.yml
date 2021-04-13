@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "All The Wild That Remains: Edward Abbey, Wallace Stegner, and the American West"
+        author: David Gessner
+        link: https://wwnorton.com/books/9780393352375
+        image: https://cdn2.wwnorton.com/wwnproducts/TRADE/5/7/9780393352375/9780393352375_300.jpeg
+        description: "An homage to the West and to two great writers who set the standard for all who celebrate and defend it. Archetypal wild man Edward Abbey and proper, dedicated Wallace Stegner left their footprints all over the western landscape. Now, award-winning nature writer David Gessner follows the ghosts of these two remarkable writer-environmentalists from Stegner's birthplace in Saskatchewan to the site of Abbey's pilgrimages to Arches National Park in Utah, braiding their stories and asking how they speak to the lives of all those who care about the West."
+        genre: [climate, environment, conservation]
+        format: audiobook
+        completed: In progress
+
       - title: "A Moveable Feast"
         author: Ernest Hemingway
         link: https://en.wikipedia.org/wiki/A_Moveable_Feast
