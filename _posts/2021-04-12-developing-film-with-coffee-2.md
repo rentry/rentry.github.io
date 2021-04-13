@@ -15,7 +15,7 @@ In this second part, I'll go into more detail about the steps, timing, and agita
 ![Stacks of wood in a wood shed with a wheel barrow leaned up against the pile]({{ '/assets/images/caffenol-14.JPG' | relative_url }}#full)
 
 ## The details
-When I decided to try caffenol, I couldn't remember the specific timing and steps for conventional film development, and that turned out to be a problem. Most caffenol blog posts I found shared a recipe—the relative proportions of instant coffee, washing soda, and Vitamin C—but when it came to the details, many read "...and develop as you normally would."
+When I decided to try caffenol, I couldn't remember the specific details of the conventional development process, and that turned out to be a problem. Most caffenol blog posts I found shared a recipe—the relative proportions of instant coffee, washing soda, and Vitamin C—but when it came to the details, many read "...and develop as you normally would."
 
 Cobbling together several posts, along with reviewing the conventional process, I settled on the following steps.
 
