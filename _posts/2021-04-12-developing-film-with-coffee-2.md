@@ -10,7 +10,7 @@ shot-with: Nikon F3HP
 
 In [part one]({{'developing-film-with-coffee' | relative_url}}), I described the caffenol recipe and general process I used in my first attempt at developing film with coffee.
 
-In this second part, I'll go into more detail about the steps, timing, and agitation.
+In this second part, I'll go into more detail about the steps, timing, and agitation.[^1]
 
 ![Stacks of wood in a wood shed with a wheel barrow leaned up against the pile]({{ '/assets/images/caffenol-14.JPG' | relative_url }}#full)
 
@@ -26,7 +26,7 @@ Review [part one]({{'developing-film-with-coffee' | relative_url}}) for the caff
 
 **Time: 11 minutes** for Kodak T-Max 400 (10 minutes for Ilford HP5 400)
 1. Pour the caffenol into the loaded Paterson tank.
-1. Agitate[^1] continually for the first full minute.
+1. Agitate continually for the first full minute.
 1. Agitate 3–4 times at the beginning of each minute after (equivalent to 10 seconds at the beginning of each minute).
 
 [^1]: Agitation is the process of slowly turning the tank upside down and then right side up again

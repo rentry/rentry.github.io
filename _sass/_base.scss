@@ -285,10 +285,10 @@ $selectionColor: #b4d5fe;
   @include linkUnderlines(#fff, $brand-color);
 }
 
+.footnote
 .footnotes {
     font-size: $tiny-font-size;
 }
-
 
 /**
  * Blockquotes
