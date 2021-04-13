@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Developing film with instant coffee (the details)"
-date: 2021-04-10
-description: "Part two covers the details of timing and agitation for developing with caffenol."
+date: 2021-04-12
+description: "This post covers the details of timing and agitation for developing with caffenol."
 categories: photography
 tags: [photography, film]
 shot-with: Nikon F3HP
