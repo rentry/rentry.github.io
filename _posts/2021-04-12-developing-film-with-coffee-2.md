@@ -44,7 +44,7 @@ Conventional film development uses a chemical to stop the development process (r
 
 This is the only part of the caffenol process that uses a conventional chemical. But fixer, unlike developer, can be reused (I've read it can be reused up to 10 times, but I intend to test that claim).
 
-I used [Ilford Rapid Fixer](https://www.ilfordphoto.com/rapid-fixer-product), which calls for a 1 part fixer to 4 parts water. I used 100ml of fixer and 400ml of water.
+I used [Ilford Rapid Fixer](https://www.ilfordphoto.com/rapid-fixer-product), which calls for 1 part fixer to 4 parts water. I used 100ml of fixer and 400ml of water.
 
 1. Pour the diluted fixer into the tank.
 1. Agitate 3–4 times at the beginning of each minute for 3–7 minutes.
