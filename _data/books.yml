@@ -9,8 +9,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/a/aa/MoveableFeast.jpg
         description: "I'm waiting on some library holds, so yet another Hemingway classic in the meantime. Although, I haven't yet read this one."
         genre: [fiction, hemingway]
-        progress: 20
-        completed: In progress
+        completed: 2021-04-12
 
       - title: "All Marketers <strike>are Liars</strike> Tell Stories"
         author: Seth Godin
