@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Down the River"
+        author: Edward Abbey
+        link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
+        image: https://images4.penguinrandomhouse.com/cover/9780452265639
+        description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
+        genre: [abbey, ecology]
+        completed: In progress
+
       - title: "The Nation of Plants"
         author: Stefano Mancuso
         link: https://otherpress.com/product/the-nation-of-plants-9781635420999/
@@ -53,7 +61,7 @@ list:
         image: https://www.naturalnavigator.com/wp-content/uploads/2019/01/the-walkers-guide-to-outdoor-clues-tristan-gooley.jpg
         description: "“The ultimate guide to what the land, sun, moon, stars, trees, plants, animals, sky and clouds can reveal – when you know what to look for.”"
         genre: [walking, nature]
-        progress: 10
+        progress: 20
         completed: In progress
 
       - title: "Mad at the World: A Life of John Steinbeck"
