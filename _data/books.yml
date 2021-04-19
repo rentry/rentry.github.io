@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Under a White Sky: The Nature of the Future"
+        author: Elizabeth Kolbert
+        link: https://www.penguinrandomhouse.ca/books/617060/under-a-white-sky-by-elizabeth-kolbert/9780593136270
+        image: https://images.randomhouse.com/cover/9780593136270
+        description: "“In <cite>Under a White Sky</cite>, Elizabeth Kolbert takes a hard look at the new world we are creating. Along the way, she meets biologists who are trying to preserve the world’s rarest fish, which lives in a single tiny pool in the middle of the Mojave; engineers who are turning carbon emissions to stone in Iceland; Australian researchers who are trying to develop a “super coral” that can survive on a hotter globe; and physicists who are contemplating shooting tiny diamonds into the stratosphere to cool the earth.”"
+        genre: [climate, ecology, society]
+        completed: In progress
+
       - title: "Down the River"
         author: Edward Abbey
         link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
