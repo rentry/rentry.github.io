@@ -10,6 +10,7 @@ list:
         description: "“<cite>Roads to nowhere</cite> offers the first in-depth, 360-degree look at Reichardt’s process through interviews with Reichardt herself and her collaborators on <cite>First Cow</cite>, many of whom have been working with her for years including cinematographer Christopher Blauvelt (who has worked with her on every film since <cite>Meek’s Cutoff</cite>), author Jon Raymond (who co-wrote almost all the Oregon films), and costume designer April Napier (<cite>Certain Women</cite>, <cite>First Cow</cite>).”"
         genre: [ecology, botany, environment]
         format: audiobook
+        progress: 75
         completed: Next
 
       - title: "Gathering Moss: A Natural and Cultural History of Mosses"
@@ -19,6 +20,7 @@ list:
         description: "“Living at the limits of our ordinary perception, mosses are a common but largely unnoticed element of the natural world. Gathering Moss is a beautifully written mix of science and personal reflection that invites readers to explore and learn from the elegantly simple lives of mosses.”"
         genre: [ecology, botany, environment]
         format: audiobook
+        progress: 80
         completed: Next
 
       - title: "Overheated: How Capitalism Broke the Planet—And How We Fight Back"
@@ -27,6 +29,7 @@ list:
         image: https://www.boldtypebooks.com/wp-content/uploads/2020/06/Overheated.jpg?fit=436%2C675
         description: "“This damning account of the forces that have hijacked progress on climate change shares a bold vision of what it will take, politically and economically, to face the existential threat of global warming head-on. It has become impossible to deny that the planet is warming, and that governments must act. But a new denialism is taking root in the halls of power, shaped by decades of neoliberal policies and centuries of anti-democratic thinking. Since the 1980s, Democrats and Republicans have each granted enormous concessions to industries hell bent on maintaining business as usual. What’s worse, policymakers have given oil and gas executives a seat at the table designing policies that should euthanize their business model. This approach, journalist Kate Aronoff makes clear, will only drive the planet further into emergency.”"
         genre: [climate, ecology, society]
+        progress: 40
         completed: In progress
 
       - title: "Under a White Sky: The Nature of the Future"
