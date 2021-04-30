@@ -51,7 +51,7 @@ Overall, the process worked better than I expected, especially since I hadn't de
 The negatives aren't super clean, but that had more to do with me being rusty than with the caffenol process. Here are a few observations from my first caffenol attempt.
 
 ### The good stuff
-- Loading film reels is _so much easier_ than it was when I last developed film. I could rarely load film properly the first time with those metal reels, and often had issues with the film doubling up and being ruined during development. The new reels almost load themselves, and I was able to successfully load the reel the first time with no problems.
+- Loading film reels is _so much easier_ than it was when I last developed film. I could rarely load film properly the first time (you don't get a second chance!) with those metal reels, and often had issues with the film doubling up and being ruined during development. The new reels almost load themselves, and I was able to successfully load the reel the first time with no problems.
 - Though it was the first time I've used one, the film changing bag worked great. I thought I would need a few practice runs to get the hang of it, but I didn't have any issues, and loaded the film into the tank in just a couple of minutes.
 - Most caffenol recipes you find will insist that the temperature of your mixture and rinse water must be 20℃ / 68℉, but I ignored this and just used tap water from our well, which was almost certainly colder than that. It worked just fine.
 
