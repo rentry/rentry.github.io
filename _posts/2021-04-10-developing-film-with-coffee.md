@@ -12,7 +12,7 @@ The last time I developed my own film was nearly 25 years ago, when I was in hig
 
 Ever since I returned to shooting film a few years ago, I've wanted to develop it myself. But I didn't want to deal with the chemicals or build out a full darkroom. There isn't an easy way to safely dispose of conventional development chemicals, and it seemed like more of a hassle than it was worth. So for the last several years, I've been sending my film to a Portland lab.
 
-But a couple months ago, I came across an [article about caffenol](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide), a film development technique that uses household products—namely **instant coffee**, **washing soda** (soda ash), and **Vitamin C**—to develop black and white film. Today I discovered _it actually works_. The results aren't perfect, but not because of caffenol.
+But a few months ago, I came across an [article about caffenol](https://www.fieldmag.com/articles/how-to-develop-film-with-coffee-caffenol-guide), a film development technique that uses household products—namely **instant coffee**, **washing soda** (soda ash), and **Vitamin C**—to develop black and white film. Today I discovered _it actually works_. The results aren't perfect, but not because of caffenol.
 
 ![A hummingbird feeder being visited by a hummingbird with a shrub to the left]({{ '/assets/images/caffenol-7.JPG' | relative_url }}#full)
 
