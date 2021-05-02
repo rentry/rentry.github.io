@@ -20,8 +20,7 @@ list:
         description: "“Living at the limits of our ordinary perception, mosses are a common but largely unnoticed element of the natural world. Gathering Moss is a beautifully written mix of science and personal reflection that invites readers to explore and learn from the elegantly simple lives of mosses.”"
         genre: [ecology, botany, environment]
         format: audiobook
-        progress: 80
-        completed: Next
+        completed: 2021-05-02
 
       - title: "Overheated: How Capitalism Broke the Planet—And How We Fight Back"
         author: Kate Aronoff
