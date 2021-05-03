@@ -9,9 +9,7 @@ list:
         image: https://qqp9u102slh1hz2aq2e5ig91-wpengine.netdna-ssl.com/wp-content/uploads/2020/12/Portraits-of-resistance-as-ebook-2.png
         description: "“<cite>Roads to nowhere</cite> offers the first in-depth, 360-degree look at Reichardt’s process through interviews with Reichardt herself and her collaborators on <cite>First Cow</cite>, many of whom have been working with her for years including cinematographer Christopher Blauvelt (who has worked with her on every film since <cite>Meek’s Cutoff</cite>), author Jon Raymond (who co-wrote almost all the Oregon films), and costume designer April Napier (<cite>Certain Women</cite>, <cite>First Cow</cite>).”"
         genre: [ecology, botany, environment]
-        format: audiobook
-        progress: 75
-        completed: Next
+        completed: 2021-05-02
 
       - title: "Gathering Moss: A Natural and Cultural History of Mosses"
         author: Robin Wall Kimmerer
@@ -37,6 +35,7 @@ list:
         image: https://images.randomhouse.com/cover/9780593136270
         description: "“In <cite>Under a White Sky</cite>, Elizabeth Kolbert takes a hard look at the new world we are creating. Along the way, she meets biologists who are trying to preserve the world’s rarest fish, which lives in a single tiny pool in the middle of the Mojave; engineers who are turning carbon emissions to stone in Iceland; Australian researchers who are trying to develop a “super coral” that can survive on a hotter globe; and physicists who are contemplating shooting tiny diamonds into the stratosphere to cool the earth.”"
         genre: [climate, ecology, society]
+        format: audiobook
         completed: In progress
 
       - title: "Down the River"
