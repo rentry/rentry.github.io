@@ -3,7 +3,7 @@ layout: post
 title: "Yep. Your Liquid variables will work in JavaScript"
 date: 2019-03-06
 description: "This is going to sound crazy, and it is. You can use your Jekyll (Liquid) variables in your Leaflet JavaScript. Wut."
-categories: Jekyll
+categories: [maps]
 tags: [JavaScript, Jekyll, maps, Leaflet]
 map-id: annies-cabin-map
 map-var: anniesCabinMap

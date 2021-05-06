@@ -3,7 +3,7 @@ layout: post
 title:  "Learning what to learn"
 date:   2017-01-09 20:43:00
 description: "An editor relearns the ways of the web."
-categories: web
+categories: [web]
 tags: [tools, books]
 ---
 I work as a web editor in local government. Because I work in local government, I am also a content strategist, photographer, writer, designer, and – from time to time – event planner and dishwasher. It's the public sector, and it's simultaneously infuriating and extremely rewarding.

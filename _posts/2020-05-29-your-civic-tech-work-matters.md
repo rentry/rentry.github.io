@@ -5,7 +5,7 @@ date: 2020-05-29
 description: "Our democracy relies on engaged citizens working together to solve our biggest problems. As civic technologists, it's easy to get discouraged about where we're at as a nation. Which is why it's imperative that we celebrate our victories."
 yes_vote: I want to allow religious or philosophical exemptions to the requirement for children to be vaccinated to attend school.
 no_vote: I want to require all children to be vaccinated to attend school, except for those with a medical reason not to be vaccinated.
-categories: civic tech
+categories: [service]
 tags: [service, civic tech]
 ---
 

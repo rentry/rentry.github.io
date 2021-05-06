@@ -3,7 +3,7 @@ layout: post
 title: "Organizing my reading list by year"
 date: 2019-12-29
 description: "Earlier this year, I wrote a post about how to build a simple book list in Jekyll. In this post, I share how to expand the build to organize posts by year and automatically count the number of books for each year."
-categories: books
+categories: [books]
 tags: [books, Jekyll]
 ---
 

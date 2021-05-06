@@ -3,7 +3,7 @@ layout: post
 title: "Are content strategists the key to our digital future?"
 date: 2018-12-29 10:00:00
 description: "I’ve been thinking a lot about the dumpster fire we live in with tech, and I wonder if content strategists can help resolve the ethical and privacy woes we’re experiencing. It’s a lot to ask, but content strategists bring skills to tech that might just mitigate some of its worst tendencies."
-categories: content strategy
+categories: [content strategy]
 tags: [content strategy, humanities, ethics]
 ---
 

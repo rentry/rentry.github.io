@@ -3,7 +3,7 @@ layout: post
 title: "Libraries everywhere"
 date: 2020-05-07
 description: "Libraries have been on my mind lately. Although the buildings are temporarily closed, libraries continue to demonstrate their indispensable value to society."
-categories: books
+categories: [books]
 tags: [books]
 ---
 

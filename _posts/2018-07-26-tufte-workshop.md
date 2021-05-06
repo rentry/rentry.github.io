@@ -3,7 +3,7 @@ layout: post
 title: Edward Tufte’s <cite>Presenting Data and Information</cite> course recap
 date: 2018-07-26 23:33:00
 description: “The da Vinci of data” was in Portland for a one-day course on data visualization, cartography, statistics, presentations, and more. I had high expectations; Tufte surpassed them.
-categories: data
+categories: [data]
 tags:  [data visualization, design, conferences, books, content strategy, writing]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Three years since I quit Facebook"
 date: 2020-01-08
 description: "In January 2017, I decided I'd had enough of Facebook. I closed my account, and less than a year later, ditched Instagram, too. Here's what I think about it now."
-categories: social media
+categories: [social media]
 tags: [social media]
 ---
 

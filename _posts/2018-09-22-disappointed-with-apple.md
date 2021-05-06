@@ -3,7 +3,7 @@ layout: post
 title: I’m not sure about Apple, anymore
 date: 2018-09-22 15:33:00
 description: I’ve been a devoted Apple user for 20 years, dating back to when Apple devices were relatively rare. Apple’s lineup has been uninspiring in recent years. I’ve been holding onto aging devices, and I’m considering a change. 
-categories: tools
+categories: [tools]
 tags:  [Apple, tools]
 ---
 

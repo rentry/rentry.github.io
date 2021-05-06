@@ -3,8 +3,8 @@ layout: post
 title: "12 days without power...or water"
 date: 2021-03-04
 description: "Five months ago, we were evacuated from our house due to encroaching wildfires. In February, we lost power for 12 days in a row due to an ice storm. During a pandemic. This is just our life now."
-categories: climate
-tags: [climate, weather, politics]
+categories: [climate change]
+tags: [climate change, politics]
 ---
 
 Among the many concerning aspects of climate change is that it will be too overwhelming for us to collectively track. For instance, when we were [evacuated for over a week in September due to wildfires]({{'notes-from-evacuation' | relative_url }}), Oregon was acknowledged, albeit aggregated with California, as a focal point of a climate change event.
