@@ -3,7 +3,7 @@ layout: post
 title: "County choropleth map using Python and D3"
 date: 2019-04-13
 description: "I've been working with public lands revenue data by county to determine the most effective geospatial presentation."
-categories: data visualization
+categories: [maps]
 tags: [data visualization, maps, D3, Python]
 ---
 

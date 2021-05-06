@@ -3,7 +3,7 @@ layout: post
 title: Playing with sparklines
 date: 2018-08-24 17:33:00
 description: Edward Tufte’s sparklines provide an elegantly simple way to convey trends when the individual data values aren’t the point.
-categories: data
+categories: [data]
 tags:  [data visualization, design, D3, content strategy, Jekyll]
 ---
 {% include d3.html %}

@@ -3,7 +3,7 @@ layout: post
 title:  "DrupalCon Baltimore recap"
 date:   2017-04-29 12:00:00
 description: "Recapping my first DrupalCon and my first visit to Baltimore"
-categories: drupal
+categories: [web]
 tags: [publishing, Drupal, conferences]
 ---
 

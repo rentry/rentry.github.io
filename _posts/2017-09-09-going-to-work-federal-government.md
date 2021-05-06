@@ -3,7 +3,7 @@ layout: post
 title: "Why I’m going to work for the federal government"
 date: 2017-09-08 08:33:00
 description: "I’m leaving my job in county government to join the Department of the Interior"
-categories: web
+categories: [web]
 tags:  [content strategy, 18F, government]
 ---
 

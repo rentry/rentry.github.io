@@ -3,7 +3,7 @@ layout: post
 title:  "A visit to Working Library"
 date:   2017-06-17 17:33:00
 description: "A library and studio for letterpress and bookbinding."
-categories: art
+categories: [photography]
 tags: [books, photography]
 ---
 

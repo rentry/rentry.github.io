@@ -3,7 +3,7 @@ layout: post
 title: "National service is finally having a moment"
 date: 2020-05-08
 description: "The coronavirus pandemic is revealing our numerous societal shortcomings, and some are starting to promote expansion of our national service programs to help fix what's broken."
-categories: service
+categories: [service]
 tags: [service, government]
 ---
 

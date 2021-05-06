@@ -3,7 +3,7 @@ layout: post
 title: "It’s happened before. Is that supposed to make it easier?"
 date: 2020-01-18
 description: "I'm reading the book <cite>The Soul of America: The Battle for our Better Angels</cite>, a major theme of which is that our country has been through dark periods before, and we have triumphed. But if the dark impulses return over and over again, have we triumphed?"
-categories: books
+categories: [books]
 tags: [books, history, politics]
 ---
 

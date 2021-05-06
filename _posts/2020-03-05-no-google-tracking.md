@@ -3,7 +3,7 @@ layout: post
 title: "I deleted tracking from this site. I'm sorry I didn't do it sooner."
 date: 2020-03-05
 description: "I've removed Google Analytics from this site. I should have done it sooner. I'm not interested in exposing your information in order to sate my own curiosity."
-categories: web
+categories: [web]
 tags: [web, privacy]
 ---
 
