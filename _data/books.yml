@@ -10,7 +10,8 @@ list:
         description: "“There has never been a better time to pull the politics of platform capitalism into the foreground where it belongs. Lizzie O’Shea brings a hacker’s curiosity, a historian’s reach and a lawyer’s precision to bear on our digitally saturated present, emerging with a compelling argument that a better world is there for the taking.”—Scott Ludlam"
         genre: [technology, history, politics]
         format: audiobook
-        completed: Next
+        progress: 75
+        completed: In progress
 
       - title: "Roads to nowhere: Kelly Reichardt’s broken American dreams"
         author: Alex Heeney and Orla Smith
