@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Nomadland"
+        author: Jessica Bruder
+        link: https://en.wikipedia.org/wiki/Nomadland_(book)
+        image: https://upload.wikimedia.org/wikipedia/en/9/99/Nomadland_%28Jessica_Bruder%29.png
+        description: "After the critical success of the film, I decided to get the story behind the story."
+        genre: [society]
+        format: audiobook
+        completed: Next
+
       - title: "Future Histories: What Ada Lovelace, Tom Paine, and the Paris Commune Can Teach Us About Digital Technology"
         author: Lizzie O’Shea
         link: https://www.penguinrandomhouse.com/books/600149/future-histories-by-lizzie-oshea/
