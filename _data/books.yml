@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Down the River"
+        author: Edward Abbey
+        link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
+        image: https://images4.penguinrandomhouse.com/cover/9780452265639
+        description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
+        genre: [abbey, ecology]
+        completed: Next
+
       - title: "Nomadland"
         author: Jessica Bruder
         link: https://en.wikipedia.org/wiki/Nomadland_(book)
@@ -10,7 +18,8 @@ list:
         description: "After the critical success of the film, I decided to get the story behind the story."
         genre: [society]
         format: audiobook
-        completed: Next
+        progress: 30
+        completed: In progress
 
       - title: "Future Histories: What Ada Lovelace, Tom Paine, and the Paris Commune Can Teach Us About Digital Technology"
         author: Lizzie O’Shea
@@ -56,13 +65,13 @@ list:
         format: audiobook
         completed: 2021-05-02
 
-      - title: "Down the River"
-        author: Edward Abbey
-        link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
-        image: https://images4.penguinrandomhouse.com/cover/9780452265639
-        description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
-        genre: [abbey, ecology]
-        completed: Next
+      - title: "The Film Photography Handbook, 2nd Edition"
+        author: Chris Marquardt and Monika Andrae 
+        link: https://rockynook.com/shop/photography/the-film-photography-handbook-2nd-edition/
+        image: https://rockynook.com/wp-content/uploads/2019/05/1180.jpg
+        description: "My recent experiments <a href='/developing-film-with-coffee/'>developing film with instant coffee</a> have renewed (once again) my love of film and photographic methods."
+        genre: [photography]
+        completed: 2021-05-01        
 
       - title: "The Nation of Plants"
         author: Stefano Mancuso
