@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Mission Economy: A moonshot guide to changing capitalism"
+        author: Mariana Mazzucato
+        link: https://marianamazzucato.com/books/mission-economy
+        image: https://cms.marianamazzucato.com/wp-content/uploads/2020/12/MissionEconomy-us-368x535-1.png
+        description: "“A timely and optimistic vision. Rethinking the role of government nationally and in the international economy - to put public purpose first and solve the problems that matter to people - are now the central questions for humanity.”–Nature magazine"
+        genre: [society, climate, ecology]
+        format: audiobook
+        completed: Next
+
       - title: "Down the River"
         author: Edward Abbey
         link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
