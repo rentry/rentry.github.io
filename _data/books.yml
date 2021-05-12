@@ -10,7 +10,8 @@ list:
         description: "“A timely and optimistic vision. Rethinking the role of government nationally and in the international economy—to put public purpose first and solve the problems that matter to people—are now the central questions for humanity.”–Nature magazine"
         genre: [society, climate, ecology]
         format: audiobook
-        completed: Next
+        progress: 20
+        completed: In progress
 
       - title: "Down the River"
         author: Edward Abbey
@@ -27,8 +28,7 @@ list:
         description: "After the critical success of the film, I decided to get the story behind the story."
         genre: [society]
         format: audiobook
-        progress: 30
-        completed: In progress
+        completed: 2021-05-12
 
       - title: "Future Histories: What Ada Lovelace, Tom Paine, and the Paris Commune Can Teach Us About Digital Technology"
         author: Lizzie O’Shea
