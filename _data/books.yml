@@ -112,10 +112,9 @@ list:
         author: Seth Godin
         link: https://www.penguinrandomhouse.com/books/296997/all-marketers-are-liars-by-seth-godin/
         image: https://images4.penguinrandomhouse.com/cover/9781591845331
-        description: "I wouldn't choose to read this book on my own, but it's required reading for a class I'm taking. I understand the power of a compelling story. I just don't want to spend my days intentionally manipulating people for a living."
+        description: "I wouldn't choose to read this book on my own, but it's required reading for a class I'm taking. I understand the power of a compelling story. I just don't want to spend my days intentionally manipulating people for a living. And now that I completed this book, I can give you my take: I hated it."
         genre: [marketing, content strategy]
-        progress: 70
-        completed: In progress
+        completed: 2021-05-14
 
       - title: "A Farewell to Arms"
         author: Ernest Hemingway
