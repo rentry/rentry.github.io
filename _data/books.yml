@@ -3,12 +3,20 @@ list:
   - year: 2021
     books:
 
+      - title: "Cultivating Content Design"
+        author: Beth Dunn
+        link: https://abookapart.com/products/cultivating-content-design
+        image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-briefs-cover-12_112x@3x.png?v=1615498303
+        description: "“Great content doesn’t happen in a vacuum. It gets bogged down in teams, organizations, silos, and process. Beth Dunn helps you break the vacuum seal and bring unity and joy back to content. <cite>Cultivating Content Design</cite> gives you the power to fundamentally change your organization’s approach to great content—with the tools and team you already have.”"
+        genre: [content strategy, writing]
+        completed: 2021-05-16
+
       - title: "The Four Winds"
         author: Kristin Hannah
         link: https://us.macmillan.com/books/9781250178602
         image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9781250178602.jpg
         description: "“<cite>The Four Winds</cite> seems eerily prescient in 2021 . . . Its message is galvanizing and hopeful: We are a nation of scrappy survivors. We’ve been in dire straits before; we will be again. Hold your people close.”—The New York Times"
-        genre: [society, climate, ecology]
+        genre: [fiction]
         format: audiobook
         completed: In progress
 
@@ -34,7 +42,7 @@ list:
         link: https://en.wikipedia.org/wiki/Nomadland_(book)
         image: https://upload.wikimedia.org/wikipedia/en/9/99/Nomadland_%28Jessica_Bruder%29.png
         description: "After the critical success of the film, I decided to get the story behind the story."
-        genre: [society]
+        genre: [society, economics]
         format: audiobook
         completed: 2021-05-12
 
