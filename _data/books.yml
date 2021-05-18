@@ -18,6 +18,7 @@ list:
         description: "“<cite>The Four Winds</cite> seems eerily prescient in 2021 . . . Its message is galvanizing and hopeful: We are a nation of scrappy survivors. We’ve been in dire straits before; we will be again. Hold your people close.”—The New York Times"
         genre: [fiction]
         format: audiobook
+        progress: 50
         completed: In progress
 
       - title: "Mission Economy: A moonshot guide to changing capitalism"
