@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Bring the War Home: The White Power Movement and Paramilitary America"
+        author: Kathleen Belew
+        link: https://www.hup.harvard.edu/catalog.php?isbn=9780674286078
+        image: https://www.hup.harvard.edu/images/jackets/9780674286078.jpg
+        description: "“The white power movement in America wants a revolution. Its soldiers are not lone wolves but highly organized cadres motivated by a coherent and deeply troubling worldview made up of white supremacy, virulent anticommunism, and apocalyptic faith. In <cite>Bring the War Home</cite>, Kathleen Belew gives us the history of a movement that consolidated in the 1970s and 1980s around a potent sense of betrayal in the Vietnam War and made tragic headlines in Waco and Ruby Ridge and with the Oklahoma City bombing and is resurgent under President Trump.”"
+        genre: [history, social science]
+        format: audiobook
+        completed: In progress
+
       - title: "Cultivating Content Design"
         author: Beth Dunn
         link: https://abookapart.com/products/cultivating-content-design
@@ -18,8 +27,7 @@ list:
         description: "“<cite>The Four Winds</cite> seems eerily prescient in 2021 . . . Its message is galvanizing and hopeful: We are a nation of scrappy survivors. We’ve been in dire straits before; we will be again. Hold your people close.”—The New York Times"
         genre: [fiction]
         format: audiobook
-        progress: 50
-        completed: In progress
+        completed: 2021-05-19
 
       - title: "Mission Economy: A moonshot guide to changing capitalism"
         author: Mariana Mazzucato
