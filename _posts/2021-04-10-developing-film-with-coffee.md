@@ -4,7 +4,7 @@ title: "Developing film with instant coffee"
 date: 2021-04-10
 description: "I was skeptical at first, but developing black and white film with instant coffee, washing soda, and vitamin C <em>actually works</em>."
 categories: photography
-tags: [photography, film]
+tags: [photography]
 shot-with: Nikon F3HP
 ---
 
