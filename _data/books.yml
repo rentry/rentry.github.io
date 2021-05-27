@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Down the River"
+        author: Edward Abbey
+        link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
+        image: https://images4.penguinrandomhouse.com/cover/9780452265639
+        description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
+        genre: [abbey, ecology]
+        completed: Next
+
       - title: "The Invisible Life of Addie LaRue"
         author: V. E. Schwab
         link: https://us.macmillan.com/books/9780765387561
@@ -10,7 +18,7 @@ list:
         description: "“France, 1714: in a moment of desperation, a young woman makes a Faustian bargain to live forever—and is cursed to be forgotten by everyone she meets. Thus begins the extraordinary life of Addie LaRue, and a dazzling adventure that will play out across centuries and continents, across history and art, as a young woman learns how far she will go to leave her mark on the world. But everything changes when, after nearly 300 years, Addie stumbles across a young man in a hidden bookstore and he remembers her name.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2021-05-27
 
       - title: "Bring the War Home: The White Power Movement and Paramilitary America"
         author: Kathleen Belew
@@ -46,14 +54,6 @@ list:
         genre: [society, climate, ecology]
         format: audiobook
         completed: 2021-05-15
-
-      - title: "Down the River"
-        author: Edward Abbey
-        link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
-        image: https://images4.penguinrandomhouse.com/cover/9780452265639
-        description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
-        genre: [abbey, ecology]
-        completed: Next
 
       - title: "Nomadland"
         author: Jessica Bruder
