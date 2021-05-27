@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "World Travel: An Irreverent Guide"
+        author: Anthony Bourdain, Laurie Woolever
+        link: https://www.harpercollins.com/products/world-travel-anthony-bourdainlaurie-woolever?variant=32232049475618
+        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062802798_c5e40245-0c88-4361-9d6a-64fcbc73d4de.jpg?v=1622041457
+        description: "“A guide to some of the world’s most fascinating places, as seen and experienced by writer, television host, and relentlessly curious traveler Anthony Bourdain.”"
+        genre: [food, travel]
+        format: audiobook
+        completed: Next
+
       - title: "Down the River"
         author: Edward Abbey
         link: https://www.penguinrandomhouse.com/books/329328/down-the-river-by-edward-abbey/
