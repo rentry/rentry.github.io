@@ -3,14 +3,14 @@ list:
   - year: 2021
     books:
 
-      - title: "World Travel: An Irreverent Guide"
-        author: Anthony Bourdain, Laurie Woolever
-        link: https://www.harpercollins.com/products/world-travel-anthony-bourdainlaurie-woolever?variant=32232049475618
-        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062802798_c5e40245-0c88-4361-9d6a-64fcbc73d4de.jpg?v=1622041457
-        description: "“A guide to some of the world’s most fascinating places, as seen and experienced by writer, television host, and relentlessly curious traveler Anthony Bourdain.”"
-        genre: [food, travel]
+      - title: "The Anthropocene Reviewed: Essays on a Human-Centered Planet"
+        author: John Green
+        link: https://www.penguinrandomhouse.com/books/672554/the-anthropocene-reviewed-signed-edition-by-john-green/
+        image: https://images1.penguinrandomhouse.com/cover/9780525555216
+        description: "“John Green’s gift for storytelling shines throughout this masterful collection. <cite>The Anthropocene Reviewed</cite> is a open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world.”"
+        genre: [history, biography]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Down the River"
         author: Edward Abbey
