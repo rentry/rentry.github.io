@@ -123,8 +123,7 @@ list:
         image: https://www.boldtypebooks.com/wp-content/uploads/2020/06/Overheated.jpg?fit=436%2C675
         description: "“This damning account of the forces that have hijacked progress on climate change shares a bold vision of what it will take, politically and economically, to face the existential threat of global warming head-on. It has become impossible to deny that the planet is warming, and that governments must act. But a new denialism is taking root in the halls of power, shaped by decades of neoliberal policies and centuries of anti-democratic thinking.”"
         genre: [climate, ecology, society]
-        progress: 90
-        completed: In progress
+        completed: 2021-05-28
 
       - title: "Under a White Sky: The Nature of the Future"
         author: Elizabeth Kolbert
