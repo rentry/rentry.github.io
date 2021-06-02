@@ -19,7 +19,7 @@ list:
         description: "“<cite>Spain in Our Hearts: Americans in the Spanish Civil War</cite> is an account of the American volunteers who participated in the Spanish Civil War from 1936 to 1939. The story centers around several American volunteer fighters and journalists, tracing their motivations for joining the war and their experiences during the war which left many disillusioned. The book explains the involvement of foreign leaders including Adolf Hitler, Benito Mussolini and Joseph Stalin, and explains why the Republican faction ultimately lost.”"
         genre: [history]
         format: audiobook
-        completed: In progress
+        completed: 2021-06-02
 
       - title: "The Anthropocene Reviewed: Essays on a Human-Centered Planet"
         author: John Green
@@ -28,7 +28,7 @@ list:
         description: "“John Green’s gift for storytelling shines throughout this masterful collection. <cite>The Anthropocene Reviewed</cite> is a open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world.”"
         genre: [history, biography]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Down the River"
         author: Edward Abbey
@@ -36,7 +36,7 @@ list:
         image: https://images4.penguinrandomhouse.com/cover/9780452265639
         description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
         genre: [abbey, ecology]
-        completed: Next
+        completed: In progress
 
       - title: "The Invisible Life of Addie LaRue"
         author: V. E. Schwab
