@@ -28,7 +28,7 @@ list:
         description: "“John Green’s gift for storytelling shines throughout this masterful collection. <cite>The Anthropocene Reviewed</cite> is a open-hearted exploration of the paths we forge and an unironic celebration of falling in love with the world.”"
         genre: [history, biography]
         format: audiobook
-        completed: In progress
+        completed: 2021-06-03
 
       - title: "Down the River"
         author: Edward Abbey
