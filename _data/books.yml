@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Rightful Heritage: Franklin D. Roosevelt and the Land of America"
+        author: Douglas Brinkley
+        link: https://www.harpercollins.com/products/rightful-heritage-douglas-brinkley?variant=32128888897570
+        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062089250.jpg?v=1622621368
+        description: "I purchased this book at the FDR National Historic Site in Hyde Park, New York, back in 2013. I was still reading its predecessor, <a href='https://www.harpercollins.com/products/the-wilderness-warrior-douglas-brinkley?variant=32122628046882'><cite>The Wilderness Warrior</cite></a>, which I had taken with on the trip east. I read <cite>Rightful Heritage</cite> back then, but I wanted to revisit it, knowing that we'll need something like the Green New Deal to have a chance at a collective future."
+        genre: [biography, politics, environment]
+        completed: In progress
+
       - title: "We Own the Future: Democratic Socialism—American Style"
         author: Kate Aronoff, Peter Dreier, Michael Kazin 
         link: https://thenewpress.com/books/we-own-future
