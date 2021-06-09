@@ -11,15 +11,6 @@ list:
         genre: [biography, politics, environment]
         completed: In progress
 
-      - title: "We Own the Future: Democratic Socialism—American Style"
-        author: Kate Aronoff, Peter Dreier, Michael Kazin 
-        link: https://thenewpress.com/books/we-own-future
-        image: https://thenewpress.com/sites/default/files/covers/we_own_the_future_final.jpg
-        description: "“With contributions from some of the nation’s leading political activists and analysts, <cite>We Own the Future</cite> articulates a clear and uncompromising view from the left—a perfectly timed book that will appeal to a wide audience hungry for change.”"
-        genre: [politics]
-        format: audiobook
-        completed: In progress
-
       - title: "Spain in Our Hearts"
         author: Adam Hochschild
         link: https://en.wikipedia.org/wiki/Spain_in_Our_Hearts
