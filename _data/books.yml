@@ -3,6 +3,22 @@ list:
   - year: 2021
     books:
 
+      - title: "Waterlog: A Swimmer’s Journey through Britain"
+        author: Roger Deakin
+        link: https://tinhouse.com/book/waterlog/
+        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
+        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
+        genre: [nature]
+        completed: Next
+
+      - title: "The Premonition: A Pandemic Story"
+        author: Michael Lewis
+        link: https://wwnorton.com/books/9780393881554
+        image: https://cdn2.wwnorton.com/wwnproducts/TRADE/4/5/9780393881554/9780393881554_300.jpeg
+        description: "“For those who could read between the lines, the censored news out of China was terrifying. But the president insisted there was nothing to worry about. Fortunately, we are still a nation of skeptics. Fortunately, there are those among us who study pandemics and are willing to look unflinchingly at worst-case scenarios. Michael Lewis’s taut and brilliant nonfiction thriller pits a band of medical visionaries against the wall of ignorance that was the official response of the Trump administration to the outbreak of COVID-19.”"
+        genre: [politics, political science]
+        completed: Next        
+
       - title: "Rightful Heritage: Franklin D. Roosevelt and the Land of America"
         author: Douglas Brinkley
         link: https://www.harpercollins.com/products/rightful-heritage-douglas-brinkley?variant=32128888897570
