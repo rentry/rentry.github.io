@@ -51,7 +51,7 @@ list:
         image: https://images4.penguinrandomhouse.com/cover/9780452265639
         description: "I've read Abbey's major works, but for some reason, this collection escaped me until now. <cite>All the Wild That Remains</cite> prompted me to get to it."
         genre: [abbey, ecology]
-        completed: In progress
+        completed: 2021-06-12
 
       - title: "The Invisible Life of Addie LaRue"
         author: V. E. Schwab
