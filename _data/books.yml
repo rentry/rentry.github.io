@@ -25,6 +25,7 @@ list:
         image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062089250.jpg?v=1622621368
         description: "I purchased this book's predecessor, <a href='https://www.harpercollins.com/products/the-wilderness-warrior-douglas-brinkley?variant=32122628046882'><cite>The Wilderness Warrior</cite></a>, at the FDR National Historic Site in Hyde Park, New York, back in 2013. I purchased and read this book when it was released in 2016, but I wanted to revisit it, knowing that we'll need something like the Green New Deal to have a chance at a collective future."
         genre: [biography, politics, environment]
+        progress: 60
         completed: In progress
 
       - title: "Spain in Our Hearts"
