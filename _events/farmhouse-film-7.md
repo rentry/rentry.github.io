@@ -15,13 +15,13 @@ image-alt: "Max and Furiosa holding ground with firearms ready"
 Saturday, July 3, 2021<br>
 7:30 p.m.
 
-_What a lovely day!_
-
-We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
-
 <video class="full-vid" autoplay loop muted playsinline preload="true">
   <source src="{{ 'assets/images/mad-max-open.mp4' | relative_url }}#full" type="video/mp4">
 </video>
+
+_What a lovely day!_
+
+We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
 
 ## Where
 Ryan and Erinn's farmhouse
