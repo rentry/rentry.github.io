@@ -48,7 +48,7 @@ body {
  */
 
 p, blockquote, pre,
-ul, ol, dl, figure,
+ul, ol, dl, figure, video,
 %vertical-rhythm {
     margin-bottom: $spacing-unit / 1.5;
 }
@@ -82,6 +82,13 @@ img {
 }
 
 img[src$="#full"] {
+    width: 100vw;
+    max-width: none;
+    margin-left: calc(50% - 50vw);
+    margin-right: calc(50% - 50vw);
+}
+
+.full-vid {
     width: 100vw;
     max-width: none;
     margin-left: calc(50% - 50vw);
