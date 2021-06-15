@@ -25,13 +25,10 @@ Ryan and Erinn's farmhouse
 
 > The world has become a desert wasteland and civilization has collapsed as a result of wars and dwindling resources. Max Rockatansky, a survivor haunted by visions of deceased people, is captured by the War Boys, the army of the tyrannical Immortan Joe, and taken to Joe's Citadel. Max is imprisoned and used as a "blood bag" for a sick War Boy called Nux. Meanwhile, Imperator Furiosa, one of Joe's lieutenants, is sent in her armored "War Rig" to collect gasoline and ammunition. When she diverts course, Joe realizes that his five wives—women selected for breeding—are missing, and are fleeing with her. Joe leads his army in pursuit of Furiosa, calling on the aid of nearby Gas Town and the Bullet Farm. 
 
-<video width="100%"  preload="true" autoplay="true" loop muted>
-    <source src="{{ 'assets/images/mad-max-open.mp4' | relative_url }}" type="video/mp4"> 
-</video>
-
-<video autoplay loop muted playsinline class="video-background ">
+<video width="100%" autoplay loop muted playsinline preload="true">
   <source src="{{ 'assets/images/mad-max-open.mp4' | relative_url }}" type="video/mp4">
 </video>
+
 _What a lovely day!_
 
 ## What to bring
