@@ -34,7 +34,7 @@ Ryan and Erinn's farmhouse
 ## What to bring
 Bring food, drinks, and whatever optimism about the future you have left.
 
-<!--![The farmhouse logo, a botanical theme, with a black and white man with color background and rain](/assets/images/the-farmhouse-invite-film-mad-max.png)-->
+![The farmhouse logo, a botanical theme, with a black and white man with color background and rain](/assets/images/the-farmhouse-invite-film-mad-max.png)
 
 ## We're excited to see you
 
