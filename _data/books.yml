@@ -9,7 +9,7 @@ list:
         image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476796024/being-a-dog-9781476796024_lg.jpg
         description: "“In her ‘fascinating book…Horowitz combines the expertise of a scientist with an easy, lively writing style’ (<cite>The New York Times Book Review</cite>) as she imagines what it is like to be a dog. Guided by her own dogs, Finnegan and Upton, Horowitz sets off on a quest through the cutting-edge science behind the olfactory abilities of the dog.”"
         genre: [science, dogs]
-        completed: Next
+        completed: In progress
 
       - title: "Waterlog: A Swimmer’s Journey through Britain"
         author: Roger Deakin
@@ -34,8 +34,7 @@ list:
         image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062089250.jpg?v=1622621368
         description: "I purchased this book's predecessor, <a href='https://www.harpercollins.com/products/the-wilderness-warrior-douglas-brinkley?variant=32122628046882'><cite>The Wilderness Warrior</cite></a>, at the FDR National Historic Site in Hyde Park, New York, back in 2013. I purchased and read this book when it was released in 2016, but I wanted to revisit it, knowing that we'll need something like the Green New Deal to have a chance at a collective future."
         genre: [biography, politics, environment]
-        progress: 60
-        completed: In progress
+        completed: 2021-06-16
 
       - title: "Spain in Our Hearts"
         author: Adam Hochschild
