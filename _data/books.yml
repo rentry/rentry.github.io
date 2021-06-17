@@ -9,6 +9,7 @@ list:
         image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781476796024/being-a-dog-9781476796024_lg.jpg
         description: "“In her ‘fascinating book…Horowitz combines the expertise of a scientist with an easy, lively writing style’ (<cite>The New York Times Book Review</cite>) as she imagines what it is like to be a dog. Guided by her own dogs, Finnegan and Upton, Horowitz sets off on a quest through the cutting-edge science behind the olfactory abilities of the dog.”"
         genre: [science, dogs]
+        format: audiobook
         completed: In progress
 
       - title: "Waterlog: A Swimmer’s Journey through Britain"
