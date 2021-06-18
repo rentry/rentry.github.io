@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Klara and the Sun"
+        author: Kazuo Ishiguro
+        link: https://en.wikipedia.org/wiki/Klara_and_the_Sun
+        image: https://upload.wikimedia.org/wikipedia/en/2/26/Klara_and_the_Sun_%28Kazuo_Ishiguro%29.png
+        description: "“A masterpiece of great beauty, meticulous control and, as ever, clear, simple prose.” - Sunday Times"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Being a Dog: Following the Dog Into a World of Smell"
         author: Alexandra Horowitz
         link: https://www.simonandschuster.com/books/Being-a-Dog/Alexandra-Horowitz/9781476796024
