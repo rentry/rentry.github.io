@@ -10,7 +10,7 @@ list:
         description: "“A masterpiece of great beauty, meticulous control and, as ever, clear, simple prose.” - Sunday Times"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: 2021-06-19
 
       - title: "Being a Dog: Following the Dog Into a World of Smell"
         author: Alexandra Horowitz
@@ -35,7 +35,7 @@ list:
         image: https://cdn2.wwnorton.com/wwnproducts/TRADE/4/5/9780393881554/9780393881554_300.jpeg
         description: "“For those who could read between the lines, the censored news out of China was terrifying. But the president insisted there was nothing to worry about. Fortunately, we are still a nation of skeptics. Fortunately, there are those among us who study pandemics and are willing to look unflinchingly at worst-case scenarios. Michael Lewis’s taut and brilliant nonfiction thriller pits a band of medical visionaries against the wall of ignorance that was the official response of the Trump administration to the outbreak of COVID-19.”"
         genre: [politics, political science]
-        progress: 20
+        progress: 30
         completed: In progress       
 
       - title: "Rightful Heritage: Franklin D. Roosevelt and the Land of America"
