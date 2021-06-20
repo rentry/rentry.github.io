@@ -1,6 +1,8 @@
 <li>
     <div class="book-item">
-      <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+      {% if page.current-year == entry.year %}
+        <a href="{{ book.link }}"><img class="cover" src="{{ book.image }}" alt="{{ book.title }}" /></a>
+      {% endif %}
       <div class="book-info">
         <h3><a class="book-title" href="{{ book.link }}">{{ book.title }}</a></h3>
         <p class="book-author">{{ book.author }}</p>
