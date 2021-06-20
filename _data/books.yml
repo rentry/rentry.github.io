@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "The House in the Cerulean Sea"
+        author: TJ Klune
+        link: https://us.macmillan.com/books/9781250217288
+        image: https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_350W/9781250217288.jpg
+        description: "“<cite>1984</cite> meets <cite>The Umbrella Academy</cite> with a pinch of Douglas Adams thrown in. Touching, tender, and truly delightful, <cite>The House in the Cerulean Sea</cite> is an utterly absorbing story of tolerance, found family, and defeating bureaucracy.”—Gail Carriger, <cite>New York Times</cite> bestselling author of <cite>Soulless</cite>"
+        genre: [fiction]
+        format: audiobook
+        completed: 2021-06-19
+
       - title: "Klara and the Sun"
         author: Kazuo Ishiguro
         link: https://en.wikipedia.org/wiki/Klara_and_the_Sun
