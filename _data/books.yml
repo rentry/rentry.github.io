@@ -3,6 +3,23 @@ list:
   - year: 2021
     books:
 
+      - title: "Word by Word: The Secret Life of Dictionaries"
+        author: Kory Stamper
+        link: https://www.penguinrandomhouse.com/books/530504/word-by-word-by-kory-stamper/
+        image: https://images2.penguinrandomhouse.com/cover/9781101970263
+        description: "“We think of English as a fortress to be defended, but a better analogy is to think of English as a child. We love and nurture it into being, and once it gains gross motor skills, it starts going exactly where we don’t want it to go: it heads right for the goddamned electrical sockets.”"
+        genre: [grammar, language]
+        format: audiobook
+        completed: In progress
+
+      - title: "Waterlog: A Swimmer’s Journey through Britain"
+        author: Roger Deakin
+        link: https://tinhouse.com/book/waterlog/
+        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
+        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
+        genre: [nature]
+        completed: Next        
+
       - title: "Klara and the Sun"
         author: Kazuo Ishiguro
         link: https://en.wikipedia.org/wiki/Klara_and_the_Sun
@@ -19,15 +36,7 @@ list:
         description: "“In her ‘fascinating book…Horowitz combines the expertise of a scientist with an easy, lively writing style’ (<cite>The New York Times Book Review</cite>) as she imagines what it is like to be a dog. Guided by her own dogs, Finnegan and Upton, Horowitz sets off on a quest through the cutting-edge science behind the olfactory abilities of the dog.”"
         genre: [science, dogs]
         format: audiobook
-        completed: In progress
-
-      - title: "Waterlog: A Swimmer’s Journey through Britain"
-        author: Roger Deakin
-        link: https://tinhouse.com/book/waterlog/
-        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
-        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
-        genre: [nature]
-        completed: Next
+        completed: 2021-06-25
 
       - title: "The Premonition: A Pandemic Story"
         author: Michael Lewis
