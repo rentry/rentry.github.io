@@ -12,7 +12,7 @@ image-alt: "Max and Furiosa holding ground with firearms ready"
 
 ## When
 
-Saturday, July 3, 2021<br>
+Saturday, August 7, 2021<br>
 7:30 p.m.
 
 <video class="full-vid" autoplay loop muted playsinline preload="true">
