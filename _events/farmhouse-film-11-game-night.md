@@ -10,7 +10,7 @@ image-alt: "Mario, wearing his trademark red suit and hat, riding the green dino
 
 ## When
 
-Saturday, July 3, 2021<br>
+_Either_ Saturday, July 3 _or_ Saturday, August 7, 2021<br>
 5:30 p.m.
 
 We'll only ~~show the movie~~ play this game if weather cooperates. We'll have the campfire, snacks, and beverages (thanks vaccine!).
