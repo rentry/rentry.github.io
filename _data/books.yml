@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: " Power to the Public: The Promise of Public Interest Technology"
+        author: Tara Dawson McGuinness and Hana Schank 
+        link: https://press.princeton.edu/books/ebook/9780691216638/power-to-the-public
+        image: https://pup-assets.imgix.net/onix/images/9780691216638.jpg
+        description: "“A powerful new blueprint for how governments and nonprofits can harness the power of digital technology to help solve the most serious problems of the twenty-first century”"
+        genre: [civic tech, society]
+        completed: Next
+
       - title: "Word by Word: The Secret Life of Dictionaries"
         author: Kory Stamper
         link: https://www.penguinrandomhouse.com/books/530504/word-by-word-by-kory-stamper/
