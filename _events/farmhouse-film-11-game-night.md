@@ -13,7 +13,7 @@ image-alt: "Mario, wearing his trademark red suit and hat, riding the green dino
 Saturday, July 3  
 7:00 p.m.
 
-We'll only ~~show the movie~~ play this game if weather cooperates. We'll have the campfire, snacks, and beverages (thanks vaccine!).
+We'll only ~~show the movie~~ play this game if weather cooperates. ~~We'll have a campfire~~ The third climate catastrophe is less than a year means we won't be able to have a campfire. But we'll have snacks and beverages (thanks vaccine!), and we can break out a propane heater if it gets chilly.
 
 ## Where
 Ryan and Erinn's farmhouse
