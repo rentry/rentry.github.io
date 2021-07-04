@@ -3,13 +3,31 @@ list:
   - year: 2021
     books:
 
+      - title: "Young Men and Fire"
+        author: Norman Maclean
+        link: https://en.wikipedia.org/wiki/Young_Men_and_Fire
+        image: https://upload.wikimedia.org/wikipedia/en/b/bf/Young_Men_and_Fire.jpg
+        description: "“<cite>Young Men and Fire</cite> is a non-fiction book written by Norman Maclean. It is an account of Norman Maclean's research of the Mann Gulch fire of 1949 and the 13 men who died there. The fire occurred in Mann Gulch in the Gates of the Mountains Wilderness on August 5. The book won the National Book Critics Circle Award (1992).”"
+        genre: [wildfire, nature]
+        format: audiobook
+        completed: Next
+
+      - title: "Waterlog: A Swimmer’s Journey through Britain"
+        author: Roger Deakin
+        link: https://tinhouse.com/book/waterlog/
+        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
+        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
+        genre: [nature]
+        completed: Next
+
       - title: "Power to the Public: The Promise of Public Interest Technology"
         author: Tara Dawson McGuinness and Hana Schank 
         link: https://press.princeton.edu/books/ebook/9780691216638/power-to-the-public
         image: https://pup-assets.imgix.net/onix/images/9780691216638.jpg
         description: "“A powerful new blueprint for how governments and nonprofits can harness the power of digital technology to help solve the most serious problems of the twenty-first century”"
         genre: [civic tech, society]
-        completed: Next
+        progress: 10
+        completed: In progress
 
       - title: "Word by Word: The Secret Life of Dictionaries"
         author: Kory Stamper
@@ -18,15 +36,7 @@ list:
         description: "“We think of English as a fortress to be defended, but a better analogy is to think of English as a child. We love and nurture it into being, and once it gains gross motor skills, it starts going exactly where we don’t want it to go: it heads right for the goddamned electrical sockets.”"
         genre: [grammar, language]
         format: audiobook
-        completed: In progress
-
-      - title: "Waterlog: A Swimmer’s Journey through Britain"
-        author: Roger Deakin
-        link: https://tinhouse.com/book/waterlog/
-        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
-        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
-        genre: [nature]
-        completed: Next        
+        completed: 2021-07-03     
 
       - title: "Klara and the Sun"
         author: Kazuo Ishiguro
