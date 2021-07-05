@@ -3,14 +3,15 @@ list:
   - year: 2021
     books:
 
-      - title: "Young Men and Fire"
-        author: Norman Maclean
-        link: https://en.wikipedia.org/wiki/Young_Men_and_Fire
-        image: https://upload.wikimedia.org/wikipedia/en/b/bf/Young_Men_and_Fire.jpg
-        description: "“<cite>Young Men and Fire</cite> is a non-fiction book written by Norman Maclean. It is an account of Norman Maclean's research of the Mann Gulch fire of 1949 and the 13 men who died there. The fire occurred in Mann Gulch in the Gates of the Mountains Wilderness on August 5. The book won the National Book Critics Circle Award (1992).”"
-        genre: [wildfire, nature]
+      - title: "Finding the Mother Tree: Discovering the Wisdom of the Forest"
+        author: Suzanne Simard
+        link: https://suzannesimard.com/finding-the-mother-tree-book/
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614081087l/54976983.jpg
+        description: "“In her first book, Simard brings us into her world, the intimate world of the trees, in which she brilliantly illuminates the fascinating and vital truths – that trees are not simply the source of timber or pulp, but are a complex, interdependent circle of life; that forests are social, cooperative creatures connected through underground networks by which trees communicate their vitality and vulnerabilities with communal lives not that different from our own.”"
+        genre: [ecology, nature]
         format: audiobook
-        completed: Next
+        progress: 10
+        completed: In progress
 
       - title: "Waterlog: A Swimmer’s Journey through Britain"
         author: Roger Deakin
@@ -26,8 +27,7 @@ list:
         image: https://pup-assets.imgix.net/onix/images/9780691216638.jpg
         description: "“A powerful new blueprint for how governments and nonprofits can harness the power of digital technology to help solve the most serious problems of the twenty-first century”"
         genre: [civic tech, society]
-        progress: 10
-        completed: In progress
+        completed: 2021-07-05
 
       - title: "Word by Word: The Secret Life of Dictionaries"
         author: Kory Stamper
