@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Writing Is Designing: Words and the User Experience"
+        author: Michael J. Metts and Andy Welfle
+        link: https://rosenfeldmedia.com/books/writing-is-designing/
+        image: https://rosenfeldmedia.com/wp-content/uploads/2020/05/37-writing-is-designing-640x961.jpg
+        description: "“Without words, apps would be an unusable jumble of shapes and icons, while voice interfaces and chatbots wouldn’t even exist. Words make software human-centered, and require just as much thought as the branding and code. This book will show you how to give your users clarity, test your words, and collaborate with your team. You’ll see that writing is designing.”"
+        genre: [writing, design]
+        progress: 10
+        completed: In progress
+
       - title: "Finding the Mother Tree: Discovering the Wisdom of the Forest"
         author: Suzanne Simard
         link: https://suzannesimard.com/finding-the-mother-tree-book/
