@@ -1,6 +1,6 @@
 ---
 layout: farmhouse
-title:  "Farmhouse films: <cite>Mad Max Fury Road</cite>"
+title: "Farmhouse films: <cite>Dune</cite>"
 permalink: /farmhouse-film-dune/
 event-image: /assets/images/film-dune.png
 image-alt: "Paul Atreides, the Duke's son, and his mother Lady Jessica, Bene Gesserit look out at the horizon"
