@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Dune"
+        author: Frank Herbert
+        link: https://en.wikipedia.org/wiki/Dune_%28novel%29
+        image: https://upload.wikimedia.org/wikipedia/en/d/de/Dune-Frank_Herbert_%281965%29_First_edition.jpg
+        description: I'm revisiting this classic again (I last read it in 2019), starting it on the day the <a href="https://youtu.be/8g18jFHCLXk">new film trailer</a> dropped!
+        genre: [fiction, science fiction, politics, religion]
+        rereading: true
+        completed: In progress
+
       - title: "The Age of Revolution: Europe 1789–1848"
         author: Eric Hobsbawm
         link: https://en.wikipedia.org/wiki/The_Age_of_Revolution:_Europe_1789%E2%80%931848
@@ -28,8 +37,7 @@ list:
         description: "“In her first book, Simard brings us into her world, the intimate world of the trees, in which she brilliantly illuminates the fascinating and vital truths – that trees are not simply the source of timber or pulp, but are a complex, interdependent circle of life; that forests are social, cooperative creatures connected through underground networks by which trees communicate their vitality and vulnerabilities with communal lives not that different from our own.”"
         genre: [ecology, nature]
         format: audiobook
-        progress: 75
-        completed: In progress
+        completed: 2021-07-21
 
       - title: "Waterlog: A Swimmer’s Journey through Britain"
         author: Roger Deakin
