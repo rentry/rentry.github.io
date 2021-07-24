@@ -17,7 +17,7 @@ October 23, 2021<br>
   <source src="{{ 'assets/images/dune-background.mp4' | relative_url }}#full" type="video/mp4">
 </video>
 
-We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
+We'll only hold show this film if there's no rain in the forecast.
 
 ## Where
 Ryan and Erinn's farmhouse
