@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "This Isn't Happening: Radiohead's <cite>Kid A</cite> and the Beginning of the 21<sup>st</sup> Century"
+        author: Roger Deakin
+        link: https://www.hachettebooks.com/titles/steven-hyden/this-isnt-happening/9780306845680/
+        image: https://www.hachettebooks.com/wp-content/uploads/2020/01/9780306845680-1.jpg?fit=450%2C675
+        description: "I don't read many books about music or musicians (unless the subject is Bob Dylan), but when a coworker recommended this one, I found the premise compelling. This is one of my favorite albums of all time, released during my first year in college. “In this brilliant book, Steven Hyden goes deep into why <cite>Kid A</cite> matters—it's the fascinating saga of how the music turned into the symbol of a new cultural era.” — Rolling Stone"
+        genre: [music, culture]
+        completed: In progress
+
       - title: "Dune"
         author: Frank Herbert
         link: https://en.wikipedia.org/wiki/Dune_%28novel%29
@@ -38,14 +46,6 @@ list:
         genre: [ecology, nature]
         format: audiobook
         completed: 2021-07-21
-
-      - title: "Waterlog: A Swimmer’s Journey through Britain"
-        author: Roger Deakin
-        link: https://tinhouse.com/book/waterlog/
-        image: https://tinhouse.com/wp-content/uploads/2020/12/Waterlog-Front-Cover-800x1236.jpg
-        description: "“With enchanting descriptions of natural landscapes, and a deep well of humanity, boundless humor, and unbridled joy, Deakin beckons us to wilder waters and inspires us to connect to the larger world in a most unexpected way. Thrilling, vivid, and lyrical, <cite>Waterlog</cite> is a fully immersive adventure—a remarkable personal quest, a bold assertion of the swimmer’s right to roam, and an unforgettable celebration of the magic of water.”"
-        genre: [nature]
-        completed: Next
 
       - title: "Power to the Public: The Promise of Public Interest Technology"
         author: Tara Dawson McGuinness and Hana Schank 
