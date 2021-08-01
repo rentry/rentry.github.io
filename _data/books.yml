@@ -9,6 +9,7 @@ list:
         image: https://www.hachettebooks.com/wp-content/uploads/2020/01/9780306845680-1.jpg?fit=450%2C675
         description: "I don't read many books about music or musicians (unless the subject is Bob Dylan), but when a coworker recommended this one, I found the premise compelling. This is one of my favorite albums of all time, released during my first year in college. “In this brilliant book, Steven Hyden goes deep into why <cite>Kid A</cite> matters—it's the fascinating saga of how the music turned into the symbol of a new cultural era.” — Rolling Stone"
         genre: [music, culture]
+        progress: 75
         completed: In progress
 
       - title: "Dune"
@@ -18,7 +19,7 @@ list:
         description: I'm revisiting this classic once again (I last read it in 2019), starting it on the day the <a href="https://youtu.be/8g18jFHCLXk">new film trailer</a> dropped!
         genre: [fiction, science fiction, politics, religion]
         rereading: true
-        completed: In progress
+        completed: 2021-08-01
 
       - title: "The Age of Revolution: Europe 1789–1848"
         author: Eric Hobsbawm
@@ -35,7 +36,7 @@ list:
         image: https://rosenfeldmedia.com/wp-content/uploads/2020/05/37-writing-is-designing-640x961.jpg
         description: "“Without words, apps would be an unusable jumble of shapes and icons, while voice interfaces and chatbots wouldn’t even exist. Words make software human-centered, and require just as much thought as the branding and code. This book will show you how to give your users clarity, test your words, and collaborate with your team. You’ll see that writing is designing.”"
         genre: [writing, design]
-        progress: 30
+        progress: 40
         completed: In progress
 
       - title: "Finding the Mother Tree: Discovering the Wisdom of the Forest"
