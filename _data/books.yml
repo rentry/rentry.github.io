@@ -3,14 +3,21 @@ list:
   - year: 2021
     books:
 
+      - title: "Mind is the Ride"
+        author: Jet McDonald
+        link: https://unbound.com/books/mind-is-the-ride/
+        image: https://s3-eu-west-1.amazonaws.com/media.unbound.co/p/images/12190/large/mind.jpg
+        description: "“<cite>Mind is the Ride</cite> takes the reader on a physical and intellectual adventure from West to East using the components of a bike as a metaphor for philosophy, which is woven into the cyclist's experience. Each chapter is based around a single component, and as Jet travels he adds new parts and new philosophies until the bike is ‘built’; the ride to India is completed; and the relationship between mind, body and bicycle made apparent.”"
+        genre: [music, culture]
+        completed: Next
+
       - title: "This Isn’t Happening: Radiohead’s <cite>Kid A</cite> and the Beginning of the 21<sup>st</sup> Century"
         author: Steven Hyden
         link: https://www.hachettebooks.com/titles/steven-hyden/this-isnt-happening/9780306845680/
         image: https://www.hachettebooks.com/wp-content/uploads/2020/01/9780306845680-1.jpg?fit=450%2C675
         description: "I don't read many books about music or musicians (unless the subject is Bob Dylan), but when a coworker recommended this one, I found the premise compelling. This is one of my favorite albums of all time, released during my first year in college. “In this brilliant book, Steven Hyden goes deep into why <cite>Kid A</cite> matters—it's the fascinating saga of how the music turned into the symbol of a new cultural era.” — Rolling Stone"
         genre: [music, culture]
-        progress: 75
-        completed: In progress
+        completed: 2021-08-05
 
       - title: "Dune"
         author: Frank Herbert
