@@ -18,7 +18,8 @@ list:
         image: https://s3-eu-west-1.amazonaws.com/media.unbound.co/p/images/12190/large/mind.jpg
         description: "“<cite>Mind is the Ride</cite> takes the reader on a physical and intellectual adventure from West to East using the components of a bike as a metaphor for philosophy, which is woven into the cyclist's experience. Each chapter is based around a single component, and as Jet travels he adds new parts and new philosophies until the bike is ‘built’; the ride to India is completed; and the relationship between mind, body and bicycle made apparent.”"
         genre: [music, culture]
-        completed: Next
+        progress: 20
+        completed: In progress
 
       - title: "This Isn’t Happening: Radiohead’s <cite>Kid A</cite> and the Beginning of the 21<sup>st</sup> Century"
         author: Steven Hyden
