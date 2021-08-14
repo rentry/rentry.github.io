@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "The Age of Revolution: Europe 1789–1848"
+        author: Eric Hobsbawm
+        link: https://en.wikipedia.org/wiki/The_Age_of_Capital:_1848%E2%80%931875
+        image: https://upload.wikimedia.org/wikipedia/en/1/1e/The_Age_of_Capital.jpg
+        description: "“<cite>The Age of Capital: 1848–1875</cite> is a book by Eric Hobsbawm, first published in 1975. It is the second in a trilogy of books about ‘the long 19th century’ (coined by Hobsbawm), preceded by <cite>The Age of Revolution: Europe 1789–1848</cite> and followed by <cite>The Age of Empire: 1875–1914</cite>. A fourth book, <cite>The Age of Extremes: The Short Twentieth Century, 1914–1991</cite>, acts as a sequel to the trilogy.”"
+        genre: [economics, society]
+        format: audiobook
+        completed: In progress
+
       - title: "Mind is the Ride"
         author: Jet McDonald
         link: https://unbound.com/books/mind-is-the-ride/
@@ -35,7 +44,7 @@ list:
         description: "“<cite>The Age of Revolution: Europe: 1789–1848</cite> is a book by Eric Hobsbawm, first published in 1962. It is the first in a trilogy of books about 'the long 19th century' (coined by Hobsbawm), followed by <cite>The Age of Capital: 1848–1875</cite>, and <cite>The Age of Empire: 1875–1914</cite>. A fourth book, <cite>The Age of Extremes: The Short Twentieth Century, 1914–1991</cite>, acts as a sequel to the trilogy.”"
         genre: [economics, society]
         format: audiobook
-        completed: In progress
+        completed: 2021-08-13
 
       - title: "Writing Is Designing: Words and the User Experience"
         author: Michael J. Metts and Andy Welfle
