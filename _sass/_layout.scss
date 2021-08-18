@@ -109,11 +109,11 @@ nav.site-nav {
 }
 
 .about-image {
-    background-image: url(../assets/images/header.jpg);
-    height: calc(100%);
-    //background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
+  background: url(../assets/images/header.jpg);
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 @media only screen and (max-width: 1300px) {
