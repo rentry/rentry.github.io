@@ -3,13 +3,22 @@ list:
   - year: 2021
     books:
 
+      - title: "Surviving the Wild: Essential Bushcraft and First Aid Skills for Surviving the Great Outdoors"
+        author: Joshua Enyart
+        link: https://mango.bz/books/surviving-the-wild-by-joshua-enyart-1578-b
+        image: https://mango.bz/uploads/mango/books/909/edition/1578/375c9177-adc5-4c0b-9282-bc0a56271409.jpg?1605769567
+        description: "I came across <a href="https://www.youtube.com/c/JoshuaEnyart">this author's YouTube channel</a> researching gear and methods for search and rescue, and I appreciated it enough to buy the book."
+        genre: [wilderness survival, SAR]
+        completed: 2021-08-28
+
       - title: "The Cruelty Is the Point: The Past, Present, and Future of Trump's America"
         author: Adam Serwer
         link: https://www.penguinrandomhouse.com/books/665171/the-cruelty-is-the-point-by-adam-serwer/
         image: https://images1.penguinrandomhouse.com/cover/9780593230800
         description: "“From an award-winning journalist at <cite>The Atlantic</cite>, these searing essays make a damning case that cruelty is not merely an unfortunate byproduct of the Trump administration but its main objective and the central theme of the American project.”"
         genre: [politics]
-        progress: 20
+        format: audiobook
+        progress: 50
         completed: In progress
 
       - title: "The Scout Mindset: Why Some People See Things Clearly and Others Don’t"
