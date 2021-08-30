@@ -18,8 +18,7 @@ list:
         description: "“From an award-winning journalist at <cite>The Atlantic</cite>, these searing essays make a damning case that cruelty is not merely an unfortunate byproduct of the Trump administration but its main objective and the central theme of the American project.”"
         genre: [politics]
         format: audiobook
-        progress: 50
-        completed: In progress
+        completed: 2021-08-30
 
       - title: "The Scout Mindset: Why Some People See Things Clearly and Others Don’t"
         author: Julia Galef
