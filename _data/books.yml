@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "The Power of the Dog"
+        author: Don Winslow
+        link: https://en.wikipedia.org/wiki/The_Power_of_the_Dog
+        image: https://upload.wikimedia.org/wikipedia/en/7/77/The_Power_of_the_Dog.jpg
+        description: "“Art Keller is an obsessive DEA agent. The Barrera brothers are heirs to a drug empire. Nora Hayden is a jaded teenager who becomes a high-class hooker. Father Parada is a powerful and uncorruptable Catholic priest. Callan is an Irish kid from Hell’s kitchen who grows up to be a merciless hitman. And they are all trapped in the world of the Mexican drug <cite>Federación</cite>. From the streets of New York City to Mexico City and Tijuana to the jungles of Central America, this is the war on drugs like you’ve never seen it.”"
+        genre: [fiction, thriller]
+        completed: In progress
+
       - title: "Surviving the Wild: Essential Bushcraft and First Aid Skills for Surviving the Great Outdoors"
         author: Joshua Enyart
         link: https://mango.bz/books/surviving-the-wild-by-joshua-enyart-1578-b
@@ -37,6 +45,15 @@ list:
         genre: [economics, society]
         format: audiobook
         completed: 2021-08-29
+
+      - title: "Sir Gawain and the Green Knight, Pearl, and Sir Orfeo"
+        author: Gawain Poet, J.R.R. Tolkien (Translator), Christopher Tolkien (Editor)
+        link: https://www.goodreads.com/book/show/23613.Sir_Gawain_and_the_Green_Knight_Pearl_and_Sir_Orfeo
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354555703i/23613.jpg
+        description: "“<cite>Sir Gawain and the Green Knight and Pearl</cite> are two poems by an unknown author written in about 1400. Sir Gawain is a romance, a fairy-tale for adults, full of life and colour; but it is also much more than this, being at the same time a powerful moral tale which examines religious and social values.”"
+        genre: [fiction, poem, fantasy, classic]
+        format: audiobook
+        completed: 2021-08-13        
 
       - title: "Mind is the Ride"
         author: Jet McDonald
