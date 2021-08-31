@@ -4,11 +4,11 @@ list:
     books:
 
       - title: "The Power of the Dog"
-        author: Don Winslow
-        link: https://en.wikipedia.org/wiki/The_Power_of_the_Dog
-        image: https://upload.wikimedia.org/wikipedia/en/7/77/The_Power_of_the_Dog.jpg
-        description: "“Art Keller is an obsessive DEA agent. The Barrera brothers are heirs to a drug empire. Nora Hayden is a jaded teenager who becomes a high-class hooker. Father Parada is a powerful and uncorruptable Catholic priest. Callan is an Irish kid from Hell’s kitchen who grows up to be a merciless hitman. And they are all trapped in the world of the Mexican drug <cite>Federación</cite>. From the streets of New York City to Mexico City and Tijuana to the jungles of Central America, this is the war on drugs like you’ve never seen it.”"
-        genre: [fiction, thriller]
+        author: Thomas Savage, Annie Proulx (Introduction)
+        link: https://www.goodreads.com/book/show/128073.The_Power_of_the_Dog
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264480l/128073.jpg
+        description: "“First published in 1967, Thomas Savage's western novel about two brothers now includes an afterword by Annie Proulx. Phil and George are brothers, more than partners, joint owners of the biggest ranch in their Montana valley. Phil is the bright one, George the plodder. Phil is tall and angular; George is stocky and silent. Phil is a brilliant chess player, a voracious reader, an eloquent storyteller; George learns slowly, and devotes himself to the business.”"
+        genre: [fiction, western]
         completed: In progress
 
       - title: "Surviving the Wild: Essential Bushcraft and First Aid Skills for Surviving the Great Outdoors"
