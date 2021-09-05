@@ -3,12 +3,21 @@ list:
   - year: 2021
     books:
 
+      - title: "Roland in Moonlight"
+        author: David Bentley Hart
+        link: https://www.angelicopress.org/roland-in-moonlight-hart
+        image: https://images.squarespace-cdn.com/content/v1/5f6f348e7f499401bc2af66f/1617052762328-WRLRU8VGZS9MXGD9MGDT/HART+-+ROLAND+IN+MOONLIGHT.jpg
+        description: "“As everyone knows, the bond between <cite>homo sapiens sapiens</cite> and <cite>canis lupus familiaris</cite> has traversed the ages. But few could have anticipated the remarkable exchange here recounted between David Bentley Hart and a noble beast named Roland. Roland in Moonlight breaks new ground within Hart’s already astonishingly wide-ranging body of work. Eschewing the rigidity of the human either/or, Roland’s diagonal approach offers secret illuminations and hidden affinities, as all and sundry come into his purview: paganism, dreams, language, myth, politics, American Christianity, Indian metaphysics, Japanese aesthetics...But perhaps most of all, the book is a kaleidoscopic exploration of the nature of mind and consciousness.”"
+        genre: [dogs]
+        completed: Next
+
       - title: "The Power of the Dog"
         author: Thomas Savage, Annie Proulx (Introduction)
         link: https://www.goodreads.com/book/show/128073.The_Power_of_the_Dog
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264480l/128073.jpg
         description: "“First published in 1967, Thomas Savage's western novel about two brothers now includes an afterword by Annie Proulx. Phil and George are brothers, more than partners, joint owners of the biggest ranch in their Montana valley. Phil is the bright one, George the plodder. Phil is tall and angular; George is stocky and silent. Phil is a brilliant chess player, a voracious reader, an eloquent storyteller; George learns slowly, and devotes himself to the business.”"
         genre: [fiction, western]
+        progress: 20
         completed: In progress
 
       - title: "Surviving the Wild: Essential Bushcraft and First Aid Skills for Surviving the Great Outdoors"
@@ -61,8 +70,7 @@ list:
         image: https://s3-eu-west-1.amazonaws.com/media.unbound.co/p/images/12190/large/mind.jpg
         description: "“<cite>Mind is the Ride</cite> takes the reader on a physical and intellectual adventure from West to East using the components of a bike as a metaphor for philosophy, which is woven into the cyclist's experience. Each chapter is based around a single component, and as Jet travels he adds new parts and new philosophies until the bike is ‘built’; the ride to India is completed; and the relationship between mind, body and bicycle made apparent.”"
         genre: [music, culture]
-        progress: 50
-        completed: In progress
+        completed: 2021-09-05
 
       - title: "This Isn’t Happening: Radiohead’s <cite>Kid A</cite> and the Beginning of the 21<sup>st</sup> Century"
         author: Steven Hyden
