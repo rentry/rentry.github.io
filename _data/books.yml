@@ -11,14 +11,30 @@ list:
         genre: [dogs]
         completed: Next
 
+      - title: "The Negative"
+        author: Ansel Adams
+        link: https://shop.anseladams.com/products/ansel-adams-the-negative
+        image: https://cdn.shopify.com/s/files/1/0114/3154/2848/products/thenegative_2400x.jpg?v=1600801008
+        description: "“This classic handbook distills the knowledge gained through a lifetime in photography and remains as vital today as when it was first published. Anchored by a detailed discussion of Adams' Zone System and his seminal concept of visualization, <cite>The Negative</cite> covers artificial and natural light, film and exposure, and darkroom equipment and techniques.”"
+        genre: [photography]
+        completed: In progress
+
+      - title: "The Age of Empire: 1875–1914"
+        author: Eric Hobsbawm
+        link: https://en.wikipedia.org/wiki/The_Age_of_Empire:_1875%E2%80%931914
+        image: https://upload.wikimedia.org/wikipedia/en/7/77/The_Age_of_Empire_1875%E2%80%931914.jpg
+        description: "“<cite>The Age of Empire: 1875–1914</cite> is a book by the British historian Eric Hobsbawm, published in 1987. It is the third in a trilogy of books about 'the long 19th century' (coined by Hobsbawm), preceded by <cite>The Age of Revolution: Europe 1789–1848</cite> and <cite>The Age of Capital: 1848–1875</cite>. A fourth book, <cite>The Age of Extremes: The Short Twentieth Century, 1914–1991</cite>, acts as a sequel to the trilogy. ”"
+        genre: [economics, society]
+        format: audiobook
+        completed: In progress
+
       - title: "The Power of the Dog"
         author: Thomas Savage, Annie Proulx (Introduction)
         link: https://www.goodreads.com/book/show/128073.The_Power_of_the_Dog
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344264480l/128073.jpg
         description: "“First published in 1967, Thomas Savage's western novel about two brothers now includes an afterword by Annie Proulx. Phil and George are brothers, more than partners, joint owners of the biggest ranch in their Montana valley. Phil is the bright one, George the plodder. Phil is tall and angular; George is stocky and silent. Phil is a brilliant chess player, a voracious reader, an eloquent storyteller; George learns slowly, and devotes himself to the business.”"
         genre: [fiction, western]
-        progress: 20
-        completed: In progress
+        completed: 2021-09-08
 
       - title: "Surviving the Wild: Essential Bushcraft and First Aid Skills for Surviving the Great Outdoors"
         author: Joshua Enyart
