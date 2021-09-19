@@ -3,7 +3,7 @@ list:
   - year: 2021
     books:
 
-      - title: "One Man’s Meat "
+      - title: "One Man’s Meat"
         author: E.B. White
         link: https://www.goodreads.com/book/show/10813.One_Man_s_Meat
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388708027l/10813.jpg
@@ -25,7 +25,7 @@ list:
         image: https://cdn.shopify.com/s/files/1/0114/3154/2848/products/thenegative_2400x.jpg?v=1600801008
         description: "“This classic handbook distills the knowledge gained through a lifetime in photography and remains as vital today as when it was first published. Anchored by a detailed discussion of Adams' Zone System and his seminal concept of visualization, <cite>The Negative</cite> covers artificial and natural light, film and exposure, and darkroom equipment and techniques.”"
         genre: [photography]
-        completed: In progress
+        completed: 2021-09-18
 
       - title: "The Age of Empire: 1875–1914"
         author: Eric Hobsbawm
