@@ -16,7 +16,7 @@ popup-text: "When I visited"
 
 {% include leaflet.html %}
 
-This is crazy. There are so many mustaches ({ }) in Liquid _and_ JavaScript.
+This is _bananas_. There are so many mustaches ({ }) in Liquid _and_ JavaScript.
 
 But it turns out, a bunch of smart people figured out which mustaches (_fine_, curly brackets or braces or whatever) belong to which bits of code. Consequently, you can _use Liquid variables in your JavaScript_.
 
