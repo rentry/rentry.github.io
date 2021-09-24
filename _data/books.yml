@@ -17,7 +17,8 @@ list:
         image: https://images.squarespace-cdn.com/content/v1/5f6f348e7f499401bc2af66f/1617052762328-WRLRU8VGZS9MXGD9MGDT/HART+-+ROLAND+IN+MOONLIGHT.jpg
         description: "“As everyone knows, the bond between <cite>homo sapiens sapiens</cite> and <cite>canis lupus familiaris</cite> has traversed the ages. But few could have anticipated the remarkable exchange here recounted between David Bentley Hart and a noble beast named Roland. <cite>Roland in Moonlight</cite> breaks new ground within Hart’s already astonishingly wide-ranging body of work.”"
         genre: [dogs]
-        completed: Next
+        progress: 20
+        completed: In progress
 
       - title: "The Negative"
         author: Ansel Adams
