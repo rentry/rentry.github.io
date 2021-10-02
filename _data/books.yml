@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Bewilderment"
+        author: Richard Powers
+        link: https://www.goodreads.com/book/show/56404444-bewilderment
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632843882l/56404444._SY475_.jpg
+        description: "“With its soaring descriptions of the natural world, its tantalizing vision of life beyond, and its account of a father and son’s ferocious love, <cite>Bewilderment</cite> marks Richard Powers’s most intimate and moving novel. At its heart lies the question: How can we tell our children the truth about this beautiful, imperiled planet?”"
+        genre: [science fiction, environment, nature]
+        completed: Next
+
       - title: "Turn Around Time: A Walking Poem for the Pacific Northwest"
         author: David Guterson
         link: https://www.davidguterson.com/turn-around-time-1
