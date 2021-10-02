@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Turn Around Time: A Walking Poem for the Pacific Northwest"
+        author: David Guterson
+        link: https://www.davidguterson.com/turn-around-time-1
+        image: https://images.squarespace-cdn.com/content/v1/5cf04d31db274b0001ea9ee7/1564083926180-6GCWXZBNI1R8RFNTUF8V/TurnAround_Covers_Final_WEB.jpg?format=1500w
+        description: "“Most outdoor enthusiasts understand the phrase ‘turn around time’ as that point in an adventure when you must cease heading out in order to have enough time to safely return to camp or home--regardless of whether you have reached your destination. For award-winning novelist David Guterson, it is also a metaphor for where we find ourselves in the middle of our lives, and his new narrative poem explores this idea through a lyrical journey along a trail, much like those in Washington’s mountain ranges he hiked while growing up.”"
+        genre: [poem, nature]
+        completed: 2021-10-01
+
       - title: "One Man’s Meat"
         author: E.B. White
         link: https://www.goodreads.com/book/show/10813.One_Man_s_Meat
