@@ -26,9 +26,9 @@ After my first caffenol attempt in April, I decided to try out three filters:
 - Orange #21
 - Red #29
 
-Because filters in these ranges absorb light on the opposite end of the spectrum, namely blue and green light, they result in higher contrast and (when used better than I did) more interesting skies. Ansel Adams used an extensive range of filters for his black and white photography for this reason.
+Because filters in these ranges absorb light on the opposite end of the spectrum, namely blue and green light, they result in higher contrast and (when used better than I did) more interesting skies.
 
-The T-Rex photo above and the forest path photo below were both shot using the yellow filter. The others were all shot with orange and red filters, and developed with caffenol according [the recipe I shared last time]({{ '/developing-film-with-coffee/#recipe' | relative_url }}).
+The T-Rex photo above and the forest path photo below were both shot using the yellow filter. The others were all shot with orange and red filters, and developed with caffenol according to [the recipe I shared last time]({{ '/developing-film-with-coffee/#recipe' | relative_url }}).
 
 ![A forest path winds its way through fir trees]({{ '/assets/images/caffenol-2-2.jpg' | relative_url }})
 
