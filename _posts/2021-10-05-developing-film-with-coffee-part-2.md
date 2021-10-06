@@ -14,7 +14,7 @@ I've developed two more rolls since then. My second attempt at caffenol developm
 
 My third attempt came a few weeks ago when I rode my Bianchi into Portland with my cousin and took a few shots along the way. The development process wasn't perfect (the drying part needs work), but the resulting images are _much_ better. Why? I suspect it's on account of filters.
 
-![A T-Rex sculpture looks ominously toward a brick museum]({{ '/assets/images/caffenol-2-3.JPG' | relative_url }}#full)
+![A T-Rex sculpture looks ominously toward a brick museum]({{ '/assets/images/caffenol-2-3.jpg' | relative_url }}#full)
 
 ## The filters
 
@@ -30,12 +30,12 @@ Because filters in these ranges absorb light on the opposite end of the spectrum
 
 The T-Rex photo above and the forest path photo below were both shot using the yellow filter. The others were all shot with orange and red filters, and developed with caffenol according [the recipe I shared last time]({{ '/developing-film-with-coffee/#recipe' | relative_url }}).
 
-![A forest path winds its way through fir trees]({{ '/assets/images/caffenol-2-2.JPG' | relative_url }})
+![A forest path winds its way through fir trees]({{ '/assets/images/caffenol-2-2.jpg' | relative_url }})
 
-![A man in sunglasses looks forward at an outdoor picnic bench while a man behind works on his laptop]({{ '/assets/images/caffenol-2-5.JPG' | relative_url }}#full)
+![A man in sunglasses looks forward at an outdoor picnic bench while a man behind works on his laptop]({{ '/assets/images/caffenol-2-5.jpg' | relative_url }}#full)
 
-![The sign for water avenue coffee and kitchen with the sidewalk below and a power pole with graffiti nearby]({{ '/assets/images/caffenol-2-1.JPG' | relative_url }})
+![The sign for water avenue coffee and kitchen with the sidewalk below and a power pole with graffiti nearby]({{ '/assets/images/caffenol-2-1.jpg' | relative_url }})
 
-![A man wearing sunglasses outside with a smile and his hand under his chin]({{ '/assets/images/caffenol-2-4.JPG' | relative_url }}#full)
+![A man wearing sunglasses outside with a smile and his hand under his chin]({{ '/assets/images/caffenol-2-4.jpg' | relative_url }}#full)
 
 There's much more to learn (and re-learn), but I'm enjoying the return to tactile photography.
