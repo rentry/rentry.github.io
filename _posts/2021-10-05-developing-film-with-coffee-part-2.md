@@ -12,7 +12,7 @@ Back in April, I wrote about my [first attempt to develop photographic film usin
 
 I've developed two more rolls since then. My second attempt at caffenol development was largely forgettable, due in part to the photographic conditions. I attempted to photographic my dog, Teddy, at a lure course, and the speed and lighting were not conducive to good photos. The development process was successful, but the resulting images were rather underwhelming.
 
-My third attempt came a few weeks ago when I rode my Bianchi into Portland with my cousin and took a few shots along the way. The development process wasn't perfect (the drying part needs work), but the resulting images are _much_ better. Why? I suspect it's on account of filters.
+My third attempt came a few weeks ago when I rode my old steel Bianchi into Portland with my cousin and took a few shots along the way. The development process wasn't perfect (the drying part needs work), but the resulting images are _much_ better. Why? I suspect it's on account of filters.
 
 ![A T-Rex sculpture looks ominously toward a brick museum]({{ '/assets/images/caffenol-2-3.jpg' | relative_url }}#full)
 
