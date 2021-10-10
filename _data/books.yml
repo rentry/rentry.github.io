@@ -3,13 +3,23 @@ list:
   - year: 2021
     books:
 
+      - title: "The Camera"
+        author: Ansel Adams
+        link: https://www.goodreads.com/book/show/20501.The_Camera
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265765l/20501.jpg
+        description: "I read Adams's <cite>The Negative</cite> a few weeks ago. Now I'm making my way through the first book in the series, <cite>The Camera</cite>."
+        genre: [photography]
+        completed: In progress
+
       - title: "Bewilderment"
         author: Richard Powers
         link: https://www.goodreads.com/book/show/56404444-bewilderment
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632843882l/56404444._SY475_.jpg
         description: "“With its soaring descriptions of the natural world, its tantalizing vision of life beyond, and its account of a father and son’s ferocious love, <cite>Bewilderment</cite> marks Richard Powers’s most intimate and moving novel. At its heart lies the question: How can we tell our children the truth about this beautiful, imperiled planet?”"
         genre: [science fiction, environment, nature]
-        completed: Next
+        format: audiobook
+        progress: 50
+        completed: In progress
 
       - title: "Turn Around Time: A Walking Poem for the Pacific Northwest"
         author: David Guterson
@@ -25,6 +35,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388708027l/10813.jpg
         description: "“Too personal for an almanac, too sophisticated for a domestic history, and too funny and self-doubting for a literary journal, <cite>One Man's Meat</cite> can best be described as a primer of a countryman's lessons a timeless recounting of experience that will never go out of style.”"
         genre: [memoir]
+        format: audiobook
         completed: 2021-10-01
 
       - title: "Roland in Moonlight"
@@ -33,7 +44,7 @@ list:
         image: https://images.squarespace-cdn.com/content/v1/5f6f348e7f499401bc2af66f/1617052762328-WRLRU8VGZS9MXGD9MGDT/HART+-+ROLAND+IN+MOONLIGHT.jpg
         description: "“As everyone knows, the bond between <cite>homo sapiens sapiens</cite> and <cite>canis lupus familiaris</cite> has traversed the ages. But few could have anticipated the remarkable exchange here recounted between David Bentley Hart and a noble beast named Roland. <cite>Roland in Moonlight</cite> breaks new ground within Hart’s already astonishingly wide-ranging body of work.”"
         genre: [dogs]
-        progress: 20
+        progress: 30
         completed: In progress
 
       - title: "The Negative"
