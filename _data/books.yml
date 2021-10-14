@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Wanderlust: A History of Walking"
+        author: Rebecca Solnit
+        link: http://www.rebeccasolnit.net/book/wanderlust/
+        image: http://rebeccasolnit.net/file/2014/01/wanderlust-34.jpg
+        description: "“Drawing together many histories—of anatomical evolution and city design, of treadmills and labyrinths, of walking clubs and sexual mores—Rebecca Solnit creates a fascinating portrait of the range of possibilities presented by walking.”"
+        genre: [walking, nature]
+        format: audiobook
+        completed: In progress
+
       - title: "The Camera"
         author: Ansel Adams
         link: https://www.goodreads.com/book/show/20501.The_Camera
