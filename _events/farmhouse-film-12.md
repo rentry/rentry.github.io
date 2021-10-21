@@ -10,8 +10,8 @@ image-alt: "Paul Atreides, the Duke's son, and his mother Lady Jessica, Bene Ges
 
 ## When
 
-October 23, 2021<br>
-5:30 p.m.
+October 24, 2021<br>
+2:30 p.m.
 
 <video class="full-vid" autoplay loop muted playsinline preload="true">
   <source src="{{ 'assets/images/dune-background.mp4' | relative_url }}#full" type="video/mp4">
