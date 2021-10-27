@@ -161,7 +161,7 @@ In addition to demonstrating all of these skills, we're required to respond to 4
 
 ### Written test
 
-Along with field demonstrations, we were also required to complete a written test with over 100 questions. We were required to achieve at least an 80% score on the test, issued by the Oregon State Sheriff's Association.
+Along with field demonstrations, we were required to complete a written test, containing over 100 questions. We had to achieve at least an 80% score on the test, issued by the Oregon State Sheriff's Association.
 
 ## Gear
 
