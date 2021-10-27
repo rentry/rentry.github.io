@@ -155,7 +155,7 @@ and appendages.
 5. CPR certification
 6. Complete fitness assessment baseline hike with 25lb SAR pack in allotted time (Type 2)
 
-In addition to demonstrating all of these skills, we're required to respond to 4 real-life missions to achieve full membership and certification.
+In addition to demonstrating all of these skills, we're required to respond to 4 real-life missions to achieve full membership and certification. Oh, and the written test...
 
 ![Several search and rescue members in the field watching a demonstration on litter packaging]({{ '/assets/images/sar/sar-training-2.jpg' | relative_url }})
 
