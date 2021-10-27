@@ -171,6 +171,10 @@ Our gear list is split into two packs: 24-hour and "Hasty". The 24-hour pack is 
 
 Again, I'll go into this in more detail. But given the hasty pack is a subset of the 24-hour pack, I have mine organized such that the hasty gear is organized into two compartments that I can include in my 24-hour pack, but are removable and can be mounted on a separate harness.
 
+![Search and rescue volunteer walking among trees]({{ '/assets/images/sar/sar-training-4.jpg' | relative_url }})
+
+### Required gear
+
 <table style="width: 100%; table-layout: fixed; margin-bottom: 2em;">
     <tbody>
         <thead>
