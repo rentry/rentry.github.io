@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Deep River"
+        author: Karl Marlantes
+        link: https://groveatlantic.com/book/deep-river/
+        image: https://groveatlantic.com/core/wp-content/uploads/2017/09/DeepRiverPK-340x509.jpg
+        description: "“From the <cite>New York Times</cite>-bestselling author of <cite>Matterhorn</cite> and <cite>What It Is Like to Go to War</cite>, a rich family saga about Finnish immigrants who settle and tame the Pacific Northwest, set against the early labor movements, World War I, and the upheaval of early twentieth-century America.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Wanderlust: A History of Walking"
         author: Rebecca Solnit
         link: http://www.rebeccasolnit.net/book/wanderlust/
