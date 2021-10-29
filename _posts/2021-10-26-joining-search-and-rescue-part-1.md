@@ -184,8 +184,8 @@ Again, I'll go into this in more detail. But given the hasty pack is a subset of
         </thead>    
     {% for gear in site.data.csar-gear-list %}   
         <tr>
-            <td style="vertical-align: top; border-bottom: none; width: 5em;">{{ gear.hasty }}</td>
             <td style="vertical-align: top; border-bottom: none; width: 5em;">{{ gear.twenty-four }}</td>
+            <td style="vertical-align: top; border-bottom: none; width: 5em;">{{ gear.hasty }}</td>
             <td style="vertical-align: top; border-bottom: none;">{{ gear.gear }}</td>
         </tr>
     {% endfor %}    
