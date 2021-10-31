@@ -138,6 +138,12 @@ nav.site-nav {
     }
 }
 
+@media only screen and (max-width: 450px) {
+    img[src*="#float"] {
+        float: right;
+        width: 10em;
+     }
+}
 
 /**
  * Site footer
