@@ -73,9 +73,9 @@ You'll notice film canisters in the photo, in which I carry spare batteries for 
 Because it integrates into my hasty harness system, I use the **[Coaxsher MOLLE Chest Harness](http://www.coaxsher.com/MOLLE-Chest-Harness-p/rp204.htm)**. 
 ![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-coax-harness.jpg' | relative_url }}#float) Although it doesn't allow for diagonal radio carry (which is useful to keep attenaes out of your face), I like that the MOLLE system allows me to customize and modularize my chest rig as I see fit. I wear it under my 24-hour pack, and I can either wear it under my hasty harness or remove the chest harness straps and attach the chest pack directly to my hasty harness.
 
-On my current setup, I have the [gadget case](http://www.coaxsher.com/Gadget-Case-p/os604.htm) to house my whistle, flagging tape, and Garmin etrex. I also carry the [radio holster](http://www.coaxsher.com/MOLLE-Radio-Holster-p/as426.htm) for my [Icom F3001](http://www.icomamerica.com/en/products/landmobile/portables/f3001/default.aspx). 
+On my current setup, I have the [gadget case](http://www.coaxsher.com/Gadget-Case-p/os604.htm) to house my whistle, flagging tape, and Garmin etrex (more about GPS devices below). I also carry the [radio holster](http://www.coaxsher.com/MOLLE-Radio-Holster-p/as426.htm) for my [Icom F3001](http://www.icomamerica.com/en/products/landmobile/portables/f3001/default.aspx). 
 
-I also have the [fold-down map case](http://www.coaxsher.com/Fold-Down-Map-Case-p/os608.htm), but I haven't yet added it, mostly because of its bulk. Similarly, I have the [flagging tape dispenser](http://www.coaxsher.com/product-p/os600.htm), but I haven't found the need for it.
+I bought the [fold-down map case](http://www.coaxsher.com/Fold-Down-Map-Case-p/os608.htm), but I haven't yet added it, mostly because of its bulk. Similarly, I have the [flagging tape dispenser](http://www.coaxsher.com/product-p/os600.htm), but I haven't found the need for it.
 
 My chest kit is where I've customized the most, with multiple add-ons and redundancies, primarily for navigation.
 
