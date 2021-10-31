@@ -60,7 +60,7 @@ For my hasty pack, I chose the **[Coaxsher SR-1 Recon Search and Rescue Pack](ht
 I won't cover everything I carry in my hasty pack, but I will point out a few add-ons in the kit.
 
 - [SAM splint](https://www.sammedical.com/products/sam-splint?variant=32444250292333): After completing training, I'm surprised the SAM splint isn't included in the required gear list. Apart from it's intended use, we also use SAM splints for patient packaging (securing subjects for evacuation).
-- Extra knife: I'll describe my main knife later, but I carry an extra fixed blade in my hasty pack in the form of the Gerber Principle.
+- Extra knife: I described my main knife earlier, but I carry an extra fixed blade in my hasty pack in the form of the Gerber Principle.
 - Fire starters: The required gear list recommends cotton balls dipped in petroleum jelly for fire starters, but since I live in the rainy Pacific Northwest, I also carry [Mini Inferno](https://www.selfrelianceoutfitters.com/products/mini-inferno) and [Lightning Nuggets](https://www.rei.com/product/619851/lightning-nugget-firestarters).
 - Headlamp: I keep a Petzl headlamp attached to my helmet, but I carry another headlamp in my chest harness (described below).
 
