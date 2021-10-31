@@ -22,9 +22,7 @@ As I mentioned in the previous post, I designed my pack system such that all the
 
 ### 24-hour pack
 
-My 24-hour pack started as a [40L REI pack](https://www.rei.com/product/168485/rei-co-op-trail-40-pack-mens), but I quickly found it to be too small. My helmet had to be attached to the outside of the pack (when not wearing it, of course), and there was very little room for a 24-hour food supply. I prefer all my gear to be contained so it's not bouncing around as I move through the brush.
-
-![Gray and green backpack with two front pockets]({{ '/assets/images/sar/sar-gear-mountainsmith.jpg' | relative_url }}#float)
+My 24-hour pack started as a [40L REI pack](https://www.rei.com/product/168485/rei-co-op-trail-40-pack-mens), but I quickly found it to be too small. My helmet had to be attached to the outside of the pack (when not wearing it, of course), and there was very little room for a 24-hour food supply. I prefer all my gear to be contained so it's not bouncing around as I move through the brush. ![Gray and green backpack with two front pockets]({{ '/assets/images/sar/sar-gear-mountainsmith.jpg' | relative_url }}#float)
 
 For a larger option, I selected the **[Mountainsmith Scream 55](https://mountainsmith.com/products/scream-55-backpack)**. I've had good luck with Mountainsmith gear in the past (I've used the Mountainsmith Lariat 65 for years), and found it to be a solid, lightweight option.
 
@@ -51,9 +49,7 @@ Here are a few add-ons and notables from this extended kit:
 
 ### Hasty pack
 
-My hasty gear is confined to two pack modules, my helmet, and my chest harness, all of which is also carried for 24-hour missions.
-
-![Coaxsher brand orange and black pack modules on a harness]({{ '/assets/images/sar/sar-gear-coax-pack.jpg' | relative_url }}#float)
+My hasty gear is confined to two pack modules, my helmet, and my chest harness, all of which is also carried for 24-hour missions. ![Coaxsher brand orange and black pack modules on a harness]({{ '/assets/images/sar/sar-gear-coax-pack.jpg' | relative_url }}#float)
 
 For my hasty pack, I chose the **[Coaxsher SR-1 Recon Search and Rescue Pack](https://www.coaxsher.com/Search-and-Rescue-Pack-p/sr102.htm)**, specifically so I could detach the pack modules and throw them in my 24-hour pack. I'll cover this below, but my chest harness is also made by Coaxsher, and it attaches to the harness system. I'm not a huge fan of water reservoir bladders (although I have more than one), so I also carry two bottle pouches that attach to the harness with [MOLLE](https://en.wikipedia.org/wiki/MOLLE) webbing.
 
@@ -72,11 +68,10 @@ You'll notice film canisters in the photo, in which I carry spare batteries for 
 
 ![Coaxsher pack modules, ropes, webbing, medical supplies, fire starters, matches, gloves, spare batteries, saw, knife, and helmet]({{ '/assets/images/sar/sar-gear-3.jpg' | relative_url }}#full)
 
-### Chest harness
+### Chest harness 
 
-![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-coax-harness.jpg' | relative_url }}#float)
-
-Because it integrates into my hasty harness system, I use the **[Coaxsher MOLLE Chest Harness](http://www.coaxsher.com/MOLLE-Chest-Harness-p/rp204.htm)**. Although it doesn't allow for diagonal radio carry (which is useful to keep attenaes out of your face), I like that the MOLLE system allows me to customize and modularize my chest rig as I see fit. I wear it under my 24-hour pack, and I can either wear it under my hasty harness or remove the chest harness straps and attach the chest pack directly to my hasty harness.
+Because it integrates into my hasty harness system, I use the **[Coaxsher MOLLE Chest Harness](http://www.coaxsher.com/MOLLE-Chest-Harness-p/rp204.htm)**. 
+![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-coax-harness.jpg' | relative_url }}#float) Although it doesn't allow for diagonal radio carry (which is useful to keep attenaes out of your face), I like that the MOLLE system allows me to customize and modularize my chest rig as I see fit. I wear it under my 24-hour pack, and I can either wear it under my hasty harness or remove the chest harness straps and attach the chest pack directly to my hasty harness.
 
 On my current setup, I have the [gadget case](http://www.coaxsher.com/Gadget-Case-p/os604.htm) to house my whistle, flagging tape, and Garmin etrex. I also carry the [radio holster](http://www.coaxsher.com/MOLLE-Radio-Holster-p/as426.htm) for my [Icom F3001](http://www.icomamerica.com/en/products/landmobile/portables/f3001/default.aspx). 
 
@@ -88,13 +83,11 @@ My chest kit is where I've customized the most, with multiple add-ons and redund
 
 ### GPS devices
 
-I carry four separate GPS devices:
-
-![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-watch.jpg' | relative_url }}#float)
+I carry four separate GPS devices: ![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-watch.jpg' | relative_url }}#float)
 
 - **[Suunto Ambit3 Peak watch](https://www.suunto.com/en-us/Products/Sports-Watches/Suunto-Ambit3-Peak/Suunto-Ambit3-Peak-Black/)**: I'm not much of a watch wearer, but I prefer to have one on SAR missions. I use this watch almost exclusively for SAR missions. I bought this from Suunto in 2020 for $160, far below its original retail price. It's useful as a quick way to get coordinates, record tracks (the watch will guide you back to your starting position), find your altitude, track storms, and more. And it serves as backup for the other navigation items.
 - iPhone with **[Gaia GPS](https://www.gaiagps.com/)**: This is my primary means of GPS navigation. I have a paid plan with Gaia GPS, which allows me to download basemaps for the areas in which I'll be deployed for search.
-- **[Garmin inReach mini](https://www.garmin.com/en-US/p/592606)**: I carry this device almost exclusively to communicate with my spouse when I've off-grid. It's expensive, but I've already been out until 3 a.m. on SAR missions, so this is nonnegotiable for us.
+- **[Garmin inReach mini](https://www.garmin.com/en-US/p/592606)**: I carry this device almost exclusively to communicate with my spouse when I'm off-grid. It's expensive, but I've already been out until 3 a.m. on SAR missions, so this is nonnegotiable for us.
 - **[Garmin eTrex 22x](https://www.rei.com/product/163569/garmin-etrex-22x)**: I've had this unit for years, and I carry it for the sole purpose of recording my search track for the Sheriff's Office to download. Unlike Gaia, tracks from the Garmin can be downloaded while off-grid. And while the inReach can record tracks, I prefer to retain its battery for communication.
 
 Here are a few other notable items in my chest kit:
