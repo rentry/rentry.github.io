@@ -27,7 +27,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344265765l/20501.jpg
         description: "I read Adams's <cite>The Negative</cite> a few weeks ago. Now I'm making my way through the first book in the series, <cite>The Camera</cite>."
         genre: [photography]
-        completed: In progress
+        completed: 2021-10-30
 
       - title: "Bewilderment"
         author: Richard Powers
@@ -62,7 +62,7 @@ list:
         description: "“As everyone knows, the bond between <cite>homo sapiens sapiens</cite> and <cite>canis lupus familiaris</cite> has traversed the ages. But few could have anticipated the remarkable exchange here recounted between David Bentley Hart and a noble beast named Roland. <cite>Roland in Moonlight</cite> breaks new ground within Hart’s already astonishingly wide-ranging body of work.”"
         genre: [dogs]
         progress: 30
-        completed: In progress
+        completed: 2021-10-31
 
       - title: "The Negative"
         author: Ansel Adams
