@@ -49,7 +49,7 @@ Here are a few add-ons and notables from this extended kit:
 
 ### Hasty pack
 
-My hasty gear is confined to two pack modules, my helmet, and my chest harness, all of which is also carried for 24-hour missions. ![Coaxsher brand orange and black pack modules on a harness]({{ '/assets/images/sar/sar-gear-coax-pack.jpg' | relative_url }}#float)
+My hasty gear is confined to two pack modules, my helmet, and my chest harness, all of which are also carried for 24-hour missions. ![Coaxsher brand orange and black pack modules on a harness]({{ '/assets/images/sar/sar-gear-coax-pack.jpg' | relative_url }}#float)
 
 For my hasty pack, I chose the **[Coaxsher SR-1 Recon Search and Rescue Pack](https://www.coaxsher.com/Search-and-Rescue-Pack-p/sr102.htm)**, specifically so I could detach the pack modules and throw them in my 24-hour pack. I'll cover this below, but my chest harness is also made by Coaxsher, and it attaches to the harness system. I'm not a huge fan of water reservoir bladders (although I have more than one), so I also carry two bottle pouches that attach to the harness with [MOLLE](https://en.wikipedia.org/wiki/MOLLE) webbing.
 
