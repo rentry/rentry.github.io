@@ -24,7 +24,7 @@ As I mentioned in the previous post, I designed my pack system such that all the
 
 My 24-hour pack started as a [40L REI pack](https://www.rei.com/product/168485/rei-co-op-trail-40-pack-mens), but I quickly found it to be too small. My helmet had to be attached to the outside of the pack (when not wearing it, of course), and there was very little room for a 24-hour food supply. I prefer all my gear to be contained so it's not bouncing around as I move through the brush.
 
-For a larger option, I selected the **[Mountainsmith Scream 55](https://mountainsmith.com/products/scream-55-backpack)**. I've had good luck with Mountainsmith gear in the past (I've used the Mountainsmith Lariat 65 for years), and found it to be a solid, lightweight option. ![Gray and green backpack with two front pockets]({{ '/assets/images/sar/sar-gear-mountainsmith.jpg' | relative_url }}#float)
+For a larger option, I selected the **[Mountainsmith Scream 55](https://mountainsmith.com/products/scream-55-backpack)**. I've had good luck with Mountainsmith gear in the past (I've used the Mountainsmith Lariat 65L for years), and found it to be a solid, lightweight option. ![Gray and green backpack with two front pockets]({{ '/assets/images/sar/sar-gear-mountainsmith.jpg' | relative_url }}#float)
 
 For my search and rescue needs, my favorite feature of the pack is the ability to access any of its contents without having to dig from the top. The Scream 55 has full, u-shaped zipper access to everything in the pack. You never know what you might need to immediately access on a SAR mission, and being able to quickly get to everything in the pack is essential.
 
