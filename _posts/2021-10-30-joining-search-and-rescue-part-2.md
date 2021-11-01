@@ -95,6 +95,7 @@ Here are a few other notable items in my chest kit:
 - Bankline (tarred mariner’s line): Cordage is required only for the 24-hour pack, but it's useful in all sorts of situations. Consequently, I carry a few feet of #36 bankline in my chest pack. I carry bankline instead of paracord because it's more compact, holds knots better, and is more easily cut.
 - Pace beads: Helpful for tracking steps (and thus distance), pace beads (also called ranger beads) are useful for SAR.
 - [Princeton Tec Vizz](https://princetontec.com/product/vizz/) headlamp: I chose this headlamp so I would have more than one with me at any given time (the other is attached to my helmet) and because it has multiple illumination options. It defaults to red, but also has green, blue, and the traditional white light. I prefer to have these options, as SAR volunteers are often gathered around a map, search subject, or other area of focus, and multiple bright white headlamps to the eye is unpleasant.
+- CPR barrier and nitrile gloves: Recently I pulled a CPR barrier and a pair of nitrile gloves from my first aid kit and added them to my chest rig. Even though I keep my first aid kit at the top of my 24-hour pack (and quickly accessible on my hasty pack), I wanted to have these two items immediately accessible.
 
 ## Required gear
 
