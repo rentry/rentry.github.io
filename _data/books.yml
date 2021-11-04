@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Cockeyed Happy: Ernest Hemingway's Wyoming Summers with Pauline"
+        author: Darla Worden
+        link: https://www.chicagoreviewpress.com/cockeyed-happy-products-9781641603676.php
+        image: https://images.bookstore.ipgbook.com/images/book_image/large/9781641603676.jpg
+        description: "Turns out I can't read enough about Ernest Hemingway visting the same Wyoming roads and trails that I, many years later, frequented while growing up in northern Wyoming. “The story of Ernest Hemingway and Pauline Pfeiffer during six summers from 1928 through 1939—each showing Hemingway at a different place in his writing as well as a different stage of their marriage.”"
+        genre: [hemingway]
+        completed: In progress
+
       - title: "Deep River"
         author: Karl Marlantes
         link: https://groveatlantic.com/book/deep-river/
@@ -455,7 +463,7 @@ list:
         link: https://app.mt.gov/Shop/mhsstore/ernest-hemingway-in-the-yellowstone-high-country
         image: https://app.mt.gov/Shop/mhsstore/images/thumbs/0004827_ernest-hemingway-in-the-yellowstone-high-country_550.jpeg
         description: "Another Hemingway book, this time biographical, ahead of <a href='https://www.pbs.org/kenburns/hemingway/'>a new PBS documentary about Hemingway</a>. I grew up not far from the places featured in this book. In fact, my Wyoming hometown is mentioned, as the Hemingways attend church service there on at least one occasion."
-        genre: [fiction, hemingway]
+        genre: [hemingway]
         completed: 2021-03-28
 
       - title: "For Whom the Bell Tolls"
