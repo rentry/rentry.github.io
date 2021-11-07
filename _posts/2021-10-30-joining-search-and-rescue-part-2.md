@@ -14,7 +14,7 @@ As I mentioned in the last post, we were required to procure the gear simultaneo
 For reference, I've repeated the [required gear list](#required-gear) below. I won't highlight every piece of gear, only the notable or add-on pieces of my kit.
 
 ![Ropes and other gear spread out on the ground behind a search and rescue vehicle with trailer]({{ '/assets/images/sar/sar-gear-0.jpg' | relative_url }})
-<figcaption>Search and rescue training gear, August 2021</figcaption>
+<figcaption>Search and rescue team training gear, August 2021</figcaption>
 
 ## Pack(s)
 
