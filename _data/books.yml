@@ -9,7 +9,7 @@ list:
         image: https://images.bookstore.ipgbook.com/images/book_image/large/9781641603676.jpg
         description: "Turns out I can't read enough about Ernest Hemingway visting the same Wyoming roads and trails that I, many years later, frequented while growing up in northern Wyoming. “The story of Ernest Hemingway and Pauline Pfeiffer during six summers from 1928 through 1939—each showing Hemingway at a different place in his writing as well as a different stage of their marriage.”"
         genre: [hemingway]
-        completed: In progress
+        completed: 2021-11-06
 
       - title: "Deep River"
         author: Karl Marlantes
