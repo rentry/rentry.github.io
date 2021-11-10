@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Freedom"
+        author: Sebastian Junger
+        link: https://www.simonandschuster.com/books/Freedom/Sebastian-Junger/9781982153410
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982153410/freedom-9781982153410_lg.jpg
+        description: "Throughout history, humans have been driven by the quest for two cherished ideals: community and freedom. The two don’t coexist easily. We value individuality and self-reliance, yet are utterly dependent on community for our most basic needs. In this intricately crafted and thought-provoking book, Sebastian Junger examines the tension that lies at the heart of what it means to be human.”"
+        genre: [history, political science]
+        format: audiobook
+        completed: In progress
+
       - title: "Cockeyed Happy: Ernest Hemingway's Wyoming Summers with Pauline"
         author: Darla Worden
         link: https://www.chicagoreviewpress.com/cockeyed-happy-products-9781641603676.php
