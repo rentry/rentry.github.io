@@ -3,6 +3,22 @@ list:
   - year: 2021
     books:
 
+      - title: "The Solace of Open Spaces"
+        author: Gretel Ehrlich
+        link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
+        description: "“A stunning collection of personal observations that uses images of the American West to probe larger concerns in lyrical, evocative prose that is a true celebration of the region.”"
+        genre: [memoir, nature]
+        completed: Next
+
+      - title: "Drinking Dry Clouds: Stories From Wyoming"
+        author: Gretel Ehrlich
+        link: https://www.goodreads.com/book/show/216497.Drinking_Dry_Clouds
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328819214l/216497.jpg
+        description: "“<cite>Drinking Dry Clouds</cite> is Gretel Ehrlich's storytelling in full swing. This inspired collection opens during World War II with the stories of cowboys, waitresses, and bartenders along with Japanese Americans interned at Wyoming’s Heart Mountain. Many of these characters were introduced in Ehrlich’s novel Heart Mountain. As she explains, ‘When I returned to my characters, five years after their initial appearance in my life, they seemed to want to report to me, so I let them speak in the first person.’”"
+        genre: [fiction]
+        completed: Next
+
       - title: "Freedom"
         author: Sebastian Junger
         link: https://www.simonandschuster.com/books/Freedom/Sebastian-Junger/9781982153410
