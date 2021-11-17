@@ -9,15 +9,8 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610054196l/56047271.jpg
         description: "“Grace M. Cho grew up as the daughter of a white American merchant marine and the Korean bar hostess he met abroad. They were one of few immigrants in a xenophobic small town during the Cold War, where identity was politicized by everyday details—language, cultural references, memories, and food. Part food memoir, part sociological investigation, <cite>Tastes Like War</cite> is a hybrid text about a daughter’s search through intimate and global history for the roots of her mother’s schizophrenia.”"
         genre: [memoir, society, history, food]
-        completed: Next
-
-      - title: "The Solace of Open Spaces"
-        author: Gretel Ehrlich
-        link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
-        description: "“A stunning collection of personal observations that uses images of the American West to probe larger concerns in lyrical, evocative prose that is a true celebration of the region.”"
-        genre: [memoir, nature]
-        completed: Next
+        format: audiobook
+        completed: In progress
 
       - title: "Drinking Dry Clouds: Stories From Wyoming"
         author: Gretel Ehrlich
@@ -51,7 +44,7 @@ list:
         description: "“From the <cite>New York Times</cite>-bestselling author of <cite>Matterhorn</cite> and <cite>What It Is Like to Go to War</cite>, a rich family saga about Finnish immigrants who settle and tame the Pacific Northwest, set against the early labor movements, World War I, and the upheaval of early twentieth-century America.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2021-11-16
 
       - title: "Wanderlust: A History of Walking"
         author: Rebecca Solnit
