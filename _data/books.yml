@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "The Solace of Open Spaces"
+        author: Gretel Ehrlich
+        link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
+        description: "“A stunning collection of personal observations that uses images of the American West to probe larger concerns in lyrical, evocative prose that is a true celebration of the region.”"
+        genre: [memoir, nature]
+        completed: Next
+
       - title: "Tastes Like War"
         author: Grace M. Cho
         link: https://www.goodreads.com/book/show/56047271-tastes-like-war
