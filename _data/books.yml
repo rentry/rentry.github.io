@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Where the Deer and the Antelope Play: The Pastoral Observations of One Ignorant American Who Loves to Walk Outside"
+        author: Nick Offerman
+        link: https://www.penguinrandomhouse.com/books/536915/where-the-deer-and-the-antelope-play-by-nick-offerman/
+        image: https://images2.penguinrandomhouse.com/cover/9781101984697
+        description: "“A humorous and rousing set of literal and figurative sojourns as well as a mission statement about comprehending, protecting, and truly experiencing the outdoors, fueled by three journeys undertaken by actor, humorist, and <cite>New York Times</cite> bestselling author Nick Offerman.”"
+        genre: [memoir, nature]
+        completed: Next
+
       - title: "The Solace of Open Spaces"
         author: Gretel Ehrlich
         link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
