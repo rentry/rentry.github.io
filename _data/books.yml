@@ -9,7 +9,9 @@ list:
         image: https://images2.penguinrandomhouse.com/cover/9781101984697
         description: "“A humorous and rousing set of literal and figurative sojourns as well as a mission statement about comprehending, protecting, and truly experiencing the outdoors, fueled by three journeys undertaken by actor, humorist, and <cite>New York Times</cite> bestselling author Nick Offerman.”"
         genre: [memoir, nature]
-        completed: Next
+        format: audiobook
+        progress: 50
+        completed: In progress
 
       - title: "The Solace of Open Spaces"
         author: Gretel Ehrlich
@@ -26,7 +28,7 @@ list:
         description: "“Grace M. Cho grew up as the daughter of a white American merchant marine and the Korean bar hostess he met abroad. They were one of few immigrants in a xenophobic small town during the Cold War, where identity was politicized by everyday details—language, cultural references, memories, and food. Part food memoir, part sociological investigation, <cite>Tastes Like War</cite> is a hybrid text about a daughter’s search through intimate and global history for the roots of her mother’s schizophrenia.”"
         genre: [memoir, society, history, food]
         format: audiobook
-        completed: In progress
+        completed: 2021-11-19
 
       - title: "Drinking Dry Clouds: Stories From Wyoming"
         author: Gretel Ehrlich
@@ -34,7 +36,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328819214l/216497.jpg
         description: "“<cite>Drinking Dry Clouds</cite> is Gretel Ehrlich's storytelling in full swing. This inspired collection opens during World War II with the stories of cowboys, waitresses, and bartenders along with Japanese Americans interned at Wyoming’s Heart Mountain. Many of these characters were introduced in Ehrlich’s novel Heart Mountain. As she explains, ‘When I returned to my characters, five years after their initial appearance in my life, they seemed to want to report to me, so I let them speak in the first person.’”"
         genre: [fiction]
-        completed: Next
+        completed: 2021-11-20
 
       - title: "Freedom"
         author: Sebastian Junger
