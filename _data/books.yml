@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Matrix"
+        author: Lauren Groff
+        link: https://www.goodreads.com/book/show/57185348-matrix
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
+        description: "“Cast out of the royal court by Eleanor of Aquitaine, deemed too coarse and rough-hewn for marriage or courtly life, 17-year-old Marie de France is sent to England to be the new prioress of an impoverished abbey, its nuns on the brink of starvation and beset by disease.”"
+        genre: [historical fiction]
+        completed: Next
+
       - title: "Where the Deer and the Antelope Play: The Pastoral Observations of One Ignorant American Who Loves to Walk Outside"
         author: Nick Offerman
         link: https://www.penguinrandomhouse.com/books/536915/where-the-deer-and-the-antelope-play-by-nick-offerman/
@@ -11,14 +19,6 @@ list:
         genre: [memoir, nature]
         format: audiobook
         completed: 2021-11-24
-
-      - title: "The Solace of Open Spaces"
-        author: Gretel Ehrlich
-        link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
-        description: "“A stunning collection of personal observations that uses images of the American West to probe larger concerns in lyrical, evocative prose that is a true celebration of the region.”"
-        genre: [memoir, nature]
-        completed: Next
 
       - title: "Tastes Like War"
         author: Grace M. Cho
