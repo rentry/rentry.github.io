@@ -10,8 +10,7 @@ list:
         description: "“A humorous and rousing set of literal and figurative sojourns as well as a mission statement about comprehending, protecting, and truly experiencing the outdoors, fueled by three journeys undertaken by actor, humorist, and <cite>New York Times</cite> bestselling author Nick Offerman.”"
         genre: [memoir, nature]
         format: audiobook
-        progress: 50
-        completed: In progress
+        completed: 2021-11-24
 
       - title: "The Solace of Open Spaces"
         author: Gretel Ehrlich
