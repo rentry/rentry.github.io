@@ -11,6 +11,14 @@ list:
         genre: [historical fiction]
         completed: Next
 
+      - title: "Bushcraft Illustrated: A Visual Guide"
+        author: Dave Canterbury
+        link: https://www.simonandschuster.com/books/Bushcraft-Illustrated/Dave-Canterbury/Bushcraft/9781507209028
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781507209028/bushcraft-illustrated-9781507209028_lg.jpg
+        description: "“Before you venture into the wilderness, learn exactly what you need to bring and what you need to know with this ultimate outdoor reference guide, by survivalist expert Dave Canterbury.”"
+        genre: [survival, nature]
+        completed: 2021-11-25        
+
       - title: "Where the Deer and the Antelope Play: The Pastoral Observations of One Ignorant American Who Loves to Walk Outside"
         author: Nick Offerman
         link: https://www.penguinrandomhouse.com/books/536915/where-the-deer-and-the-antelope-play-by-nick-offerman/
