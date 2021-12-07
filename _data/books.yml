@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "The Story of Christianity: A History of 2000 Years of the Christian Faith"
+        author: David Bentley Hart
+        link: https://www.memoriapress.com/curriculum/christian-studies/the-story-of-christianity/
+        image: https://www.memoriapress.com/wp-content/uploads/2020/07/Story-of-Christianity.jpg
+        description: "“In this book, David Bentley Hart, a widely revered Christian scholar, gives a scholarly but readable portrait of the Christian Church from its origins in Judaism to the “house churches” in contemporary China. This is a great overview of the history of the church that is perfect for study before delving into the more difficult church historians such as Josephus and Eusebius.”"
+        genre: [religion, history]
+        format: audiobook
+        completed: Next
+
       - title: "Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living"
         author: Nick Offerman
         link: https://www.goodreads.com/book/show/17674991-paddle-your-own-canoe
