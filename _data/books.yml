@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "The Solace of Open Spaces"
+        author: Gretel Ehrlich
+        link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1356139502l/166990.jpg
+        description: "I'm re-reading this classic after several years. “A stunning collection of personal observations that uses images of the American West to probe larger concerns in lyrical, evocative prose that is a true celebration of the region.”"
+        genre: [nature, memoir]
+        format: audiobook
+        completed: In progress
+
       - title: "The Story of Christianity: A History of 2000 Years of the Christian Faith"
         author: David Bentley Hart
         link: https://www.memoriapress.com/curriculum/christian-studies/the-story-of-christianity/
@@ -10,7 +19,7 @@ list:
         description: "“In this book, David Bentley Hart, a widely revered Christian scholar, gives a scholarly but readable portrait of the Christian Church from its origins in Judaism to the “house churches” in contemporary China. This is a great overview of the history of the church that is perfect for study before delving into the more difficult church historians such as Josephus and Eusebius.”"
         genre: [religion, history]
         format: audiobook
-        completed: Next
+        completed: 2021-12-09
 
       - title: "Paddle Your Own Canoe: One Man's Fundamentals for Delicious Living"
         author: Nick Offerman
@@ -19,7 +28,7 @@ list:
         description: "“A mix of amusing anecdotes, opinionated lessons and rants, sprinkled with offbeat gaiety, <cite>Paddle Your Own Canoe</cite> will not only tickle readers pink but may also rouse them to put down their smart phones, study a few sycamore leaves, and maybe even hand craft (and paddle) their own canoes.”"
         genre: [memoir, humor]
         format: audiobook
-        completed: In progress
+        completed: 2021-12-08
 
       - title: "The Dawn of Everything: A New History of Humanity"
         author: David Graeber and David Wengrow 
