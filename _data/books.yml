@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Damnation Spring"
+        author: Ash Davidson
+        link: https://www.goodreads.com/book/show/55711638-damnation-spring
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625673653l/55711638.jpg
+        description: "“Told in prose as clear as a spring-fed creek, Damnation Spring is an intimate, compassionate portrait of a family whose bonds are tested and a community clinging to a vanishing way of life. An extraordinary story of the transcendent, enduring power of love—between husband and wife, mother and child, and longtime neighbors. An essential novel for our times.”"
+        genre: [fiction, historical fiction]
+        format: audiobook
+        completed: Next
+
       - title: "The Solace of Open Spaces"
         author: Gretel Ehrlich
         link: https://www.goodreads.com/book/show/166990.The_Solace_of_Open_Spaces
