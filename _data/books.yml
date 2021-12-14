@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Humankind: A Hopeful History"
+        author: Rutger Bregman
+        link: https://en.wikipedia.org/wiki/Humankind:_A_Hopeful_History
+        image: https://upload.wikimedia.org/wikipedia/commons/7/74/Humankind-_A_Hopeful_History_English_Cover.jpg
+        description: "“By providing a new historical perspective of the last 200,000 years of human history, Bregman sets out to prove that we are in fact evolutionarily wired for cooperation rather than competition, and that our instinct to trust each other has a firm evolutionary basis going back to the beginning of <cite>Homo sapiens</cite>.”"
+        genre: [history, society]
+        format: audiobook
+        completed: In progress
+
       - title: "Damnation Spring"
         author: Ash Davidson
         link: https://www.goodreads.com/book/show/55711638-damnation-spring
@@ -10,7 +19,7 @@ list:
         description: "“Told in prose as clear as a spring-fed creek, Damnation Spring is an intimate, compassionate portrait of a family whose bonds are tested and a community clinging to a vanishing way of life. An extraordinary story of the transcendent, enduring power of love—between husband and wife, mother and child, and longtime neighbors. An essential novel for our times.”"
         genre: [fiction, historical fiction]
         format: audiobook
-        completed: In progress
+        completed: 2021-12-13
 
       - title: "The Solace of Open Spaces"
         author: Gretel Ehrlich
