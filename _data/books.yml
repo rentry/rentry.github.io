@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "The Age of Extremes: The Short Twentieth Century, 1914–1991"
+        author: Eric Hobsbawm
+        link: https://en.wikipedia.org/wiki/The_Age_of_Extremes
+        image: https://upload.wikimedia.org/wikipedia/en/2/29/The_Age_of_Extremes.jpg
+        description: "“Hobsbawm calls the period from the start of World War I to the fall of the so-called Soviet bloc ‘the short twentieth century’, to follow on ‘the long 19th century’, the period from the start of the French Revolution in 1789 to the start of World War I in 1914, which he covered in an earlier trilogy of histories (<cite>The Age of Revolution: Europe, 1789-1848</cite>, <cite>The Age of Capital: 1848–1875</cite>, <cite>The Age of Empire: 1875–1914</cite>).”"
+        genre: [history, economics, society]
+        completed: In progress
+
       - title: "The Summit of the Gods"
         author: Rutger Bregman
         link: https://en.wikipedia.org/wiki/The_Summit_of_the_Gods
