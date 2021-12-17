@@ -3,6 +3,14 @@ list:
   - year: 2021
     books:
 
+      - title: "Cloud Cuckoo Land"
+        author: Anthony Doerr
+        link: https://www.simonandschuster.com/books/Cloud-Cuckoo-Land/Anthony-Doerr/9781982168438
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982168438/cloud-cuckoo-land-9781982168438_lg.jpg
+        description: "“Set in Constantinople in the fifteenth century, in a small town in present-day Idaho, and on an interstellar ship decades from now, Anthony Doerr’s gorgeous third novel is a triumph of imagination and compassion, a soaring story about children on the cusp of adulthood in worlds in peril, who find resilience, hope—and a book.”"
+        genre: [fiction, historical fiction]
+        completed: In progress
+
       - title: "The Age of Extremes: The Short Twentieth Century, 1914–1991"
         author: Eric Hobsbawm
         link: https://en.wikipedia.org/wiki/The_Age_of_Extremes
