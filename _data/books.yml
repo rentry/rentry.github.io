@@ -9,7 +9,7 @@ list:
         image: https://cdn.shopify.com/s/files/1/0726/9203/products/martin.newtitle_1024x1024.jpg?v=1617735388
         description: "“<cite>In the Eye of the Wild</cite> begins with an account of the French anthropologist Nastassja Martin’s near fatal run-in with a Kamchatka bear in the mountains of Siberia. Martin’s professional interest is animism; she addresses philosophical questions about the relation of humankind to nature, and in her work she seeks to partake as fully as she can in the lives of the indigenous peoples she studies. Her violent encounter with the bear, however, brings her face-to-face with something entirely beyond her ken—the untamed, the nonhuman, the animal, the wild. In the course of that encounter something in the balance of her world shifts. A change takes place that she must somehow reckon with.”"
         genre: [memoir]
-        completed: Next
+        completed: 2021-12-20
 
       - title: "Cloud Cuckoo Land"
         author: Anthony Doerr
@@ -18,6 +18,7 @@ list:
         description: "“Set in Constantinople in the fifteenth century, in a small town in present-day Idaho, and on an interstellar ship decades from now, Anthony Doerr’s gorgeous third novel is a triumph of imagination and compassion, a soaring story about children on the cusp of adulthood in worlds in peril, who find resilience, hope—and a book.”"
         format: audiobook
         genre: [fiction, historical fiction]
+        progress: 75
         completed: In progress
 
       - title: "The Age of Extremes: The Short Twentieth Century, 1914–1991"
@@ -27,6 +28,7 @@ list:
         description: "“Hobsbawm calls the period from the start of World War I to the fall of the so-called Soviet bloc ‘the short twentieth century’, to follow on ‘the long 19th century’, the period from the start of the French Revolution in 1789 to the start of World War I in 1914, which he covered in an earlier trilogy of histories (<cite>The Age of Revolution: Europe, 1789-1848</cite>, <cite>The Age of Capital: 1848–1875</cite>, <cite>The Age of Empire: 1875–1914</cite>).”"
         format: audiobook
         genre: [history, economics, society]
+        progress: 25
         completed: In progress
 
       - title: "The Summit of the Gods"
