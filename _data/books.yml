@@ -44,7 +44,7 @@ list:
         format: audiobook
         genre: [history, economics, society]
         progress: 25
-        completed: In progress
+        completed: 2021-12-24
 
       - title: "The Summit of the Gods"
         author: Rutger Bregman
