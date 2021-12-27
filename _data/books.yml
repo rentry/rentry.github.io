@@ -9,7 +9,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585112864l/49098218._SY475_.jpg
         description: "“This is the first major history of the Himalaya: an epic story of peoples, cultures and adventures among the world’s highest mountains. Spanning millennia, from its earliest inhabitants to the present conflicts over Tibet and Everest, Himalaya is a soaring account of resilience and conquest, discovery and plunder, oppression and enlightenment at the ‘roof of the world’.”"
         genre: [history, culture]
-        completed: Next
+        completed: In progress
 
       - title: "Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton"
         author: Kevin Grange
@@ -17,7 +17,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614442053l/52568258.jpg
         description: "“<cite>Wild Rescues</cite> is a fast-paced, firsthand glimpse into the exciting lives of paramedics who work with the National Park Service: a unique brand of park rangers who respond to medical and traumatic emergencies in some of the most isolated and rugged parts of America.”"
         genre: [memoir, search and rescue]
-        completed: In progress
+        completed: 2021-12-27
 
       - title: "In the Eye of the Wild"
         author: Nastassja Martin
