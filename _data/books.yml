@@ -3,6 +3,15 @@ list:
   - year: 2021
     books:
 
+      - title: "Tribe: On Homecoming and Belonging"
+        author: Sebastian Junger
+        link: https://www.goodreads.com/book/show/40940205-tribe
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532479315l/40940205._SY475_.jpg
+        description: "“There are ancient tribal human behaviors-loyalty, inter-reliance, cooperation-that flare up in communities during times of turmoil and suffering. These are the very same behaviors that typify good soldiering and foster a sense of belonging among troops, whether they’re fighting on the front lines or engaged in non-combat activities away from the action. Drawing from history, psychology, and anthropology, bestselling author Sebastian Junger shows us just how at odds the structure of modern society is with our tribal instincts, arguing that the difficulties many veterans face upon returning home from war do not stem entirely from the trauma they’ve suffered, but also from the individualist societies they must reintegrate into.”"
+        genre: [society, psychology]
+        format: audiobook
+        completed: In progress
+
       - title: "Himalaya: A Human History"
         author: Ed Douglas
         link: https://www.goodreads.com/book/show/49098218-himalaya
