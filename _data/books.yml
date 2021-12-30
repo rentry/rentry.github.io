@@ -1,5 +1,16 @@
 list:
 
+  - year: 2022
+    books:
+
+      - title: "Himalaya: A Human History"
+        author: Ed Douglas
+        link: https://www.goodreads.com/book/show/49098218-himalaya
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585112864l/49098218._SY475_.jpg
+        description: "“This is the first major history of the Himalaya: an epic story of peoples, cultures and adventures among the world’s highest mountains. Spanning millennia, from its earliest inhabitants to the present conflicts over Tibet and Everest, Himalaya is a soaring account of resilience and conquest, discovery and plunder, oppression and enlightenment at the ‘roof of the world’.”"
+        genre: [history, culture]
+        completed: In progress
+
   - year: 2021
     books:
 
@@ -11,14 +22,6 @@ list:
         genre: [society, psychology]
         format: audiobook
         completed: 2021-12-28
-
-      - title: "Himalaya: A Human History"
-        author: Ed Douglas
-        link: https://www.goodreads.com/book/show/49098218-himalaya
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585112864l/49098218._SY475_.jpg
-        description: "“This is the first major history of the Himalaya: an epic story of peoples, cultures and adventures among the world’s highest mountains. Spanning millennia, from its earliest inhabitants to the present conflicts over Tibet and Everest, Himalaya is a soaring account of resilience and conquest, discovery and plunder, oppression and enlightenment at the ‘roof of the world’.”"
-        genre: [history, culture]
-        completed: In progress
 
       - title: "Wild Rescues: A Paramedic's Extreme Adventures in Yosemite, Yellowstone, and Grand Teton"
         author: Kevin Grange

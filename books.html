@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Reading
-current-year: 2021
+current-year: 2022
 ---
 <h1>{{ page.title }}</h1>
 
@@ -17,7 +17,13 @@ current-year: 2021
 <ul class="tag-group">
   {% for entry in site.data.books.list %}
   {% assign bookSize = entry.books | size %}
-  <li class="tags"><a href="#{{entry.year}}-books">{{ entry.year }}<span class="details">{{ bookSize }} books</span></a></li>
+  <li class="tags"><a href="#{{entry.year}}-books">{{ entry.year }}
+    {% if bookSize %}
+      {% if bookSize == 1 %}<span class="details">{{ bookSize }} book
+      {% elsif bookSize > 1 %}<span class="details">{{ bookSize }} books
+      {% endif %}  
+    </span></a></li>
+    {% endif %} 
   {% endfor %}  
 </ul>
 {% endif %}
@@ -32,7 +38,7 @@ current-year: 2021
       {% elsif bookSize > 1 %}
         <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">{{ bookSize }} books</span>
       {% else %}
-        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">I haven't read any books this year. So far.</span>
+        <h2 id="{{entry.year}}-books">{{ entry.year }}</h2><span class="details">I haven't read any books this year.</span>
       {% endif %}
     </div>  
     <div>
