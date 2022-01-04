@@ -10,7 +10,7 @@ list:
         description: "“Called ‘one of the nation's most effective communicators on climate chang’ by <cite>The New York Times</cite>, Katharine Hayhoe knows how to navigate all sides of the conversation on our changing planet. A Canadian climate scientist living in Texas, she negotiates distrust of data, indifference to imminent threats, and resistance to proposed solutions with ease. Over the past fifteen years Hayhoe has found that the most important thing we can do to address climate change is talk about it—and she wants to teach you how.”"
         genre: [society, politics, climate]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Pastoralia"
         author: George Saunders
@@ -19,7 +19,7 @@ list:
         description: "“George Saunders takes us even further into the shocking, uproarious and oddly familiar landscape of his imagination. The stories in Pastoralia are set in a slightly skewed version of America, where elements of contemporary life have been merged, twisted, and amplified, casting their absurdity-and our humanity-in a startling new light.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-01-04
 
       - title: "Himalaya: A Human History"
         author: Ed Douglas
