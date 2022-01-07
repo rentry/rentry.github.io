@@ -3,13 +3,22 @@ list:
   - year: 2022
     books:
 
+      - title: "Beasts of a Little Land"
+        author: Juhea Kim
+        link: https://www.harpercollins.com/products/beasts-of-a-little-land-juhea-kim?variant=39278401912866
+        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780063093577_58d78728-6d04-450a-afd4-de18907ff0b1.jpg?v=1641320057bfqCx9uT9NX2bwuyYvauaJ2QkwE21YOk0Tc8IjEb8uDgrCUzzICFTIwxBVyyhScl4bP7Cndx0Pcd2dbA5__HxQGDNO_WwCaoD-bY
+        description: "“An epic story of love, war, and redemption set against the backdrop of the Korean independence movement, following the intertwined fates of a young girl sold to a courtesan school and the penniless son of a hunter”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "North Shore Rescue: If You Get Lost Today, Will Anyone Know?"
         author: Allen Billy
         link: https://books.friesenpress.com/store/title/119734000151170223
         image: https://lh3.googleusercontent.com/bfqCx9uT9NX2bwuyYvauaJ2QkwE21YOk0Tc8IjEb8uDgrCUzzICFTIwxBVyyhScl4bP7Cndx0Pcd2dbA5__HxQGDNO_WwCaoD-bY
         description: "“The North Shore Rescue Team has existed since 1965 and has performed thousands of search and rescue operations on the North Shore Mountains and other locations throughout British Columbia and Washington State. Team activities have assisted at least 4,500 lost or injured individuals in mountain and wilderness settings.”"
         genre: [search and rescue]
-        completed: Next
+        completed: In progress
 
       - title: "Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World"
         author: Katharine Hayhoe
