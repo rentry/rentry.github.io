@@ -3,11 +3,20 @@ list:
   - year: 2022
     books:
 
+      - title: "Radical Sacrifice"
+        author: Terry Eagleton
+        link: https://yalebooks.yale.edu/book/9780300233353/radical-sacrifice
+        image: https://yalebooks.yale.edu/sites/default/files/styles/book_jacket/public/imagecache/external/b07586579e67073a8d849024452adc19.jpg?itok=NNJejYPk
+        description: "“The modern conception of sacrifice is at once cast as a victory of self-discipline over desire and condescended to as destructive and archaic abnegation. But even in the Old Testament, the dual natures of sacrifice, embodying both ritual slaughter and moral rectitude, were at odds. In this analysis, Terry Eagleton makes a compelling argument that the idea of sacrifice has long been misunderstood.”"
+        genre: [philosophy, politics, religion]
+        format: audiobook
+        completed: In progress
+
       - title: "Beasts of a Little Land"
         author: Juhea Kim
         link: https://www.harpercollins.com/products/beasts-of-a-little-land-juhea-kim?variant=39278401912866
         image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780063093577_58d78728-6d04-450a-afd4-de18907ff0b1.jpg?v=1641320057bfqCx9uT9NX2bwuyYvauaJ2QkwE21YOk0Tc8IjEb8uDgrCUzzICFTIwxBVyyhScl4bP7Cndx0Pcd2dbA5__HxQGDNO_WwCaoD-bY
-        description: "“An epic story of love, war, and redemption set against the backdrop of the Korean independence movement, following the intertwined fates of a young girl sold to a courtesan school and the penniless son of a hunter”"
+        description: "“An epic story of love, war, and redemption set against the backdrop of the Korean independence movement, following the intertwined fates of a young girl sold to a courtesan school and the penniless son of a hunter.”"
         genre: [fiction]
         format: audiobook
         completed: 2022-01-09
