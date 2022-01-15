@@ -9,7 +9,7 @@ list:
         image: https://mpd-biblio-covers.imgix.net/9780374279325.jpg?w=900
         description: "“<cite>The Transcendentalists and Their World</cite> offers a fresh view of the thinkers whose outsize impact on philosophy and literature would spread from tiny Concord to all corners of the earth. Ralph Waldo Emerson, Henry David Thoreau, Nathaniel Hawthorne, and the Alcotts called this New England town home, and Thoreau drew on its life extensively in his classic <cite>Walden</cite>. But Concord from the 1820s through the 1840s was no pastoral place fit for poets and philosophers.”"
         genre: [philosophy, history]
-        completed: Next
+        completed: In progress
 
       - title: "Radical Sacrifice"
         author: Terry Eagleton
