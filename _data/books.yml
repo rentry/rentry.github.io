@@ -35,7 +35,7 @@ list:
         image: https://lh3.googleusercontent.com/bfqCx9uT9NX2bwuyYvauaJ2QkwE21YOk0Tc8IjEb8uDgrCUzzICFTIwxBVyyhScl4bP7Cndx0Pcd2dbA5__HxQGDNO_WwCaoD-bY
         description: "“The North Shore Rescue Team has existed since 1965 and has performed thousands of search and rescue operations on the North Shore Mountains and other locations throughout British Columbia and Washington State. Team activities have assisted at least 4,500 lost or injured individuals in mountain and wilderness settings.”"
         genre: [search and rescue]
-        completed: In progress
+        completed: 2021-01-14
 
       - title: "Saving Us: A Climate Scientist's Case for Hope and Healing in a Divided World"
         author: Katharine Hayhoe
