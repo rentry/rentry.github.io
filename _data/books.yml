@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Wildland: The Making of America's Fury"
+        author: Evan Osnos
+        link: https://www.harvard.com/book/wildland/
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616477635l/56269283.jpg
+        description: "“After a decade abroad, the National Book Award– and Pulitzer Prize–winning writer Evan Osnos returns to three places he has lived in the United States—Greenwich, CT; Clarksburg, WV; and Chicago, IL—to illuminate the origins of America’s political fury.”"
+        genre: [politics, society]
+        completed: In progress
+
       - title: "The Transcendentalists and Their World"
         author: Robert A. Gross
         link: https://us.macmillan.com/books/9780374279325/thetranscendentalistsandtheirworld
