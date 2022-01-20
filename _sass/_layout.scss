@@ -109,28 +109,28 @@ nav.site-nav {
 }
 
 .about-image {
-  background: url(../assets/images/header.jpg);
+  background: url(../assets/images/header.png);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
-  background-size: cover;
+  /*background-size: cover;*/
 }
 
 @media only screen and (max-width: 1300px) {
     .about-image {
-        background-image: url(../assets/images/header-medium.jpg);
+        background-image: url(../assets/images/header-medium.png);
     }
 }
 
 @media only screen and (max-width: 980px) {
     .about-image {
-        background-image: url(../assets/images/header-small.jpg);
+        background-image: url(../assets/images/header-small.png);
     }
 }
 
 @media only screen and (max-width: 450px) {
     .about-image {
-        background-image: url(../assets/images/header-verysmall.jpg);
+        background-image: url(../assets/images/header-verysmall.png);
         height: 350px;
     }
     #words-and-maps {
