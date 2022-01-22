@@ -9,7 +9,8 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1616477635l/56269283.jpg
         description: "“After a decade abroad, the National Book Award– and Pulitzer Prize–winning writer Evan Osnos returns to three places he has lived in the United States—Greenwich, CT; Clarksburg, WV; and Chicago, IL—to illuminate the origins of America’s political fury.”"
         genre: [politics, society]
-        completed: In progress
+        format: audiobook
+        completed: 2022-01-22
 
       - title: "The Transcendentalists and Their World"
         author: Robert A. Gross
