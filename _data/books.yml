@@ -10,7 +10,7 @@ list:
         description: "“In a collection of gripping stories of adventure, Doug Peacock, loner, iconoclast, environmentalist, and contemporary of Edward Abbey, reflects on a life lived in the wild, asking the question many ask in their twilight years: ‘Was It Worth It?’”"
         genre: [environment, activism, nature]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "It Was All a Lie: How the Republican Party Became Donald Trump"
         author: Stuart Stevens
@@ -19,7 +19,7 @@ list:
         description: "“Stuart Stevens spent decades electing Republicans at every level, from presidents to senators to local officials. He knows the GOP as intimately as anyone in America, and in this new book he offers a devastating portrait of a party that has lost its moral and political compass.”"
         genre: [politics, society]
         format: audiobook
-        completed: In progress
+        completed: 2022-01-24
 
       - title: "Wildland: The Making of America's Fury"
         author: Evan Osnos
