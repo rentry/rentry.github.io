@@ -3,8 +3,17 @@ list:
   - year: 2022
     books:
 
-      - title: "Davos Man: How the Billionaires Devoured the World "
-        author:  Peter S. Goodman
+      - title: "Brave Enough"
+        author: Jessie Diggins
+        link: https://www.goodreads.com/book/show/57863480-davos-man
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637612320l/57863480.jpg
+        description: "“Jessie Diggins reveals the true story of her journey from the American Midwest into sports history. With candid charm and characteristic grit, she connects the dots from her free-spirited upbringing in the woods of Minnesota to racing in the bright spotlights of the Olympics.”"
+        genre: [memoir, sports]
+        format: audiobook
+        completed: In progress
+
+      - title: "Davos Man: How the Billionaires Devoured the World"
+        author: Peter S. Goodman
         link: https://www.goodreads.com/book/show/57863480-davos-man
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637612320l/57863480.jpg
         description: "“From the <cite>New York Times</cite>'s Global Economics Correspondent, a masterwork of explanatory journalism that exposes how billionaires' systematic plunder of the world—brazenly accelerated during the pandemic—has transformed 21st-century life and dangerously destabilized democracy. ”"
