@@ -3,12 +3,12 @@ list:
   - year: 2022
     books:
 
-      - title: "Brave Enough"
-        author: Jessie Diggins
-        link: https://www.upress.umn.edu/book-division/books/brave-enough
-        image: https://www.upress.umn.edu/book-division/books/brave-enough/@@images/image/mini
-        description: "“Jessie Diggins reveals the true story of her journey from the American Midwest into sports history. With candid charm and characteristic grit, she connects the dots from her free-spirited upbringing in the woods of Minnesota to racing in the bright spotlights of the Olympics.”"
-        genre: [memoir, sports]
+      - title: "Grinnell: America's Environmental Pioneer and His Restless Drive to Save the West"
+        author: John Taliaferro
+        link: https://www.goodreads.com/book/show/41817509-grinnell
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539946654l/41817509.jpg
+        description: "“George Bird Grinnell, the son of a New York merchant, saw a different future for a nation in the thrall of the Industrial Age. With railroads scarring virgin lands and the formerly vast buffalo herds decimated, the country faced a crossroads: Could it pursue Manifest Destiny without destroying its natural bounty and beauty? The alarm that Grinnell sounded would spark America’s conservation movement.”"
+        genre: [history, nature, biography, conservation]
         format: audiobook
         completed: In progress
 
