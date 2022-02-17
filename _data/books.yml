@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "It Ends with Us"
+        author: Colleen Hoover
+        link: https://www.goodreads.com/book/show/27362503-it-ends-with-us
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1470427482l/27362503._SY475_.jpg
+        description: "“In this ‘brave and heartbreaking novel that digs its claws into you and doesn’t let go, long after you’ve finished it’ (Anna Todd, <cite>New York Times</cite> bestselling author) from the #1 <cite>New York Times</cite> bestselling author of <cite>All Your Perfects</cite>, a workaholic with a too-good-to-be-true romance can’t stop thinking about her first love.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Reckless Girls"
         author: Rachel Hawkins
         link: https://us.macmillan.com/books/9781250274250/recklessgirls
