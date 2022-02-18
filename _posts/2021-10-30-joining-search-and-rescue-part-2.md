@@ -83,7 +83,7 @@ My chest kit is where I've customized the most, with multiple add-ons and redund
 
 ### GPS devices
 
-I carry four separate GPS devices: ![Coaxsher MOLLE chest harness]({{ '/assets/images/sar/sar-gear-watch.jpg' | relative_url }}#float)
+I carry four separate GPS devices: ![Suunto watch displaying altimeter and distance readings]({{ '/assets/images/sar/sar-gear-watch.jpg' | relative_url }}#float)
 
 - **[Suunto Ambit3 Peak watch](https://www.suunto.com/en-us/Products/Sports-Watches/Suunto-Ambit3-Peak/Suunto-Ambit3-Peak-Black/)**: I'm not much of a watch wearer, but I prefer to have one on SAR missions. I use this watch almost exclusively for SAR missions. I bought this from Suunto in 2020 for $160, far below its original retail price. It's useful as a quick way to get coordinates, record tracks (the watch will guide you back to your starting position), find your altitude, track storms, and more. And it serves as backup for the other navigation items.
 - iPhone with **[Gaia GPS](https://www.gaiagps.com/)**: This is my primary means of GPS navigation. I have a paid plan with Gaia GPS, which allows me to download basemaps for the areas in which I'll be deployed for search.
