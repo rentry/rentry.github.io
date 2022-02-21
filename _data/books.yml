@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Maid"
+        author: Nita Prose
+        link: https://www.goodreads.com/book/show/55196813-the-maid
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643228739l/55196813.jpg
+        description: "“Devotees of cozy mysteries, rejoice: Nita Prose's debut, The Maid, satisfies on every level — from place to plot to protagonist.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "It Ends with Us"
         author: Colleen Hoover
         link: https://www.goodreads.com/book/show/27362503-it-ends-with-us
@@ -10,7 +19,7 @@ list:
         description: "“In this ‘brave and heartbreaking novel that digs its claws into you and doesn’t let go, long after you’ve finished it’ (Anna Todd, <cite>New York Times</cite> bestselling author) from the #1 <cite>New York Times</cite> bestselling author of <cite>All Your Perfects</cite>, a workaholic with a too-good-to-be-true romance can’t stop thinking about her first love.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-02-12
 
       - title: "Reckless Girls"
         author: Rachel Hawkins
