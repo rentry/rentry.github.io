@@ -3,6 +3,23 @@ list:
   - year: 2022
     books:
 
+      - title: "Wayward"
+        author: Chris Burkard
+        link: https://www.chrisburkardworkshops.com/wayward
+        image: https://www.abramsbooks.com/cover_images/8/9781419732768_s3.jpg
+        description: "“Wayward is a collection of striking photographs and the revealing personal stories behind them by one of the leading surf, nature, and adventure photographers of our time. At remote beaches and locales in places like Russia, Norway, Iceland, and the Aleutian Islands, Chris Burkard suffered from hypothermia, destroyed thousands of dollars' worth of camera gear, and spent a few nights in jail. But in the process, he captured amazing and iconic images that have defined his life’s work.”"
+        genre: [memoir, photography]
+        completed: In progress
+
+      - title: "Origin: A Genetic History of the Americas"
+        author: Jennifer Raff
+        link: https://www.goodreads.com/book/show/53916158-origin
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643228739l/55196813.jpg
+        description: "“<cite>Origin</cite> is the story of who the first peoples in the Americas were, how and why they made the crossing, how they dispersed south, and how they lived based on a new and powerful kind of evidence: their complete genomes.”"
+        genre: [anthropology, science]
+        format: audiobook
+        completed: In progress
+
       - title: "The Maid"
         author: Nita Prose
         link: https://www.goodreads.com/book/show/55196813-the-maid
