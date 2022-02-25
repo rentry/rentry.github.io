@@ -3,14 +3,6 @@ list:
   - year: 2022
     books:
 
-      - title: "Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road"
-        author: Kyle Buchanan
-        link: https://www.harpercollins.com/products/blood-sweat-chrome-kyle-buchanan?variant=39314534629410
-        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780063084346.jpg?v=1645656414
-        description: "“A full-speed-ahead oral history of the nearly two-decade making of the cultural phenomenon <cite>Mad Max: Fury Road</cite>—with more than 130 new interviews with key members of the cast and crew, including Charlize Theron, Tom Hardy, and director George Miller, from the pop culture reporter for <cite>The New York Times</cite>, Kyle Buchanan.”"
-        genre: [film]
-        completed: Next
-
       - title: "The Treeline: The Last Forest and the Future of Life on Earth"
         author: Ben Rawlence
         link: https://www.goodreads.com/book/show/56268809-the-treeline
@@ -18,6 +10,14 @@ list:
         description: "“For the last fifty years, the trees of the boreal forest have been moving north. Ben Rawlence's <cite>The Treeline</cite> takes us along this critical frontier of our warming planet from Norway to Siberia, Alaska to Greenland, to meet the scientists, residents and trees confronting huge geological changes.”"
         genre: [climate change, science, environment]
         completed: Next
+
+      - title: "Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road"
+        author: Kyle Buchanan
+        link: https://www.harpercollins.com/products/blood-sweat-chrome-kyle-buchanan?variant=39314534629410
+        image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780063084346.jpg?v=1645656414
+        description: "“A full-speed-ahead oral history of the nearly two-decade making of the cultural phenomenon <cite>Mad Max: Fury Road</cite>—with more than 130 new interviews with key members of the cast and crew, including Charlize Theron, Tom Hardy, and director George Miller, from the pop culture reporter for <cite>The New York Times</cite>, Kyle Buchanan.”"
+        genre: [film]
+        completed: In progress
 
       - title: "Wayward"
         author: Chris Burkard
@@ -34,7 +34,7 @@ list:
         description: "“<cite>Origin</cite> is the story of who the first peoples in the Americas were, how and why they made the crossing, how they dispersed south, and how they lived based on a new and powerful kind of evidence: their complete genomes.”"
         genre: [anthropology, science]
         format: audiobook
-        completed: In progress
+        completed: 2022-02-25
 
       - title: "The Maid"
         author: Nita Prose
