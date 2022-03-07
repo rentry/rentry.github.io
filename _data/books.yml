@@ -9,6 +9,7 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617877772l/55881796._SY475_.jpg
         description: "“A tour de force of interwoven perspectives and sustained suspense, its action largely unfolding on a single winter day, <cite>Crossroads</cite> is the story of a Midwestern family at a pivotal moment of moral crisis. Jonathan Franzen's gift for melding the small picture and the big picture has never been more dazzlingly evident.”"
         genre: [fiction]
+        format: audiobook
         completed: Next
 
       - title: "It's What I Do: A Photographer's Life of Love and War"
@@ -17,7 +18,8 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1407106685l/22571757.jpg
         description: "“War photographer Lynsey Addario’s memoir <cite>It’s What I Do</cite> is the story of how the relentless pursuit of truth, in virtually every major theater of war in the twenty-first century, has shaped her life. What she does, with clarity, beauty, and candor, is to document, often in their most extreme moments, the complex lives of others. It’s her work, but it’s much more than that: it’s her singular calling.”"
         genre: [memoir, photography]
-        completed: Next
+        format: audiobook
+        completed: In progress
 
       - title: "The Treeline: The Last Forest and the Future of Life on Earth"
         author: Ben Rawlence
