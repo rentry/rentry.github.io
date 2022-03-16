@@ -3,8 +3,17 @@ list:
   - year: 2022
     books:
 
+      - title: "The Road to Unfreedom: Russia, Europe, America"
+        author: Timothy Snyder
+        link: https://www.goodreads.com/book/show/36217163-the-road-to-unfreedom
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519831741l/36217163._SY475_.jpg
+        description: "“With the end of the Cold War, the victory of liberal democracy was thought to be absolute. Observers declared the end of history, confident in a peaceful, globalized future. But we now know this to be premature. Authoritarianism first returned in Russia, as Putin developed a political system dedicated solely to the consolidation and exercise of power.”"
+        genre: [history, politics]
+        format: audiobook
+        completed: In progress
+
       - title: "Crossroads"
-        author:  Jonathan Franzen
+        author: Jonathan Franzen
         link: https://www.goodreads.com/book/show/55881796-crossroads
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617877772l/55881796._SY475_.jpg
         description: "“A tour de force of interwoven perspectives and sustained suspense, its action largely unfolding on a single winter day, <cite>Crossroads</cite> is the story of a Midwestern family at a pivotal moment of moral crisis. Jonathan Franzen's gift for melding the small picture and the big picture has never been more dazzlingly evident.”"
