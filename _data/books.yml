@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Image Performance"
+        author: Mat Marquis
+        link: https://abookapart.com/products/image-performance
+        image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-briefs-cover-8_300x_2x_a4df8561-4762-4f7d-b4d3-78f61a98abb6_112x@3x.png?v=1548453594
+        description: "“To solve the most critical performance problems with the biggest impact, start with images. Responsive Issues Community Group (RICG) chair Mat Marquis helps us make smart decisions about images and shows us the swiftest way to improve a website’s performance: from understanding compression methods used by common image formats, to responsive image markup patterns and their usage, to handling content delivery for the best user experience. Get up to speed—and speed up your site.”"
+        genre: [web]
+        completed: 2022-03-18
+
       - title: "The Road to Unfreedom: Russia, Europe, America"
         author: Timothy Snyder
         link: https://www.goodreads.com/book/show/36217163-the-road-to-unfreedom
