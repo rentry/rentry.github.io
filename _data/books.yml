@@ -3,6 +3,22 @@ list:
   - year: 2022
     books:
 
+      - title: " Design after Capitalism: Transforming Design Today for an Equitable Tomorrow "
+        author: Matthew Wizinsky
+        link: https://mitpress.mit.edu/books/design-after-capitalism
+        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
+        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
+        genre: [technology, politics, economics]
+        completed: Next
+
+      - title: "Waterlog"
+        author: Roger Deakin
+        link: https://www.goodreads.com/book/show/1454159.Waterlog
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320503793l/1454159.jpg
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
+        genre: [memoir, nature]
+        completed: In progress
+
       - title: "Image Performance"
         author: Mat Marquis
         link: https://abookapart.com/products/image-performance
@@ -17,15 +33,6 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519831741l/36217163._SY475_.jpg
         description: "“With the end of the Cold War, the victory of liberal democracy was thought to be absolute. Observers declared the end of history, confident in a peaceful, globalized future. But we now know this to be premature. Authoritarianism first returned in Russia, as Putin developed a political system dedicated solely to the consolidation and exercise of power.”"
         genre: [history, politics]
-        format: audiobook
-        completed: In progress
-
-      - title: "Crossroads"
-        author: Jonathan Franzen
-        link: https://www.goodreads.com/book/show/55881796-crossroads
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617877772l/55881796._SY475_.jpg
-        description: "“A tour de force of interwoven perspectives and sustained suspense, its action largely unfolding on a single winter day, <cite>Crossroads</cite> is the story of a Midwestern family at a pivotal moment of moral crisis. Jonathan Franzen's gift for melding the small picture and the big picture has never been more dazzlingly evident.”"
-        genre: [fiction]
         format: audiobook
         completed: In progress
 
