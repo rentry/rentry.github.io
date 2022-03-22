@@ -9,6 +9,7 @@ list:
         image: https://cdn.shopify.com/s/files/1/0285/2821/4050/products/9780062853912_cef5a4ff-a144-4951-8cec-8225efcf2f5d.jpg?v=1647884991
         description: "“The story of our home planet and the organisms spread across its surface is far more spectacular than any Hollywood blockbuster, filled with enough plot twists to rival a bestselling thriller. But only recently have we begun to piece together the whole mystery into a coherent narrative. Drawing on his decades of field research and up-to-the-minute understanding of the latest science, renowned geologist Andrew H. Knoll delivers a rigorous yet accessible biography of Earth, charting our home planet's epic 4.6 billion-year story.”"
         genre: [science, nature]
+        format: audiobook
         completed: Next
 
       - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
