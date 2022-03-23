@@ -10,7 +10,7 @@ list:
         description: "“The story of our home planet and the organisms spread across its surface is far more spectacular than any Hollywood blockbuster, filled with enough plot twists to rival a bestselling thriller. But only recently have we begun to piece together the whole mystery into a coherent narrative. Drawing on his decades of field research and up-to-the-minute understanding of the latest science, renowned geologist Andrew H. Knoll delivers a rigorous yet accessible biography of Earth, charting our home planet's epic 4.6 billion-year story.”"
         genre: [science, nature]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
         author: Matthew Wizinsky
@@ -43,7 +43,7 @@ list:
         description: "“With the end of the Cold War, the victory of liberal democracy was thought to be absolute. Observers declared the end of history, confident in a peaceful, globalized future. But we now know this to be premature. Authoritarianism first returned in Russia, as Putin developed a political system dedicated solely to the consolidation and exercise of power.”"
         genre: [history, politics]
         format: audiobook
-        completed: In progress
+        completed: 2022-03-23
 
       - title: "It's What I Do: A Photographer's Life of Love and War"
         author: Lynsey Addario
