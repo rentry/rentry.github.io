@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Fellowship of the Ring"
+        author: J.R.R. Tolkien
+        link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
+        image: https://covers.audiobooks.com/images/covers/full/9781705047576.jpg
+        description: "I'm revisiting Middle-earth thanks to this new, unabridged audiobook, narrated by Andy Serkis."
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "A Brief History of Earth: Four Billion Years in Eight Chapters"
         author: Andrew H. Knoll
         link: https://www.harpercollins.com/products/a-brief-history-of-earth-andrew-h-knoll?variant=32231858700322
