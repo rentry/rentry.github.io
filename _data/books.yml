@@ -4,7 +4,7 @@ list:
     books:
 
       - title: "The Fellowship of the Ring"
-        author: J.R.R. Tolkien
+        author: J.R.R. Tolkien, narrated by Andy Serkis
         link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
         image: https://covers.audiobooks.com/images/covers/full/9781705047576.jpg
         description: "I'm revisiting Middle-earth thanks to this new, unabridged audiobook, narrated by Andy Serkis."
