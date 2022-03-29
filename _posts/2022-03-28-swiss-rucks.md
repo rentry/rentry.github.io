@@ -31,7 +31,7 @@ I've made soups and pesto with stinging nettle, so I'm no stranger to its merits
 
 ![Canvas Swiss Army rucksack with leather fittings sitting on a stump in front of stacked wood]({{ '/assets/images/2022-ruck-1-1.jpg' | relative_url }}#full)
 
-And although the ‘salt and pepper’ pack is my oldest, I have also a 1983 rubberized Swiss rucksack, which is effectively a water-resistant (and less aesthetically pleasing) version of the former. Its shape and hardware are identical to the canvas model. I don't recall when or where I acquired this bag, but I suspect I picked it up at either [Andy and Bax](https://www.andyandbax.com/) or [Alley Cat Supply](https://www.yelp.com/biz/alley-cat-supply-boring) in the early 2000s.
+And although the ‘salt and pepper’ pack is the first Swiss pack I purchased, I have also a 1983 rubberized Swiss rucksack, which is effectively a water-resistant (and less aesthetically pleasing) version of the former. Its shape and hardware are identical to the canvas model. I don't recall when or where I acquired this bag, but I suspect I picked it up at either [Andy and Bax](https://www.andyandbax.com/) or [Alley Cat Supply](https://www.yelp.com/biz/alley-cat-supply-boring) in the early 2000s.
 
 ![Rubberized Swiss rucksack with black leather fittings sitting on a stump in front of wood stack]({{ '/assets/images/2022-ruck-2-1.jpg' | relative_url }}#full)
 
