@@ -35,7 +35,7 @@ And although the ‘salt and pepper’ pack is my oldest, I have also a 1983 rub
 
 ![Rubberized Swiss rucksack with black leather fittings sitting on a stump in front of wood stack]({{ '/assets/images/2022-ruck-2-1.jpg' | relative_url }}#full)
 
-These rubberized rucksacks, like their predecessors, carry an origin stamp, but located on their leather closure strap instead of the back of the pack.
+These rubberized rucksacks, like their predecessors, carry a "maker" stamp, but located on the leather closure strap instead of the back of the pack.
 
 ![Leather rucksack strap with date stamp of 1983]({{ '/assets/images/2022-ruck-2-2.jpg' | relative_url }})
 
