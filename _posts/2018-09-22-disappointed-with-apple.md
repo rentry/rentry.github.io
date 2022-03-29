@@ -4,7 +4,7 @@ title: I’m not sure about Apple, anymore
 date: 2018-09-22 15:33:00
 description: I’ve been a devoted Apple user for 20 years, dating back to when Apple devices were relatively rare. Apple’s lineup has been uninspiring in recent years. I’ve been holding onto aging devices, and I’m considering a change. 
 categories: [tools]
-tags:  [Apple, tools]
+tags: [Apple, tools]
 ---
 
 On September 12, Apple hosted another [extravagant, meticulously orchestrated “special event.”](https://www.apple.com/apple-events/september-2018/) And just like the last several events, I found it utterly disappointing, self-aggrandizing, and wildly excessive (apparently no one at Apple considered it unnecessarily garish to release a phone [easily read as “excess max”](https://www.washingtonpost.com/technology/2018/09/12/hands-with-iphone-xs-max-binge-smartphone-our-times/)).
