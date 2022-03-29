@@ -39,4 +39,4 @@ These rubberized rucksacks, like their predecessors, carry an origin stamp, but 
 
 ![Leather rucksack strap with date stamp of 1983]({{ '/assets/images/2022-ruck-2-2.jpg' | relative_url }})
 
-These packs are among the finest crafted pieces of gear ever made, and I'm thankful I had an early introduction to military surplus.
+These packs are among the finest crafted pieces of gear ever made, and I'm thankful I was able to find them in dusty corners of surplus stores many years ago.
