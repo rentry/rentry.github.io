@@ -4,7 +4,7 @@ title: "Favorite gear: Swiss Army rucksacks"
 date: 2022-03-28
 description: "I've owned the iconic ‘salt and pepper’ Swiss rucksack for over 20 years, but just recently learned the reason for its legendary canvas weave."
 categories: [gear]
-tags: [gear, analog]
+tags: [gear]
 ---
 
 When I was a teenager, my father opened an athletic shoe store in the tiny Wyoming town in which I grew up. It was next door to a military surplus store, and I spent almost as much time in the latter store as I did in our own. I still don't know why, but I was obsessed with military surplus, and have remained so ever since.
