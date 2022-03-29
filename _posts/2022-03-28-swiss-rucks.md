@@ -9,7 +9,7 @@ tags: [gear, analog]
 
 When I was a teenager, my father opened an athletic shoe store in the tiny Wyoming town in which I grew up. It was next door to a military surplus store, and I spent almost as much time in the latter store as I did in our own. I still don't know why, but I was obsessed with military surplus, and have remained so ever since.
 
-Which is why, when I moved to Eugene, Oregon, in 1999 to attend the University of Oregon, one of my priority destinations was the military surplus store [Action Surplus](https://www.actionsurpluseugene.com/). It has since relocated from the building I visited over 20 years ago, but it remains on a stretch of road between Eugene and Springfield.
+Which is why, when I moved to Eugene, Oregon, in 1999 to attend the University of Oregon, one of my first destinations was the military surplus store [Action Surplus](https://www.actionsurpluseugene.com/). It has since relocated from the building I visited over 20 years ago, but it remains on a stretch of road between Eugene and Springfield.
 
 On one visit to Action Surplus, probably in 1999 or 2000, I purchased the iconic 'salt and pepper' Swiss Army rucksack.
 
