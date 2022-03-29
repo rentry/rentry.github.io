@@ -4,7 +4,7 @@ title: "Developing film with instant coffee: part two"
 date: 2021-10-05
 description: "My latest round of film developed with instant coffee turned out much better than the first. I think the lens filters did the heavy lifting."
 categories: photography
-tags: [photography]
+tags: [photography, gear]
 shot-with: Nikon F3HP
 ---
 

@@ -4,7 +4,7 @@ title:  "A visit to Working Library"
 date:   2017-06-17 17:33:00
 description: "A library and studio for letterpress and bookbinding."
 categories: [photography]
-tags: [books, photography]
+tags: [books, photography, gear]
 ---
 
 A couple weeks ago, I attended a book reading at Working Library, a project of the [c3 incubator](http://www.c3initiative.org/incubator.html) in the St. Johns neighborhood of Portland. 

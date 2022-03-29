@@ -4,7 +4,7 @@ title: "Slowing down with analog photography"
 date: 2017-10-01 18:33:00
 description: "Life’s been coming at us fast. I’m trying to slow down by going back to analog."
 categories: [photography]
-tags:  [photography, Nikon, cameras]
+tags:  [photography, Nikon, cameras, gear]
 ---
 I’m old enough that digital photography wasn’t an option when I was in high school, and lucky enough that my tiny high school in the diminutive town I grew up in had a dark room and film photography curriculum. I grew up [bulk-loading film](https://www.lomography.com/magazine/199753-bulk-film-loading-or-how-to-roll-your-own-joint), shooting on the indestructible [Pentax K1000](https://en.wikipedia.org/wiki/Pentax_K1000), and developing my own negatives and prints. I didn’t realize how unusual that experience would become just a decade later.
 
