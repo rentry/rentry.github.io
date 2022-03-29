@@ -27,7 +27,7 @@ Although I've owned this humble rucksack for over 20 years, I only recently lear
 
 ![Close up of leather strap with salt and pepper, green and beige canvas]({{ '/assets/images/2022-ruck-1-4.jpg' | relative_url }})
 
-I've made soups and pesto with stinging nettle, so I'm no stranger to its merits (I've also frequently been the victim of its faults), but I had no idea that it could be used as a fiber in this way. Related as it is to hemp (and flax), I suppose I should have known!
+I've made soups and pesto with stinging nettle, so I'm no stranger to its merits (I've also frequently been the victim of its faults), but I had no idea that it could be used as a fiber in this way. Related as it is to hemp (and flax), I suppose I should have known.
 
 ![Canvas Swiss Army rucksack with leather fittings sitting on a stump in front of stacked wood]({{ '/assets/images/2022-ruck-1-1.jpg' | relative_url }}#full)
 
