@@ -22,9 +22,9 @@ Shirking graduate school at the time, I was working at a coffee shop and barely 
 
 I made a modest stipend in AmeriCorps, barely enough to get by (AmeriCorps members are called "volunteers" for good reason; the pay was below minimum wage). I continued to work at the coffee shop on the weekends, so I was working 7 days a week. But AmeriCorps also provided an education stipend at the end of the year, which I later used toward a graduate certificate in Geographic Information Systems (GIS).
 
-![watershed restoration in action](../assets/images/watershed.jpg)
+![Newly planted plants, several in protective tubes, along a stream, with flags for intended plant locations and fencing in the foreground]({{ '/assets/images/watershed.jpg#full' | relative_url }})
 
-<figcaption>The restoration project I designed in southern Washington state.</figcaption>
+<figcaption>The restoration project I designed in southern Washington state</figcaption>
 
 During the course of the year, I designed a restoration project covering 9 acres, learned GIS tools and techniques, ran a plant nursery, led service-learning outings for local schools, and made some good friends.
 
@@ -39,5 +39,3 @@ I've spoken with many people about this idea over the years, folks from across t
 We desperately need a unifying force in our country. National service could be it, if we give it a chance. As a nation, we need to feel that we are united in something bigger than ourselves. AmeriCorps, or something like it, has always had the potential to be that uniting force that unveils our shared destiny, provides valuable skill development and workforce training, and builds national resilience and response to emergencies and disasters.
 
 Cutting AmeriCorps is a step in the wrong direction for our country.
-
-
