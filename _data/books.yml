@@ -3,6 +3,23 @@ list:
   - year: 2022
     books:
 
+      - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
+        author: Matthew Wizinsky
+        link: https://mitpress.mit.edu/books/design-after-capitalism
+        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
+        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
+        genre: [technology, politics, economics]
+        completed: Next
+
+      - title: "The Council of Animals"
+        author: Nick McDonell
+        link: https://www.goodreads.com/book/show/55077719-the-council-of-animals
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1610926648l/55077719.jpg
+        description: "After The Calamity, the animals thought the humans had managed to do themselves in. But, it turns out, a few are cowering in makeshift villages. So the animals—among them a cat, a dog, a crow, a baboon, a horse, and a bear—have convened to debate whether to help the last human stragglers...or to eat them."
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: Next
+
       - title: "The Fellowship of the Ring"
         author: J.R.R. Tolkien, narrated by Andy Serkis
         link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
@@ -10,7 +27,7 @@ list:
         description: "I'm revisiting Middle-earth thanks to this new, unabridged audiobook, narrated by Andy Serkis."
         genre: [fantasy, fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-04-05
 
       - title: "A Brief History of Earth: Four Billion Years in Eight Chapters"
         author: Andrew H. Knoll
@@ -20,14 +37,6 @@ list:
         genre: [science, nature]
         format: audiobook
         completed: 2022-03-23
-
-      - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
-        author: Matthew Wizinsky
-        link: https://mitpress.mit.edu/books/design-after-capitalism
-        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
-        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
-        genre: [technology, politics, economics]
-        completed: Next
 
       - title: "Waterlog"
         author: Roger Deakin
