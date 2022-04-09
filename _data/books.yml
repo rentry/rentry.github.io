@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "People We Meet on Vacation"
+        author: Emily Henry
+        link: https://en.wikipedia.org/wiki/People_We_Meet_on_Vacation
+        image: https://upload.wikimedia.org/wikipedia/en/2/20/People_We_Meet_on_Vacation.jpg
+        description: "“Poppy and Alex. Alex and Poppy. They have nothing in common. She’s a wild child; he wears khakis. She has insatiable wanderlust; he prefers to stay home with a book. And somehow, ever since a fateful car share home from college many years ago, they are the very best of friends. For most of the year they live far apart—she’s in New York City, and he’s in their small hometown—but every summer, for a decade, they have taken one glorious week of vacation together.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
         author: Matthew Wizinsky
         link: https://mitpress.mit.edu/books/design-after-capitalism
