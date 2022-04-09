@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "The Cartographers"
+        author: Peng Shepherd
+        link: https://www.goodreads.com/book/show/55004093-the-cartographers
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634915484l/55004093.jpg
+        description: "“Nell Young’s whole life and greatest passion is cartography. Her father, Dr. Daniel Young, is a legend in the field and Nell’s personal hero. But she hasn’t seen or spoken to him ever since he cruelly fired her and destroyed her reputation after an argument over an old, cheap gas station highway map. But when Dr. Young is found dead in his office at the New York Public Library, with the very same seemingly worthless map hidden in his desk, Nell can’t resist investigating.”"
+        genre: [fiction, maps]
+        completed: In progress
+
       - title: "People We Meet on Vacation"
         author: Emily Henry
         link: https://en.wikipedia.org/wiki/People_We_Meet_on_Vacation
@@ -46,14 +54,6 @@ list:
         genre: [science, nature]
         format: audiobook
         completed: 2022-03-23
-
-      - title: "Waterlog"
-        author: Roger Deakin
-        link: https://www.goodreads.com/book/show/1454159.Waterlog
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320503793l/1454159.jpg
-        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
-        genre: [memoir, nature]
-        completed: In progress
 
       - title: "Image Performance"
         author: Mat Marquis
