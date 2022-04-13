@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Pandemic, Inc.: Chasing the Capitalists and Thieves Who Got Rich While We Got Sick"
+        author: J. David McSwane
+        link: https://www.simonandschuster.com/books/Pandemic-Inc/J-David-McSwane/9781982177744
+        image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781982177744/pandemic-inc-9781982177744_lg.jpg
+        description: "“In this brilliant nonfiction thriller, award-winning investigative reporter J. David McSwane takes us behind the scenes to reveal how traders, contractors, and healthcare companies used one of the darkest moments in American history to fill their pockets. Determined to uncover how this was possible, he spent over a year on private jets and in secret warehouses, traveling from California to Chicago to Washington DC, to interview both the most treacherous of profiteers and the victims of their crimes.”"
+        genre: [politics, economics]
+        format: audiobook
+        completed: In progress
+
       - title: "The Cartographers"
         author: Peng Shepherd
         link: https://www.goodreads.com/book/show/55004093-the-cartographers
