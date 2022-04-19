@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Bittersweet: How Sorrow and Longing Make Us Whole"
+        author: Susan Cain
+        link: https://www.goodreads.com/book/show/58734811-bittersweet
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1637095772l/58734811.jpg
+        description: "“With <cite>Quiet</cite>, Susan Cain urged our society to cultivate space for the undervalued, indispensable introverts among us, thereby revealing an untapped power hidden in plain sight. Now she employs the same mix of research, storytelling, and memoir to explore why we experience sorrow and longing, and the surprising lessons these states of mind teach us about creativity, compassion, leadership, spirituality, mortality, and love.”"
+        genre: [psychology, science]
+        format: audiobook
+        completed: Next
+
       - title: "Pandemic, Inc.: Chasing the Capitalists and Thieves Who Got Rich While We Got Sick"
         author: J. David McSwane
         link: https://www.simonandschuster.com/books/Pandemic-Inc/J-David-McSwane/9781982177744
