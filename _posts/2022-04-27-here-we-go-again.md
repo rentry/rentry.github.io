@@ -11,4 +11,4 @@ Five years ago this month, I explained why I was leaving Facebook (see [_Liberta
 
 This time, I don't know how to explain leaving Twitter, other than libertarians are _still_ all up in your social media.
 
-I'm done. Both with Twitter, and with trying to explain. I suppose there was a reason my Twitter bio read "I'm allergic to social media." There are pathogens.
+I'm done. Both with Twitter, and with trying to explain. I suppose there was a reason my Twitter bio read "I'm allergic to social media." Social media is an allergen...best to move away from the source.
