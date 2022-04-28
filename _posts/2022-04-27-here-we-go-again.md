@@ -7,7 +7,7 @@ categories: [social media]
 tags: [social media]
 ---
 
-Five years ago this month, I explained why I was leaving Facebook (see [_Libertarians are all up in your social media_]({{ '/leaving-facebook/' | relative_url }}).
+Five years ago this month, I explained why I was leaving Facebook (see [_Libertarians are all up in your social media_]({{ '/leaving-facebook/' | relative_url }})).
 
 This time, I don't know how to explain leaving Twitter, other than libertarians are _still_ all up in your social media.
 
