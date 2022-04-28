@@ -202,5 +202,3 @@ There's _a lot_ more to share, including:
 - Detailed pack list
 - My first few missions
 - Requirements to remain operational (notable, because I have a shoulder surgery coming up)
-
-I'll try to share more over the next few weeks. If there's anything you'd like to know about my search and rescue experience, ~~[message me on this bird website](https://twitter.com/forestglenroad)~~ (I quit twitter dot com in April 2022) I'll add more posts in the future about my experience.
