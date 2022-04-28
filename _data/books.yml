@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Breaking Things at Work: The Luddites Are Right About Why You Hate Your Job"
+        author: Gavin Mueller
+        link: https://www.goodreads.com/book/show/55529461-breaking-things-at-work
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601570768l/55529461.jpg
+        description: "“In the nineteenth century, English textile workers responded to the introduction of new technologies on the factory floor by smashing them to bits. For years the Luddites roamed the English countryside, practicing drills and manoeuvres that they would later deploy on unsuspecting machines. The movement has been derided by scholars as a backwards-looking and ultimately ineffectual effort to stem the march of history; for Gavin Mueller, the movement gets at the heart of the antagonistic relationship between all workers, including us today, and the so-called progressive gains secured by new technologies.”"
+        genre: [economics]
+        completed: In progress
+
       - title: "A Brief History of Equality"
         author: Thomas Piketty
         link: https://en.wikipedia.org/wiki/A_Brief_History_of_Equality
@@ -10,7 +18,15 @@ list:
         description: "“In this 288-page book targeting an audience of citizens not economists, Piketty summarizes his two previous books, his 2014 696-page <cite>Capital in the Twenty-First Century</cite> and his 2019 1150-page book <cite>Capital and Ideology.</cite> In <cite>Capital</cite>, Piketty said that a possible remedy for inequality lay in a “global tax on wealth”. In <cite>A Brief History</cite>, he developed the concept of a progressive increase in the tax on the wealthy.”"
         genre: [economics]
         format: audiobook
-        completed: Next
+        completed: In progress
+
+      - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
+        author: Matthew Wizinsky
+        link: https://mitpress.mit.edu/books/design-after-capitalism
+        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
+        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
+        genre: [technology, politics, economics]
+        completed: Next 
 
       - title: "Bittersweet: How Sorrow and Longing Make Us Whole"
         author: Susan Cain
@@ -28,15 +44,7 @@ list:
         description: "“In this brilliant nonfiction thriller, award-winning investigative reporter J. David McSwane takes us behind the scenes to reveal how traders, contractors, and healthcare companies used one of the darkest moments in American history to fill their pockets. Determined to uncover how this was possible, he spent over a year on private jets and in secret warehouses, traveling from California to Chicago to Washington DC, to interview both the most treacherous of profiteers and the victims of their crimes.”"
         genre: [politics, economics]
         format: audiobook
-        completed: 2022-04-18
-
-      - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
-        author: Matthew Wizinsky
-        link: https://mitpress.mit.edu/books/design-after-capitalism
-        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
-        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
-        genre: [technology, politics, economics]
-        completed: In progress     
+        completed: 2022-04-18    
 
       - title: "The Cartographers"
         author: Peng Shepherd
