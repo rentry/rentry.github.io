@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Bond King: How One Man Made a Market, Built an Empire, and Lost It All"
+        author: Mary Childs
+        link: https://www.goodreads.com/book/show/56269465-the-bond-king
+        image: https://us.macmillan.com/books/9781250120847/thebondking
+        description: "“From the host of NPR’s Planet Money, the deeply-investigated story of how one visionary, dogged investor changed American finance forever.”"
+        genre: [economics]
+        format: audiobook
+        completed: In progress
+
       - title: "Breaking Things at Work: The Luddites Are Right About Why You Hate Your Job"
         author: Gavin Mueller
         link: https://www.goodreads.com/book/show/55529461-breaking-things-at-work
