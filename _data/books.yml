@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Legends of the North Cascades"
+        author: Jonathan Evison
+        link: https://www.goodreads.com/en/book/show/54110590-legends-of-the-north-cascades
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593192473l/54110590.jpg
+        description: "“Dave Cartwright has had enough. After three tours in Iraq he has come home to Vigilante Falls in Washington State only to find that he feels incapable of connecting to the people and the place that once defined him. Most days, his love for his seven-year-old daughter, Bella, is the only thing keeping him going. When tragedy strikes, Dave makes a dramatic decision: he will take Bella to live in a cave in the wilderness of the North Cascades.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "The Bond King: How One Man Made a Market, Built an Empire, and Lost It All"
         author: Mary Childs
         link: https://www.goodreads.com/book/show/56269465-the-bond-king
@@ -10,7 +19,7 @@ list:
         description: "“From the host of NPR’s Planet Money, the deeply-investigated story of how one visionary, dogged investor changed American finance forever.”"
         genre: [economics]
         format: audiobook
-        completed: In progress
+        completed: Next
 
       - title: "Breaking Things at Work: The Luddites Are Right About Why You Hate Your Job"
         author: Gavin Mueller
