@@ -18,7 +18,7 @@ I love the web. It was and remains mostly open and relatively pure.
 
 Sure, the web has become heavily monetized and data-mined in its own right, but compared to the militantly invasive, emphatically proprietary, and hedge-fund-infused social media giants, most of the web is a quaint yet tenaciously democratic medium. With a modicum of technical acumen and some patience, you can set up your own website and publish your ideas to the world, without relying on architecture specifically designed to monetize your presence. That’s still awesome. 
 
-But social media continues to push us toward consuming all of our content in their space and on their terms, whether it be Facebook, Twitter, Medium, or the platforms they’ve already subsumed (i.e. Instagram, WhatsApp, YouTube, Periscope, etc.).
+But social media continues to push us toward consuming all of our content in their space and on their terms, whether it be Facebook, Twitter, Medium, or the platforms they’ve already subsumed (e.g. Instagram, WhatsApp, YouTube, Periscope, etc.).
 
 When Facebook went public in 2012, the Initial Public Offering (IPO) was valued at [$104 billion](https://www.forbes.com/sites/tomiogeron/2012/05/17/facebook-prices-ipo-at-38-per-share/#3940832b728a). Twitter was valued at [$14 billion](http://money.cnn.com/2013/11/06/technology/social/twitter-ipo-price/). Snapchat was valued at [$24 billion](http://www.businessinsider.com/snapchat-ipo-price-2017-3) a little over a month ago.
 
