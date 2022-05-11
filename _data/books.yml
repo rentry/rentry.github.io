@@ -3,13 +3,14 @@ list:
   - year: 2022
     books:
 
-      - title: "Leading Content Design"
-        author: Rachel McConnell
-        link: https://abookapart.com/products/leading-content-design
-        image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-41_100x@3x.png?v=1644089034
-        description: "“Content design teams need the right conditions to thrive—but when they’re hampered by bottlenecks or putting out fires, it’s hard for them to do their best work, secure support, and grow strategically. Enter content operations. With smart, operational approaches, Rachel McConnell helps you identify and remove the barriers to strong, effective content work.”"
-        genre: [content strategy, design, writing]
-        completed: 2022-05-02
+      - title: "Draft No. 4: On the Writing Process"
+        author: John McPhee
+        link: https://www.goodreads.com/book/show/18194765-draft-no-4
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505469268l/18194765.jpg
+        description: "“<cite>Draft No. 4</cite> is an elucidation of the writer's craft by a master practitioner. In a series of playful but expertly wrought essays, John McPhee shares insights he's gathered over his career and refined during his long-running course at Princeton University, where he has launched some of the most esteemed writers of several generations.”"
+        genre: [writing]
+        format: audiobook
+        completed: In progress
 
       - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
         author: Matthew Wizinsky
@@ -18,6 +19,14 @@ list:
         description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
         genre: [technology, politics, economics]
         completed: Next 
+
+      - title: "Leading Content Design"
+        author: Rachel McConnell
+        link: https://abookapart.com/products/leading-content-design
+        image: https://cdn.shopify.com/s/files/1/0051/7692/products/aba-cover-41_100x@3x.png?v=1644089034
+        description: "“Content design teams need the right conditions to thrive—but when they’re hampered by bottlenecks or putting out fires, it’s hard for them to do their best work, secure support, and grow strategically. Enter content operations. With smart, operational approaches, Rachel McConnell helps you identify and remove the barriers to strong, effective content work.”"
+        genre: [content strategy, design, writing]
+        completed: 2022-05-02
 
       - title: "Legends of the North Cascades"
         author: Jonathan Evison
@@ -35,16 +44,7 @@ list:
         description: "“Economists regularly promote Capitalism as the greatest system ever to grace the planet. With the same breath, they implore us to leave the job of understanding the magical powers of the market to the ‘experts.’ Despite the efforts of these mainstream commentators to convince us otherwise, many of us have begun to question why this system has produced such vast inequality and wanton disregard for its own environmental destruction. This book offers answers to exactly these questions on their own terms: in the form of a radical economic theory.”"
         genre: [economics]
         format: audiobook
-        completed: Next
-
-      - title: "The Bond King: How One Man Made a Market, Built an Empire, and Lost It All"
-        author: Mary Childs
-        link: https://www.goodreads.com/book/show/56269465-the-bond-king
-        image: https://mpd-biblio-covers.imgix.net/9781250120847.jpg?w=900
-        description: "“From the host of NPR’s Planet Money, the deeply-investigated story of how one visionary, dogged investor changed American finance forever.”"
-        genre: [economics]
-        format: audiobook
-        completed: In progress
+        completed: 2022-05-10
 
       - title: "Breaking Things at Work: The Luddites Are Right About Why You Hate Your Job"
         author: Gavin Mueller
