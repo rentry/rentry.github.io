@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Liberalism and Its Discontents"
+        author: Francis Fukuyama
+        link: https://www.goodreads.com/book/show/58837538-liberalism-and-its-discontents
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634643231l/58837538.jpg
+        description: "“As the renowned political philosopher Francis Fukuyama shows in <cite>Liberalism and Its Discontents</cite>, the principles of liberalism have also, in recent decades, been pushed to new extremes by both the right and the left: neoliberals made a cult of economic freedom, and progressives focused on identity over human universality as central to their political vision. The result, Fukuyama argues, has been a fracturing of our civil society and an increasing peril to our democracy.”"
+        genre: [politics, society]
+        format: audiobook
+        completed: In progress
+
       - title: "Draft No. 4: On the Writing Process"
         author: John McPhee
         link: https://www.goodreads.com/book/show/18194765-draft-no-4
