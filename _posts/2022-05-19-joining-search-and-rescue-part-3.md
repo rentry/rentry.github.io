@@ -103,3 +103,7 @@ This system is imperfect, of course. But will I figure out how to make that old 
 ![Black and white trees in front of a small truck with a kayak on top]({{ 'assets/images/2022-5-truck-8.jpg' | relative_url }}#full)
 
 I'll try to post more about those SAR toolbox kits soon. In a general way, they're organized around shelter, fire, water purification, and clothing. I'll go into more detail in a future post.
+
+And, for good measure, I'll throw in [my impractical dream truck](https://indoek.com/article/surf-shacks-075-jeff-johnson-kara-thoms/) which is owned, of course, but Patagonia's Jeff Johnson. We're probably related, somehow...maybe he'll need a home for that truck someday.
+
+![An A-frame style home with a man in front and a white, old toyota truck with aluminum siding on the bed({{ 'assets/images/2022-5-truck-9.jpg' | relative_url }}#full)
