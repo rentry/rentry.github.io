@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Atlas of Yellowstone, Second Edition"
+        author: W. Andrew Marcus (Author), James E. Meacham (Author), Ann W. Rodman (Author), Alethea Y. Steingisser (Author), Justin T. Menke (Author), Ross West (Editor)
+        link: https://www.ucpress.edu/book/9780520379770/atlas-of-yellowstone
+        image: https://images.ucpress.edu/covers/300/9780520379770.jpg
+        description: "Following the gorgeous and carefully researched <a href='https://osupress.oregonstate.edu/book/wild-migrations'><cite>Wild Migrations Atlas of Wyoming's Ungulates</cite></a>, this is another stunning product of the collaboration between my home state (Wyoming) and my alma mater (University of Oregon)."
+        genre: [maps]
+        completed: In progress
+
       - title: "Bird by Bird: Some Instructions on Writing and Life"
         author: Anne Lamott
         link: https://www.goodreads.com/book/show/48578933-bird-by-bird
