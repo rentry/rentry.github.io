@@ -11,7 +11,9 @@ Okay, so some background...
 
 For several years, my main exercise was swimming. Actually, it's been that way all my life. I started swimming competitively at age five and continued to do so until I was 18, with year-round workouts at 6 a.m. and 5 p.m. almost every day. After that, I competed in triathlon and, in college, water polo.
 
-I do not (like most people) have a swimming pool at home. Which is why, during the pandemic and the resulting gym closures, I took up mountain biking again after many years. It was short lived, as I dislocated my shoulder after about the third ride. I was out of cell range when it happened. I walked my bike out five miles with my shoulder in the wrong place, and I drove myself to the emergency room in my stick-shift truck with one viable arm (more about that in a minute). ANYWAY, I tore my labrum, which I've learned is the tissue bit that keeps your shoulder where it's supposed to be, and thus had surgery in December. I'm _still_ in physical therapy to get it back to a semblance of normal.
+I do not (like most people) have a swimming pool at home. Which is why, during the pandemic and the resulting gym closures, I took up mountain biking again after many years. It was short lived, as I dislocated my shoulder after about the third ride. I was out of cell range when it happened. I walked my bike out five miles with my shoulder in the wrong place, and I drove myself to the emergency room in my stick-shift truck with one viable arm (more about that in a minute). 
+
+ANYWAY, I tore my labrum, which I've learned is the tissue bit that keeps your shoulder where it's supposed to be, and thus had surgery in December. I'm _still_ in physical therapy to get it back to a semblance of normal.
 
 My shoulder situation is relevant for a few reasons, but primarily because it's generally ideal to use two hands when driving...particularly if you insist on driving a manual transmission vehicle.
 
