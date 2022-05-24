@@ -17,7 +17,7 @@ It turns out I tore my labrum, which is a rather important piece of cartilage in
 
 My shoulder situation is relevant for a few reasons, but primarily because it's generally ideal to use two hands when driving...particularly if you insist on driving a manual transmission vehicle.
 
-## Drive it 'til it dies
+## Drive it until it dies
 
 About trucks, then. I drove my mother-in-law's hand-me-down 1997 Toyota Tacoma until it reached 250,000 miles. I loved that truck, and still do. It's with my sister now.
 
