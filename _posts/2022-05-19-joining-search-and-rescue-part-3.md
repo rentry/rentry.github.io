@@ -47,7 +47,7 @@ I'll admit to being a bit of a truck fanatic. I buy all the [Overland Journals](
 ![Black and white photo of the ford ranger with a kayak on top in a gravel driveway with a big tree in the background]({{ 'assets/images/2022-5-truck-2.jpg' | relative_url }}#full)
 <figcaption>My 2003 Ford Ranger XLT</figcaption>
 
-I obviously _don't_ own a Brodozer, as do several of my fellow SAR members. No judgement (mostly)! There are times when I want a big ol' truck. My physical therapist just abandoned his tiny Subaru for a giant new Tundra. I'm envious,  to be honest. But I'm okay parking next to it and admiring it from there. For now.
+I obviously _don't_ own a Brodozer, as do several of my fellow SAR members. No judgement (mostly)! There are times when I want a big ol' truck. My physical therapist just abandoned his tiny, broken Subaru for a giant new Tundra. I'm envious,  to be honest. But I'm okay parking next to it and admiring it from there. For now.
 
 My old Ranger gets me from place to place, albeit at a measly 17 miles per gallon. Despite that, I love this old little truck. Well, I mostly love that I don't make payments on it, but I also love how simple it is. I've recently contemplated making it _less_ simple, either by adding a lift kit and big tires, or an [OVRLND camper](https://campovrlnd.com/), or a [Softopper](https://softopper.com/) (still considering that one), or trailers, bed kits, bed frames, roof tents, and _a lot_ more.
 
