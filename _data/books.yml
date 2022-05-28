@@ -17,7 +17,7 @@ list:
         image: https://images.ucpress.edu/covers/300/9780520379770.jpg
         description: "Following the gorgeous and carefully researched <a href='https://osupress.oregonstate.edu/book/wild-migrations'><cite>Wild Migrations Atlas of Wyoming's Ungulates</cite></a>, this is another stunning product of the collaboration between my home state (Wyoming) and my alma mater (University of Oregon)."
         genre: [maps]
-        completed: In progress
+        completed: 2022-05-28
 
       - title: "Bird by Bird: Some Instructions on Writing and Life"
         author: Anne Lamott
