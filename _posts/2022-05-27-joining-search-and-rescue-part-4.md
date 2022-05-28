@@ -9,7 +9,7 @@ tags: [search and rescue]
 
 I applied to join our local search and rescue team about a year ago. My wife had been encouraging me to do so for years, but I hadn't seriously considered it before last year. I'm not a parent, by I still felt like I had my hands full with work, grad school, house projects, etc.
 
-The catalyst for me was the twin [climate]({{ '/notes-from-evacuation/' | relative_url }}) [events]({{ '/twelve-days-without-power/' | relative_url }}) we experienced within six months (as it turns out, the search and rescue team I later joined responded to both with home check-ins). Both of these events were followed by a [highly publicized third climate event](https://www.cbsnews.com/news/heat-wave-dome-2021-seattle-portland-weather/), all within a single year.
+The catalyst for me was the pair of [climate]({{ '/notes-from-evacuation/' | relative_url }}) [events]({{ '/twelve-days-without-power/' | relative_url }}) we experienced within six months (as it turns out, the search and rescue team I later joined responded to both with home check-ins). Both of these events were followed by a [highly publicized third climate event](https://www.cbsnews.com/news/heat-wave-dome-2021-seattle-portland-weather/), all within a single year.
 
 Following those events, I purchased and donated a generator to my local church, added a generator plug to my home, and added go bags and other emergency preparedness gear. But I wanted to offer more; namely, I wanted to contribute to broader community support and resilience, knowing all of these climate and other emergencies are only going to get more frequent and intense.
 
