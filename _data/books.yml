@@ -44,7 +44,7 @@ list:
         image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
         description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
         genre: [technology, politics, economics]
-        completed: Next 
+        completed: In progress
 
       - title: "Leading Content Design"
         author: Rachel McConnell
