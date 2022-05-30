@@ -13,7 +13,7 @@ When I graduated high school in the diminutive Wyoming town in which I grew up, 
 
 While it isn't all that difficult to find a used PST to buy, and Leatherman now sells a ["Heritage" version](https://www.leatherman.com/heritage-pst-832518.html) of the tool, the nostalgia alone makes this particular tool a rare and precious item in my kit. I think a lot of people have similar feelings about Leatherman tools, given how the recent production line of the first Leatherman design ("Mr. Crunch") [sold out in all of 10 minutes](https://www.outsideonline.com/outdoor-gear/tools/leatherman-mr-crunch-multitool/). It seems difficult to explain that kind of demand based on utility alone.
 
-I've owned several Leatherman tools over the years, and a neighbor from our previous home worked for Leatherman. Through that latter connection, I was able to get the broken file on my original tool repaired, although I suspect that service is likely available to anyone.
+I've owned several Leatherman tools over the years, and a former neighbor worked for Leatherman. Through that latter connection, I was able to get the broken file on my original tool repaired, although I suspect that service is likely available to anyone.
 
 I currently carry the [Wingman](https://www.leatherman.com/wingman-11.html) on search and rescue missions, and have a version of [the Juice](https://www.leatherman.com/en_AT/juice-s2-363.html) in my truck. 
 
