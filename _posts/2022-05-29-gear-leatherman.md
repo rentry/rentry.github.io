@@ -7,7 +7,7 @@ categories: gear
 tags: [gear]
 ---
 
-When I graduated high school in the diminutive Wyoming town in which I grew up, my parents gave me a Leatherman multitool. That was back in 1999, and so that Leatherman tool was the original production design, the [PST](https://www.leatherman.com/retired-products.html).
+When I graduated high school in the diminutive Wyoming town in which I grew up, my parents gave me a Leatherman multitool. That was back in 1999, and so that tool was the original Leatherman tool, the [PST](https://www.leatherman.com/retired-products.html).
 
 ![A silver multitool with the words Leatherman tool and Portland, Oregon engraved on it, with needle nose pliers extended]({{ '/assets/images/2022-leatherman-1.jpg' | relative_url }}#full)
 
