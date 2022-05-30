@@ -3,14 +3,6 @@ list:
   - year: 2022
     books:
 
-      - title: "Why Religion?: A Personal Story"
-        author: Elaine Pagels
-        link: https://www.goodreads.com/book/show/36137506-why-religion
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1542132684i/36137506.jpg
-        description: "“Why is religion still around in the twenty-first century? Why do so many still believe? And how do various traditions still shape the way people experience everything from sexuality to politics, whether they are religious or not? In <cite>Why Religion?</cite> Elaine Pagels looks to her own life to help address these questions.”"
-        genre: [religion, memoir]
-        completed: In progress
-
       - title: "Atlas of Yellowstone, Second Edition"
         author: W. Andrew Marcus (Author), James E. Meacham (Author), Ann W. Rodman (Author), Alethea Y. Steingisser (Author), Justin T. Menke (Author), Ross West (Editor)
         link: https://www.ucpress.edu/book/9780520379770/atlas-of-yellowstone
