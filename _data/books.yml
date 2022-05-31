@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Two Wheels Good: The History and Mystery of the Bicycle"
+        author: Jody Rosen
+        link: https://www.goodreads.com/book/show/59577225-two-wheels-good
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638631342i/59577225.jpg
+        description: "“The bicycle is a vestige of the Victorian era, seemingly out of pace with our age of smartphones and ridesharing apps and driverless cars. Yet we live on a bicycle planet. Across the world, more people travel by bicycle than by any other form of transportation. Almost anyone can learn to ride a bike--and nearly everyone does.”"
+        genre: [bikes]
+        completed: Next
+
       - title: "Atlas of Yellowstone, Second Edition"
         author: W. Andrew Marcus (Author), James E. Meacham (Author), Ann W. Rodman (Author), Alethea Y. Steingisser (Author), Justin T. Menke (Author), Ross West (Editor)
         link: https://www.ucpress.edu/book/9780520379770/atlas-of-yellowstone
@@ -638,7 +646,7 @@ list:
         link: https://unbound.com/books/mind-is-the-ride/
         image: https://s3-eu-west-1.amazonaws.com/media.unbound.co/p/images/12190/large/mind.jpg
         description: "“<cite>Mind is the Ride</cite> takes the reader on a physical and intellectual adventure from West to East using the components of a bike as a metaphor for philosophy, which is woven into the cyclist's experience. Each chapter is based around a single component, and as Jet travels he adds new parts and new philosophies until the bike is ‘built’; the ride to India is completed; and the relationship between mind, body and bicycle made apparent.”"
-        genre: [music, culture]
+        genre: [bikes, philosophy]
         completed: 2021-09-05
 
       - title: "This Isn’t Happening: Radiohead’s <cite>Kid A</cite> and the Beginning of the 21<sup>st</sup> Century"
