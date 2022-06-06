@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "The Atlas of Middle-earth"
+        author: Karen Wynn Fonstad
+        link: https://en.wikipedia.org/wiki/The_Atlas_of_Middle-earth
+        image: https://upload.wikimedia.org/wikipedia/en/8/8b/Atlas_Middle-earth.jpg
+        description: "“Karen Wynn Fonstad's <cite>The Atlas of Middle-earth</cite> is an essential volume that will enchant all Tolkien fans. Here is the definitive guide to the geography of Middle-earth, from its founding in the Elder Days through the Third Age, including the journeys of Bilbo, Frodo, and the Fellowship of the Ring.”"
+        genre: [geography]
+        completed: In progress
+
       - title: "Two Wheels Good: The History and Mystery of the Bicycle"
         author: Jody Rosen
         link: https://www.goodreads.com/book/show/59577225-two-wheels-good
@@ -45,14 +53,6 @@ list:
         genre: [writing]
         format: audiobook
         completed: 2022-05-16
-
-      - title: "Design after Capitalism: Transforming Design Today for an Equitable Tomorrow"
-        author: Matthew Wizinsky
-        link: https://mitpress.mit.edu/books/design-after-capitalism
-        image: https://mitpress.mit.edu/sites/default/files/styles/large_book_cover/http/mitp-content-server.mit.edu%3A18180/books/covers/cover/%3Fcollid%3Dbooks_covers_0%26isbn%3D9780262543569%26type%3D.jpg?itok=Zl9JxxtJ
-        description: "“The designed things, experiences, and symbols that we use to perceive, understand, and perform our everyday lives are much more than just props. They directly shape how we live. In Design after Capitalism, Matthew Wizinsky argues that the world of industrial capitalism that gave birth to modern design has been dramatically transformed. Design today needs to reorient itself toward deliberate transitions of everyday politics, social relations, and economies.”"
-        genre: [technology, politics, economics]
-        completed: In progress
 
       - title: "Leading Content Design"
         author: Rachel McConnell
