@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Songs of Trees: Stories from Nature's Great Connectors"
+        author: David George Haskell
+        link: https://en.wikipedia.org/wiki/The_Atlas_of_Middle-earth
+        image: https://upload.wikimedia.org/wikipedia/en/8/8b/Atlas_Middle-earth.jpg
+        description: "“Haskell repeatedly visits a dozen trees around the world, exploring the trees connections with webs of fungi, bacterial communities, cooperative and destructive animals, and other plants. An Amazonian ceibo tree reveals the rich ecological turmoil of the tropical forest, along with threats from expanding oil fields. Thousands of miles away, the roots of a balsam fir in Canada survive in poor soil only with the help of fungal partners.”"
+        genre: [botany, ecology]
+        format: audiobook
+        completed: Next
+
       - title: "The Atlas of Middle-earth"
         author: Karen Wynn Fonstad
         link: https://en.wikipedia.org/wiki/The_Atlas_of_Middle-earth
