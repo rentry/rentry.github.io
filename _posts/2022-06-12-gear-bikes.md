@@ -24,13 +24,13 @@ I grew up in a small town in Wyoming, and began mountain biking there in earnest
 
 Later, I would take up road cycling in pursuit of triathlon. When I was 17, despite being a poor cyclist, I broke the Wyoming age group record of a future Olympic triathlete. I did so on my father's 1988 Schwinn Tempo with downtube shifters.
 
-For my high school graduation, my parents bought me a 1997 Schwinn Peloton. While Schwinn later took a nose dive as a quality bike company, that particular bike featured a Reynolds 853 steel frame and Shimano Ultegra components (mine had 105s). It was the lightest, most capable bike I had ever seen.
+For my high school graduation, my parents bought me a 1997 Schwinn Peloton. While Schwinn later took a nose dive as a quality bike company, that particular bike featured a Reynolds 853 steel frame and Shimano Ultegra components (mine had 105s). It was the lightest, most capable bike I had ever seen at the time.
 
-![]({{ 'assets/images/2022-gear-bike-schwinn.jpg' | relative_url }})
+![Yellow Schwinn Peloton bike in front of a brown field with green fir trees]({{ 'assets/images/2022-gear-bike-schwinn.jpg' | relative_url }})
 
 Of course, times have changed, and the majority of bike frames are nothing like they were back then.
 
-![]({{ 'assets/images/2022-gear-bike-pedals.jpg' | relative_url }})
+![A bike focusing on the pedals which are blue with the brand name Look in white letters]({{ 'assets/images/2022-gear-bike-pedals.jpg' | relative_url }})
 
 But steel persists, and I'm grateful for that. My racing days are far behind me, but there's still nothing more liberating than getting out on the bike.
 
@@ -39,11 +39,11 @@ My first year at the University of Oregon, I foolishly purchased (on credit) a S
 
 Meanwhile, I rode the Peloton nearly every day for several years, riding gravel before it was popular in order to get in and out of the mile-long gravel road to our remote cabin.
 
-![]({{ 'assets/images/2022-gear-bike-not-improved.jpg' | relative_url }})
+![Left shoulder of a person with an orange shirt reading Rapha and a sign that reads Roadway not improved]({{ 'assets/images/2022-gear-bike-not-improved.jpg' | relative_url }})
 
 When I became more sensible about finances, and wanted to do some touring, I bought a Bianchi Sport on Craigslist for about $200, and then later found a more appropriately sized Bianchi Eros, with beautiful Columbus tubing and lugs. I rode both of those on multi-day tours in Oregon, and still have the latter bike, which is my favorite bike I've ever owned.
 
-![]({{ 'assets/images/2022-gear-bike-bianchi.jpg' | relative_url }})
+![Orange Bianchi bike with white handlebar tape, brown leather Brooks saddle, and water bottle]({{ 'assets/images/2022-gear-bike-bianchi.jpg' | relative_url }})
 
 ![]({{ 'assets/images/2022-gear-bike-brooks.jpg' | relative_url }})
 
@@ -52,10 +52,10 @@ When COVID hit, I had primarily been swimming for exercise. I'd grown tired of a
 
 Two events derailed those plans. First, [most of my favorite places to hike and ride burned down](https://en.wikipedia.org/wiki/2020_Oregon_wildfires). Second, I dislocated my shoulder on about the fifth ride on that bike, an injury that would require shoulder surgery and forced down time.
 
-![]({{ 'assets/images/2022-gear-bike-fat.jpg' | relative_url }}#full)
+![Orange bike with fat tires leaning against a log on a gravel road in the forest]({{ 'assets/images/2022-gear-bike-fat.jpg' | relative_url }}#full)
 
 I'll likely sell the fat bike soon, and pick up another steel frame, hopefully a gravel bike. My heart is in steel frames and simplicity. I'll ride those into the sunset.
 
-![]({{ 'assets/images/2022-gear-bike-bianchi-2.jpg' | relative_url }})
+![Orange Bianchi bike leaning against a fence with pots on it with a salt and pepper Swiss rucksack in the foreground]({{ 'assets/images/2022-gear-bike-bianchi-2.jpg' | relative_url }})
 
-![]({{ 'assets/images/2022-gear-bike-socks.jpg' | relative_url }})
+![Blue sock with heart design in a bike shoe pedaling a bike]({{ 'assets/images/2022-gear-bike-socks.jpg' | relative_url }})

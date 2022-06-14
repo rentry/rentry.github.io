@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Twilight World"
+        author: Werner Herzog
+        link: https://www.penguinrandomhouse.com/books/702775/the-twilight-world-by-werner-herzog-translated-by-michael-hofmann/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638919129i/59576066.jpg
+        description: "“The great filmmaker Werner Herzog, in his first novel, tells the incredible story of Hiroo Onoda, a Japanese soldier who defended a small island in the Philippines for twenty-nine years after the end of World War II.”"
+        genre: [history]
+        format: audiobook
+        completed: Next
+
       - title: "The Songs of Trees: Stories from Nature's Great Connectors"
         author: David George Haskell
         link: https://www.goodreads.com/book/show/31522121-the-songs-of-trees
