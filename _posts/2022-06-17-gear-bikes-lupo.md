@@ -11,7 +11,7 @@ Less than a week after my last [post about bikes]( {{ '/gear-bikes/' | relative_
 
 ![Gray bike with white lettering, Bianchi Lupo, against a wood slatted wall]({{ 'assets/images/2022-gear-bike-lupo-1.jpg' | relative_url }}#full)
 
-For years I've been looking for a steel gravel or touring bike on which I could pack gear. I've done light touring on my Bianchi Eros and Bianchi Sport, but neither of those frames are made for that purpose. As I've gotten older, I've become increasingly disinterested in battling cars on tours, so I wanted a bike that might allow me to get off the pavement onto forest roads for gravel rides and bikepacking adventures.
+For years I've been looking for a steel gravel or touring bike on which I could pack gear. I've done light touring on my Bianchi Eros and Bianchi Sport, but neither of those frames were made for that purpose. As I've gotten older, I've become increasingly disinterested in battling cars on tours, so I wanted a bike that might allow me to get off the pavement onto forest roads for gravel rides and bikepacking adventures.
 
 To that end, I'd specifically been looking for a Bianchi Volpe for many years. Its steel frame and cyclocross construction, with plenty of braze-ons and eyelets for gear and long chain stays, made it a solid choice. And unlike, for example, the [Trek 520 Grando](https://www.trekbikes.com/us/en_US/bikes/bikepacking-touring-bikes/520/520-grando/p/33474/), it was relatively affordable (this seems to have changed, as [one local bike shop lists the Volpe at $1,700](https://www.lakeside-bikes.com/product/bianchi-volpe-386469-1.htm#.Yq0Ib5DMLhI)). 
 
