@@ -25,7 +25,7 @@ While randomly looking at Bianchi bikes via image search, I found a Volpe at a "
 
 Looking at the website, I noticed a Volpe in 59cm and the Volpe's little brother, the Lupo (which I hadn't previously heard of) in 53cm, 55cm, 59cm, and 61cm.
 
-Again, _it doesn't appear to be the case that Bianchi makes either of these frames anymore_.
+Again, _it doesn't appear that Bianchi makes either of these frames anymore_.
 
 And compared to the $1,700, Celeste Volpe in the Portland area, South Salem Cycleworks listed the Volpe at $1,200, and the Lupo at just $900.
 
