@@ -31,6 +31,6 @@ And compared to the $1,700, Celeste Volpe in the Portland area, South Salem Cycl
 
 ![Bianchi Lupo bike from the front with aggressive tires and fenders]({{ 'assets/images/2022-gear-bike-lupo-3.jpg' | relative_url }})
 
-The Lupo and Volpe frames are identical, with the latter equipped with the higher grade Shimano Tiagra components, compared to the Lupo's Shimano Sora. Again, I'm not all that particular about components...the nicest components I've had are Shimano 105, and while they're great, I really just want the bike to shift and brake reliably.
+The Lupo and Volpe frames are identical, with the latter equipped with the higher grade Shimano Tiagra components, compared to the Lupo's Shimano Sora. Again, I'm not all that particular about components...the fanciest components I've had are Shimano 105, and while they're great, I really just want the bike to shift and brake reliably.
 
 After emailing back and forth about sizing (the brand-new bikes were in boxes, and I wanted to make sure the size was right before asking the owner to build one), I picked up the 55cm Lupo today. It is a wonderful bike, and I can't wait to get it out for a proper ride.
