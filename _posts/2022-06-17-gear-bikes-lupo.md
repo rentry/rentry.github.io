@@ -27,7 +27,7 @@ Looking at the website, I noticed a Volpe in 59cm and the Volpe's little brother
 
 Again, _it doesn't appear that Bianchi makes either of these frames anymore_.
 
-And compared to the $1,700, Celeste Volpe in the Portland area, South Salem Cycleworks listed the Volpe at $1,200, and the Lupo at just $900.
+And compared to the $1,700 Celeste Volpe in the Portland area, South Salem Cycleworks listed the Volpe at $1,200, and the Lupo at just $900.
 
 ![Bianchi Lupo bike from the front with aggressive tires and fenders]({{ 'assets/images/2022-gear-bike-lupo-3.jpg' | relative_url }})
 
