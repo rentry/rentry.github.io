@@ -19,7 +19,7 @@ I don't dislike disc brakes, but neither do I insist on having them. They certai
 
 ## Finding what can't be found
 
-While randomly looking at Bianchi bikes via image search, I found a Volpe at a "bike shop" in nearby Salem, Oregon. I write that in quotes, because the bike shop is, well, no longer a shop. It used to be, but the building owner sold the building and the tenants, of which the bike shop was one, had to go elsewhere. That's why [South Salem Cycleworks](http://sscycleworks.com/) now operates out of a storage shed.
+While randomly looking at Bianchi bikes via image search, I found a Volpe at a "bike shop" in nearby Salem, Oregon. I write that in quotes, because the bike shop is, well, no longer a shop. It used to be, but the building owner decided to sell the building, and the tenants—of which the bike shop was one—had to go elsewhere. That's why [South Salem Cycleworks](http://sscycleworks.com/) now operates out of a storage shed.
 
 ![An open storage shed with a man working on a bike and bike tools, parts, gear, stools, and workbench around him]({{ 'assets/images/2022-gear-bike-lupo-2.jpg' | relative_url }}#full)
 
