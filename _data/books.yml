@@ -12,6 +12,15 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "Generation Dread: Finding Purpose in an Age of Climate Crisis"
+        author: Britt Wray
+        link: https://www.penguinrandomhouse.com/books/647141/generation-dread-by-britt-wray/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644886636i/58678656.jpg
+        description: "“Climate and environment-related fears and anxieties are on the rise everywhere. As with any type of stress, eco-anxiety can lead to lead to burnout, avoidance, or a disturbance of daily functioning. In <cite>Generation Dread</cite>, Britt Wray seamlessly merges scientific knowledge with emotional insight to show how these intense feelings are a healthy response to the troubled state of the world.”"
+        genre: [climate, psychology]
+        format: audiobook
+        completed: In progress        
+
       - title: "The Twilight World"
         author: Werner Herzog
         link: https://www.penguinrandomhouse.com/books/702775/the-twilight-world-by-werner-herzog-translated-by-michael-hofmann/
