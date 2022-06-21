@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "An Immense World: How Animal Senses Reveal the Hidden Realms Around Us"
+        author: Ed Yong
+        link: https://www.penguinrandomhouse.com/books/616914/an-immense-world-by-ed-yong/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1652105350i/59575939.jpg
+        description: "“The Earth teems with sights and textures, sounds and vibrations, smells and tastes, electric and magnetic fields. But every animal is enclosed within its own unique sensory bubble, perceiving but a tiny sliver of an immense world. This book welcomes us into a previously unfathomable dimension--the world as it is truly perceived by other animals.”"
+        genre: [science, biology]
+        format: audiobook
+        completed: Next
+
       - title: "The Twilight World"
         author: Werner Herzog
         link: https://www.penguinrandomhouse.com/books/702775/the-twilight-world-by-werner-herzog-translated-by-michael-hofmann/
