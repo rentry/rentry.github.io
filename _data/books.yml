@@ -10,7 +10,7 @@ list:
         description: "“The great filmmaker Werner Herzog, in his first novel, tells the incredible story of Hiroo Onoda, a Japanese soldier who defended a small island in the Philippines for twenty-nine years after the end of World War II.”"
         genre: [history]
         format: audiobook
-        completed: Next
+        completed: 2022-06-20
 
       - title: "The Songs of Trees: Stories from Nature's Great Connectors"
         author: David George Haskell
@@ -19,7 +19,7 @@ list:
         description: "“Haskell repeatedly visits a dozen trees around the world, exploring the trees connections with webs of fungi, bacterial communities, cooperative and destructive animals, and other plants. An Amazonian ceibo tree reveals the rich ecological turmoil of the tropical forest, along with threats from expanding oil fields. Thousands of miles away, the roots of a balsam fir in Canada survive in poor soil only with the help of fungal partners.”"
         genre: [botany, ecology]
         format: audiobook
-        completed: In progress
+        completed: 2022-06-17
 
       - title: "The Atlas of Middle-earth"
         author: Karen Wynn Fonstad
