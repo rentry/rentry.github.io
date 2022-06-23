@@ -109,33 +109,57 @@ nav.site-nav {
 }
 
 .about-image {
-  background: url(../assets/images/header.jpg);
   height: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-color: #000;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header.jpg');
+}
+
+.header-badge {
+    color: white;
+    z-index: 2;
+    bottom: 0;
+    padding: 2rem 2rem;
+    width: 100%;
+    -webkit-transition: background ease-in-out 0.5s;
+    transition: background ease-in-out 0.5s;
+
+    h1 {
+        color: white;
+    }
+
+    p {
+        margin-top: -1.2rem;
+    }
 }
 
 @media only screen and (max-width: 1300px) {
     .about-image {
-        background-image: url(../assets/images/header-medium.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-medium.jpg'); 
     }
 }
 
 @media only screen and (max-width: 980px) {
     .about-image {
-        background-image: url(../assets/images/header-small.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-small.jpg');
     }
 }
 
 @media only screen and (max-width: 450px) {
     .about-image {
-        background-image: url(../assets/images/header-verysmall.jpg);
+        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-verysmall.jpg');
         height: 350px;
     }
     #words-and-maps {
         margin-top: 1rem;
     }
+    .header-badge
+        h1 {
+            font-size: 1.7rem;
+            margin-bottom: .6em;
+        }
 }
 
 @media only screen and (max-width: 450px) {
