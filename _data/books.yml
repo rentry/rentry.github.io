@@ -46,7 +46,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/8/8b/Atlas_Middle-earth.jpg
         description: "“Karen Wynn Fonstad's <cite>The Atlas of Middle-earth</cite> is an essential volume that will enchant all Tolkien fans. Here is the definitive guide to the geography of Middle-earth, from its founding in the Elder Days through the Third Age, including the journeys of Bilbo, Frodo, and the Fellowship of the Ring.”"
         genre: [geography]
-        completed: In progress
+        completed: 2022-06-26
 
       - title: "Two Wheels Good: The History and Mystery of the Bicycle"
         author: Jody Rosen
