@@ -3,6 +3,13 @@ list:
   - year: 2022
     books:
 
+      - title: "Sea of Tranquility"
+        author: Emily St. John Mandel
+        link: https://www.goodreads.com/book/show/58446227-sea-of-tranquility
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626710416i/58446227.jpg
+        description: "“The award-winning, best-selling author of <cite>Station Eleven</cite> and <cite>The Glass Hotel</cite> returns with a novel of art, time, love, and plague that takes the reader from Vancouver Island in 1912 to a dark colony on the moon three hundred years later, unfurling a story of humanity across centuries and space.”"
+        genre: [fiction, science fiction]
+        completed: Next
 
       - title: "Generation Dread: Finding Purpose in an Age of Climate Crisis"
         author: Britt Wray
