@@ -3,7 +3,7 @@ layout: post
 title: "Favorite gear: original Leatherman PST"
 date: 2022-05-29
 description: "I was gifted an original Leatherman multitool when I graduated high school in 1999. It's taken years for me to understand how rare it is."
-categories: gear
+categories: [gear]
 tags: [gear]
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: "Favorite gear: steel bikes"
 date: 2022-06-12
 description: "I haven't been able to ride my bikes as much as I'd like, having dislocated my shoulder on the bike in 2020. But following surgery and continuing recovery, I'm ready to get back in the saddle."
-categories: gear
+categories: [gear]
 tags: [gear, bikes]
 ---
 

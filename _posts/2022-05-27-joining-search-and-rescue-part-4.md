@@ -3,7 +3,7 @@ layout: post
 title: "Joining search and rescue part four: why I joined"
 date: 2022-05-27
 description: "Search and rescue is demanding. It's financially expensive (mostly gear and gas), time consuming, and emotionally taxing. So why did I join?"
-categories: SAR
+categories: [SAR]
 tags: [search and rescue]
 ---
 

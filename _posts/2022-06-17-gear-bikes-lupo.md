@@ -3,7 +3,7 @@ layout: post
 title: "A new bike: Bianchi Lupo"
 date: 2022-06-17
 description: "Less than a week after I suggested I might add a new gravel or touring bike to my garage, I picked up a brand new Bianchi Lupo"
-categories: gear
+categories: [gear]
 tags: [gear, bikes]
 ---
 
