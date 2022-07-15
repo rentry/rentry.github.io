@@ -3,7 +3,7 @@ layout: post
 title: "Joining search and rescue part one: training"
 date: 2021-10-26
 description: "I've been onboarding to a search and rescue team over the past few months. Here's how it's going so far."
-categories: SAR
+categories: [SAR]
 tags: [search and rescue]
 ---
 
