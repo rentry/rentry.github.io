@@ -76,6 +76,17 @@ Snowshoes weren't required before, and the team has several pairs on hand for te
 
 - Yukon Charlie's Sherpa Snowshoes
 
+## Extra clothing
+
+Our previous pack had always-carry clothing requirements, but the new spec does not. Nonetheless, I carry a supplemental clothing kit with the following:
+
+- Gloves (both an extra pair of leather gloves and leather insulated gloves)
+- Base layers (top and bottom)
+- Rain pants
+- Beanie
+- Fleece
+- Socks (x3)
+
 ## Required equipment
 
 ### Rescue pack
