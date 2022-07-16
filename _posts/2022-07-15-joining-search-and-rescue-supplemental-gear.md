@@ -74,7 +74,7 @@ I carry multiple [Mountain House](https://mountainhouse.com/) freeze-dried meals
 
 ### Snowshoes
 
-Snowshoes weren't required before, and the team has several pairs on hand for team members. I picked some up anyway, because we've had several recent missions for which they were required.
+Snowshoes weren't required in the previous gear list, and the team has several pairs on hand for team members. I picked some up anyway, because we've had several recent missions for which they were required.
 
 - Yukon Charlie's Sherpa Snowshoes
 
