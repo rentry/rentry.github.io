@@ -23,14 +23,16 @@ So here's a breakdown of what I now carry in my vehicle to supplement my rescue 
 
 ### Water kit
 
-This isn't required, but I carry a supplemental water kit. I continue to carry chlorine tablets in my rescue pack. Water treatment is no longer required for the default rescue pack, but I was on a recent mission in which another team member was overheating and needed my water for cooling, so I still carry tablets in case I need to disinfect water on a long, hot mission.
+This isn't required, but I carry a supplemental water kit. I continue to carry chlorine tablets in my rescue pack. Water purification is no longer required for the default rescue pack, but I was on a recent mission in which another team member was overheating and needed my water for cooling, so I still carry chlorine tablets in case I need to disinfect water on a long, hot mission. Tablets are small, lightweight, and potentially life-saving, especially in the summer.
 
-My water kit includes:
+My supplemental water kit includes:
 
-- Grayl Geopress
-- Pathfinder single-walled 32 oz. bottle
+- [Grayl Geopress](https://grayl.com/)
+- [Pathfinder single-walled 32 oz. bottle](https://www.survivalgear.us/products/pathfinder-32oz-stainless-steel-water-bottle-nesting-cup-set)
 
 ![Metal water bottle and Grayl geopress bottle in black and green, with a red bag in the background]({{ 'assets/images/sar/sar-gear-supp-3.jpg' | relative_url }})
+
+These two options allow me to have a total of three water disinfection options. The single-walled bottle offers the option of purification by boiling, the Garyl Geopress is a filter (and simultaneously an additional container), and I carry tablets.
 
 ### Fire kit
 
@@ -76,7 +78,7 @@ I carry multiple [Mountain House](https://mountainhouse.com/) freeze-dried meals
 
 Snowshoes weren't required in the previous gear list, and the team has several pairs on hand for team members. I picked some up anyway, because we've had several recent missions for which they were required.
 
-- Yukon Charlie's Sherpa Snowshoes
+- [Yukon Charlie's Sherpa Snowshoes](https://yukoncharlies.com/product/sherpa-snowshoes/)
 
 ### Extra clothing
 
