@@ -46,7 +46,7 @@ My fire kit includes:
 
 I actually switched this up just after taking this photo. I decided the stove makes more sense in the fire kit, so I moved it there.
 
-This one is somewhat difficult to organize, because tarps are intended for both shelter and subject packaging for litter evacuation. Since I carry a bivy in my rescue pack, it's more likely that I would use the tarp for packaging, which happens relatively often.
+This one is somewhat difficult to organize, because tarps are intended for both shelter and subject packaging for litter rescue. Since I carry a bivy in my rescue pack, it's more likely that I would use the tarp for packaging, which happens relatively often.
 
 In any case, this kit is in the truck:
 
