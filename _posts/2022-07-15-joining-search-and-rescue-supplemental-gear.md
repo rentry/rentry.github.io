@@ -76,7 +76,7 @@ Snowshoes weren't required before, and the team has several pairs on hand for te
 
 - Yukon Charlie's Sherpa Snowshoes
 
-## Extra clothing
+### Extra clothing
 
 Our previous pack had always-carry clothing requirements, but the new spec does not. Nonetheless, I carry a supplemental clothing kit with the following:
 
