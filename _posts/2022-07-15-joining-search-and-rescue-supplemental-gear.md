@@ -11,7 +11,7 @@ Last fall I wrote about our [search and rescue team equipment requirements]({{ '
 
 Well, those requirements recently changed. The leadership team's goal was to reduce pack weight by introducing a new "rescue pack" equipment list, which includes a subset of the former 24-hour gear. From my limited experience, this makes sense, considering the redundancy and superfluity of having multiple team members carrying pieces of gear that are either unlikely to be required for most missions _or_ of which the team only needs one (a tarp for subject packaging, for example).
 
-There is a caveat: all of the formerly required gear for 24-hour missions that are not included in the rescue pack is _still required_ to be present for every mission (including some additions, namely snowshoes and microspikes), so [vehicle gear storage is now essential]({{ '/joining-search-and-rescue-part-3/' | relative_url }}). The 24-hour supplements must be available to quickly include in the rescue pack depending on mission requirements.
+There is a caveat: all of the formerly required gear for 24-hour missions not included in the rescue pack are _still required_ to be present for every mission (including some additions, namely snowshoes and microspikes), so [vehicle gear storage is now essential]({{ '/joining-search-and-rescue-part-3/' | relative_url }}). The 24-hour supplements must be available to quickly include in the rescue pack depending on mission requirements.
 
 I welcomed this change following my shoulder surgery in December 2021. The pack is definitely lighter, and, even when accompanied by my chest pack, is easier to carry in the field.
 
