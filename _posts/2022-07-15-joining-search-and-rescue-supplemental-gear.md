@@ -13,6 +13,8 @@ Well, those requirements recently changed. The leadership team's goal was to red
 
 There is a caveat: all of the formerly required gear for 24-hour missions not included in the rescue pack are _still required_ to be present for every mission (including some additions, namely snowshoes and microspikes), so [vehicle gear storage is now essential]({{ '/joining-search-and-rescue-part-3/' | relative_url }}). The 24-hour supplements must be available to quickly include in the rescue pack depending on mission requirements.
 
+![Snowshoes at left in a truck bed, with a black box full of kit bags in green, red, yellow, and black]({{ 'assets/images/2022-5-truck-6.jpg' | relative_url }}#full)
+
 I welcomed this change following my shoulder surgery in December 2021. The pack is definitely lighter, and, even when accompanied by my chest pack, is easier to carry in the field.
 
 So here's a breakdown of what I now carry in my vehicle to supplement my rescue pack.
@@ -66,7 +68,7 @@ It should be noted that the prusiks are included in a smaller bag that can be re
 
 ### Food, coffee, and electrolytes
 
-I also carry multiple [Mountain House](https://mountainhouse.com/) freeze-dried meals, along with instant coffee and electrolytes.
+I carry multiple [Mountain House](https://mountainhouse.com/) freeze-dried meals, along with instant coffee and electrolytes.
 
 ![Packages of mountain house dehydrated food, instant coffee, and packets of electrolytes]({{ 'assets/images/sar/sar-gear-supp-4.jpg' | relative_url }})
 
