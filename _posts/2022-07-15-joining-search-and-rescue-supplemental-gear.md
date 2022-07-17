@@ -149,6 +149,6 @@ R = Required, Blank = Optional<br></span>
     </tbody>    
 </table>
 
-<span class="post-meta">*Backpack must be large enough to internally carry the 24 Hr gear items (except snowshoes) OR rapidly interchangeable packs<br>
-**Until EMS committee publishes new Individual First Aid Kit guidelines<br>
-***Low-Intensity Pack (Type 3 or 4 Searches or Type 2 searches that are close to support, etc)</span>
+<span class="post-meta">* Backpack must be large enough to internally carry the 24 Hr gear items (except snowshoes) OR rapidly interchangeable packs<br>
+** Until EMS committee publishes new Individual First Aid Kit guidelines<br>
+*** Low-Intensity Pack (Type 3 or 4 Searches or Type 2 searches that are close to support, etc)</span>
