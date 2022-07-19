@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Writing for action <em>and</em> ambiguity"
-date: 2022-06-17
+date: 2022-07-14
 description: "I finally got approval to publish a blog post about my content design work for ADA."
 categories: [content strategy]
 tags: [content strategy, design]
