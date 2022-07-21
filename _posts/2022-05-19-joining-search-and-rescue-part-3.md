@@ -94,7 +94,7 @@ It was a mess. With the new SAR equipment requirements, I knew I would need to c
 ![Snowshoes, red, green, yellow, blag bags containing search and rescue gear]({{ 'assets/images/2022-5-truck-6.jpg' | relative_url }}#full)
 <figcaption>SAR gear arranged into supplemental packs</figcaption>
 
-I finally arranged my gear into two kits: (1) SAR gear, indicated by a spray-painted 🔵 (because it was only spray paint can I had that worked), and (2) vehicle maintenance and tools. I still need to pack more food rations and other general purpose gear, but it's better than it was yesterday. 
+I finally arranged my gear into two kits: (1) SAR gear, indicated by a spray-painted 🔵 (because it was the only spray paint can I had that worked), and (2) vehicle maintenance and tools. I still need to pack more food rations and other general purpose gear, but it's better than it was yesterday. 
 
 I'll cover the details of the SAR supplemental kits in a future post, but for now, I'll just mention that they fall in the categories of shelter, fire (including gas stove), water purification, and specialized gear (such as snowshoes).
 
