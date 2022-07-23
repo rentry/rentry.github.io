@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Two Towers"
+        author: J.R.R. Tolkien, narrated by Andy Serkis
+        link: https://www.audible.com/pd/The-Two-Towers-Audiobook/1705047580
+        image: https://m.media-amazon.com/images/I/41KmpjMmfjL._SL500_.jpg
+        description: "I'm revisiting Middle-earth once again thanks to this new, unabridged audiobook, narrated by Andy Serkis."
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Good Strategy Bad Strategy: The Difference and Why It Matters"
         author: Richard P. Rumelt
         link: https://www.goodreads.com/book/show/11721966-good-strategy-bad-strategy
