@@ -10,14 +10,16 @@
       {{ site.title }}
     {% endif %}
   </title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
   <!--Social meta tags ¯\_(ツ)_/¯-->
   <meta property="og:title" content="{% if page.title %}{{ page.title | strip_html }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}" />
   <meta property="og:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}/assets/images/header.jpg{% endif %}" />
-  <meta name="twitter:title" content="{% if page.title %}{{ page.title | strip_html }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}">
-  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}/assets/images/header.jpg{% endif %}">
+  <!--The bird one-->
+  <meta name="twitter:title" content="{% if page.title %}{{ page.title | strip_html }} | {{ site.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta name="twitter:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}" />
+  <meta name="twitter:image" content="{% if page.image %}{{ site.url }}/{{ page.image }}{% else %}{{ site.url }}/assets/images/header.jpg{% endif %}" />
+  <meta name="twitter:card" content="summary_large_image" />
   <!--End social meta tags ¯\_(ツ)_/¯-->
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
