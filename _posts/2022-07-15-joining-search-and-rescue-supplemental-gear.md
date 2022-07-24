@@ -3,6 +3,7 @@ layout: post
 title: "Search and rescue: supplemental gear"
 date: 2022-07-15
 description: "I've previously shared gear requirements for my search and rescue team. Those requirements changed recently, so here's an update on the core pack and supplemental kit."
+image: assets/images/2022-5-truck-6.jpg
 categories: [SAR]
 tags: [search and rescue, gear]
 ---
