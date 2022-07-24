@@ -3,6 +3,7 @@ layout: post
 title: "Joining search and rescue part two: gear"
 date: 2021-10-30
 description: "I've been onboarding to a search and rescue team over the past few months. We're required to have 55 specific pieces of gear. Here's what I chose for required gear."
+image: assets/images/sar/sar-gear-3.jpg
 categories: [SAR]
 tags: [search and rescue, gear]
 ---
