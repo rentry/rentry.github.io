@@ -3,6 +3,7 @@ layout: post
 title: "12 days without power...or water"
 date: 2021-03-04
 description: "Five months ago, we were evacuated from our house due to encroaching wildfires. In February, we lost power for 12 days in a row due to an ice storm. During a pandemic. This is just our life now."
+image: assets/images/2021-ice-storm-2.JPG
 categories: [climate change]
 tags: [climate change, politics]
 ---

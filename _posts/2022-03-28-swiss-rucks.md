@@ -3,6 +3,7 @@ layout: post
 title: "Favorite gear: Swiss Army rucksacks"
 date: 2022-03-28
 description: "I've owned the iconic ‘salt and pepper’ Swiss rucksack for over 20 years, but just recently learned the reason for its legendary canvas weave."
+image: assets/images/2022-ruck-1-3.jpg
 categories: [gear]
 tags: [gear]
 ---
