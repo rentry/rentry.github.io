@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Just Ride: A Radically Practical Guide to Riding Your Bike"
+        author: Grant Petersen
+        link: https://www.rivbike.com/products/just-ride
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1404576249l/9189678.jpg
+        description: "“<cite>Just Ride</cite> is a revelation. Forget the ultralight, uncomfortable bikes, flashy jerseys, clunky shoes that clip onto tiny pedals, the grinding out of endless miles. Instead, ride like you did when you were a kid—just get on your bike and discover the pure joy of riding it.”"
+        genre: [bikes]
+        format: audiobook
+        completed: Next
+
       - title: "The Two Towers"
         author: J.R.R. Tolkien, narrated by Andy Serkis
         link: https://www.audible.com/pd/The-Two-Towers-Audiobook/1705047580
