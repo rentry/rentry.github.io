@@ -10,7 +10,7 @@ list:
         description: "“<cite>Just Ride</cite> is a revelation. Forget the ultralight, uncomfortable bikes, flashy jerseys, clunky shoes that clip onto tiny pedals, the grinding out of endless miles. Instead, ride like you did when you were a kid—just get on your bike and discover the pure joy of riding it.”"
         genre: [bikes]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Two Towers"
         author: J.R.R. Tolkien, narrated by Andy Serkis
@@ -27,7 +27,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360570381i/11721966.jpg
         description: "“Developing and implementing a strategy is <em>the</em> central task of a leader, whether the CEO at a Fortune 100 company, an entrepreneur, a church pastor, the head of a school, or a government official. Richard Rumelt shows that there has been a growing and unfortunate tendency to equate Mom-and-apple-pie values, fluffy packages of buzzwords, motivational slogans, and financial goals with ‘strategy.’ He debunks these elements of ‘bad strategy’ and awakens an understanding of the power of a ‘good strategy.’”"
         genre: [design]
-        completed: Next
+        completed: In progress
 
       - title: "Sea of Tranquility"
         author: Emily St. John Mandel
