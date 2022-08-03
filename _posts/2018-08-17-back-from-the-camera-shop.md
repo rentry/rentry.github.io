@@ -41,7 +41,7 @@ The FM3A has been a great backup camera, but it’s likely to become my default 
 ## Making images
 It’s absurdly, ostentatiously easy to make images these days. 
 
-Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. More importantly, the process imbues memory in the artifact. Supplementing the resulting photograph is our increased attention, itself imposed by the need to _literally_ focusing the camera on the subject.
+Film cameras help us make images with meaning, purpose, and longevity. Loading film into a chamber, setting exposure, manually focusing, choosing lenses...the process results in images that are – impossibly – both surprising _and_ predictable. More importantly, the process imbues memory in the artifact. Supplementing the resulting photograph is our increased attention, itself imposed by the need to _literally_ focus the camera on the subject.
 
 We get to appreciate the place we’re in while making the pictures, because we’re not consistently staring at the back of our camera right after we captured the image. And we get to enjoy the place again when we develop our negatives and prints.
 
