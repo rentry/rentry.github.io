@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "Amusing Ourselves to Death"
+        author: Neil Postman
+        link: https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death
+        image: https://upload.wikimedia.org/wikipedia/en/1/1e/Amusinghkn.jpg
+        description: "“The essential premise of the book, which Postman extends to the rest of his argument(s), is that ‘form excludes the content’, that is, a particular medium can only sustain a particular level of ideas. Thus rational argument, integral to print typography, is militated against by the medium of television for this reason. Owing to this shortcoming, politics and religion are diluted, and ‘news of the day’ becomes a packaged commodity. Television de-emphasizes the quality of information in favor of satisfying the far-reaching needs of entertainment, by which information is encumbered and to which it is subordinate.”"
+        genre: [philosophy, culture, society]
+        format: audiobook
+        completed: In progress
+
       - title: "Just Ride: A Radically Practical Guide to Riding Your Bike"
         author: Grant Petersen
         link: https://www.rivbike.com/products/just-ride
