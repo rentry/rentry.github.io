@@ -33,7 +33,7 @@ My supplemental water kit includes:
 
 ![Metal water bottle and Grayl geopress bottle in black and green, with a red bag in the background]({{ 'assets/images/sar/sar-gear-supp-3.jpg' | relative_url }})
 
-These two options allow me to have a total of three water disinfection options. The single-walled bottle offers the option of purification by boiling, the Garyl Geopress is a filter (and simultaneously an additional container), and I carry tablets.
+These two options allow me to have a total of three water disinfection options. The single-walled bottle offers the option of purification by boiling, the Grayl Geopress is a filter (and simultaneously an additional container), and I carry tablets.
 
 ### Fire kit
 
