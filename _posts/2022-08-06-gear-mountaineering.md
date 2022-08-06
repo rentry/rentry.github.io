@@ -5,7 +5,7 @@ date: 2022-08-06
 description: "In 1999, I moved from my Wyoming hometown to Oregon. Along the way, I stopped in Bozeman, Montana, and stayed with my cousin in his apartment in an abandoned brewery. On that trip, he gave me one of my favorite books I've ever owned."
 image: assets/images/2022-8-gear-1.jpg
 categories: [gear]
-tags: [gear, books]
+tags: [gear, books, search and rescue]
 ---
 
 Shortly after I graduated high school back in 1999, I drove from my Wyoming hometown to Oregon. Along the way, I stayed with my cousin, who at the time was living with his partner and daughter in a caretaker's apartment in an abandoned brewery. It was an awesome, brick building, with a massive open area that my cousin and others used for an art space. I have good memories of that trip.
@@ -20,8 +20,11 @@ Now in its [ninth edition](https://www.mountaineers.org/books/books/mountaineeri
 
 I...do not, bro. Well, not anymore, or at least, not recreationally. I used to rock and ice climb in Wyoming and Montana, along with extensive high altitude trekking, but I don't have much interest in "conquering mountains". That said, many (if not all) of the techniques in this book are relevant for, if not adopted by, search and rescue teams, and consequently indispensable. And, as mentioned, much of the book is relevant and useful for any outdoor pursuit.
 
-![Page of book showing how to tie a prusik knot, which is a ]({{ 'assets/images/2022-8-gear-2.jpg' | relative_url }})
+![Page of book showing how to tie a prusik knot, which is a girth hitch repeated three times]({{ 'assets/images/2022-8-gear-2.jpg' | relative_url }})
 <figcaption>Prusik knot, used extensively in search and rescue</figcaption>
+
+![Search and rescue volunteers training in rope rescue, with members wearing orange shirts and helmets holding ropes extending over a creek]({{ 'assets/images/2022-8-gear-4.jpg' | relative_url }})
+<figcaption>My SAR team's rope rescue training in July, 2022</figcaption>
 
 I've even used a rope-only rappel technique from the book when my dog (Sam) was swept down a creek during a flood and needed to be rescued (back in 2010). I wrapped a rope around a tree and descended a cliff into rushing water to retrieve my beloved retriever.
 
