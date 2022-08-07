@@ -3,13 +3,21 @@ list:
   - year: 2022
     books:
 
+      - title: "Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work"
+        author: Michael Heinrich
+        link: https://monthlyreview.org/product/karl-marx-and-the-birth-of-modern-society/
+        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559917637l/39975054.jpg
+        description: "“Already during this period, there were crises as well as breaks in Marx’s intellectual development that prompted Marx to give up projects and re-conceptualize his critical enterprise. This volume is the beginning of an astoundingly dimensional look at Karl Marx—a study of a complex life and body of work through the neglected issues, events, and people that helped comprise both. It is destined to become a classic.”"
+        genre: [politics, economics, biography]
+        completed: In progress
+
       - title: "How to Blow Up a Pipeline"
         author: Andreas Malm
         link: https://en.wikipedia.org/wiki/How_to_Blow_Up_a_Pipeline
         image: https://upload.wikimedia.org/wikipedia/en/3/34/How_to_Blow_Up_a_Pipeline_%28Cover%29.jpg
         description: "“The science on climate change has been clear for a very long time now. Yet despite decades of appeals, mass street protests, petition campaigns, and peaceful demonstrations, we are still facing a booming fossil fuel industry, rising seas, rising emission levels, and a rising temperature. With the stakes so high, why haven’t we moved beyond peaceful protest?”"
         genre: [climate]
-        completed: In progress
+        completed: 2022-08-07
 
       - title: "Amusing Ourselves to Death"
         author: Neil Postman
