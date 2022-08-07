@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "How to Blow Up a Pipeline"
+        author: Andreas Malm
+        link: https://en.wikipedia.org/wiki/How_to_Blow_Up_a_Pipeline
+        image: https://upload.wikimedia.org/wikipedia/en/3/34/How_to_Blow_Up_a_Pipeline_%28Cover%29.jpg
+        description: "“The science on climate change has been clear for a very long time now. Yet despite decades of appeals, mass street protests, petition campaigns, and peaceful demonstrations, we are still facing a booming fossil fuel industry, rising seas, rising emission levels, and a rising temperature. With the stakes so high, why haven’t we moved beyond peaceful protest?”"
+        genre: [climate]
+        completed: In progress
+
       - title: "Amusing Ourselves to Death"
         author: Neil Postman
         link: https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death
@@ -270,7 +278,7 @@ list:
         link: https://www.goodreads.com/book/show/56268809-the-treeline
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636982385l/56268809.jpg
         description: "“For the last fifty years, the trees of the boreal forest have been moving north. Ben Rawlence's <cite>The Treeline</cite> takes us along this critical frontier of our warming planet from Norway to Siberia, Alaska to Greenland, to meet the scientists, residents and trees confronting huge geological changes.”"
-        genre: [climate change, science, environment]
+        genre: [climate, science, environment]
         completed: 2022-03-03
 
       - title: "Blood, Sweat & Chrome: The Wild and True Story of Mad Max: Fury Road"
@@ -1086,7 +1094,7 @@ list:
         link: https://wwnorton.com/books/a-childrens-bible
         image: https://cdn.wwnorton.com/dam_booktitles/183/img/cover/9780393867381_300.jpeg
         description: "“<cite>A Children’s Bible</cite> follows a group of twelve eerily mature children on a forced vacation with their families at a sprawling lakeside mansion. Contemptuous of their parents, the children decide to run away when a destructive storm descends on the summer estate, embarking on a dangerous foray into the apocalyptic chaos outside. Lydia Millet’s prophetic and heartbreaking story of generational divide offers a haunting vision of what awaits us on the far side of Revelation.”"
-        genre: [fiction, climate change]
+        genre: [fiction, climate]
         format: audiobook
         completed: 2021-03-06
 
@@ -1369,7 +1377,7 @@ list:
         link: https://www.versobooks.com/books/3107-a-planet-to-win
         image: https://cdn-ed.versobooks.com/images/000015/060/9781788738316-515c5aecc5c7893284555e5f3b4b4754.jpg
         description: "“<cite>A Planet to Win</cite> explores the political potential and concrete first steps of a Green New Deal. It calls for dismantling the fossil fuel industry, building beautiful landscapes of renewable energy, and guaranteeing climate-friendly work, no-carbon housing, and free public transit. And it shows how a Green New Deal in the United States can strengthen climate justice movements worldwide.”"
-        genre: [environment, society, climate change, politics]
+        genre: [environment, society, climate, politics]
         completed: 2020-09-26
 
       - title: "How Fascism Works: The Politics of Us and Them"
@@ -1819,7 +1827,7 @@ list:
         link: https://thischangeseverything.org/book/
         image: https://d28hgpri8am2if.cloudfront.net/book_images/onix/cvr9781451697391/this-changes-everything-9781451697391_hr.jpg
         description: "“A book of such ambition and consequence that it is almost unreviewable … the most momentous and contentious environmental book since ‘Silent Spring.’” — New York Times Book Review"
-        genre: [climate change, environment, politics, science]
+        genre: [climate, environment, politics, science]
         completed: 2020-01-15
         format: audiobook
       
@@ -2069,7 +2077,7 @@ list:
         link: https://www.penguinrandomhouse.com/books/586541/the-uninhabitable-earth-by-david-wallace-wells/9780525576709/
         image: https://images.penguinrandomhouse.com/cover/9780525576709
         description: "This books begins with a sobering reality, even though all thinking people understand it's very, very bad already: “It is worse, much worse, than you think.” This is the urgency we need, even while it’s too late to prevent the onset of climate change. Despite the catastrophic future we've created for ourselves, perhaps we can muster the will to prevent the worst of the devastating impacts coming our way?"
-        genre: [climate change, global warming, environment, politics, science]
+        genre: [climate, global warming, environment, politics, science]
         completed: 2019-05-26
 
       - title: "Becoming"
