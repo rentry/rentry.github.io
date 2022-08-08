@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Favorite gear: <cite>Mountaineering: The Freedom of the Hills, Second Edition</cite>"
+title: "Favorite gear: <cite>Mountaineering: The Freedom of the Hills, Third Edition</cite>"
 date: 2022-08-06
 description: "In 1999, I moved from my Wyoming hometown to Oregon. Along the way, I stopped in Bozeman, Montana, and stayed with my cousin in his apartment in an abandoned brewery. On that trip, he gave me one of my favorite books I've ever owned."
 image: assets/images/2022-8-gear-1.jpg
@@ -10,7 +10,7 @@ tags: [gear, books, search and rescue]
 
 Shortly after I graduated high school back in 1999, I drove from my Wyoming hometown to Oregon. Along the way, I stayed with my cousin, who at the time was living with his partner and daughter in a caretaker's apartment in an abandoned brewery. It was an awesome, brick building, with a massive open area that my cousin and others used for an art space. I have good memories of that trip.
 
-As an impromptu graduation gift, my cousin gave me a second-edition copy of <cite>Mountaineering: The Freedom of the Hills</cite>, and I've had it on the bookshelf ever since.
+As an impromptu graduation gift, my cousin gave me a third-edition copy of <cite>Mountaineering: The Freedom of the Hills</cite>, and I've had it on the bookshelf ever since.
 
 ![Mountaineering Freedom of the Hills book, with aqua and cream colored cover with mountaineers ascending a snow-covered peak]({{ 'assets/images/2022-8-gear-1.jpg' | relative_url }}#full)
 
