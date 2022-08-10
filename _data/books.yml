@@ -11,14 +11,6 @@ list:
         genre: [politics, economics, biography]
         completed: In progress
 
-      - title: "How to Blow Up a Pipeline"
-        author: Andreas Malm
-        link: https://en.wikipedia.org/wiki/How_to_Blow_Up_a_Pipeline
-        image: https://upload.wikimedia.org/wikipedia/en/3/34/How_to_Blow_Up_a_Pipeline_%28Cover%29.jpg
-        description: "“The science on climate change has been clear for a very long time now. Yet despite decades of appeals, mass street protests, petition campaigns, and peaceful demonstrations, we are still facing a booming fossil fuel industry, rising seas, rising emission levels, and a rising temperature. With the stakes so high, why haven’t we moved beyond peaceful protest?”"
-        genre: [climate]
-        completed: 2022-08-07
-
       - title: "Amusing Ourselves to Death"
         author: Neil Postman
         link: https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death
