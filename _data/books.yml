@@ -44,7 +44,7 @@ list:
         description: "I'm revisiting Middle-earth once again thanks to this new, unabridged audiobook, narrated by Andy Serkis."
         genre: [fantasy, fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-08-09
 
       - title: "Good Strategy Bad Strategy: The Difference and Why It Matters"
         author: Richard P. Rumelt
