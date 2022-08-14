@@ -14,9 +14,9 @@ I've been making a lot of changes to my main search and rescue kit lately. Eithe
 
 The biggest change I've made in the past few weeks is to my chest harness, or kit bag. If you read [my original SAR gear post]({{ '/joining-search-and-rescue-part-2/' | relative_url }}), you'll recall that I originally had the [Coaxsher MOLLE chest harness](http://www.coaxsher.com/MOLLE-Chest-Harness-p/rp204.htm), which worked fine before my shoulder surgery. After my surgery, though, the relatively thin harness straps dug into my shoulder precisely in the most uncomfortable places. On long missions, it was at the very least distracting, but more often mildly painful.
 
-![Gray and green backpack with two front pockets]({{ '/assets/images/sar/2022-8-gear-chest-kit.jpg' | relative_url }}#full)
+![Gray Hill People Gear chest bag with radio harness with an iCom radio attached, and a name badge that reads Ryan J with a Hill People Gear rust colored badge at lower end of the bag]({{ '/assets/images/sar/2022-8-gear-chest-kit.jpg' | relative_url }}#full)
 
-![Gray and green backpack with two front pockets]({{ '/assets/images/sar/hpg-sar-kit.jpg' | relative_url }}#float)
+![Hill People Gear chest kit bag in gray with attachments for radio at front]({{ '/assets/images/sar/hpg-sar-kit.jpg' | relative_url }}#float)
 
 So I've switched to the [Hill People Gear SAR Kit Bag](https://5col.com/products/sar-kit-bag-hill-people-gear?variant=14736232939562), mostly for the wider shoulder straps that disperse the weight of the bag over a larger surface area, and consequently take pressure off of my shoulder in key areas. It also has webbing on the back that more comfortably distributes the weight of the bag across the back. And since the SAR Kit Bag has PALS attachments inside and out, I can still use the MOLLE accessories I had for the previous chest rig.
 
@@ -26,8 +26,9 @@ Hill People Gear bags are designed and marketed for firearm carry, but I don't c
 
 The other notable change I made is to my GPS watch. My [original SAR watch was the Suunto Ambit3 Peak]({{ '/joining-search-and-rescue-part-2/#gps-devices' | realtive_url }}), for which I got an _amazing_ deal back in 2020. My biggest problem with that watch is that it is massive. I mean, "can't put on a backpack without accidentally hitting buttons on the watch" massive. It's so big, I have sleeves that won't go over it. I don't love wearing watches in the first place, so one that makes its presence so intrusively obvious wasn't ideal. (I did keep this watch, and it still works perfectly, so I'll probably continue to use it on my bike handlebars or for some other purpose.)
 
-![Gray and green backpack with two front pockets]({{ '/assets/images/sar/2022-8-gear-watch.jpg' | relative_url }}#full)
-![Gray and green backpack with two front pockets]({{ '/assets/images/sar/garmin-instinct.jpg' | relative_url }}#float)
+![Gray and black Garmin Instinct watch sitting sideways on a wooden surface reading August 13 2:35 and 19 days of battery life with a horizontal arrow and sunset icon with 8:21 listed, and the words on the dial reading ctrl, menu, abc, solar, gps, and set]({{ '/assets/images/sar/2022-8-gear-watch.jpg' | relative_url }}#full)
+
+![Gray and black Garmin Instinct watch sitting sideways on a wooden surface reading Tue 15 10:10, and the words on the dial reading ctrl, menu, abc, solar, gps, and set]({{ '/assets/images/sar/garmin-instinct.jpg' | relative_url }}#float)
 
 My new watch, the [Garmin Instinct Solar](https://www.garmin.com/en-US/p/679335), has other advantages beyond its smaller size. As the name implies, it charges itself via solar on the watch interface. It also connects to my Garmin InReach (which I _always_ carry on SAR missions), and allows me to control the InReach from my watch. The sheriff's office our SAR team reports to prefers data from Garmin devices, so it's useful for that purpose as well. And it's routinely [rated as the best overall GPS watch](https://www.cleverhiker.com/best-gps-watches) you can find.
 
