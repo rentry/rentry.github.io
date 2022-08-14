@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Search and rescue: notable gear changes"
+title: "Search and rescue: gear changes"
 date: 2022-08-13
 description: "I've continued to make changes to my main search and rescue kit. In this post, I cover recent changes to my watch and chest harness."
 image: assets/images/sar/2022-8-gear-chest-kit.jpg
@@ -20,7 +20,7 @@ The biggest change I've made in the past few weeks is to my chest harness, or ki
 
 So I've switched to the [Hill People Gear SAR Kit Bag](https://5col.com/products/sar-kit-bag-hill-people-gear?variant=14736232939562), mostly for the wider shoulder straps that disperse the weight of the bag over a larger surface area, and consequently take pressure off of my shoulder in key areas. It also has webbing on the back that more comfortably distributes the weight of the bag across the back. And since the SAR Kit Bag has PALS attachments inside and out, I can still use the MOLLE accessories I had for the previous chest rig.
 
-Hill People Gear bags are designed and marketed for firearm carry, but I don't carry a firearm on search and rescue missions. Honestly, that seems like a terrible idea. As a result, I have a third compartment, designed for a handgun, that I use for map storage.
+Hill People Gear bags are designed and marketed for firearm carry, but I don't carry a firearm on search and rescue missions. Honestly, carrying a firearm on SAR missions seems like a terrible idea to me, but I know others on the team do. As a result, I have a third compartment, designed for a handgun, that I use for map storage.
 
 ## GPS watch
 
