@@ -31,7 +31,7 @@ People in Wyoming especially despise the federal government in general and envir
 My hometown literally only exists because of the federal government. I grew up in a desert, and yet it’s a thriving farming community. Why? Because in 1904 the (federal) Bureau of Reclamation authorized and built the [Buffalo Bill Dam](https://en.wikipedia.org/wiki/Buffalo_Bill_Dam), near Cody, Wyoming. Besides producing power, the dam and resulting irrigation projects brought water for irrigation to an otherwise arid basin. My hometown literally wouldn’t exist otherwise.
 
 ### Rural electrification
-My own mormon grandfather supported a family of 11 (my mother is one of 10 kids) by working for a power co-op originally funded—you guessed it—by the federal government via the New Deal’s [Rural Electrification Act](https://en.wikipedia.org/wiki/Rural_Electrification_Act).
+My own mormon grandfather supported a family of 11 (my mother is one of 10 kids) by working for a power co-op originally funded by—you guessed it— the federal government via the New Deal’s [Rural Electrification Act](https://en.wikipedia.org/wiki/Rural_Electrification_Act).
 
 ### Federal land
 Before my father hauled me and the region’s gasoline around in a semi, he worked in the oil fields north and south of my hometown. Those oil fields are (of course) on Bureau of Land Management land, which is, of course, federal land.
