@@ -60,8 +60,3 @@ Look, I love my family and friends in Wyoming, and I love the incomparable beaut
 - Don’t even get me started on wolves and Yellowstone National Park. The tourism money flowing into Wyoming from Yellowstone National Park is staggering, and yet Wyoming’s anti-federal stance is perpetually hostile to the very existence of Yellowstone, much less the federal government’s management of it (which is, of course, the whole premise of the National Park System). 
 
 Even so, Liz Cheney’s landslide primary loss was, while expected, still shocking. Liz Cheney is among the most conservative politicians to occupy a house seat, and represents all of the willful ignorance I mentioned above. But it’s not enough to be conservative now. You have to be anti-democracy. Because, after all, Wyoming doesn’t exist in its current form in a true democracy, and they probably know that. 
-
-
-
-
-
