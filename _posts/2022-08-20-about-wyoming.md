@@ -34,7 +34,7 @@ My hometown literally only exists because of the federal government. I grew up i
 My own mormon grandfather supported a family of 11 (my mother is one of 10 kids) by working for a power co-op originally funded by—you guessed it— the federal government via the New Deal’s [Rural Electrification Act](https://en.wikipedia.org/wiki/Rural_Electrification_Act).
 
 ### Federal land
-Before my father hauled me and the region’s gasoline around in a semi, he worked in the oil fields north and south of my hometown. Those oil fields are (of course) on Bureau of Land Management land, which is, of course, federal land.
+Before my father hauled me and the region’s gasoline around in a semi, he worked in the oil fields north and south of my hometown. Those oil fields are (of course) on Bureau of Land Management land, which is (of course) federal land.
 
 I won’t even mention federal subsidies and [Land and Water Conservation Fund](https://www.doi.gov/lwcf) grants the state benefits from. Because there’s just too much federal support to mention everything.
 
