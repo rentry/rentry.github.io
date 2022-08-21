@@ -24,7 +24,7 @@ It wasn’t all bad. I mean, it was probably toxic in many ways, especially chem
 
 That was a typical Wyoming childhood, from what I could tell. Fossil fuels and right-wing politics were and are pervasive in that state, and every child is inducted into that way of life as the default. 
 
-People in Wyoming especially despise the federal government in general and environmental regulation in particular. Which is ironic. Many of the towns and jobs in that state only exist _because of_ the federal government (and, ironically, environmental regulations). Let’s cover a few.
+People in Wyoming especially despise the federal government in general and environmental regulation in particular. Which is ironic. Many of the towns and jobs in that state _only exist because of_ the federal government (and, ironically, environmental regulations). Let’s cover a few.
 
 ## Ag and oil (Big Horn Basin)
 
