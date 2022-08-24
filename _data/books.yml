@@ -19,7 +19,7 @@ list:
         description: "I'm revisiting Middle-earth once again thanks to this new, unabridged audiobook, narrated by Andy Serkis."
         genre: [fantasy, fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-08-23
 
       - title: "Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work"
         author: Michael Heinrich
