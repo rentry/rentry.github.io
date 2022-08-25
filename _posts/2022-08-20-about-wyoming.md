@@ -46,7 +46,7 @@ Why? Coal, and lots of it. Where is this coal? [Largely on federal land](https:/
 
 One of my mother’s 8 sisters lives in Gillette, and so we would stay there during our many trips. I distinctly remember my aunt making us vacuum every day in exchange for staying there. It turns out when you live in the coal capital of the U.S., there’s coal dust _everywhere_.
 
-### Coal capital of the U.S (thanks feds!)
+### Coal capital of the U.S. (thanks feds!)
 
 How did Wyoming become the coal capital of the U.S.? Because of federal environmental regulations, namely [amendments to the Clean Air Act](https://www.wyohistory.org/encyclopedia/coal-business-wyoming) that limited sulfur emissions from burning coal. Wyoming’s coal, relative to that from other U.S. states, was already low in sulfur, and consequently Wyoming coal production exploded. [Wyoming continues to dominate the national coal market to this day](https://www.nsenergybusiness.com/features/top-five-coal-producing-states-us/), thanks to an amendment to a federal environmental regulation.
 
