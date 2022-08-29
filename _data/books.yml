@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "The Silmarillion"
+        author: J.R.R. Tolkien
+        link: https://en.wikipedia.org/wiki/The_Silmarillion
+        image: https://upload.wikimedia.org/wikipedia/en/d/db/Silmarillion.png
+        description: "I'm continuing to revisit Tolkien's work before <cite>The Rings of Power</cite> premiere."
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Fifteen Dogs"
         author: André Alexis
         link: https://en.wikipedia.org/wiki/Fifteen_Dogs
@@ -13,7 +22,7 @@ list:
         completed: Next
 
       - title: "The Return of the King"
-        author: MJ.R.R. Tolkien, narrated by Andy Serkis
+        author: J.R.R. Tolkien, narrated by Andy Serkis
         link: https://www.audible.com/pd/The-Return-of-the-King-Audiobook/0008487294
         image: https://m.media-amazon.com/images/I/51NDKXOH58L._SL500_.jpg
         description: "I'm revisiting Middle-earth once again thanks to this new, unabridged audiobook, narrated by Andy Serkis."
