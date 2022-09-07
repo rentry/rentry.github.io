@@ -18,7 +18,7 @@ list:
         description: "I'm continuing to revisit Tolkien's work before <cite>The Rings of Power</cite> premiere."
         genre: [fantasy, fiction]
         format: audiobook
-        completed: In progress
+        completed: 2022-09-06
 
       - title: "Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work"
         author: Michael Heinrich
