@@ -33,7 +33,7 @@ My hometown literally only exists because of the federal government. I grew up i
 The building of this dam followed previous federal incentives for private irrigation projects (namely by way of [The Carey Act](https://www.wyohistory.org/encyclopedia/watering-dry-land-wyoming-and-federal-irrigation)), but those private efforts failed, resulting in direct intervention by the federal government.
 
 ### Rural electrification
-My own mormon grandfather supported a family of 11 (my mother is one of 10 kids) by working for a power co-op originally funded by—you guessed it— the federal government via the New Deal’s [Rural Electrification Act](https://en.wikipedia.org/wiki/Rural_Electrification_Act).
+My own mormon grandfather supported a family of 12 (my mother is one of 10 kids) by working for a power co-op originally funded by—you guessed it— the federal government via the New Deal’s [Rural Electrification Act](https://en.wikipedia.org/wiki/Rural_Electrification_Act).
 
 ### Federal land
 Before my father hauled me and the region’s gasoline around in a semi, he worked in the oil fields north and south of my hometown. Those oil fields are (of course) on Bureau of Land Management land, which is (of course) federal land.
