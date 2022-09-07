@@ -46,7 +46,7 @@ When I was young, Gillette, Wyoming, had the only 50-meter (Olympic-sized) swimm
 
 Why? Coal, and lots of it. Where is this coal? [Largely on federal land](https://revenuedata.doi.gov/explore?dataType=Revenue&location=NF%2CNA%2CWY&mapLevel=State&offshoreRegions=false&period=Calendar%20Year&year=2021), of course.
 
-One of my mother’s 8 sisters lives in Gillette, and so we would stay there during our many trips. I distinctly remember my aunt making us vacuum every day in exchange for staying there. It turns out when you live in the coal capital of the U.S., there’s coal dust _everywhere_.
+One of my mother’s 8 sisters lives in Gillette, and so we would stay there during our many trips. I distinctly remember my aunt asking us vacuum every day in exchange for staying there. It turns out when you live in the coal capital of the U.S., there’s coal dust _everywhere_.
 
 ### Coal capital of the U.S. (thanks feds!)
 
