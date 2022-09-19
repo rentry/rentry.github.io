@@ -22,17 +22,19 @@ We chose [Hart Mountain in southern Oregon](https://www.fws.gov/refuge/hart-moun
 
 Not that anything _amazing_ happened. We were looking for the opposite: quiet, calm walks and wildlife. And we found it.
 
+![Stone pillars hold a large sign that reads Hart Mountain National Antelope Refuge with a mountain rising in the background]({{'assets/images/2022-hart-mountain-1.jpg' | relative_url }})
+
 ![A black dog perched on a rock with a rock slab in the background]({{'assets/images/2022-hart-mountain-3.jpg' | relative_url }})
 
 We walked through desert rocks and observed [petroglyphs left by the Kidütökadö band of the Northern Paiute](https://www.oregonhikers.org/field_guide/Petroglyph_Lake_Loop_Hike), while a herd of [Pronghorn](https://en.wikipedia.org/wiki/Pronghorn) (the "antelope" of the antelope refuge) watched us watching them.
 
-![A rugged basalt rock wall, with reddish tint and green trees at its base]({{'assets/images/2022-hart-mountain-4.jpg#full' | relative_url }})
+![A rugged basalt rock wall, with reddish tint and green trees at its base]({{'assets/images/2022-hart-mountain-4.jpg' | relative_url }})
 
 ![A man in an orange shirt, sunglasses, gray pants, and a watch holding a dog in front of a rock spire in the background]({{'assets/images/2022-hart-mountain-5.jpg' | relative_url }})
 
  We hiked through basalt canyons and along desert scree at the bast of a mountain ridge. We discovered a gathering of dedicated (and eccentric) people seeking Oregon's state gem, [sunstones](https://en.wikipedia.org/wiki/Sunstone).
 
-![Late evening, blue sky, with hills in the background, and a man in an orange shirt walking a black dog through sagebrush and desert plants]({{'assets/images/2022-hart-mountain-6.jpg' | relative_url }})
+![Late evening, blue sky, with hills in the background, and a man in an orange shirt walking a black dog through sagebrush and desert plants]({{'assets/images/2022-hart-mountain-6.jpg#full' | relative_url }})
 
 There are so many areas of Oregon, much less the west, much less _the rest of the U.S._, that we haven't seen; we don't really see the point in venturing further. Not that we can, anyway. Leaving for vacation is always subject to climate change events now, and we can't count on being able to confidently leave our home (outside of having to evacuate) anytime between late June and late September. It's just the reality now. And we don't want to go anywhere that we can't take our dog, or where we need to fly him in cargo on a plane.
 
