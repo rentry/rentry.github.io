@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "The Destructionists: The Twenty-Five Year Crack-Up of the Republican Party"
+        author: Dana Milbank
+        link: https://www.penguinrandomhouse.com/books/690605/the-destructionists-by-dana-milbank/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641777134i/59630374.jpg
+        description: "“Dana Milbank sees a clear line from the Contract with America to the coup attempt. In the quarter century in between, Americans have witnessed the crackup of the party of Lincoln and Reagan, to its current iteration as a haven for white supremacists, political violence, conspiracy theories and authoritarianism.”"
+        genre: [politics]
+        completed: In progress 
+
       - title: "Unfinished Tales of Númenor and Middle-earth"
         author: J.R.R. Tolkien
         link: https://en.wikipedia.org/wiki/Unfinished_Tales
@@ -35,7 +43,7 @@ list:
         description: "“Over drinks at Toronto's Wheat Sheaf Tavern, Hermes and Apollo get into a debate about whether animals could live happily if they had the same cognitive and speech abilities as humans. They decide to wager a year of servitude on the outcome of granting the gifts of human reasoning and language to a group of dogs in a nearby clinic.”"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: 2022-09-21
 
       - title: "The Return of the King"
         author: J.R.R. Tolkien, narrated by Andy Serkis
