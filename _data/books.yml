@@ -9,6 +9,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641777134i/59630374.jpg
         description: "“Dana Milbank sees a clear line from the Contract with America to the coup attempt. In the quarter century in between, Americans have witnessed the crackup of the party of Lincoln and Reagan, to its current iteration as a haven for white supremacists, political violence, conspiracy theories and authoritarianism.”"
         genre: [politics]
+        format: audiobook
         completed: 2022-09-23
 
       - title: "Unfinished Tales of Númenor and Middle-earth"
