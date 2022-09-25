@@ -31,7 +31,7 @@ The routes are geographically distributed in the area, as is our team, but most 
 
 ![Green conifer trees of hemlock, cedar, and douglas fir on a hillside, with green ferns and oxalis in the foreground]({{ 'assets/images/sar/2022-fitness-1.jpg' | relative_url }}#full)
 
-I chose a route in the Salmon-Huckleberry Wildnerness that I've wanted to hike for a while (the last time I tried, it was covered in ice and not particularly safe). It's around 4.5 miles with 2000 feet of elevation gain.
+I chose a route in the Salmon-Huckleberry Wilderness that I've wanted to hike for a while (the last time I tried, it was covered in ice and not particularly safe). It's around 4.5 miles with 2000 feet of elevation gain.
 
 ![A trail heading upwards between conifer and deciduous green trees with a sign that reads Salmon Huckleberry Wilderness Mount Hood National Forest]({{ 'assets/images/sar/2022-fitness-3.jpg' | relative_url }})
 
