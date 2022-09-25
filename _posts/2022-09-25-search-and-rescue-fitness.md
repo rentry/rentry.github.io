@@ -43,7 +43,7 @@ Eventually, I reached the waypoint indicating the top of the ascent, turned arou
 
 ## Track
 
-Here's the track, if you ever want to hike this yourself. You can do a big loop here, if you continue along the ridge. I've hiked up from the other side (Cool Creek trail) – an equally, if not more, arduous trail than this one – to spend a couple nights at the Devil's Peak fire lookout. It's a beautiful area to spend some time. 
+Here's the track, if you ever want to hike this yourself. You can do a big loop here if you continue along the ridge. I've hiked up from the other side (Cool Creek trail) – an equally, if not more, arduous trail than this one – to spend a couple nights at the Devil's Peak fire lookout. It's a beautiful area to spend some time. 
 
  <div class="map" id="map"></div>
 
