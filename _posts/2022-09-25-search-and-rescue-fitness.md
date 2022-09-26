@@ -3,13 +3,14 @@ layout: post
 title: "Search and rescue: fitness (re)assessment"
 date: 2022-09-25
 description: "Every year, search and rescue members must complete a pre-approved route to confirm their physical fitness. The routes gain between 2000 and 3000 feet, all in around 5 miles. I went out this morning to check the box"
+image: assets/images/sar/2022-fitness-3.jpg
 categories: [SAR]
 tags: [search and rescue]
 ---
 
 {% include leaflet.html %}
 
-I've already written an [overview of the requirements]({{ '/joining-search-and-rescue-part-1' \ relative_url }}) to join our search and rescue team. Among them, I noted that members are required to complete a fitness assessment, essentially a timed hike on a predetermined route.
+I've already written an [overview of the requirements]({{ '/joining-search-and-rescue-part-1' | relative_url }}) to join our search and rescue team. Among them, I noted that members are required to complete a fitness assessment, essentially a timed hike on a predetermined route.
 
 The fitness assessment is described in our training manual this way:
 
