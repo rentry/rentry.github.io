@@ -50,7 +50,7 @@ Here's the track, if you ever want to hike this yourself. You can do a big loop 
 
 <script>
     var map = L.map('map').setView([45.283043379694874, -121.94074901318209], 14)    
-    var fitnessFeature = {% include data/sar-map-data.html %}
+    var fitnessFeature = {% include data/2022/sar-map-data.html %}
 
         L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg', {
         attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
