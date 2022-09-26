@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Search and rescue: fitness assessment"
+title: "Search and rescue: fitness (re)assessment"
 date: 2022-09-25
 description: "Every year, search and rescue members must complete a pre-approved route to confirm their physical fitness. The routes gain between 2000 and 3000 feet, all in around 5 miles. I went out this morning to check the box"
 categories: [SAR]
