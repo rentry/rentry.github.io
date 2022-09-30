@@ -3,8 +3,17 @@ list:
   - year: 2022
     books:
 
+      - title: "The Rise and Fall of the Third Reich"
+        author: William L. Shirer
+        link: hhttps://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1331223772i/767171.jpg
+        description: "“Hitler boasted that The Third Reich would last a thousand years. It lasted only 12. But those 12 years contained some of the most catastrophic events Western civilization has ever known. No other powerful empire ever bequeathed such mountains of evidence about its birth and destruction as the Third Reich. When the bitter war was over, and before the Nazis could destroy their files, the Allied demand for unconditional surrender produced an almost hour-by-hour record of the nightmare empire built by Adolph Hitler.”"
+        genre: [history, politics]
+        format: audiobook
+        completed: In progress
+
       - title: "Buchanan-Smith’s Handbook to the Axe"
-        author: DPeter Buchanan-Smith, Ross McCammon, Ross Zdon, Michael Getz
+        author: Peter Buchanan-Smith, Ross McCammon, Ross Zdon, Michael Getz
         link: https://www.gransforsbruk.com/en/product/buchanan-smiths-axe-handbook/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616850315i/51075467.jpg
         description: "“From the basics and fundamentals of handling and owning an axe to the details on how to find the right axe to everything a reader must know about use and maintenance, this stylish, informative axe guide is ideal for anyone interested in the outdoors.”"
@@ -26,7 +35,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/3/3d/UnfinishedTales.JPG
         description: "I'm continuing to revisit Tolkien's work before <cite>The Rings of Power</cite> premiere."
         genre: [fantasy, fiction]
-        completed: In progress
+        completed: 2022-09-29
 
       - title: "The Silmarillion"
         author: J.R.R. Tolkien
