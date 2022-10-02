@@ -18,7 +18,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616850315i/51075467.jpg
         description: "“From the basics and fundamentals of handling and owning an axe to the details on how to find the right axe to everything a reader must know about use and maintenance, this stylish, informative axe guide is ideal for anyone interested in the outdoors.”"
         genre: [outdoors, tools]
-        completed: In progress
+        completed: 2022-10-01
 
       - title: "The Destructionists: The Twenty-Five Year Crack-Up of the Republican Party"
         author: Dana Milbank
