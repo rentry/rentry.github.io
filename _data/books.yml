@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Pastoral Song: A Farmer’s Journey"
+        author: James Rebanks
+        link: https://www.goodreads.com/book/show/55004160-pastoral-song
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1619418036i/55004160.jpg
+        description: "“<cite>Pastoral Song</cite> is the story of an inheritance: one that affects us all. It tells of how rural landscapes around the world were brought close to collapse, and the age-old rhythms of work, weather, community and wild things were lost. And yet this elegy from the northern fells is also a song of hope: of how, guided by the past, one farmer began to salvage a tiny corner of England that was now his, doing his best to restore the life that had vanished and to leave a legacy for the future.”"
+        genre: [nature, environment, memoir]
+        completed: In progress
+
       - title: "The Rise and Fall of the Third Reich"
         author: William L. Shirer
         link: hhttps://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Third_Reich
@@ -44,15 +52,7 @@ list:
         description: "I'm continuing to revisit Tolkien's work before <cite>The Rings of Power</cite> premiere."
         genre: [fantasy, fiction]
         format: audiobook
-        completed: 2022-09-06
-
-      - title: "Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work"
-        author: Michael Heinrich
-        link: https://monthlyreview.org/product/karl-marx-and-the-birth-of-modern-society/
-        image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1559917637l/39975054.jpg
-        description: "“Already during this period, there were crises as well as breaks in Marx’s intellectual development that prompted Marx to give up projects and re-conceptualize his critical enterprise. This volume is the beginning of an astoundingly dimensional look at Karl Marx—a study of a complex life and body of work through the neglected issues, events, and people that helped comprise both. It is destined to become a classic.”"
-        genre: [politics, economics, biography]
-        completed: Next        
+        completed: 2022-09-06       
 
       - title: "Fifteen Dogs"
         author: André Alexis
