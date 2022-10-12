@@ -105,6 +105,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1360570381i/11721966.jpg
         description: "“Developing and implementing a strategy is <em>the</em> central task of a leader, whether the CEO at a Fortune 100 company, an entrepreneur, a church pastor, the head of a school, or a government official. Richard Rumelt shows that there has been a growing and unfortunate tendency to equate Mom-and-apple-pie values, fluffy packages of buzzwords, motivational slogans, and financial goals with ‘strategy.’ He debunks these elements of ‘bad strategy’ and awakens an understanding of the power of a ‘good strategy.’”"
         genre: [design]
+        format: audiobook
         completed: 2022-08-11
 
       - title: "Sea of Tranquility"
@@ -418,7 +419,6 @@ list:
         image: https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632083529l/56630503.jpg
         description: "“In a collection of gripping stories of adventure, Doug Peacock, loner, iconoclast, environmentalist, and contemporary of Edward Abbey, reflects on a life lived in the wild, asking the question many ask in their twilight years: ‘Was It Worth It?’”"
         genre: [environment, activism, nature]
-        format: audiobook
         completed: 2022-01-26
 
       - title: "It Was All a Lie: How the Republican Party Became Donald Trump"
