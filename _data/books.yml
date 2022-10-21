@@ -3,6 +3,22 @@ list:
   - year: 2022
     books:
 
+      - title: "Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team"
+        author: Marina Nitze and Nick Sinai
+        link: https://www.goodreads.com/book/show/60021175-hack-your-bureaucracy?ref=nav_sb_noss_l_15
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1641778792i/60021175.jpg
+        description: "“Change doesn’t happen just because the person in charge declares it should, even if that person is the CEO of your company or the President of the United States. Regardless of your industry, role, or team, Hack Your Bureaucracy shows how to get started, take initiative on your own, and transform your ideas into impact.”"
+        genre: [government, design]
+        completed: In progress
+
+      - title: "Two Years on a Bike: From Vancouver to Patagonia"
+        author: Martijn Doolaard
+        link: https://www.goodreads.com/book/show/59852685-two-years-on-a-bike
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639930309i/59852685.jpg
+        description: "YouTube recently listed in my feed this author's <a href="https://youtube.com/playlist?list=PL32DhVYS_cmGlvtY5UzdVVMI34vDFGDJY">series on buying and refurbishing an Italian mountain farm</a> and consequently I found this book about his two-year bike tour. The book is expensive, but stunning in illustrations, photographs, and prose."
+        genre: [memoir, photography, bikes]
+        completed: In progress
+
       - title: "Pastoral Song: A Farmer’s Journey"
         author: James Rebanks
         link: https://www.goodreads.com/book/show/55004160-pastoral-song
