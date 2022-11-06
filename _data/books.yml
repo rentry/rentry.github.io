@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Demon Copperhead"
+        author: Barbara Kingsolver
+        link: https://www.harpercollins.com/products/demon-copperhead-barbara-kingsolver?variant=40073146204194
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660050779i/60194162.jpg
+        description: "“<cite>Demon Copperhead</cite> is set in the mountains of southern Appalachia. It’s the story of a boy born to a teenaged single mother in a single-wide trailer, with no assets beyond his dead father’s good looks and copper-colored hair, a caustic wit, and a fierce talent for survival. In a plot that never pauses for breath, relayed in his own unsparing voice, he braves the modern perils of foster care, child labor, derelict schools, athletic success, addiction, disastrous loves, and crushing losses. Through all of it, he reckons with his own invisibility in a popular culture where even the superheroes have abandoned rural people in favor of cities.”"
+        genre: [fiction]
+        completed: In progress
+
       - title: "Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team"
         author: Marina Nitze and Nick Sinai
         link: https://www.goodreads.com/book/show/60021175-hack-your-bureaucracy?ref=nav_sb_noss_l_15
@@ -17,7 +25,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639930309i/59852685.jpg
         description: "YouTube recently listed in my feed this author's <a href='https://youtube.com/playlist?list=PL32DhVYS_cmGlvtY5UzdVVMI34vDFGDJY'>series on buying and refurbishing an Italian mountain farm</a> and consequently I found this book about his two-year bike tour. The book is expensive, but stunning in illustrations, photographs, and prose."
         genre: [memoir, photography, bikes]
-        completed: In progress
+        completed: 2022-11-05
 
       - title: "Pastoral Song: A Farmer’s Journey"
         author: James Rebanks
@@ -34,7 +42,7 @@ list:
         description: "“Hitler boasted that The Third Reich would last a thousand years. It lasted only 12. But those 12 years contained some of the most catastrophic events Western civilization has ever known. No other powerful empire ever bequeathed such mountains of evidence about its birth and destruction as the Third Reich. When the bitter war was over, and before the Nazis could destroy their files, the Allied demand for unconditional surrender produced an almost hour-by-hour record of the nightmare empire built by Adolph Hitler.”"
         genre: [history, politics]
         format: audiobook
-        completed: In progress
+        completed: 2022-11-05
 
       - title: "Buchanan-Smith’s Handbook to the Axe"
         author: Peter Buchanan-Smith, Ross McCammon, Ross Zdon, Michael Getz
