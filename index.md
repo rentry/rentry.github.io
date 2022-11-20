@@ -21,3 +21,8 @@ When I'm not working, I'm likely reading a book, walking among trees, or serving
     <li><a href="https://github.com/rentry">{% include github_icon.html %} rentry</a></li>
     <li><a href="https://github.com/brentryanjohnson">{% include github_icon.html %} brentryanjohnson</a></li>
 </ul>
+
+## Social
+<ul class="contact-list">
+    <li><a rel="me" href="https://techhub.social/@rentry">{% include social_icon.html %} @rentry</a></li>
+</ul>
