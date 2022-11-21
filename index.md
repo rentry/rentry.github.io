@@ -24,5 +24,5 @@ When I'm not working, I'm likely reading a book, walking among trees, or serving
 
 ## Social
 <ul class="contact-list">
-    <li><a rel="me" href="https://techhub.social/@rentry">{% include social_icon.html %} @rentry</a></li>
+    <li><a rel="me" href="https://hachyderm.io/@rentry">{% include social_icon.html %} @rentry</a></li>
 </ul>
