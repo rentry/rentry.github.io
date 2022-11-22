@@ -3,6 +3,14 @@ list:
   - year: 2022
     books:
 
+      - title: "Orwell's Roses"
+        author: Rebecca Solnit
+        link: https://en.wikipedia.org/wiki/Orwell%27s_Roses
+        image: https://upload.wikimedia.org/wikipedia/en/d/d3/Orwell%27s_Roses.jpg
+        description: "“‘In the year 1936 a writer planted roses.’ So begins Rebecca Solnit’s new book, a reflection on George Orwell’s passionate gardening and the way that his involvement with plants, particularly flowers, and the natural world illuminates his other commitments as a writer and antifascist, and the intertwined politics of nature and power.”"
+        genre: [biography]
+        completed: Next
+
       - title: "Demon Copperhead"
         author: Barbara Kingsolver
         link: https://www.harpercollins.com/products/demon-copperhead-barbara-kingsolver?variant=40073146204194
