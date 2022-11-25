@@ -17,6 +17,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1660050779i/60194162.jpg
         description: "“<cite>Demon Copperhead</cite> is set in the mountains of southern Appalachia. It’s the story of a boy born to a teenaged single mother in a single-wide trailer, with no assets beyond his dead father’s good looks and copper-colored hair, a caustic wit, and a fierce talent for survival. In a plot that never pauses for breath, relayed in his own unsparing voice, he braves the modern perils of foster care, child labor, derelict schools, athletic success, addiction, disastrous loves, and crushing losses. Through all of it, he reckons with his own invisibility in a popular culture where even the superheroes have abandoned rural people in favor of cities.”"
         genre: [fiction]
+        format: audiobook
         completed: In progress
 
       - title: "Hack Your Bureaucracy: Get Things Done No Matter What Your Role on Any Team"
