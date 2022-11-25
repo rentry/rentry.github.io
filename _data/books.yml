@@ -9,7 +9,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/d/d3/Orwell%27s_Roses.jpg
         description: "“‘In the year 1936 a writer planted roses.’ So begins Rebecca Solnit’s new book, a reflection on George Orwell’s passionate gardening and the way that his involvement with plants, particularly flowers, and the natural world illuminates his other commitments as a writer and antifascist, and the intertwined politics of nature and power.”"
         genre: [biography]
-        completed: Next
+        completed: In progress
 
       - title: "Demon Copperhead"
         author: Barbara Kingsolver
@@ -26,6 +26,14 @@ list:
         description: "“Change doesn’t happen just because the person in charge declares it should, even if that person is the CEO of your company or the President of the United States. Regardless of your industry, role, or team, Hack Your Bureaucracy shows how to get started, take initiative on your own, and transform your ideas into impact.”"
         genre: [government, design]
         completed: In progress
+
+      - title: "Karl Marx and the Birth of Modern Society: The Life of Marx and the Development of His Work (Volume I: 1818-1841)"
+        author: Michael Heinrich
+        link: https://monthlyreview.org/product/karl-marx-and-the-birth-of-modern-society/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559917637i/39975054.jpg
+        description: "“For over a century, Karl Marx's critique of capitalism has been a crucial resource for social movements. Now, recent economic crises have made it imperative for us to comprehend and actualize Marx's ideas. But without a knowledge of Karl Marx's life as he lived it, neither Marx nor his works can be fully understood. There are more than twenty-five comprehensive biographies of Marx, but none of them consider his life and work in equal, corresponding measure. This biography, planned for three volumes, aims to include what most biographies have reduced to mere background: the contemporary conflicts, struggles, and disputes that engaged Marx at the time of his writings, alongside his complex relationships with a varied assortment of friends and opponents.”"
+        genre: [biography, history, politics]
+        completed: 2022-11-25
 
       - title: "Two Years on a Bike: From Vancouver to Patagonia"
         author: Martijn Doolaard
