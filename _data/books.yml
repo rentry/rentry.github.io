@@ -12,6 +12,14 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "Lumberjills: Britain's Forgotten Army"
+        author: Joanna Foat
+        link: https://www.goodreads.com/book/show/43544815-lumberjills
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549836367i/43544815.jpg
+        description: "“During the two world wars, it is well known that women all over the country entered factories, armed services and farms, filling gaps left by the exodus of men. What is less well known is that one of the vital services women filled during these tumultuous times was in forestry, forming the Women's Timber Corps. Timber was a vital resource, imported into the UK in vast quantities, but wartime meant the country had to be self-sufficient - and without the men that usually took on the work. Without it, mining, shipbuilding and a whole host of other industries would grind to a halt. In stepped the Lumberjills: the government reluctantly recruited thousands of women to carry out this 'man's job'; they were responsible for felling and crosscutting trees by hand, operating sawmills, driving tractors and hauling timber trucks.”"
+        genre: [biography, history]
+        completed: Next
+
       - title: "Orwell's Roses"
         author: Rebecca Solnit
         link: https://en.wikipedia.org/wiki/Orwell%27s_Roses
