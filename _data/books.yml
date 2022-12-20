@@ -3,6 +3,15 @@ list:
   - year: 2022
     books:
 
+      - title: "White Too Long: The Legacy of White Supremacy in American Christianity"
+        author: Robert P. Jones
+        link: https://www.simonandschuster.com/books/White-Too-Long/Robert-P-Jones/9781982122874
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1570969980i/52764767.jpg
+        description: "“Drawing on history, public opinion surveys, and personal experience, Robert P. Jones delivers a provocative examination of the unholy relationship between American Christianity and white supremacy, and issues an urgent call for white Christians to reckon with this legacy for the sake of themselves and the nation.”"
+        genre: [religion, politics]
+        format: audiobook
+        completed: In progress
+
       - title: "I Am Dynamite! A Life of Nietzsche"
         author: Sue Prideaux
         link: https://www.penguinrandomhouse.com/books/555768/i-am-dynamite-by-sue-prideaux/
