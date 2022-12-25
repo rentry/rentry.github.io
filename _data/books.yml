@@ -1,6 +1,6 @@
 list:
 
-  - year: 2022
+  - year: 2023
     books:
 
       - title: "Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution"
@@ -18,7 +18,10 @@ list:
         description: "“Drawing on history, public opinion surveys, and personal experience, Robert P. Jones delivers a provocative examination of the unholy relationship between American Christianity and white supremacy, and issues an urgent call for white Christians to reckon with this legacy for the sake of themselves and the nation.”"
         genre: [religion, politics]
         format: audiobook
-        completed: In progress
+        completed: In progress        
+
+  - year: 2022
+    books:
 
       - title: "I Am Dynamite! A Life of Nietzsche"
         author: Sue Prideaux
@@ -35,7 +38,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1549836367i/43544815.jpg
         description: "“During the two world wars, it is well known that women all over the country entered factories, armed services and farms, filling gaps left by the exodus of men. What is less well known is that one of the vital services women filled during these tumultuous times was in forestry, forming the Women's Timber Corps. Timber was a vital resource, imported into the UK in vast quantities, but wartime meant the country had to be self-sufficient - and without the men that usually took on the work. Without it, mining, shipbuilding and a whole host of other industries would grind to a halt. In stepped the Lumberjills: the government reluctantly recruited thousands of women to carry out this 'man's job'; they were responsible for felling and crosscutting trees by hand, operating sawmills, driving tractors and hauling timber trucks.”"
         genre: [biography, history]
-        completed: In progress
+        completed: 2022-12-24
 
       - title: "Orwell's Roses"
         author: Rebecca Solnit
