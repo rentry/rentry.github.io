@@ -3,6 +3,7 @@ layout: post
 title: "Back in the pool after three years"
 date: 2022-12-29
 description: "Following covid closures and shoulder surgery, I'm back to my favorite form of exercise after three long years."
+image: assets/images/2022-swim.jpg
 categories: [swim]
 tags: [swim]
 ---
