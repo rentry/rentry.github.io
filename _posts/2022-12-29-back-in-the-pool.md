@@ -17,7 +17,7 @@ I've been swimming off and on ever since as my primary exercise. But when the pa
 ![A worn swimming pool, with two distinct lanes with tile on the bottom and one lane line marking off the right side of the pool, grey and white walls and rescue and cleaning gear hung on the walls]({{ 'assets/images/2022-swim.jpg' | relative_url }}#full)
 <figcaption>The charming, empty, "dive bar" pool at the gym I recently joined</figcaption>
 
-A year later, I had surgery to repair the labrum, but there were complications; I had likely torn my labrum a decade earlier when I first dislocated my shoulder.
+A year later, I had surgery to repair the labrum, but there were complications; I had likely torn my labrum a decade earlier when I first dislocated my shoulder, and the labrum was in rough condition.
 
 It's been a long, slow year of physical therapy and excruciatingly incremental progress. But finally, a year after surgery, I was able to get back in the pool, easing my way back to form.
 
