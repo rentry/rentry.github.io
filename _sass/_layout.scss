@@ -312,10 +312,15 @@ Post List and items
 
 a {
     color: $brand-color;
+    transition: all 0.2s ease-in-out;
+
+    &:hover {
+        color: $brand-color-dark;
+    }
 }
 
 .post a:hover {
-    color: brand-color-light;
+    color: $brand-color-light;
 }
 
 /**
