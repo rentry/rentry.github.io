@@ -21,7 +21,7 @@ _Either_ Saturday, July 3 _or_ Saturday, August 7, 2021<br>
 
 _What a lovely day!_
 
-We'll only hold show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
+We'll only show this film if there's no rain in the forecast 🌤️ and conditions allow for a campfire 🔥.
 
 ## Where
 Ryan and Erinn's farmhouse
