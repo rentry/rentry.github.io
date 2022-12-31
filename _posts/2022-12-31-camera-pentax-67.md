@@ -8,7 +8,7 @@ categories: [photography]
 tags: [photography, cameras, gear]
 ---
 
-I've written previously about [my several Nikon 35mm film cameras]({{ '/back-from-the-camera-shop/' | relative_url }}), but I haven't yet written about medium format photography. This is largely because I prefer the flexibility and portability of 35mm cameras relative to medium format, and because, while I've owned a medium format, off-brand twin-lens reflex camera since I was in college, that camera lacks a light meter and has some mechanical quirks that result in less than ideal negatives.
+I've written previously about [my several Nikon 35mm film cameras]({{ '/back-from-the-camera-shop/' | relative_url }}), but I haven't yet written about medium format photography. This is largely because I prefer the flexibility and portability of 35mm cameras relative to medium format, and because, while I've owned an off-brand, twin-lens reflex medium format camera since I was in college, that camera lacks a light meter and has some mechanical quirks that result in less-than-ideal negatives.
 
 For years, I've considered making a more intentional and consistent reintroduction to the world of medium format, but I couldn't decide which camera to invest in. A [Rolleiflex](https://en.wikipedia.org/wiki/Rolleiflex)? [Mamiya](https://en.wikipedia.org/wiki/Mamiya)? Perhaps a [Hasselblad](https://en.wikipedia.org/wiki/Hasselblad)?
 
