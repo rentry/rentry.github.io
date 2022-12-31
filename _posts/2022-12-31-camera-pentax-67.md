@@ -16,7 +16,7 @@ Indecision and apathy prevented me from reviving my enthusiasm for medium format
 
 ![Large black camera with a lens attached, Asahi Pentax embossed on the front, 6 x 7 inscribed on right side, and knobs and silver accessory mounts]({{ 'assets/images/2022-pentax67-2.jpg' | relative_url }}#full)
 
-<figcaption>The Pentax 6ⅹ7 MLU Camera with Pentax 105mm f2.4 SMC Lens</figcaption>
+<figcaption>The Pentax 6ⅹ7 MLU Camera with Pentax Takumar 105mm f2.4 SMC Lens</figcaption>
 
 About a year ago, I started seeing this camera in multiple blog posts, videos, and other film photography books and articles. I'm not sure why it was all of the sudden ubiquitous, but it continues to show up unexpectedly (as it did today when I opened up a [book I ordered](https://us.gestalten.com/products/venture-onward) and there was an illustration of this camera on the inside cover endsheet).
 
