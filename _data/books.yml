@@ -10,7 +10,7 @@ list:
         description: "“The filmmaker shares his love of cinema with special attention given to key American films of the 1970s.”"
         genre: [film]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Philosophy of Modern Song"
         author: Bob Dylan
