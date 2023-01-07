@@ -7,13 +7,15 @@ layout: default
 
   <ul id="post-list">
       
-   {% for post in paginator.posts %} 
+   {% for post in paginator.posts %}
+    {% unless post.rss-only == true %}
       <li>
         <a class="dates" href="{{ post.url | prepend: site.baseurl }}">
         {{ post.date | date: "%b %-d, %Y" }}
         </a>
         <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title | smartify }} </h2><p>{{ post.description | smartify }}</p></a>
       </li>
+      {% endunless %}
     {% endfor %}
   </ul>
     
