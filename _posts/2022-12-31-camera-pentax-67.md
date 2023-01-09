@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yet <em>another</em> new, old film camera"
+title: "Yet another new, old film camera"
 date: 2022-12-31
 description: "I've been looking for a mechanically sound Pentax 6ⅹ7 camera for years, and I finally found one at a local camera shop."
 image: assets/images/2022-pentax67-2.jpg
