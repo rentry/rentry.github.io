@@ -44,7 +44,7 @@
 $heading-font-family: 'Martel', serif;
 $italic-font-family: 'Merriweather', serif;
 $base-font-family: 'Roboto', sans-serif;
-$base-font-size:   calc(21px/1);
+$base-font-size:   math.div(21px, 1);
 $small-font-size:  $base-font-size * 0.875;
 $tiny-font-size: $base-font-size * 0.7;
 $base-line-height: 1.7;
