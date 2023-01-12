@@ -3,7 +3,7 @@ layout: post
 title: "Joining search and rescue part one: training"
 date: 2021-10-26
 description: "I've been onboarding to a search and rescue team over the past few months. Here's how it's going so far."
-image: assets/images/sar/sar-training-1.jpg
+image: assets/images/sar/sar-training-1.webp
 categories: [SAR]
 tags: [search and rescue]
 ---
@@ -21,7 +21,7 @@ Simultaneous to the background check and required training, we began fitness tes
 ### Field training
 I participated in four field trainings over 7 weekend days between August and October. All but one were on Mt. Hood, as several search and rescue missions happen on the mountain, furnishing a realistic venue for training (2 of the 7 days had overlapping, actual search-and-rescue missions).
 
-![Several search and rescue members in the field examining a tarp shelter]({{ '/assets/images/sar/sar-training-1.jpg' | relative_url }}#full)
+![Several search and rescue members in the field examining a tarp shelter]({{ '/assets/images/sar/sar-training-1.webp' | relative_url }}#full)
 
 Accompanied by our 113-page training manual, we received field instruction in everything from wilderness first aid to land navigation. For our final weekend in October, we were required to demonstrate the skills we learned, with no help from our trainers. 
 
@@ -158,7 +158,7 @@ and appendages.
 
 In addition to demonstrating all of these skills, we're required to respond to 4 real-life missions to achieve full membership and certification. Oh, and the written test...
 
-![Several search and rescue members in the field watching a demonstration on litter packaging]({{ '/assets/images/sar/sar-training-2.jpg' | relative_url }})
+![Several search and rescue members in the field watching a demonstration on litter packaging]({{ '/assets/images/sar/sar-training-2.webp' | relative_url }})
 
 ### Written test
 
@@ -172,7 +172,7 @@ Our gear list is split into two packs: 24-hour and "Hasty". The 24-hour pack is 
 
 Again, I'll go into this in more detail. But given the hasty pack is a subset of the 24-hour pack, I have mine organized such that the hasty gear is organized into two compartments that I can include in my 24-hour pack, but are removable and can be mounted on a separate harness.
 
-![Search and rescue volunteer walking among trees]({{ '/assets/images/sar/sar-training-4.jpg' | relative_url }})
+![Search and rescue volunteer walking among trees]({{ '/assets/images/sar/sar-training-4.webp' | relative_url }})
 
 ### Required gear
 
@@ -195,7 +195,7 @@ Again, I'll go into this in more detail. But given the hasty pack is a subset of
 
 Notably, we were required to obtain all the gear and undergo a pack check before we could respond to missions. That meant (1) we couldn't take advantage of gear discounts for SAR members, because we were not yet members and (2) we didn't yet know exactly which versions of each item would be optimal. I've discovered in just a few weeks that trading out and replacing gear will be a constant.
 
-![Several search and rescue members in the field examining a tarp shelter]({{ '/assets/images/sar/sar-training-3.jpg' | relative_url }}#full)
+![Several search and rescue members in the field examining a tarp shelter]({{ '/assets/images/sar/sar-training-3.webp' | relative_url }}#full)
 
 There's _a lot_ more to share, including:
 
