@@ -44,7 +44,7 @@
 $heading-font-family: 'Martel', serif;
 $italic-font-family: 'Merriweather', serif;
 $base-font-family: 'Roboto', sans-serif;
-$base-font-size:   21px/1;
+$base-font-size:   calc(21px/1);
 $small-font-size:  $base-font-size * 0.875;
 $tiny-font-size: $base-font-size * 0.7;
 $base-line-height: 1.7;
@@ -84,8 +84,8 @@ $to:    #303030;
 // Using media queries like this:
 // @include media-query($on-palm) {
 //     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
+//         padding-right: calc($spacing-unit / 2);
+//         padding-left: calc($spacing-unit / 2);
 //     }
 // }
 @mixin media-query($device) {
