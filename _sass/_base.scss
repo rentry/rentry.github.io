@@ -51,13 +51,13 @@ body {
 p, blockquote, pre,
 ul, ol, dl, figure, video,
 %vertical-rhythm {
-    margin-bottom: calc($spacing-unit / 1.5);
+    margin-bottom: $spacing-unit * .67;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: $heading-font-family;
     letter-spacing: -1px;
-    margin-bottom: calc($spacing-unit / 5);
+    margin-bottom: $spacing-unit * .2;
 }
 
 
@@ -234,7 +234,7 @@ strong {
 blockquote {
     color: $grey-color-medium;
     border-left: 1px solid $grey-color;
-    padding-left: calc($spacing-unit / 2);
+    padding-left: $spacing-unit * .5;
     font-size: 22px;
     font-style: italic;
 
@@ -309,8 +309,8 @@ pre {
     @include media-query($on-laptop) {
         max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
         max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: calc($spacing-unit / 2);
-        padding-left: calc($spacing-unit / 2);
+        padding-right: $spacing-unit * .5;
+        padding-left: $spacing-unit * .5;
     }
 }
 
