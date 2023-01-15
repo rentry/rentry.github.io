@@ -3,6 +3,23 @@ list:
   - year: 2023
     books:
 
+      - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
+        author: Katharina Pistor
+        link: https://www.goodreads.com/book/show/42585103-the-code-of-capital
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1556903764i/42585103.jpg
+        description: "“Capital is the defining feature of modern economies, yet most people have no idea where it actually comes from. What is it, exactly, that transforms mere wealth into an asset that automatically creates more wealth? <cite>The Code of Capital</cite> explains how capital is created behind closed doors in the offices of private attorneys, and why this little-known fact is one of the biggest reasons for the widening wealth gap between the holders of capital and everybody else.”"
+        genre: [economics, law, society]
+        format: audiobook
+        completed: Next
+
+      - title: "Believers: Making a Life at the End of the World"
+        author: Lisa Wells
+        link: https://www.goodreads.com/book/show/54785512-believers
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608040097i/54785512.jpg
+        description: "“In search of answers and action, the award-winning poet and essayist Lisa Wells brings us <cite>Believers</cite>, introducing trailblazers and outliers from across the globe who have found radically new ways to live and reconnect to the Earth in the face of climate change .”"
+        genre: [climate, environment]
+        completed: Next
+
       - title: "Cinema Speculation"
         author: Quentin Tarantino
         link: https://en.wikipedia.org/wiki/Cinema_Speculation
@@ -19,7 +36,7 @@ list:
         description: "“In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.”"
         genre: [music]
         format: audiobook
-        completed: Next     
+        completed: In progress   
 
       - title: "Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution"
         author: R. F. Kuang
