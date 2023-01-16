@@ -10,7 +10,7 @@ list:
         description: "“Capital is the defining feature of modern economies, yet most people have no idea where it actually comes from. What is it, exactly, that transforms mere wealth into an asset that automatically creates more wealth? <cite>The Code of Capital</cite> explains how capital is created behind closed doors in the offices of private attorneys, and why this little-known fact is one of the biggest reasons for the widening wealth gap between the holders of capital and everybody else.”"
         genre: [economics, law, society]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Believers: Making a Life at the End of the World"
         author: Lisa Wells
@@ -36,7 +36,7 @@ list:
         description: "“In a collection of more than 60 essays, the musician and winner of the Nobel Prize in Literature explores the nature of popular music.”"
         genre: [music]
         format: audiobook
-        completed: In progress   
+        completed: 2023-01-16
 
       - title: "Babel, Or the Necessity of Violence: An Arcane History of the Oxford Translators' Revolution"
         author: R. F. Kuang
