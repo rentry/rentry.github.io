@@ -2,6 +2,7 @@
 layout: farmhouse
 title: "Farmhouse films: <cite>Che: Part One</cite>"
 permalink: /farmhouse-film-che/
+image: /assets/images/the-farmhouse-invite-film-che.png
 event-image: /assets/images/film-che.png
 image-alt: "A man in military clothes leans against a tree and writes"
 ---

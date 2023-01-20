@@ -2,6 +2,7 @@
 layout: farmhouse
 title: "Farmhouse films: <cite>Che: Part Two</cite>"
 permalink: /farmhouse-film-che-2/
+image: /assets/images/the-farmhouse-invite-film-che.png
 event-image: /assets/images/film-che-2.png
 image-alt: "A man in military clothes and long hair pointing a gun and appears to be falling backward"
 ---
