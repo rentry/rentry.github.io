@@ -18,7 +18,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608040097i/54785512.jpg
         description: "“In search of answers and action, the award-winning poet and essayist Lisa Wells brings us <cite>Believers</cite>, introducing trailblazers and outliers from across the globe who have found radically new ways to live and reconnect to the Earth in the face of climate change .”"
         genre: [climate, environment]
-        completed: Next
+        completed: In progress
 
       - title: "Cinema Speculation"
         author: Quentin Tarantino
