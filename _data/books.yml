@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Hungry: Eating, Road-Tripping, and Risking It All with the Greatest Chef in the World"
+        author: Jeff Gordinier
+        link: https://www.goodreads.com/book/show/42590641-hungry
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1541419814i/42590641.jpg
+        description: "“<cite>Hungry</cite> is a book about not only the hunger for food, but for risk, for reinvention, for creative breakthroughs, and for connection. Feeling stuck in his work and home life, writer Jeff Gordinier happened into a fateful meeting with Danish chef René Redzepi, whose restaurant, Noma, has been called the best in the world. A restless perfectionist, Redzepi was at the top of his game but was looking to tear it all down, to shutter his restaurant and set out for new places, flavors, and recipes.”"
+        genre: [food, travel]
+        format: audiobook        
+        completed: In progress
+
       - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
         author: Katharina Pistor
         link: https://www.goodreads.com/book/show/42585103-the-code-of-capital
@@ -16,7 +25,7 @@ list:
         author: Lisa Wells
         link: https://www.goodreads.com/book/show/54785512-believers
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1608040097i/54785512.jpg
-        description: "“In search of answers and action, the award-winning poet and essayist Lisa Wells brings us <cite>Believers</cite>, introducing trailblazers and outliers from across the globe who have found radically new ways to live and reconnect to the Earth in the face of climate change .”"
+        description: "“In search of answers and action, the award-winning poet and essayist Lisa Wells brings us <cite>Believers</cite>, introducing trailblazers and outliers from across the globe who have found radically new ways to live and reconnect to the Earth in the face of climate change.”"
         genre: [climate, environment]
         completed: In progress
 
