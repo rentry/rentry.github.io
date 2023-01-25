@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI"
+        author: David Grann
+        link: https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon
+        image: https://upload.wikimedia.org/wikipedia/en/b/ba/Killers_of_the_Flower_Moon_-_book_cover.jpg
+        description: "“In the 1920s, the richest people per capita in the world were members of the Osage Indian Nation in Oklahoma. After oil was discovered beneath their land, the Osage rode in chauffeured automobiles, built mansions, and sent their children to study in Europe. Then, one by one, they began to be killed off. One Osage woman, Mollie Burkhart, watched as her family was murdered. Her older sister was shot. Her mother was then slowly poisoned. And it was just the beginning, as more Osage began to die under mysterious circumstances.”"
+        genre: [history, crime]
+        format: audiobook        
+        completed: Next
+
       - title: "Hungry: Eating, Road-Tripping, and Risking It All with the Greatest Chef in the World"
         author: Jeff Gordinier
         link: https://www.goodreads.com/book/show/42590641-hungry
@@ -11,6 +20,15 @@ list:
         genre: [food, travel]
         format: audiobook        
         completed: In progress
+
+      - title: "Never Split the Difference: Negotiating As If Your Life Depended On It"
+        author: Chris Voss and Tahl Raz
+        link: https://www.goodreads.com/book/show/26156469-never-split-the-difference
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1460910517i/26156469.jpg
+        description: "“After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a kidnapping negotiator brought him face-to-face with bank robbers, gang leaders and terrorists. Never Split the Difference takes you inside his world of high-stakes negotiations, revealing the nine key principles that helped Voss and his colleagues succeed when it mattered the most – when people’s lives were at stake.”"
+        genre: [food, travel]
+        format: audiobook        
+        completed: 2023-01-25       
 
       - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
         author: Katharina Pistor
