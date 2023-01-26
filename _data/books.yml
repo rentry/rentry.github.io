@@ -19,7 +19,7 @@ list:
         description: "“<cite>Hungry</cite> is a book about not only the hunger for food, but for risk, for reinvention, for creative breakthroughs, and for connection. Feeling stuck in his work and home life, writer Jeff Gordinier happened into a fateful meeting with Danish chef René Redzepi, whose restaurant, Noma, has been called the best in the world. A restless perfectionist, Redzepi was at the top of his game but was looking to tear it all down, to shutter his restaurant and set out for new places, flavors, and recipes.”"
         genre: [food, travel]
         format: audiobook        
-        completed: In progress
+        completed: 2023-01-25
 
       - title: "Never Split the Difference: Negotiating As If Your Life Depended On It"
         author: Chris Voss and Tahl Raz
@@ -28,7 +28,7 @@ list:
         description: "“After a stint policing the rough streets of Kansas City, Missouri, Chris Voss joined the FBI, where his career as a kidnapping negotiator brought him face-to-face with bank robbers, gang leaders and terrorists. Never Split the Difference takes you inside his world of high-stakes negotiations, revealing the nine key principles that helped Voss and his colleagues succeed when it mattered the most – when people’s lives were at stake.”"
         genre: [food, travel]
         format: audiobook        
-        completed: 2023-01-25       
+        completed: In progress       
 
       - title: "The Code of Capital: How the Law Creates Wealth and Inequality"
         author: Katharina Pistor
