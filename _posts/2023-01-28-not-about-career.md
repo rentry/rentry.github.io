@@ -33,7 +33,7 @@ To get this out of the way, I recognize having a personal website is a privilege
 
 That said, most of the personal websites I come across are career focused, self-promotional, or otherwise myopically oriented toward monetizing someone's carefully curated personal "brand". 
 
-I suspect this is, perhaps obviously, the result of capitalism's emphasis on competition, with successful job seeking and career enhancement conditioned in large part by how well one packages and sells oneself. And social media, along with diminishing the need for and purposes of many personal websites, has provided outlets for personal expression and communication that are better optimized for reach than personal websites.
+I suspect this is, perhaps obviously, the result of capitalism's emphasis on competition, with successful job seeking and career enhancement conditioned in large part by how well one packages and sells oneself. And social media, along with diminishing the need for and purposes of many personal websites, has provided outlets for expression and communication that are better optimized for reach than individual websites.
 
 As a result, it seems many people, especially those in the "tech sector", have decided that personal websites are best used for career self promotion.
 
