@@ -13,7 +13,7 @@ _This post is for RSS subscribers only._
 
 This is my first post available only to RSS subscribers. I have no idea if any such subscribers exist, and I have no way to track them if they do. I've [disabled tracking on my website]({{ '/no-google-tracking/' | relative_url }}) and have no in interest nor method for tracking RSS subscribers, should you exist.
 
-Ironically, my first RSS-only post is about my personal website, a visit to which is rendered unnecessary when using an RSS reader (although I recently changed my feed to only supply a summary of each post, a decision I gather might be anathema to RSS purists).
+Ironically, my first RSS-only post is about my personal website, a visit to which is unnecessary when using an RSS reader (although I recently changed my feed to only supply a summary of each post, a decision I gather might be anathema to RSS purists).
 
 But I digress. About my website.
 
