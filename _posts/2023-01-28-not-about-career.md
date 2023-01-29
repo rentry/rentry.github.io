@@ -19,7 +19,7 @@ But I digress. About my website.
 
 I built my first personal website in 2004. I had just graduated from college and took a job at a general store in the Beartooth Mountains of Montana. Outside of alpine general stores, my career prospects were limited, graduating as I did in philosophy and religious studies.
 
-In a modest cabin in Montana, I built a simple website with table layouts, poor usability, and egregious ignorance of accessibility. But I had a vehicle to share my experience in the mountains, with absolutely no ambition, monetization, or trolling. Smartphones didn't exist. Social media was mercifully yet to emerge in any meaningful way. The stakes were low, but publishing a blog still felt like a miracle.
+In a modest cabin in Montana, I built a simple website with table layouts, poor usability, and egregious ignorance of accessibility. But I had a way to share my experience in the mountains, with absolutely no ambition, monetization, or trolling. Smartphones didn't exist. Social media was mercifully yet to emerge in any meaningful way. The stakes were low, but publishing a blog still felt like a miracle.
 
 The early internet was my favorite internet, by far.
 
