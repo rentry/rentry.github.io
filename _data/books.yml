@@ -3,6 +3,23 @@ list:
   - year: 2023
     books:
 
+      - title: "A Natural History of the Future: What the Laws of Biology Tell Us about the Destiny of the Human Species"
+        author: Rob Dunn
+        link: https://www.goodreads.com/book/show/57356060-a-natural-history-of-the-future
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617718352i/57356060.jpg
+        description: "“Our species has amassed unprecedented knowledge of nature, which we have tried to use to seize control of life and bend the planet to our will. In <cite>A Natural History of the Future</cite>, biologist Rob Dunn argues that such efforts are futile. We may see ourselves as life’s overlords, but we are instead at its mercy. In the evolution of antibiotic resistance, the power of natural selection to create biodiversity, and even the surprising life of the London Underground, Dunn finds laws of life that no human activity can annul. When we create artificial islands of crops, dump toxic waste, or build communities, we provide new materials for old laws to shape. Life’s future flourishing is not in question. Ours is.”"
+        format: audiobook
+        genre: [natural history, environment, biology]       
+        completed: Next
+
+      - title: "One Long River of Song: Notes on Wonder for the Spiritual and Nonspiritual Alike"
+        author: Brian Doyle
+        link: https://www.goodreads.com/book/show/45031831-one-long-river-of-song
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566825303i/45031831.jpg
+        description: "“When Brian Doyle died of brain cancer at the age of sixty, he left behind dozens of books—fiction and nonfiction, as well as hundreds of essays—and a cult-like following who regarded his writing on spirituality as one of the best-kept secrets of the 21st century. Though Doyle occasionally wrote about Catholic spirituality, his writing is more broadly about the religion of everyday things. He writes with a delightful sense of wonder about the holiness of small things, and about love in all its forms: spiritual love, brotherly love, romantic love, friendly love, love of nature, and even the love of a nine-foot sturgeon.”"
+        genre: [memoir]       
+        completed: Next
+
       - title: "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI"
         author: David Grann
         link: https://en.wikipedia.org/wiki/Killers_of_the_Flower_Moon
@@ -10,7 +27,7 @@ list:
         description: "“In the 1920s, the richest people per capita in the world were members of the Osage Indian Nation in Oklahoma. After oil was discovered beneath their land, the Osage rode in chauffeured automobiles, built mansions, and sent their children to study in Europe. Then, one by one, they began to be killed off. One Osage woman, Mollie Burkhart, watched as her family was murdered. Her older sister was shot. Her mother was then slowly poisoned. And it was just the beginning, as more Osage began to die under mysterious circumstances.”"
         genre: [history, crime]
         format: audiobook        
-        completed: In progress
+        completed: 2023-01-29
 
       - title: "Hungry: Eating, Road-Tripping, and Risking It All with the Greatest Chef in the World"
         author: Jeff Gordinier
