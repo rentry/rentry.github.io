@@ -10,7 +10,7 @@ list:
         description: "“Our species has amassed unprecedented knowledge of nature, which we have tried to use to seize control of life and bend the planet to our will. In <cite>A Natural History of the Future</cite>, biologist Rob Dunn argues that such efforts are futile. We may see ourselves as life’s overlords, but we are instead at its mercy. In the evolution of antibiotic resistance, the power of natural selection to create biodiversity, and even the surprising life of the London Underground, Dunn finds laws of life that no human activity can annul. When we create artificial islands of crops, dump toxic waste, or build communities, we provide new materials for old laws to shape. Life’s future flourishing is not in question. Ours is.”"
         format: audiobook
         genre: [natural history, environment, biology]       
-        completed: Next
+        completed: In progress
 
       - title: "One Long River of Song: Notes on Wonder for the Spiritual and Nonspiritual Alike"
         author: Brian Doyle
@@ -19,6 +19,14 @@ list:
         description: "“When Brian Doyle died of brain cancer at the age of sixty, he left behind dozens of books—fiction and nonfiction, as well as hundreds of essays—and a cult-like following who regarded his writing on spirituality as one of the best-kept secrets of the 21st century. Though Doyle occasionally wrote about Catholic spirituality, his writing is more broadly about the religion of everyday things. He writes with a delightful sense of wonder about the holiness of small things, and about love in all its forms: spiritual love, brotherly love, romantic love, friendly love, love of nature, and even the love of a nine-foot sturgeon.”"
         genre: [memoir]       
         completed: Next
+
+      - title: "On Photography"
+        author: Susan Sontag
+        link: https://en.wikipedia.org/wiki/On_Photography
+        image: https://upload.wikimedia.org/wikipedia/en/a/a5/On_Photography.jpg
+        description: "“First published in 1973, this is a study of the force of photographic images which are continually inserted between experience and reality. Sontag develops further the concept of 'transparency'. When anything can be photographed and photography has destroyed the boundaries and definitions of art, a viewer can approach a photograph freely with no expectations of discovering what it means. This collection of six lucid and invigorating essays, the most famous being 'In Plato's Cave', make up a deep exploration of how the image has affected society.”"
+        genre: [photogtraphy]       
+        completed: In progress     
 
       - title: "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI"
         author: David Grann
