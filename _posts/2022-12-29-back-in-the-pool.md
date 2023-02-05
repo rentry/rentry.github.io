@@ -12,6 +12,10 @@ I've been swimming since I can remember. I couldn't float as a child, so teachin
 
 I swam through high school, and later contemplated swimming in college. I opted for water polo instead, with a club team at the University of Oregon (our team had the "pleasure" of getting our asses kicked by a team led by former Olympian and world record holder [Tom Jager](https://en.wikipedia.org/wiki/Tom_Jager)).
 
+<video width="100%" autoplay loop muted playsinline preload="true">
+  <source src="{{ 'assets/video/2022-swim-sun.mp4' | relative_url }}" type="video/mp4">
+</video>
+
 I've been swimming off and on as my primary exercise ever since. But when the pandemic closed gyms and pools everywhere, I took up mountain biking. It didn't go so well, as I crashed my bike in November 2020, dislocating my shoulder (for the second time), and tearing my labrum (the rim of cartilage that keeps your shoulder in its socket).
 
 ![A worn swimming pool, with two distinct lanes with tile on the bottom and one lane line marking off the right side of the pool, grey and white walls and rescue and cleaning gear hung on the walls]({{ 'assets/images/2022-swim.jpg' | relative_url }}#full)
