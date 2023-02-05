@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence"
+        author: Michael Pollan
+        link: https://michaelpollan.com/books/how-to-change-your-mind/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1545030338i/36613747.jpg
+        description: "“When LSD was first discovered in the 1940s, it seemed to researchers, scientists and doctors as if the world might be on the cusp of psychological revolution. It promised to shed light on the deep mysteries of consciousness, as well as offer relief to addicts and the mentally ill. But in the 1960s, with the vicious backlash against the counter-culture, all further research was banned. In recent years, however, work has quietly begun again on the amazing potential of LSD, psilocybin and DMT. Could these drugs in fact improve the lives of many people?”"
+        format: audiobook
+        genre: [science]       
+        completed: Next
+
       - title: "A Natural History of the Future: What the Laws of Biology Tell Us about the Destiny of the Human Species"
         author: Rob Dunn
         link: https://www.goodreads.com/book/show/57356060-a-natural-history-of-the-future
