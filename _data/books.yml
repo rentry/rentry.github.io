@@ -3,6 +3,22 @@ list:
   - year: 2023
     books:
 
+      - title: "Waterlog: A Swimmer's Journey Through Britain"
+        author: Roger Deakin
+        link: https://www.goodreads.com/book/show/1454159.Waterlog
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
+        genre: [memoir, nature]       
+        completed: Next
+
+      - title: "One Long River of Song: Notes on Wonder for the Spiritual and Nonspiritual Alike"
+        author: Brian Doyle
+        link: https://www.goodreads.com/book/show/45031831-one-long-river-of-song
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566825303i/45031831.jpg
+        description: "“When Brian Doyle died of brain cancer at the age of sixty, he left behind dozens of books—fiction and nonfiction, as well as hundreds of essays—and a cult-like following who regarded his writing on spirituality as one of the best-kept secrets of the 21st century. Though Doyle occasionally wrote about Catholic spirituality, his writing is more broadly about the religion of everyday things. He writes with a delightful sense of wonder about the holiness of small things, and about love in all its forms: spiritual love, brotherly love, romantic love, friendly love, love of nature, and even the love of a nine-foot sturgeon.”"
+        genre: [memoir]       
+        completed: Next
+
       - title: "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence"
         author: Michael Pollan
         link: https://michaelpollan.com/books/how-to-change-your-mind/
@@ -10,7 +26,7 @@ list:
         description: "“When LSD was first discovered in the 1940s, it seemed to researchers, scientists and doctors as if the world might be on the cusp of psychological revolution. It promised to shed light on the deep mysteries of consciousness, as well as offer relief to addicts and the mentally ill. But in the 1960s, with the vicious backlash against the counter-culture, all further research was banned. In recent years, however, work has quietly begun again on the amazing potential of LSD, psilocybin and DMT. Could these drugs in fact improve the lives of many people?”"
         format: audiobook
         genre: [science]       
-        completed: Next
+        completed: In progress
 
       - title: "A Natural History of the Future: What the Laws of Biology Tell Us about the Destiny of the Human Species"
         author: Rob Dunn
@@ -20,14 +36,6 @@ list:
         format: audiobook
         genre: [natural history, environment, biology]       
         completed: 2023-02-04
-
-      - title: "One Long River of Song: Notes on Wonder for the Spiritual and Nonspiritual Alike"
-        author: Brian Doyle
-        link: https://www.goodreads.com/book/show/45031831-one-long-river-of-song
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566825303i/45031831.jpg
-        description: "“When Brian Doyle died of brain cancer at the age of sixty, he left behind dozens of books—fiction and nonfiction, as well as hundreds of essays—and a cult-like following who regarded his writing on spirituality as one of the best-kept secrets of the 21st century. Though Doyle occasionally wrote about Catholic spirituality, his writing is more broadly about the religion of everyday things. He writes with a delightful sense of wonder about the holiness of small things, and about love in all its forms: spiritual love, brotherly love, romantic love, friendly love, love of nature, and even the love of a nine-foot sturgeon.”"
-        genre: [memoir]       
-        completed: Next
 
       - title: "On Photography"
         author: Susan Sontag
