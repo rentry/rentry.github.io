@@ -11,13 +11,13 @@ list:
         genre: [memoir, nature]       
         completed: Next
 
-      - title: "One Long River of Song: Notes on Wonder for the Spiritual and Nonspiritual Alike"
-        author: Brian Doyle
-        link: https://www.goodreads.com/book/show/45031831-one-long-river-of-song
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1566825303i/45031831.jpg
-        description: "“When Brian Doyle died of brain cancer at the age of sixty, he left behind dozens of books—fiction and nonfiction, as well as hundreds of essays—and a cult-like following who regarded his writing on spirituality as one of the best-kept secrets of the 21st century. Though Doyle occasionally wrote about Catholic spirituality, his writing is more broadly about the religion of everyday things. He writes with a delightful sense of wonder about the holiness of small things, and about love in all its forms: spiritual love, brotherly love, romantic love, friendly love, love of nature, and even the love of a nine-foot sturgeon.”"
-        genre: [memoir]       
-        completed: Next
+      - title: "Dear Data"
+        author: Giorgia Lupi and Stefanie Posavec
+        link: http://www.dear-data.com/thebook
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468867842i/28465052.jpg
+        description: "The book explores the role that data plays in our lives and originates from a correspondence between the two authors — both data visualisation artists who met at a data conference and chose to keep in touch by sending weekly postcards composed of data visualisations in place of words. The result is described as “a thought-provoking visual feast”."
+        genre: [data]       
+        completed: In progress
 
       - title: "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence"
         author: Michael Pollan
