@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The first shots with my Pentax 6𝗑7"
+title: "My first shots with the Pentax 6𝗑7"
 date: 2023-02-11
 description: "I finally received from the lab my first medium format images from my Pentax 6𝗑7"
 image: assets/images/2023-120film-2.jpg
