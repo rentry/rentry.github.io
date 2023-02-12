@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Pirate Enlightenment, or the Real Libertalia"
+        author: David Graeber
+        link: https://en.wikipedia.org/wiki/Pirate_Enlightenment
+        image: https://upload.wikimedia.org/wikipedia/en/8/81/Pirate_Enlightenment.jpg
+        description: "“Pirates have long lived in the realm of romance and fantasy, symbolizing risk, lawlessness, and radical visions of freedom. But at the root of this mythology is a rich history of pirate societies—vibrant, imaginative experiments in self-governance and alternative social formations at the edges of European empire.”"
+        genre: [history, anthropology]
+        format: audiobook
+        completed: In progress
+
       - title: "Waterlog: A Swimmer's Journey Through Britain"
         author: Roger Deakin
         link: https://www.goodreads.com/book/show/1454159.Waterlog
