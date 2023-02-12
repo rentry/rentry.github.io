@@ -18,7 +18,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
         description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
         genre: [memoir, nature]       
-        completed: Next
+        completed: In progress
 
       - title: "Dear Data"
         author: Giorgia Lupi and Stefanie Posavec
@@ -52,7 +52,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/a/a5/On_Photography.jpg
         description: "“First published in 1973, this is a study of the force of photographic images which are continually inserted between experience and reality. Sontag develops further the concept of 'transparency'. When anything can be photographed and photography has destroyed the boundaries and definitions of art, a viewer can approach a photograph freely with no expectations of discovering what it means. This collection of six lucid and invigorating essays, the most famous being 'In Plato's Cave', make up a deep exploration of how the image has affected society.”"
         genre: [photogtraphy]       
-        completed: In progress     
+        completed: 2023-02-12     
 
       - title: "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI"
         author: David Grann
