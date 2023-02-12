@@ -26,7 +26,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1468867842i/28465052.jpg
         description: "The book explores the role that data plays in our lives and originates from a correspondence between the two authors — both data visualisation artists who met at a data conference and chose to keep in touch by sending weekly postcards composed of data visualisations in place of words. The result is described as “a thought-provoking visual feast”."
         genre: [data]       
-        completed: In progress
+        completed: 2023-02-12
 
       - title: "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying, Addiction, Depression, and Transcendence"
         author: Michael Pollan
