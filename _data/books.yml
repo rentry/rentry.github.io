@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Adam Smith's America: How a Scottish Philosopher Became an Icon of American Capitalism"
+        author: Glory M. Liu
+        link: https://en.wikipedia.org/wiki/Adam_Smith's_America
+        image: https://upload.wikimedia.org/wikipedia/en/b/bd/Adam_Smith%27s_America.jpg
+        description: "“Originally published in 1776, Adam Smith's <cite>The Wealth of Nations</cite> was lauded by America's founders as a landmark work of Enlightenment thinking about national wealth, statecraft, and moral virtue. Today, Smith is one of the most influential icons of economic thought in America. Glory Liu traces how generations of Americans have read, reinterpreted, and weaponized Smith's ideas, revealing how his popular image as a champion of American-style capitalism and free markets is a historical invention.”"
+        genre: [history, economics]
+        format: audiobook
+        completed: In progress
+
       - title: "Pirate Enlightenment, or the Real Libertalia"
         author: David Graeber
         link: https://en.wikipedia.org/wiki/Pirate_Enlightenment
@@ -10,7 +19,7 @@ list:
         description: "“Pirates have long lived in the realm of romance and fantasy, symbolizing risk, lawlessness, and radical visions of freedom. But at the root of this mythology is a rich history of pirate societies—vibrant, imaginative experiments in self-governance and alternative social formations at the edges of European empire.”"
         genre: [history, anthropology]
         format: audiobook
-        completed: In progress
+        completed: 2023-02-18
 
       - title: "Waterlog: A Swimmer's Journey Through Britain"
         author: Roger Deakin
