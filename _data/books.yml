@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Clanlands: Whisky, Warfare, and a Scottish Adventure Like No Other"
+        author: Sam Heughan, Graham McTavish, Charlotte Reather (co-writer), Diana Gabaldon (Foreword)
+        link: https://www.goodreads.com/book/show/55851555-clanlands
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1604612933i/55851555.jpg
+        description: "“Two Men. One Country. And a lot of whisky. As stars of ‘Outlander’, Sam and Graham eat, sleep and breathe the Highlands on this epic road trip around their homeland. They discover that the real thing is even greater than fiction. ‘Clanlands’ is the story of their journey. Armed with their trusty campervan and a sturdy friendship, these two Scotsmen are on the adventure of a lifetime to explore the majesty of Scotland. A wild ride by boat, kayak, bicycle and motorbike, they travel from coast to loch and peak to valley and delve into Scotland's history and culture, from timeless poetry to bloody warfare.”"
+        genre: [travel, memoir]
+        format: audiobook
+        completed: In progress
+
       - title: "Adam Smith's America: How a Scottish Philosopher Became an Icon of American Capitalism"
         author: Glory M. Liu
         link: https://en.wikipedia.org/wiki/Adam_Smith's_America
@@ -10,7 +19,7 @@ list:
         description: "“Originally published in 1776, Adam Smith's <cite>The Wealth of Nations</cite> was lauded by America's founders as a landmark work of Enlightenment thinking about national wealth, statecraft, and moral virtue. Today, Smith is one of the most influential icons of economic thought in America. Glory Liu traces how generations of Americans have read, reinterpreted, and weaponized Smith's ideas, revealing how his popular image as a champion of American-style capitalism and free markets is a historical invention.”"
         genre: [history, economics]
         format: audiobook
-        completed: In progress
+        completed: 2023-02-22
 
       - title: "Pirate Enlightenment, or the Real Libertalia"
         author: David Graeber
