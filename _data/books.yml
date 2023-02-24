@@ -3,6 +3,22 @@ list:
   - year: 2023
     books:
 
+      - title: "Waterlog: A Swimmer's Journey Through Britain"
+        author: Roger Deakin
+        link: https://www.goodreads.com/book/show/1454159.Waterlog
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
+        genre: [memoir, nature]       
+        completed: Next
+
+      - title: "It's OK to Be Angry About Capitalism"
+        author: Bernie Sanders
+        link: https://en.wikipedia.org/wiki/It%27s_OK_to_Be_Angry_About_Capitalism
+        image: https://upload.wikimedia.org/wikipedia/en/1/11/It%27s_OK_to_Be_Angry_About_Capitalism.jpg
+        description: "“A progressive takedown of the uber-capitalist status quo that has enriched millionaires and billionaires at the expense of the working class, and a blueprint for what transformational change would actually look like. It’s OK to be angry about capitalism. Reflecting on our turbulent times, Senator Bernie Sanders takes on the billionaire class and speaks blunt truths about our country’s failure to address the destructive nature of a system that is fueled by uncontrolled greed and rigidly committed to prioritizing corporate profits over the needs of ordinary Americans.”"
+        genre: [politics]       
+        completed: In progress      
+
       - title: "Clanlands: Whisky, Warfare, and a Scottish Adventure Like No Other"
         author: Sam Heughan, Graham McTavish, Charlotte Reather (co-writer), Diana Gabaldon (Foreword)
         link: https://www.goodreads.com/book/show/55851555-clanlands
@@ -29,14 +45,6 @@ list:
         genre: [history, anthropology]
         format: audiobook
         completed: 2023-02-18
-
-      - title: "Waterlog: A Swimmer's Journey Through Britain"
-        author: Roger Deakin
-        link: https://www.goodreads.com/book/show/1454159.Waterlog
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
-        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
-        genre: [memoir, nature]       
-        completed: In progress
 
       - title: "Dear Data"
         author: Giorgia Lupi and Stefanie Posavec
