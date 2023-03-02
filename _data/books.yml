@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Invasion: The Inside Story of Russia's Bloody War and Ukraine's Fight for Survival"
+        author: Luke Harding
+        link: https://www.penguinrandomhouse.com/books/725900/invasion-by-luke-harding/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1664754287i/62042291.jpg
+        description: "“In a damning, inspiring, and breathtaking narrative of what is likely to be a turning point for Europe—and the world—<cite>Guardian</cite> correspondent and <cite>New York Times</cite> bestselling author Luke Harding reports firsthand on the first year of the Russian invasion of Ukraine.”"
+        genre: [war, history]
+        format: audiobook   
+        completed: Next
+
       - title: "Waterlog: A Swimmer's Journey Through Britain"
         author: Roger Deakin
         link: https://www.goodreads.com/book/show/1454159.Waterlog
@@ -26,7 +35,7 @@ list:
         description: "“Two Men. One Country. And a lot of whisky. As stars of ‘Outlander’, Sam and Graham eat, sleep and breathe the Highlands on this epic road trip around their homeland. They discover that the real thing is even greater than fiction. ‘Clanlands’ is the story of their journey. Armed with their trusty campervan and a sturdy friendship, these two Scotsmen are on the adventure of a lifetime to explore the majesty of Scotland. A wild ride by boat, kayak, bicycle and motorbike, they travel from coast to loch and peak to valley and delve into Scotland's history and culture, from timeless poetry to bloody warfare.”"
         genre: [travel, memoir]
         format: audiobook
-        completed: In progress
+        completed: 2023-03-01
 
       - title: "Adam Smith's America: How a Scottish Philosopher Became an Icon of American Capitalism"
         author: Glory M. Liu
