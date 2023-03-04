@@ -8,7 +8,7 @@ categories: [gear]
 tags: [gear, swim]
 ---
 
-Many people who have never swam competitively, or didn't do so in the 80s or 90s, tend to view Swedish-style goggles as some kind of rudimentary aquatic torture device. Or at least such has been my experience when people see my swim goggles for the first time.
+Many people who never swam competitively, or didn't do so in the 80s or 90s, tend to view Swedish-style goggles as some kind of rudimentary aquatic torture device. Or at least such has been my experience when people see my swim goggles for the first time.
 
 ![A set of violet goggles with a blue nose bridge and white band sit on a gray tile pool deck]({{ 'assets/images/2023-gear-goggles-1.jpg' | relative_url }}#full)
 
