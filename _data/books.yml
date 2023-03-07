@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies"
+        author: Mariana Mazzucato and Rosie Collington
+        link: https://www.penguinrandomhouse.com/books/710959/the-big-con-by-mariana-mazzucato-and-rosie-collington/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670392303i/64405809.jpg
+        description: "“There is an entrenched relationship between the consulting industry and the way business and government are managed today that must change. Mariana Mazzucato and Rosie Collington show that our economies’ reliance on companies such as McKinsey & Company, Boston Consulting Group, Bain & Company, PwC, Deloitte, KPMG, and EY stunts innovation, obfuscates corporate and political accountability, and impedes our collective mission of halting climate breakdown.”"
+        genre: [politics, economics, business]
+        format: audiobook
+        completed: Next
+
       - title: "Overreach"
         author: Owen Matthews
         link: https://www.harpercollins.com/products/overreach-the-inside-story-of-putins-war-against-ukraine-owen-matthews?variant=41009738547234
@@ -20,14 +29,6 @@ list:
         genre: [war, history]
         format: audiobook   
         completed: 2023-03-05
-
-      - title: "Waterlog: A Swimmer's Journey Through Britain"
-        author: Roger Deakin
-        link: https://www.goodreads.com/book/show/1454159.Waterlog
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
-        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
-        genre: [memoir, nature]       
-        completed: Next
 
       - title: "It's OK to Be Angry About Capitalism"
         author: Bernie Sanders
