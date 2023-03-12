@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Waterlog: A Swimmer's Journey Through Britain"
+        author: Roger Deakin
+        link: https://tinhouse.com/book/waterlog/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain”"
+        genre: [nature, memoir]       
+        completed: In progress
+
       - title: "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies"
         author: Mariana Mazzucato and Rosie Collington
         link: https://www.penguinrandomhouse.com/books/710959/the-big-con-by-mariana-mazzucato-and-rosie-collington/
@@ -36,7 +44,7 @@ list:
         image: https://upload.wikimedia.org/wikipedia/en/1/11/It%27s_OK_to_Be_Angry_About_Capitalism.jpg
         description: "“A progressive takedown of the uber-capitalist status quo that has enriched millionaires and billionaires at the expense of the working class, and a blueprint for what transformational change would actually look like. It’s OK to be angry about capitalism. Reflecting on our turbulent times, Senator Bernie Sanders takes on the billionaire class and speaks blunt truths about our country’s failure to address the destructive nature of a system that is fueled by uncontrolled greed and rigidly committed to prioritizing corporate profits over the needs of ordinary Americans.”"
         genre: [politics]       
-        completed: In progress      
+        completed: 2023-03-11    
 
       - title: "Clanlands: Whisky, Warfare, and a Scottish Adventure Like No Other"
         author: Sam Heughan, Graham McTavish, Charlotte Reather (co-writer), Diana Gabaldon (Foreword)
