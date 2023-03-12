@@ -3,12 +3,13 @@ list:
   - year: 2023
     books:
 
-      - title: "Waterlog: A Swimmer's Journey Through Britain"
-        author: Roger Deakin
-        link: https://tinhouse.com/book/waterlog/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
-        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain”"
-        genre: [nature, memoir]       
+      - title: "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It"
+        author: Richard V. Reeves
+        link: https://www.brookings.edu/book/of-boys-and-men/the-big-con-by-mariana-mazzucato-and-rosie-collington/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655759920i/60613920.jpg
+        description: "“<cite>Of Boys and Men</cite> is a groundbreaking analysis of how the social and economic world of men has been turned upside down, leaving them adrift and underpowered. Previous attempts to treat this condition, from all political angles, have made the same fatal mistake – of viewing the problems of men as a problem with men. This book shows how the basic social structures defining masculine maturity and success have been shattered, and how they can—and must—be reinvented.”"
+        genre: [society, politics, education]
+        format: audiobook
         completed: In progress
 
       - title: "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies"
@@ -19,6 +20,14 @@ list:
         genre: [politics, economics, business]
         format: audiobook
         completed: Next
+
+      - title: "Waterlog: A Swimmer's Journey Through Britain"
+        author: Roger Deakin
+        link: https://tinhouse.com/book/waterlog/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain”"
+        genre: [nature, memoir]       
+        completed: In progress
 
       - title: "Overreach"
         author: Owen Matthews
