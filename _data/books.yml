@@ -3,15 +3,6 @@ list:
   - year: 2023
     books:
 
-      - title: "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It"
-        author: Richard V. Reeves
-        link: https://www.brookings.edu/book/of-boys-and-men/the-big-con-by-mariana-mazzucato-and-rosie-collington/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655759920i/60613920.jpg
-        description: "“<cite>Of Boys and Men</cite> is a groundbreaking analysis of how the social and economic world of men has been turned upside down, leaving them adrift and underpowered. Previous attempts to treat this condition, from all political angles, have made the same fatal mistake – of viewing the problems of men as a problem with men. This book shows how the basic social structures defining masculine maturity and success have been shattered, and how they can—and must—be reinvented.”"
-        genre: [society, politics, education]
-        format: audiobook
-        completed: In progress
-
       - title: "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies"
         author: Mariana Mazzucato and Rosie Collington
         link: https://www.penguinrandomhouse.com/books/710959/the-big-con-by-mariana-mazzucato-and-rosie-collington/
@@ -19,7 +10,16 @@ list:
         description: "“There is an entrenched relationship between the consulting industry and the way business and government are managed today that must change. Mariana Mazzucato and Rosie Collington show that our economies’ reliance on companies such as McKinsey & Company, Boston Consulting Group, Bain & Company, PwC, Deloitte, KPMG, and EY stunts innovation, obfuscates corporate and political accountability, and impedes our collective mission of halting climate breakdown.”"
         genre: [politics, economics, business]
         format: audiobook
-        completed: Next
+        completed: In progress
+
+      - title: "Of Boys and Men: Why the Modern Male Is Struggling, Why It Matters, and What to Do about It"
+        author: Richard V. Reeves
+        link: https://www.brookings.edu/book/of-boys-and-men/the-big-con-by-mariana-mazzucato-and-rosie-collington/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655759920i/60613920.jpg
+        description: "“<cite>Of Boys and Men</cite> is a groundbreaking analysis of how the social and economic world of men has been turned upside down, leaving them adrift and underpowered. Previous attempts to treat this condition, from all political angles, have made the same fatal mistake – of viewing the problems of men as a problem with men. This book shows how the basic social structures defining masculine maturity and success have been shattered, and how they can—and must—be reinvented.”"
+        genre: [society, politics, education]
+        format: audiobook
+        completed: 2023-03-14
 
       - title: "Waterlog: A Swimmer's Journey Through Britain"
         author: Roger Deakin
