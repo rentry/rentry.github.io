@@ -12,7 +12,7 @@ Many people who never swam competitively, or didn't do so in the 80s or 90s, ten
 
 ![A set of violet goggles with a blue nose bridge and white band sit on a gray tile pool deck]({{ 'assets/images/2023-gear-goggles-1.jpg' | relative_url }}#full)
 
-Lacking a foam or silicone gasket for padding, Swedish goggles are about basic as goggles can get. Shipped unassembled with two plastic cups of various colors, a piece of string, a plastic tube to encase the string, and a latex strap, they are easily the most minimalist swim goggles available.
+Lacking a foam or silicone gasket for padding, Swedish goggles are about as basic as goggles can get. Shipped unassembled with two plastic cups of various colors, a piece of string, a plastic tube to encase the string, and a latex strap, they are easily the most minimalist swim goggles available.
 
 Anyone who _did_ swim competitively, especially in the 80s and 90s, will immediately recognize Swedish goggles. They were ubiquitous among national team and Olympic swimmers for at least two decades, and continue to be worn by old-school swimmers at national and international competitions.
 
