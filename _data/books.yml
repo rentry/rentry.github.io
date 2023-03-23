@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Power"
+        author: Naomi Alderman
+        link: https://en.wikipedia.org/wiki/The_Power_(Alderman_novel)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1462814013i/29751398.jpg
+        description: "“In <cite>The Power</cite>, the world is a recognizable place: there's a rich Nigerian boy who lounges around the family pool; a foster kid whose religious parents hide their true nature; an ambitious American politician; a tough London girl from a tricky family. But then a vital new force takes root and flourishes, causing their lives to converge with devastating effect. Teenage girls now have immense physical power—they can cause agonizing pain and even death. And, with this small twist of nature, the world drastically resets.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "The Big Con: How the Consulting Industry Weakens Our Businesses, Infantilizes Our Governments, and Warps Our Economies"
         author: Mariana Mazzucato and Rosie Collington
         link: https://www.penguinrandomhouse.com/books/710959/the-big-con-by-mariana-mazzucato-and-rosie-collington/
