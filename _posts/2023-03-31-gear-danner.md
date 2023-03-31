@@ -14,7 +14,7 @@ The [Danner Mountain 600](https://www.danner.com/productfamily/mountain-600/men:
 
 ![Three pair of boots, two light brown with red laces, one dark brown with white laces]({{ 'assets/images/2023-gear-danner-2.jpg' | relative_url }}#full)
 
-While that may seem (as is) excessive, allow me to explain. I purchased my first pair of full-grain leather Mountain 600s around the time they came out in 2016. I immediately loved them, and wore them constantly for hiking and yard work for years, especially in the winter and shoulder seasons. They finally gave out this past summer after five years, when the sole wore out and the leather split at the seams.
+While that may seem excessive, allow me to explain. I purchased my first pair of full-grain leather Mountain 600s around the time they came out in 2016. I immediately loved them, and wore them constantly for hiking and yard work for years, especially in the winter and shoulder seasons. They finally gave out this past summer after five years, when the sole wore out and the leather split at the seams.
 
 My favorite feature of that first pair of boots was that they were immediately comfortable—they didn't require a lengthy break-in period, something that always dissuaded me from purchasing the comparatively famous (and repairable) [Mountain Light](https://www.danner.com/mtn-light.html). So when I needed a dedicated pair of waterproof boots for search and rescue, I reached for another pair of Mountain 600s.
 
