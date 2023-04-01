@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Walking & Wayfinding in the Westfjords Compendium"
+        author: Henry Fletcher and Jay Simpson
+        link: https://wayfinding.guide/
+        image: https://i0.wp.com/wayfinding.guide/wp-content/uploads/2022/12/walking-wayfinding-westfjords-iceland.png
+        description: "“<cite>Wayfinding in the Westfjords</cite> and its companions—<cite>Notes on Ecology</cite>, <cite>Notes on Walking</cite> and the map: <cite>Walking Routes of the Westfjords of Iceland</cite>, document old walking and herding routes between Ísafjörður and Látrabjarg. The collection also features information on local ecology, culture and history paired with creative practices that invite a deeper relationship to nature.”"
+        genre: [ecology, Iceland]
+        completed: 2023-04-01
+
       - title: "Artificial Unintelligence: How Computers Misunderstand the World"
         author: Meredith Broussard
         link: https://mitpress.mit.edu/9780262537018/artificial-unintelligence/
