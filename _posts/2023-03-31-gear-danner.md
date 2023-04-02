@@ -8,7 +8,7 @@ categories: [gear]
 tags: [gear, boots]
 ---
 
-When I find a favorite piece of gear, I tend to overdue it. Basically, I stock up, fearing it may be discontinued or otherwise become difficult to acquire, exacerbated by the fact that an increasing number of products are intentionally made to be unrepairable[^1] (more on this later). I understand this a scarcity mindset that's largely irrational.
+When I find a favorite piece of gear, I tend to overdue it. Basically, I stock up, fearing it may be discontinued or otherwise become difficult to acquire, exacerbated by the fact that an increasing number of products are intentionally made to be unrepairable (more on this later). I understand this a scarcity mindset that's largely irrational.
 
 The [Danner Mountain 600](https://www.danner.com/productfamily/mountain-600/men:hike?sortId=product_family-asc&stock_status%5B%5D=1&stock_status%5B%5D=0) is without a doubt the best boot I've ever owned, and—on account of the aforementioned tendency—I've owned four pair.
 
@@ -35,5 +35,3 @@ Well, thanks to Danner, I won't have that dilemma anymore. My favorite boot now 
 I, like many others, have been concerned about accelerating planned obsolescence, and the impact of capitalism's propensity to flood the market with products that cannot be repaired, have a shorter lifespan than ever before, and/or require proprietary, corporate means to maintain. It's degrading to both the environment and working people.
 
 I won't need to replace my boots for at least a few years, but when I do, I'll know I won't have to buy another pair for a long, long time.
-
-[^1]: “Repairable,” “reparable,” “recraftable”? 🤷 You get it...something that can be repaired, ideally by oneself.
