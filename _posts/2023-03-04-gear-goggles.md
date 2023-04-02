@@ -16,7 +16,7 @@ Lacking a foam or silicone gasket for padding, Swedish goggles are about as basi
 
 Anyone who _did_ swim competitively, especially in the 80s and 90s, will immediately recognize Swedish goggles. They were ubiquitous among national team and Olympic swimmers for at least two decades, and continue to be worn by old-school swimmers at national and international competitions.
 
-Manufactured by the Swedish company Malmsten AB since the 1970s, Swedish goggles were something of an authenticity signifier when I was younger, declaring the wearer as a "real swimmer." As silly as that sounds (and is), Swedish googles were somewhat difficult to get your hands on, at least if you lived in a small Wyoming town, as I did. In those days, you couldn't exactly fire up Amazon and order them. Consequently, for some at least, Swedish goggles were only available from vendors at some of the regional swim meets, competitions usually reserved for stronger swimmers.
+Manufactured by the Swedish company Malmsten AB since the 1970s, Swedish goggles were something of an authenticity signifier when I was younger, declaring the wearer as a "real swimmer." As silly as that sounds (and is), Swedish goggles were somewhat difficult to get your hands on, at least if you lived in a small Wyoming town, as I did. In those days, you couldn't exactly fire up Amazon and order them. Consequently, for some at least, Swedish goggles were only available from vendors at some of the regional swim meets, competitions usually reserved for stronger swimmers.
 
 ![A set of Swedish goggles hanging from a hook on a wall]({{ 'assets/images/2023-gear-goggles-2.jpg' | relative_url }}#float)
 
