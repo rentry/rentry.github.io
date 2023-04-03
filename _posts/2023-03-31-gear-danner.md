@@ -30,7 +30,7 @@ Finally, I replaced my original pair of Mountain 600s with a new, identical pair
 
 My reservation with these boots, particularly owning so many pairs, is that they haven't been among Danner's limited line of recraftable boots. Danner is located up the road from me in Portland, Oregon, and has for decades repaired and resoled certain versions of their boots, including the iconic Mountain Light. While I try to [maintain them](https://www.danner.com/men/boot-care?sortId=position-asc&stock_status%5B%5D=1&stock_status%5B%5D=0) as best I can, I've felt uncomfortable buying a boot that has to be thrown out and replaced rather than repaired, justifying it only by virtue of these boots being extremely comfortable and requiring essentially no break-in time. 
 
-Well, thanks to Danner, I won't have that dilemma anymore. My favorite boot now has a repairable option, the [Mountain 600 Leaf GTX]((https://www.danner.com/recraftable-boots?sortId=product-family&gender%5B%5D=5338&stock_status%5B%5D=1&stock_status%5B%5D=0)).
+Well, thanks to Danner, I won't have that dilemma anymore. My favorite boot now has a repairable option, the [Mountain 600 Leaf GTX](https://www.danner.com/recraftable-boots?sortId=product-family&gender%5B%5D=5338&stock_status%5B%5D=1&stock_status%5B%5D=0).
 
 I, like many others, have been concerned about accelerating planned obsolescence, and the impact of capitalism's propensity to flood the market with products that cannot be repaired, have a shorter lifespan than ever before, and/or require proprietary, corporate means to maintain. It's degrading to both the environment and working people.
 
