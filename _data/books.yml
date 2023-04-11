@@ -3,14 +3,23 @@ list:
   - year: 2023
     books:
 
+      - title: "The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources"
+        author: Javier Blas and Jack Farchy 
+        link: https://www.penguin.co.uk/books/440353/the-world-for-sale-by-javier-blas-and-jack-farchy/9781847942678
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1616664353i/52199304.jpg
+        description: "“The modern world is built on commodities - from the oil that fuels our cars to the metals that power our smartphones. We rarely stop to consider where they come from. But we should. In <cite>The World for Sale</cite>, two leading journalists lift the lid on one of the least scrutinised corners of the economy: the workings of the billionaire commodity traders who buy, hoard and sell the earth's resources.”"
+        genre: [technology, economics, politics]
+        format: audiobook
+        completed: Next
+
       - title: "Chip War: The Fight for the World's Most Critical Technology"
         author: Chris Miller
         link: https://www.simonandschuster.com/books/Chip-War/Chris-Miller/9781982172008
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662566820i/60321447.jpg
-        description: "“Economic historian Chris Miller explains how the semiconductor came to play a critical role in modern life and how the US became dominant in chip design and manufacturing and applied this technology to military systems. America’s victory in the Cold War and its global military dominance stems from its ability to harness computing power more effectively than any other power. Until recently, China had been catching up, aligning its chip-building ambitions with military modernization. ”"
+        description: "“Economic historian Chris Miller explains how the semiconductor came to play a critical role in modern life and how the US became dominant in chip design and manufacturing and applied this technology to military systems. America’s victory in the Cold War and its global military dominance stems from its ability to harness computing power more effectively than any other power. Until recently, China had been catching up, aligning its chip-building ambitions with military modernization.”"
         genre: [technology, economics, politics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Artificial Unintelligence: How Computers Misunderstand the World"
         author: Meredith Broussard
@@ -19,7 +28,7 @@ list:
         description: "“In <cite>Artificial Unintelligence</cite>, Meredith Broussard argues that our collective enthusiasm for applying computer technology to every aspect of life has resulted in a tremendous amount of poorly designed systems. We are so eager to do everything digitally—hiring, driving, paying bills, even choosing romantic partners—that we have stopped demanding that our technology actually work. Broussard, a software developer and journalist, reminds us that there are fundamental limits to what we can (and should) do with technology.”"
         genre: [technology, society]
         format: audiobook
-        completed: In progress
+        completed: 2023-04-10
 
       - title: "Walking & Wayfinding in the Westfjords Compendium"
         author: Henry Fletcher and Jay Simpson
