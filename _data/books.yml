@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Repair Revolution: How Fixers Are Transforming Our Throwaway Culture"
+        author: Elizabeth Knight and John Wackman
+        link: https://www.repaircafe.org/en/repair-revolution-new-book-by-repair-cafe-organizers/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588047775i/52315827.jpg
+        description: "“Every year, millions of people throw away countless items because they don’t know how to fix them. Some products are manufactured in a way that makes it hard, if not impossible, for people to repair them themselves. This throwaway lifestyle depletes Earth’s resources and adds to overflowing landfills. Now there’s a better way. Repair Revolution chronicles the rise of Repair Cafes, Fixit Clinics, and other volunteer-run organizations devoted to helping consumers repair their beloved but broken items for free. Repair Revolution explores the philosophy and wisdom of repairing, as well as the Right to Repair movement.”"
+        genre: [society, economics]       
+        completed: In progress
+
       - title: "The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources"
         author: Javier Blas and Jack Farchy 
         link: https://www.penguin.co.uk/books/440353/the-world-for-sale-by-javier-blas-and-jack-farchy/9781847942678
@@ -69,9 +77,9 @@ list:
         author: Roger Deakin
         link: https://tinhouse.com/book/waterlog/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320503793i/1454159.jpg
-        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain”"
+        description: "“In 1996 Roger Deakin, the late, great nature writer, set out to swim through the British Isles. From the sea, from rock pools, from rivers and streams, tarns, lakes, lochs, ponds, lidos, swimming pools and spas, from fens, dykes, moats, aqueducts, waterfalls, flooded quarries, even canals, Deakin gains a fascinating perspective on modern Britain.”"
         genre: [nature, memoir]       
-        completed: In progress
+        completed: 2023-04-16
 
       - title: "Overreach"
         author: Owen Matthews
