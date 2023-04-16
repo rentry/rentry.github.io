@@ -39,7 +39,7 @@ My requirements for a 4-wheel drive alternative to my beloved Tacoma were...unre
 - Didn't track my data
 - As simply built as possible (preferably manual windows and door locks)
 
-This impossible criteria eventually yielded a craigslist post for a 2003 Ford Ranger that had largely been towed behind an RV. And that's how, in 2018, I found my truck.
+These impossible criteria eventually yielded a craigslist post for a 2003 Ford Ranger that had largely been towed behind an RV. And that's how, in 2018, I found my truck.
 
 ## My old Ranger
 
