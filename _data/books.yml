@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Birnam Wood"
+        author: Eleanor Catton
+        link: https://www.goodreads.com/book/show/60784757-birnam-wood
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653578326i/60784757.jpg
+        description: "“Five years ago, Mira Bunting founded a guerrilla gardening group: Birnam Wood. An undeclared, unregulated, sometimes-criminal, sometimes-philanthropic gathering of friends, this activist collective plants crops wherever no one will notice: on the sides of roads, in forgotten parks, and neglected backyards. For years, the group has struggled to break even. Then Mira stumbles on an answer, a way to finally set the group up for the long term: a landslide has closed the Korowai Pass, cutting off the town of Thorndike. Natural disaster has created an opportunity, a sizable farm seemingly abandoned.”"
+        genre: [fiction]   
+        format: audiobook    
+        completed: Next
+
       - title: "Not Too Late: Changing the Climate Story from Despair to Possibility"
         author: Rebecca Solnit (Editor), Thelma Young Lutunatabua (Editor)
         link: https://www.nottoolateclimate.com/
@@ -26,7 +35,7 @@ list:
         description: "“The modern world is built on commodities - from the oil that fuels our cars to the metals that power our smartphones. We rarely stop to consider where they come from. But we should. In <cite>The World for Sale</cite>, two leading journalists lift the lid on one of the least scrutinised corners of the economy: the workings of the billionaire commodity traders who buy, hoard and sell the earth's resources.”"
         genre: [technology, economics, politics]
         format: audiobook
-        completed: In progress
+        completed: 2023-04-22
 
       - title: "Chip War: The Fight for the World's Most Critical Technology"
         author: Chris Miller
