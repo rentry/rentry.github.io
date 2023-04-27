@@ -3,6 +3,24 @@ list:
   - year: 2023
     books:
 
+      - title: "The Wager: A Tale of Shipwreck, Mutiny and Murder"
+        author: David Grann
+        link: https://www.penguinrandomhouse.com/books/208563/the-wager-by-david-grann/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659407155i/61714633.jpg
+        description: "“From the author of <cite>Killers of the Flower Moon</cite>, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth. The powerful narrative reveals the deeper meaning of the events on <cite>The Wager</cite>, showing that it was not only the captain and crew who ended up on trial, but the very idea of empire”"
+        genre: [history]
+        format: audiobook  
+        completed: Next
+
+      - title: "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"
+        author: Meghan O’Gieblyn
+        link: https://www.penguinrandomhouse.com/books/567075/god-human-animal-machine-by-meghan-ogieblyn/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611107182i/56097578.jpg
+        description: "“For most of human history the world was a magical and enchanted place ruled by forces beyond our understanding. The rise of science and Descartes’s division of mind from world made materialism our ruling paradigm, in the process asking whether our own consciousness—i.e., souls—might be illusions. Now the inexorable rise of technology, with artificial intelligences that surpass our comprehension and control, and the spread of digital metaphors for self-understanding, the core questions of existence—identity, knowledge, the very nature and purpose of life itself—urgently require rethinking.”"
+        genre: [theology, technology, science]   
+        format: audiobook  
+        completed: In progress
+
       - title: "Birnam Wood"
         author: Eleanor Catton
         link: https://www.goodreads.com/book/show/60784757-birnam-wood
@@ -10,7 +28,7 @@ list:
         description: "“Five years ago, Mira Bunting founded a guerrilla gardening group: Birnam Wood. An undeclared, unregulated, sometimes-criminal, sometimes-philanthropic gathering of friends, this activist collective plants crops wherever no one will notice: on the sides of roads, in forgotten parks, and neglected backyards. For years, the group has struggled to break even. Then Mira stumbles on an answer, a way to finally set the group up for the long term: a landslide has closed the Korowai Pass, cutting off the town of Thorndike. Natural disaster has created an opportunity, a sizable farm seemingly abandoned.”"
         genre: [fiction]   
         format: audiobook    
-        completed: Next
+        completed: 2023-04-26
 
       - title: "Not Too Late: Changing the Climate Story from Despair to Possibility"
         author: Rebecca Solnit (Editor), Thelma Young Lutunatabua (Editor)
