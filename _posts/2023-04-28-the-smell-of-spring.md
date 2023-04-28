@@ -2,7 +2,7 @@
 layout: post
 title: "The unmistakable smell of spring"
 date: 2023-04-28
-description: "There's one inimitable, botanical scent in spring that annually transports me 30 years back in time to a small Montana town."
+description: "There's one sweet, inimitable smell that annually transports me 30 years back in time to a small Montana town."
 image: assets/images/2023-cottonwood.jpg
 categories: [plants]
 tags: [plants, Montana]
@@ -16,10 +16,10 @@ We knew we were getting close to our destination when we dropped down a hill and
 
 Young and rather unsophisticated about, well, everything—including plants—I never interrogated the origin of the smell; to me, it was just the smell of Red Lodge. It was and remains my favorite scent.
 
-It was over ten years later in Oregon when, serving as an AmeriCorps volunteer in watershed restoration, I realized the source of that unmistakable olfactory gateway to Spring: Cottonwood.
-
 ![Green, shiny leaves emerging from a deep, red branch in the foreground, with a large tree trunk and stream out of focus in the background]({{ 'assets/images/2023-cottonwood.jpg' | relative_url }}#full)
 <figcaption><a href="https://commons.wikimedia.org/wiki/File:Populus_trichocarpa_new_leaves_in_spring_2.jpg">Thayne Tuason</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, via Wikimedia Commons</figcaption>
+
+It was over ten years later in Oregon when, serving as an AmeriCorps volunteer in watershed restoration, I realized the source of that unmistakable olfactory gateway to Spring: Cottonwood.
 
 In Red Lodge, we would invariably stop by a riverside red caboose that served ice cream, and then continue on to our cabin.
 
