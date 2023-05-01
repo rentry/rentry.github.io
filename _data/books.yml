@@ -10,7 +10,7 @@ list:
         description: "“From the author of <cite>Killers of the Flower Moon</cite>, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth. The powerful narrative reveals the deeper meaning of the events on <cite>The Wager</cite>, showing that it was not only the captain and crew who ended up on trial, but the very idea of empire”"
         genre: [history]
         format: audiobook  
-        completed: Next
+        completed: In progress
 
       - title: "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"
         author: Meghan O’Gieblyn
@@ -19,7 +19,7 @@ list:
         description: "“For most of human history the world was a magical and enchanted place ruled by forces beyond our understanding. The rise of science and Descartes’s division of mind from world made materialism our ruling paradigm, in the process asking whether our own consciousness—i.e., souls—might be illusions. Now the inexorable rise of technology, with artificial intelligences that surpass our comprehension and control, and the spread of digital metaphors for self-understanding, the core questions of existence—identity, knowledge, the very nature and purpose of life itself—urgently require rethinking.”"
         genre: [theology, technology, science]   
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-01
 
       - title: "Birnam Wood"
         author: Eleanor Catton
