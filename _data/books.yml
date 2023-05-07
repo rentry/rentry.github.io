@@ -3,14 +3,23 @@ list:
   - year: 2023
     books:
 
+      - title: "Fieldwork: A Forager's Memoir"
+        author: Iliana Regan
+        link: https://fieldworkbook.com/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673874521i/62608040.jpg
+        description: "“From National Book Award–nominee Iliana Regan, a new memoir of her life and heritage as a forager, spanning her ancestry in Eastern Europe, her childhood in rural Indiana, and her new life set in the remote forests of Michigan’s Upper Peninsula. Fieldwork explores how Regan’s complex gender identity informs her acclaimed work as a chef and her profound experience of the natural world.”"
+        genre: [memoir, nature, food]
+        format: audiobook  
+        completed: In progress
+
       - title: "The Wager: A Tale of Shipwreck, Mutiny and Murder"
         author: David Grann
         link: https://www.penguinrandomhouse.com/books/208563/the-wager-by-david-grann/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659407155i/61714633.jpg
-        description: "“From the author of <cite>Killers of the Flower Moon</cite>, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth. The powerful narrative reveals the deeper meaning of the events on <cite>The Wager</cite>, showing that it was not only the captain and crew who ended up on trial, but the very idea of empire”"
+        description: "“From the author of <cite>Killers of the Flower Moon</cite>, a page-turning story of shipwreck, survival, and savagery, culminating in a court martial that reveals a shocking truth. The powerful narrative reveals the deeper meaning of the events on <cite>The Wager</cite>, showing that it was not only the captain and crew who ended up on trial, but the very idea of empire.”"
         genre: [history]
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-07
 
       - title: "God, Human, Animal, Machine: Technology, Metaphor, and the Search for Meaning"
         author: Meghan O’Gieblyn
