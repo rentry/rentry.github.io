@@ -24,5 +24,5 @@ When I'm not working, I'm likely walking among trees, [reading a book]({{ '/book
 
 ## Social
 <ul class="contact-list">
-    <li><a rel="me" href="https://hachyderm.io/@rentry">{% include social_icon.html %} @rentry</a></li>
+    <li><a rel="me" href="https://mastodon.social/@forestglenroad">{% include social_icon.html %} @forestglenroad</a></li>
 </ul>
