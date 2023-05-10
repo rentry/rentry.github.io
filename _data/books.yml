@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Devil Never Sleeps: Learning to Live in an Age of Disasters"
+        author: Juliette Kayyem
+        link: https://www.goodreads.com/en/book/show/58293301-the-devil-never-sleeps
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647441806i/58293301.jpg
+        description: "“In <cite>The Devil Never Sleeps</cite>, Juliette Kayyem lays the groundwork for a new approach to dealing with disasters. Presenting the basic themes of crisis management, Kayyem amends the principles we rely on far too easily. Instead, she offers us a new framework to anticipate the “devil’s” inevitable return, highlighting the leadership deficiencies we need to overcome and the forward thinking we need to harness. It’s no longer about preventing a disaster from occurring, but learning how to use the tools at our disposal to minimize the consequences when it does.”"
+        genre: [climate, disaster]
+        format: audiobook  
+        completed: In progress
+
       - title: "Fieldwork: A Forager's Memoir"
         author: Iliana Regan
         link: https://fieldworkbook.com/
@@ -10,7 +19,7 @@ list:
         description: "“From National Book Award–nominee Iliana Regan, a new memoir of her life and heritage as a forager, spanning her ancestry in Eastern Europe, her childhood in rural Indiana, and her new life set in the remote forests of Michigan’s Upper Peninsula. Fieldwork explores how Regan’s complex gender identity informs her acclaimed work as a chef and her profound experience of the natural world.”"
         genre: [memoir, nature, food]
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-10
 
       - title: "The Wager: A Tale of Shipwreck, Mutiny and Murder"
         author: David Grann
