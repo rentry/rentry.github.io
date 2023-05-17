@@ -3,6 +3,24 @@ list:
   - year: 2023
     books:
 
+      - title: "Wild and Precious: A Celebration of Mary Oliver"
+        author: Mary Oliver, Sophia Bush (Contributor, Narrator), Ross Gay (Contributor), Samin Nosrat (Contributor), Rainn Wilson (Contributor), Susan Cain (Contributor)
+        link: https://www.goodreads.com/book/show/131150655-wild-and-precious
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681453377i/131150655.jpg
+        description: "“A celebration of the beloved, award-winning poet Mary Oliver, narrated by actress and activist Sophia Bush featuring selections from the late poet’s work, in her own voice, plus a tapestry of complementary voices reflecting on Oliver’s legacy.”"
+        genre: [poetry, biography]
+        format: audiobook  
+        completed: Next
+
+      - title: "Wool: Book One of the Silo Series"
+        author: Hugh Howey
+        link: https://books.apple.com/us/book/wool/id1602695628
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1354959684i/16282974.jpg
+        description: "“The first book in the acclaimed, New York Times best-selling trilogy, Wool is the story of mankind clawing for survival. The world outside has grown toxic, the view of it limited, talk of it forbidden. The remnants of humanity live underground in a single silo. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they want: They are allowed to go outside.”"
+        genre: [fiction]
+        format: audiobook  
+        completed: In progress
+
       - title: "The Devil Never Sleeps: Learning to Live in an Age of Disasters"
         author: Juliette Kayyem
         link: https://www.goodreads.com/en/book/show/58293301-the-devil-never-sleeps
@@ -10,7 +28,7 @@ list:
         description: "“In <cite>The Devil Never Sleeps</cite>, Juliette Kayyem lays the groundwork for a new approach to dealing with disasters. Presenting the basic themes of crisis management, Kayyem amends the principles we rely on far too easily. Instead, she offers us a new framework to anticipate the “devil’s” inevitable return, highlighting the leadership deficiencies we need to overcome and the forward thinking we need to harness. It’s no longer about preventing a disaster from occurring, but learning how to use the tools at our disposal to minimize the consequences when it does.”"
         genre: [climate, disaster]
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-15
 
       - title: "Fieldwork: A Forager's Memoir"
         author: Iliana Regan
