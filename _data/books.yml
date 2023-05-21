@@ -72,7 +72,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674619400i/85173842.jpg
         description: "“An energizing case for hope about the climate comes from Rebecca Solnit, called the voice of the resistance by the <cite>New York Times</cite>, and climate activist Thelma Young Lutunatabua, along with a chorus of voices calling on us to rise to the moment. <cite>Not Too Late</cite> is the book for anyone who is despondent, defeatist, or unsure about climate change and seeking answers.”"
         genre: [climate, environment, politics, society]       
-        completed: In progress
+        completed: 2023-05-21
 
       - title: "Repair Revolution: How Fixers Are Transforming Our Throwaway Culture"
         author: Elizabeth Knight and John Wackman
@@ -80,7 +80,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588047775i/52315827.jpg
         description: "“Every year, millions of people throw away countless items because they don’t know how to fix them. Some products are manufactured in a way that makes it hard, if not impossible, for people to repair them themselves. This throwaway lifestyle depletes Earth’s resources and adds to overflowing landfills. Now there’s a better way. Repair Revolution chronicles the rise of Repair Cafes, Fixit Clinics, and other volunteer-run organizations devoted to helping consumers repair their beloved but broken items for free. Repair Revolution explores the philosophy and wisdom of repairing, as well as the Right to Repair movement.”"
         genre: [society, economics]
-        completed: Next
+        completed: In progress
 
       - title: "The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources"
         author: Javier Blas and Jack Farchy 
