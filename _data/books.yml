@@ -10,7 +10,7 @@ list:
         description: "“A celebration of the beloved, award-winning poet Mary Oliver, narrated by actress and activist Sophia Bush featuring selections from the late poet’s work, in her own voice, plus a tapestry of complementary voices reflecting on Oliver’s legacy.”"
         genre: [poetry, biography]
         format: audiobook  
-        completed: Next
+        completed: In progress
 
       - title: "Wool: Book One of the Silo Series"
         author: Hugh Howey
@@ -19,7 +19,15 @@ list:
         description: "“The first book in the acclaimed, New York Times best-selling trilogy, Wool is the story of mankind clawing for survival. The world outside has grown toxic, the view of it limited, talk of it forbidden. The remnants of humanity live underground in a single silo. But there are always those who hope, who dream. These are the dangerous people, the residents who infect others with their optimism. Their punishment is simple. They are given the very thing they want: They are allowed to go outside.”"
         genre: [fiction]
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-27
+
+      - title: "Repair Revolution: How Fixers Are Transforming Our Throwaway Culture"
+        author: Elizabeth Knight and John Wackman
+        link: https://www.repaircafe.org/en/repair-revolution-new-book-by-repair-cafe-organizers/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588047775i/52315827.jpg
+        description: "“Every year, millions of people throw away countless items because they don’t know how to fix them. Some products are manufactured in a way that makes it hard, if not impossible, for people to repair them themselves. This throwaway lifestyle depletes Earth’s resources and adds to overflowing landfills. Now there’s a better way. Repair Revolution chronicles the rise of Repair Cafes, Fixit Clinics, and other volunteer-run organizations devoted to helping consumers repair their beloved but broken items for free. Repair Revolution explores the philosophy and wisdom of repairing, as well as the Right to Repair movement.”"
+        genre: [society, economics]
+        completed: In progress        
 
       - title: "The Devil Never Sleeps: Learning to Live in an Age of Disasters"
         author: Juliette Kayyem
@@ -73,14 +81,6 @@ list:
         description: "“An energizing case for hope about the climate comes from Rebecca Solnit, called the voice of the resistance by the <cite>New York Times</cite>, and climate activist Thelma Young Lutunatabua, along with a chorus of voices calling on us to rise to the moment. <cite>Not Too Late</cite> is the book for anyone who is despondent, defeatist, or unsure about climate change and seeking answers.”"
         genre: [climate, environment, politics, society]       
         completed: 2023-05-21
-
-      - title: "Repair Revolution: How Fixers Are Transforming Our Throwaway Culture"
-        author: Elizabeth Knight and John Wackman
-        link: https://www.repaircafe.org/en/repair-revolution-new-book-by-repair-cafe-organizers/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588047775i/52315827.jpg
-        description: "“Every year, millions of people throw away countless items because they don’t know how to fix them. Some products are manufactured in a way that makes it hard, if not impossible, for people to repair them themselves. This throwaway lifestyle depletes Earth’s resources and adds to overflowing landfills. Now there’s a better way. Repair Revolution chronicles the rise of Repair Cafes, Fixit Clinics, and other volunteer-run organizations devoted to helping consumers repair their beloved but broken items for free. Repair Revolution explores the philosophy and wisdom of repairing, as well as the Right to Repair movement.”"
-        genre: [society, economics]
-        completed: In progress
 
       - title: "The World for Sale: Money, Power and the Traders Who Barter the Earth’s Resources"
         author: Javier Blas and Jack Farchy 
