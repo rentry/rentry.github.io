@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Weeds"
+        author: Katy Simpson Smith
+        link: https://www.goodreads.com/book/show/60784664-the-weeds
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659416614i/60784664.jpg
+        description: "“Lush, intoxicating, and teeming with mischief, Katy Simpson Smith’s <cite>The Weeds</cite> is a tense, mesmerizing page-turner about science and survival, the roles women are given and have taken from them, and the lives they make for themselves.”"
+        genre: [fiction]
+        format: audiobook  
+        completed: In progress
+
       - title: "Wild and Precious: A Celebration of Mary Oliver"
         author: Mary Oliver, Sophia Bush (Contributor, Narrator), Ross Gay (Contributor), Samin Nosrat (Contributor), Rainn Wilson (Contributor), Susan Cain (Contributor)
         link: https://www.goodreads.com/book/show/131150655-wild-and-precious
@@ -10,7 +19,7 @@ list:
         description: "“A celebration of the beloved, award-winning poet Mary Oliver, narrated by actress and activist Sophia Bush featuring selections from the late poet’s work, in her own voice, plus a tapestry of complementary voices reflecting on Oliver’s legacy.”"
         genre: [poetry, biography]
         format: audiobook  
-        completed: In progress
+        completed: 2023-05-29
 
       - title: "Wool: Book One of the Silo Series"
         author: Hugh Howey
