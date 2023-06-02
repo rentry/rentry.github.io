@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Silo #2: Shift"
+        author: Hugh Howey
+        link: https://www.goodreads.com/book/show/17306293-shift
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1379003176i/17306293.jpg
+        description: "“In 2007, the Center for Automation in Nanobiotech (CAN) outlined the hardware and software platform that would one day allow robots smaller than human cells to make medical diagnoses, conduct repairs, and even self-propagate. In the same year, the CBS network re-aired a program about the effects of propranolol on sufferers of extreme trauma. A simple pill, it had been discovered, could wipe out the memory of any traumatic event. At almost the same moment in humanity’s broad history, mankind had discovered the means for bringing about its utter downfall. And the ability to forget it ever happened. This is the sequel to the New York Times bestselling WOOL series.”"
+        genre: [fiction]
+        format: audiobook  
+        completed: In progress
+
       - title: "The Weeds"
         author: Katy Simpson Smith
         link: https://www.goodreads.com/book/show/60784664-the-weeds
@@ -10,7 +19,7 @@ list:
         description: "“Lush, intoxicating, and teeming with mischief, Katy Simpson Smith’s <cite>The Weeds</cite> is a tense, mesmerizing page-turner about science and survival, the roles women are given and have taken from them, and the lives they make for themselves.”"
         genre: [fiction]
         format: audiobook  
-        completed: In progress
+        completed: 2023-06-02
 
       - title: "Wild and Precious: A Celebration of Mary Oliver"
         author: Mary Oliver, Sophia Bush (Contributor, Narrator), Ross Gay (Contributor), Samin Nosrat (Contributor), Rainn Wilson (Contributor), Susan Cain (Contributor)
