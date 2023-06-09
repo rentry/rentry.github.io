@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures"
+        author: Merlin Sheldrake
+        link: https://www.goodreads.com/book/show/52668915-entangled-life
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1575341220l/52668915.jpg
+        description: "“Neither plant nor animal, it is found throughout the earth, the air and our bodies. It can be microscopic, yet also accounts for the largest organisms ever recorded, living for millennia and weighing tens of thousands of tonnes. Its ability to digest rock enabled the first life on land, it can survive unprotected in space, and thrives amidst nuclear radiation.”"
+        genre: [environment, climate, fungus]
+        format: audiobook
+        completed: Next
+        
       - title: "A Worthy Expedition: The History of NOLS"
         author: Kate Dernocoeur
         link: https://store.nols.edu/products/a-worthy-expedition-the-history-of-nols
