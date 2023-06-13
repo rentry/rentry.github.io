@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Silo #3: Dust"
+        author: Hugh Howey
+        link: https://www.goodreads.com/book/show/17855756-dust
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1369522849i/17855756.jpg
+        description: "“In a time when secrets and lies were the foundations of life, someone has discovered the truth. And they are going to tell. Jules knows what her predecessors created. She knows they are the reason life has to be lived in this way. And she won't stand for it. But Jules no longer has supporters. And there is far more to fear than the toxic world beyond her walls.”"
+        genre: [fiction]
+        format: audiobook  
+        completed: In progress
+
       - title: "Entangled Life: How Fungi Make Our Worlds, Change Our Minds & Shape Our Futures"
         author: Merlin Sheldrake
         link: https://www.goodreads.com/book/show/52668915-entangled-life
