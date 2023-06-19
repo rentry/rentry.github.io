@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Wilderness Warrior: Theodore Roosevelt and the Crusade for America"
+        author: Douglas Brinkley
+        link: http://douglasbrinkley.com/books/the-wilderness-warrior/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348324787i/4668676.jpg
+        description: "I'm in between library holds, so I'm revisting (for the third time) one of my favorite biographies.<br><br> “From <cite>New York Times</cite> bestselling historian Douglas Brinkley comes a sweeping historical narrative and eye-opening look at the pioneering environmental policies of President Theodore Roosevelt, avid bird-watcher, naturalist, and the founding father of America’s conservation movement—now approaching its 100<sup>th</sup> anniversary.”"
+        genre: [environment, history, conservation]
+        format: audiobook
+        completed: In progress
+
       - title: "Fire Weather: A True Story from a Hotter World"
         author: John Vaillant
         link: https://www.penguinrandomhouse.com/books/554938/fire-weather-by-john-vaillant/
