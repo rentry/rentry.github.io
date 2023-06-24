@@ -25,7 +25,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679180064i/61793529.jpg
         description: "“Just when we most need our government to work—to decarbonize our infrastructure and economy, to help the vulnerable through a pandemic, to defend ourselves against global threats—it is faltering. Government at all levels has limped into the digital age, offering online services that can feel even more cumbersome than the paperwork that preceded them and widening the gap between the policy outcomes we intend and what we get.”"
         genre: [policy, government, technology]
-        completed: In progress       
+        completed: 2023-06-24      
 
       - title: "Silo #3: Dust"
         author: Hugh Howey
