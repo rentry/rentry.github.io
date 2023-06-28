@@ -12,6 +12,15 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "The Immortal King Rao"
+        author: Vauhini Vara
+        link: https://wwnorton.com/books/the-immortal-king-rao
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646449953i/58999177.jpg
+        description: "“<cite>The Immortal King Rao</cite>, written by a former <cite>Wall Street Journal</cite> technology reporter, is a resonant debut novel obliterating the boundaries between literary and speculative fiction, the historic and the dystopian, confronting how we arrived at the age of technological capitalism and where our actions might take us next.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Henry at Work: Thoreau on Making a Living"
         author: John Kaag and Jonathan van Belle
         link: https://press.princeton.edu/books/hardcover/9780691244693/henry-at-work
