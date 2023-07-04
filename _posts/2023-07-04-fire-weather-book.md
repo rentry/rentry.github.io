@@ -8,8 +8,10 @@ categories: [books]
 tags: [climate change, wildfire, environment, books]
 ---
 
-![]({{ '/assets/images/2023-canada-fire-smoke.jpg' | relative_url }}#full)
+![Dense, putrid smoke obscures the Statue of Liberty, with the massive Staten Island Ferry in the foreground]({{ '/assets/images/2023-canada-fire-smoke.jpg' | relative_url }}#full)
 <figcaption><a href="https://commons.wikimedia.org/wiki/File:Quebec_Canada_Wildfire_Smoke_Consumes_New_Jersey_and_New_York_City_June_7_2023_-_52959378738.jpg">Anthony Quintano</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
+
+<cite>Fire Weather: A True Story From a Hotter World</cite> is the 45<sup>th</sup> book I've read this year, and the one that offers the heftiest gut punch.
 
 Today is Independence Day in the United States, and as I write this, it's about 95º and windy outside my rural Oregon home (and I just received an alert that a brush fire has erupted a few roads north of us—there's a Red Flag Warning for dangerous fire conditions). 
 
@@ -41,7 +43,7 @@ The power of Vaillant's book isn't just in the subject matter, but also in his p
 
 As Americans everywhere drive their massive trucks to retrieve small bombs to belligerently ignite on this, our Independence Day, I hope they will consider taking some time to read this book.
 
-> But binges are, by their nature, finite; eventually, you have to come down. Scientists, it could be said, are the designated drivers of our society: sober, responsible, and vigilant, their job is to tell us when we've had enough, and try to get us safely home. Since the 1950s, when Gilbert Class and Roger Revelle were telling anyone who would listen that business as usual would have catastrophic consequences, climate scientists have been waving at us from the wings, politely saying, "Don't you think you've had enough?" Nature, in its way, has been waving, too: where there's fire there's smoke, and where there's smoke there's carbon dioxide. Our civilization, our engines, and our markets are not the only things that have been supercharged by fossil fuels. Our atmosphere is a weather engine, and it has been supercharged, too.
+> Scientists, it could be said, are the designated drivers of our society: sober, responsible, and vigilant, their job is to tell us when we've had enough, and try to get us safely home. Since the 1950s, when Gilbert Class and Roger Revelle were telling anyone who would listen that business as usual would have catastrophic consequences, climate scientists have been waving at us from the wings, politely saying, "Don't you think you've had enough?" Nature, in its way, has been waving, too: where there's fire there's smoke, and where there's smoke there's carbon dioxide. Our civilization, our engines, and our markets are not the only things that have been supercharged by fossil fuels. Our atmosphere is a weather engine, and it has been supercharged, too.
 
 It's terrifying that even now, with the consequences so evident, our politics, our will, and even our attention, are nowhere close to being able to collectively address the perilous world we've made.
 
