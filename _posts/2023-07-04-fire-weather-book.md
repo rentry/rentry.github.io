@@ -2,7 +2,7 @@
 layout: post
 title: "The most compelling, timely, and terrifying book I've read in a long time"
 date: 2023-07-04
-description: "Released during Canada's record setting 2023 wildfire season, John Vaillant’s <cite>Fire Weather: A True Story From a Hotter World</cite> (about a 2016 fire in Fort McMurray, Alberta, and the many combustive factors that led to it), is among the most compelling and well-written books I've read in a long time."
+description: "Released during Canada's record setting 2023 wildfire season, John Vaillant’s book about a 2016 Canada wildfire—and the many combustive factors that led to it—is among the most compelling books I've read in a long time."
 image: assets/images/2023-canada-fire.jpg
 categories: [books]
 tags: [climate change, wildfire, environment, books]
@@ -11,7 +11,7 @@ tags: [climate change, wildfire, environment, books]
 ![Dense, putrid smoke obscures the Statue of Liberty, with the massive Staten Island Ferry in the foreground]({{ '/assets/images/2023-canada-fire-smoke.jpg' | relative_url }}#full)
 <figcaption><a href="https://commons.wikimedia.org/wiki/File:Quebec_Canada_Wildfire_Smoke_Consumes_New_Jersey_and_New_York_City_June_7_2023_-_52959378738.jpg">Anthony Quintano</a>, <a href="https://creativecommons.org/licenses/by/2.0">CC BY 2.0</a>, via Wikimedia Commons</figcaption>
 
-<cite>Fire Weather: A True Story From a Hotter World</cite> is the 45<sup>th</sup> book I've read this year, and the one that offers the heftiest gut punch.
+<cite><a href="https://www.penguinrandomhouse.com/books/554938/fire-weather-by-john-vaillant/">Fire Weather: A True Story From a Hotter World</a></cite> is the 45<sup>th</sup> book I've read this year, and the one that offers the heftiest gut punch.
 
 Today is Independence Day in the United States, and as I write this, it's about 95º and windy outside my rural Oregon home (and I just received an alert that a brush fire has erupted a few roads north of us—there's a Red Flag Warning for dangerous fire conditions). 
 
