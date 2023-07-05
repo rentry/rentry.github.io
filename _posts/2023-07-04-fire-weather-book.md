@@ -19,7 +19,7 @@ I despise July 4<sup>th</sup> more and more every year, as it is famously celebr
 
 And yet, we will, once again, collectively just blow things up to celebrate this country's exuberant "fuck you" to the crown and virtually every other limit to our "freedom" (including and especially environmental limits) to do absolutely whatever we want.[^1]
 
-[^1]: Freedom clearly being reserved for white men only, since this country is clearly willing to curtail freedoms [for women](https://www.npr.org/2022/06/24/1102305878/supreme-court-abortion-roe-v-wade-decision-overturn) and [the LGBTQ community](https://www.nytimes.com/live/2023/06/30/us/gay-rights-free-speech-supreme-court), and to [limit opportunities for educational and economic freedom for Black Americans](https://www.npr.org/2023/06/29/1181138066/affirmative-action-supreme-court-decision).
+[^1]: Meanwhile, the Supreme Court in the United States has, through its recent decisions, signaled that reproductive freedoms, educational and economic opportunity, and freedom from discrimination are still largely reserved only for white men.
 
 This morning I walked outside my house and was greeted once again with wildfire smoke. There's a [wildfire burning nearby in Washington State](https://www.oregonlive.com/wildfires/2023/07/wildfire-across-from-hood-river-burns-over-530-acres-with-no-containment-so-far-officials-say.html), just across the Columbia River, but most of the smoke is from the Canada wildfires, whose [historic fire season](https://www.nytimes.com/article/canada-wildfires-what-to-know.html) has blanketed in smoke much of North America, extending all the way to Europe.
 
