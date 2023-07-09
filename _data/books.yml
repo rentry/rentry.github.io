@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Rooster House: My Ukrainian Family Story, A Memoir"
+        author: Victoria Belim
+        link: https://www.goodreads.com/book/show/61783855-the-rooster-house
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683381761i/61783855.jpg
+        description: "“In 2014, the landmarks of Victoria Belim’s personal geography were plunged into tumult at the hands of Russia. Her hometown Kyiv was gripped by protests and violent suppression. Crimea, where she’d once been sent to school to avoid radiation from the nuclear disaster at Chernobyl, was invaded. Kharkiv, where her grandmother Valentina studied economics and fell in love; Donetsk, where her father once worked; and Mariupol, where she and her mother bought a cherry tree for Valentina’s garden all became battlegrounds.”"
+        genre: [memoir, history]
+        format: audiobook
+        completed: Next
+
       - title: "The Ends of Freedom: Reclaiming America’s Lost Promise of Economic Rights"
         author: Mark Paul
         link: https://press.uchicago.edu/ucp/books/book/chicago/E/bo195791875.html
@@ -18,7 +27,7 @@ list:
         description: "“When a shattered kayak and camping gear are found on an uninhabited island in the Pacific Northwest, they reignite a mystery surrounding a shocking act of protest. Five months earlier, logger-turned-activist Grant Hadwin had plunged naked into a river in British Columbia's Queen Charlotte Islands, towing a chainsaw. When his night's work was done, a unique Sitka spruce, 165 feet tall and covered with luminous golden needles, teetered on its stump. Two days later it fell. As vividly as John Krakauer puts readers on Everest, John Vaillant takes us into the heart of North America's last great forest.”"
         genre: [history, environment]
         format: audiobook
-        completed: In progress
+        completed: 2023-07-08
 
       - title: "The Immortal King Rao"
         author: Vauhini Vara
