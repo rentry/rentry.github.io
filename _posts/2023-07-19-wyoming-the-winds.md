@@ -14,7 +14,7 @@ tags: [Wyoming, travel]
 
 ## To The Winds
 
-When I planned my Wyoming trip, I knew I wanted to visit some places I had spent little or no time in growing up in the state. One of those places is the Wind River Range ("The Winds"), and iconic mountain range containing Wyoming's highest point, Gannett Peak. The Winds, and Lander itself, are world famous for being the longtime "classroom" and headquarters of [NOLS](https://www.nols.edu/en/), formerly known as the National Outdoor Leadership School.
+When I planned my Wyoming trip, I knew I wanted to visit some places I had spent little or no time in growing up in the state. One of those places is the Wind River Range ("The Winds"), the iconic mountain range containing Wyoming's highest point, Gannett Peak. The Winds, and Lander itself, are world famous for being the longtime "classroom" and headquarters of [NOLS](https://www.nols.edu/en/), formerly known as the National Outdoor Leadership School.
 
 I spent two days with my parents in Buffalo, and then drove the 3 hours and 40 minutes to Lander, Wyoming, at the base of the Winds.
 
