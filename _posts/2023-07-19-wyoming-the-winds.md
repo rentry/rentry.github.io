@@ -14,9 +14,9 @@ tags: [Wyoming, travel]
 
 ## To The Winds
 
-When I planned my Wyoming trip, I knew I wanted to visit some places I had spent little or no time in growing up in the state. One of those places is the Wind River Range ("The Winds"), and iconic mountain range containing Wyoming's highest point, Gannett Peak. The Winds, and Lander itself, are also world famous for being the longtime "classroom" and headquarters of [NOLS](https://www.nols.edu/en/), formerly known as the National Outdoor Leadership School.
+When I planned my Wyoming trip, I knew I wanted to visit some places I had spent little or no time in growing up in the state. One of those places is the Wind River Range ("The Winds"), and iconic mountain range containing Wyoming's highest point, Gannett Peak. The Winds, and Lander itself, are world famous for being the longtime "classroom" and headquarters of [NOLS](https://www.nols.edu/en/), formerly known as the National Outdoor Leadership School.
 
-I spent two days with my parents and Buffalo, and then drove the 3 hours and 40 minutes to Lander, Wyoming, at the base of the Winds.
+I spent two days with my parents in Buffalo, and then drove the 3 hours and 40 minutes to Lander, Wyoming, at the base of the Winds.
 
 The drive took me through some places I visited often in my youth, including "the world's largest mineral hot springs" in Thermopolis, and the beautiful Wind River Canyon.
 
@@ -24,13 +24,13 @@ The drive took me through some places I visited often in my youth, including "th
 
 <figcaption>Mineral hot springs in Thermopolis, Wyoming</figcaption>
 
-Both Thermopolis (known in Wyoming as "Thermop") and the Wind River Canyon were places we just drove through to get to other places, usually Casper, Riverton, or Lander. We traveled often to all of those places for track, cross country, and (more commonly) swim meets.
+Both Thermopolis (known in Wyoming as "Thermop") and the Wind River Canyon were places we mostly just drove through to get to other places, usually Casper, Riverton, or Lander. We traveled often to all of those places for cross country, track, and (more commonly) swim meets.
 
-![A river lined with mineral springs and a bronze domed building]({{ 'assets/images/2023-wyoming-wind-river-canyon.jpg' | relative_url }})
+![A river winds through high canyon cliffs with a road and guardrail on one side]({{ 'assets/images/2023-wyoming-wind-river-canyon.jpg' | relative_url }})
 
 <figcaption>Wind River Canyon</figcaption>
 
-## Cabin
+## Lander cabin
 
 ![Sunset light illuminates in orange clouds over open land with a bluff]({{ 'assets/images/2023-wyoming-lander-1.jpg' | relative_url }}#float)
 
@@ -40,7 +40,7 @@ I rented [an airbnb](https://www.airbnb.com/rooms/889001008883010391) just outsi
 
 ## In The Winds
 
-![A river lined with mineral springs and a bronze domed building]({{ 'assets/images/2023-wyoming-wind-river-3.jpg' | relative_url }}#float)
+![Red flowers, Indian Paintbrush, grow between granite rocks]({{ 'assets/images/2023-wyoming-wind-river-3.jpg' | relative_url }}#float)
 
 I had identified a couple hiking options in the Winds, but having never hiked there, I wasn't sure what I was getting into. 
 
@@ -52,7 +52,7 @@ I decided to hike the 15-mile Stough Creek Basin Trail from Worthen Meadow. Give
 
 In the end, I did the full hike, and ended up running into one of the Lander high school swimming coaches who remembered both me and my sister. His daughter competed in swimming against my sister in the 90s.
 
-![A river lined with mineral springs and a bronze domed building]({{ 'assets/images/2023-wyoming-wind-river-5.jpg' | relative_url }}#full)
+![Wind River Peak seen from a meadow with a trail through the middle]({{ 'assets/images/2023-wyoming-wind-river-5.jpg' | relative_url }}#full)
 
 <figcaption>The trail ascends to a meadow revealing Wind River Peak</figcaption>
 
