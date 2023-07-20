@@ -3,7 +3,7 @@ layout: post
 title: "Wyoming part one: The Winds"
 date: 2023-07-19
 description: "After a few days in Buffalo, I traveled to Lander and hiked for the first time in the Wind River Range."
-image: assets/images/2023-wind-river-6.jpg
+image: assets/images/2023-wyoming-wind-river-6.jpg
 categories: [travel]
 tags: [Wyoming, travel]
 ---
