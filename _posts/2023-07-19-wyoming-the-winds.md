@@ -65,7 +65,7 @@ In the end, I did the full hike, and ended up running into one of the Lander hig
  <div class="map" id="map"></div>
 
 <script>
-    var map = L.map('map').setView([42.68021, -108.96723], 13)    
+    var map = L.map('map').setView([42.68021, -108.96723], 12)    
     var windRiverTrack = {% include data/2023/wind-river-stough-creek-71823.html %}
 
         L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg', {
