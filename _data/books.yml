@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #1: The Cold Dish"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/109901.The_Cold_Dish
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398028367i/109901.jpg
+        description: "“Walt Longmire, sheriff of Wyoming's Absaroka County, knows he's got trouble when Cody Pritchard is found dead. Two years earlier, Cody and three accomplices had been given suspended sentences for raping a Northern Cheyenne girl. Is someone seeking vengeance? Longmire faces one of the more volatile and challenging cases in his twenty-four years as sheriff and means to see that revenge, a dish that is best served cold, is never served at all.”"
+        genre: [fiction]
+        completed: In progress
+
       - title: "Wyoming Stories #2: Bad Dirt"
         author: Annie Proulx
         link: https://www.goodreads.com/book/show/89623.Bad_Dirt
@@ -11,13 +19,13 @@ list:
         genre: [fiction]
         completed: In progress
 
-      - title: "In Patagonia"
-        author: Bruce Chatwin
-        link: https://en.wikipedia.org/wiki/In_Patagonia
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924798i/79909.jpg
-        description: "“An exhilarating look at a place that still retains the exotic mystery of a far-off, unseen land, Bruce Chatwin’s exquisite account of his journey through Patagonia teems with evocative descriptions, remarkable bits of history, and unforgettable anecdotes. Fueled by an unmistakable lust for life and adventure and a singular gift for storytelling, Chatwin treks through “the uttermost part of the earth”— that stretch of land at the southern tip of South America, where bandits were once made welcome—in search of almost forgotten legends, the descendants of Welsh immigrants, and the log cabin built by Butch Cassidy. An instant classic upon its publication in 1977, In Patagonia is a masterpiece that has cast a long shadow upon the literary world.”"
-        genre: [memoir, history]
-        completed: Next
+      - title: "The Ends of Freedom: Reclaiming America’s Lost Promise of Economic Rights"
+        author: Mark Paul
+        link: https://press.uchicago.edu/ucp/books/book/chicago/E/bo195791875.html
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668309603i/62707938.jpg
+        description: "“Replete with discussions of some of today’s most influential policy ideas—from Medicare for All to a federal job guarantee to the Green New Deal—<cite>The Ends of Freedom</cite> is a timely and urgent call to reclaim the idea of freedom from its captors on the political right—to ground America’s next era in the country’s progressive history and carve a path toward a more economically dynamic and equitable nation.”"
+        genre: [society, economics]
+        completed: Next        
 
       - title: "The Rooster House: My Ukrainian Family Story, A Memoir"
         author: Victoria Belim
@@ -27,14 +35,6 @@ list:
         genre: [memoir, history]
         format: audiobook
         completed: 2023-07-19
-
-      - title: "The Ends of Freedom: Reclaiming America’s Lost Promise of Economic Rights"
-        author: Mark Paul
-        link: https://press.uchicago.edu/ucp/books/book/chicago/E/bo195791875.html
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1668309603i/62707938.jpg
-        description: "“Replete with discussions of some of today’s most influential policy ideas—from Medicare for All to a federal job guarantee to the Green New Deal—<cite>The Ends of Freedom</cite> is a timely and urgent call to reclaim the idea of freedom from its captors on the political right—to ground America’s next era in the country’s progressive history and carve a path toward a more economically dynamic and equitable nation.”"
-        genre: [society, economics]
-        completed: Next
 
       - title: "The Golden Spruce: A True Story of Myth, Madness, and Greed"
         author: John Vaillant
