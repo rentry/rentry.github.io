@@ -38,6 +38,10 @@ I watched _Longmire_ from its inception, living in Oregon but craving the nostal
 
 ![A sheriff's star reading Longmire Headquarters Sheriff Absaroka County State of Wyoming]({{ 'assets/images/2023-wyoming-buffalo-4.jpg' | relative_url }})
 
+![Wearing a yellow hat, blue shirt, and green pants with sunglasses, I stand next to a white Ford Bronco with a maroon stripe not the side and a gold star that reads Sheriff Absaroka County]({{ 'assets/images/2023-wyoming-buffalo-9.jpg' | relative_url }})
+
+<figcaption>Me with the iconic Longmire Ford Bronco in downtown Buffalo</figcaption>
+
 ### Longmire Days auction
 
 By virtue of my parents' neighbor and longtime friend, I worked [the auction for Longmire Days](https://www.longmiredays.com/auction.htm), the proceeds from which were [donated to charity](https://www.longmiredays.com/community.htm). I helped track the winning bids, sitting on a stage while the auction commenced. There are some serious Longmire fans out there, at least one of whom dropped over $20,000 in the auction.
@@ -45,6 +49,10 @@ By virtue of my parents' neighbor and longtime friend, I worked [the auction for
 ![A taxidermied elk head with windows and drapes, wood carved furniture, elegant sea-foam wallpaper, and framed pictures on the walls]({{ 'assets/images/2023-wyoming-buffalo-7.jpg' | relative_url }})
 
 <figcaption>The Occidental Hotel in Buffalo</figcaption>
+
+![A framed picture of Ernest Hemingway leaning on a wooden fence with mountains in the background and a note that reads Ernest Hemingway listed Buffalo and the Occidental on trips to the area in the 1940s]({{ 'assets/images/2023-wyoming-buffalo-8.jpg' | relative_url }})
+
+<figcaption>In the Occidental Hotel in Buffalo</figcaption>
 
 By virtue of a waiver from SAG-AFTRA during the strike, _Longmire_ actors were permitted to attend, and the [actor Robert Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_(Australian_actor))—who played Walt Longmire in the TV series—was on hand for the auction, wandering around taking selfies with fans and promoting the auction. He came and talked with us several times, wearing a T-shirt from Buffalo's [Bond's Brewing](https://bondsbrewing.com/).  Observing him from the auction stage, he seemed as comfortable and at home in that setting as his character would be, albeit much more casual.
 
