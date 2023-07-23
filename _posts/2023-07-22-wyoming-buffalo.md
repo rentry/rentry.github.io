@@ -54,7 +54,7 @@ By virtue of my parents' neighbor and longtime friend, I worked [the auction for
 
 <figcaption>In the Occidental Hotel in Buffalo</figcaption>
 
-By virtue of a waiver from SAG-AFTRA during the strike, _Longmire_ actors were permitted to attend, and the [actor Robert Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_(Australian_actor))—who played Walt Longmire in the TV series—was on hand for the auction, wandering around taking selfies with fans and promoting the auction. He came and talked with us several times, wearing a T-shirt from Buffalo's [Bond's Brewing](https://bondsbrewing.com/).  Observing him from the auction stage, he seemed as comfortable and at home in that setting as his character would be, albeit much more casual.
+By virtue of a waiver from SAG-AFTRA during the strike, _Longmire_ actors were permitted to attend, and the [actor Robert Taylor](https://en.wikipedia.org/wiki/Robert_Taylor_(Australian_actor))—who played Walt Longmire in the TV series—was on hand for the auction, wandering around taking selfies with fans and promoting the auction. He came and talked with us several times, wearing a T-shirt from Buffalo's [Bond's Brewing](https://bondsbrewing.com/).  Observing him from the auction stage, he seemed as comfortable and at home in that setting as his character would be, albeit _much_ more casual 🍻.
 
 ![A mural of a buffalo skull on the side of a building aligned along a path and creek]({{ 'assets/images/2023-wyoming-buffalo-5.jpg' | relative_url }})
 
