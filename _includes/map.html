@@ -4,8 +4,8 @@
     var {{ page.map-var }} = L.map('{{ page.map-id }}').setView([{{ page.lat }}, {{ page.long }}], {{page.zoom}});
     var marker = L.marker([{{ page.lat }}, {{ page.long }}]).addTo({{ page.map-var }});
 
-    L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg', {
-	attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
+    L.tileLayer('{{ site.data.maptiles.tiles }}', {
+        attribution: '{{ site.data.maptiles.attribution }}',
 	subdomains: 'abcd',
 	maxZoom: 19
     }).addTo({{ page.map-var }});

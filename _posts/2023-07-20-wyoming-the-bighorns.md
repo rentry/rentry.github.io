@@ -48,8 +48,8 @@ That said, this loop is beautiful, passing as it does multiple alpine lakes flan
     var map = L.map('map').setView([44.26163, -107.00677], 12)    
     var bighornTrack = {% include data/2023/bighorns-sherd-lake-71923.html %}
 
-        L.tileLayer('https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg', {
-        attribution: 'Map tiles by Stamen Design, under CC BY 3.0. Data by OpenStreetMap, under ODbL.',
+        L.tileLayer('{{ site.data.maptiles.tiles }}', {
+        attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
         maxZoom: 19
         }).addTo(map);
