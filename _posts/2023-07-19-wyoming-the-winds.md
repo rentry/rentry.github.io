@@ -74,7 +74,7 @@ In the end, I did the full hike, and ended up running into one of the Lander hig
         maxZoom: 19
         }).addTo(map);
 
-    L.geoJSON(windRiverTrack).addTo(map);
+    L.geoJSON(windRiverTrack, {color: '{{ site.data.maptiles.color }}'}).addTo(map);
 </script>
 
 ## To the Bighorn Mountains

@@ -58,5 +58,5 @@ Here's the track, if you ever want to hike this yourself. You can do several (bi
         maxZoom: 19
         }).addTo(map);
 
-    L.geoJSON(fitnessFeature).addTo(map);
+    L.geoJSON(fitnessFeature, {color: '{{ site.data.maptiles.color }}'}).addTo(map);
 </script>

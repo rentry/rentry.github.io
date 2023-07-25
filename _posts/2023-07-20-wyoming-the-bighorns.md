@@ -54,7 +54,7 @@ That said, this loop is beautiful, passing as it does multiple alpine lakes flan
         maxZoom: 19
         }).addTo(map);
 
-    L.geoJSON(bighornTrack).addTo(map);
+    L.geoJSON(bighornTrack, {color: '{{ site.data.maptiles.color }}'}).addTo(map);
 </script>
 
 
