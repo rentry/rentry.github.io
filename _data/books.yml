@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Design by Definition"
+        author: Elizabeth McGuane
+        link: https://abookapart.com/products/design-by-definition
+        image: https://abookapart.com/cdn/shop/files/aba-cover-46_large.png?v=1686232747
+        description: "“Elizabeth McGuane offers a fresh, empowering framework for design. Drawing from her experience on the forefront of web, mobile, and product design, she shows us how to harness the potency of words and language to uplift and illuminate rather than encumber. Learn how to effectively apply semantic concepts, use language to frame design problems clearly, and integrate elements of style such as metaphor and nomenclature, to strengthen your design process.”"
+        genre: [design]
+        completed: Next
+
       - title: "Walt Longmire #1: The Cold Dish"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/109901.The_Cold_Dish
