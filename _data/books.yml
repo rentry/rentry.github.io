@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #1: Death Without Company"
+        author: Craig Johnson
+        link: https://www.craigallenjohnson.com/death-without-company.htm
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1633089351i/59125236.jpg
+        description: "“When Mari Baroja is found poisoned at the Durant Home for Assisted Living, Sheriff Walt Longmire is drawn into an investigation of her death that proves to be as dramatic as her life. Her connections to the Basque community, the lucrative coal-bed methane industry, and the personal life of the previous sheriff, Lucian Connally, lead to a complex web of half truths and assumed allegiances.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress    
+
       - title: "Design by Definition"
         author: Elizabeth McGuane
         link: https://abookapart.com/products/design-by-definition
@@ -13,11 +22,12 @@ list:
 
       - title: "Walt Longmire #1: The Cold Dish"
         author: Craig Johnson
-        link: https://www.goodreads.com/book/show/109901.The_Cold_Dish
+        link: https://www.craigallenjohnson.com/the-cold-dish.htm
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1398028367i/109901.jpg
         description: "“Walt Longmire, sheriff of Wyoming's Absaroka County, knows he's got trouble when Cody Pritchard is found dead. Two years earlier, Cody and three accomplices had been given suspended sentences for raping a Northern Cheyenne girl. Is someone seeking vengeance? Longmire faces one of the more volatile and challenging cases in his twenty-four years as sheriff and means to see that revenge, a dish that is best served cold, is never served at all.”"
         genre: [fiction]
-        completed: In progress
+        format: audiobook
+        completed: 2023-07-30
 
       - title: "Wyoming Stories #2: Bad Dirt"
         author: Annie Proulx
