@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Heat Will Kill You First: Life and Death on a Scorched Planet"
+        author: Jeff Goodell
+        link: https://jeffgoodellwriter.com/books/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684206081i/63251778.jpg
+        description: "“he Heat Will Kill You First  is about the extreme ways in which our planet is already changing. It is about why spring is coming a few weeks earlier and fall is coming a few weeks later and the impact that will have on everything from our food supply to disease outbreaks. It is about what will happen to our lives and our communities when typical summer days in Chicago or Boston go from 90°F to 110°F. A heatwave, Goodell explains, is a predatory event— one that culls out the most vulnerable people.  But that is changing. As heatwaves become more intense and more common, they will become more democratic.”"
+        genre: [climate]
+        format: audiobook
+        completed: Next    
+
       - title: "Walt Longmire #1: Death Without Company"
         author: Craig Johnson
         link: https://www.craigallenjohnson.com/death-without-company.htm
