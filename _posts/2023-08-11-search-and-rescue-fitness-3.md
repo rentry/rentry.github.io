@@ -3,7 +3,7 @@ layout: post
 title: "Search and rescue: third fitness assessment"
 date: 2023-08-11
 description: "Last year, I wrote about our SAR team's annual fitness assessment. With temperatures expecting to exceed 100º in the Northwest next week, I decided to check it off the list today."
-image: assets/images/sar/2022-fitness-3.jpg
+image: assets/images/sar/2023-fitness-1.jpg
 categories: [SAR]
 tags: [search and rescue]
 ---
