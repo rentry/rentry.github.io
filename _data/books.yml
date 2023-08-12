@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Hold the Line: The Insurrection and One Cop's Battle for America's Soul"
+        author: Michael Fanone and John Shiffman
+        link: https://www.simonandschuster.com/books/Hold-the-Line/Michael-Fanone/9781668007198
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1665593577i/60321063.jpg
+        description: "“An urgent warning about the growing threat to our democracy from a twenty-year police veteran and former Trump supporter who nearly lost his life during the insurrection of January 6th. When Michael Fanone self-deployed to the Capitol on January 6, 2021, he had no idea his life was about to change. When he got to the front of the line, he urged his fellow officers to hold it against the growing crowd of insurrectionists—until he found himself pulled into the mob, tased until he had a heart attack, and viciously beaten with a Blue Lives Matter flag as shouts to kill him rang out.”"
+        genre: [biography, history]
+        format: audiobook
+        completed: In progress
+
       - title: "The Heat Will Kill You First: Life and Death on a Scorched Planet"
         author: Jeff Goodell
         link: https://jeffgoodellwriter.com/books/
