@@ -32,7 +32,7 @@ The fitness test is timed (we're required to complete this route in 2–2.5 hour
 
 ![Tall trees line a trail with green ground cover and downed wood underneath]({{ 'assets/images/sar/2023-fitness-4.jpg' | relative_url }}#float)
 
-It's a weekday, and I saw only four other people on the trail. This isn't among the most popular trails near Mt. Hood, which his great if you're looking to knock out a timed fitness assessment in the morning.
+It's a weekday, and I saw only four other people on the trail. This isn't among the most popular trails near Mt. Hood, which is great if you're looking to knock out a timed fitness assessment in the morning.
 
 I didn't know about this trail before joining search and rescue, and consequently haven't hiked it outside the context of a fitness assessment. Which is a shame, because a review of online photos shows some epic views of the mountain from various points. I think I'll need to head up here sometime when I'm not in a hurry.
 
