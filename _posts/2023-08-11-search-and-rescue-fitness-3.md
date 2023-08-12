@@ -12,9 +12,9 @@ tags: [search and rescue]
 
 Last year, I wrote about my search and rescue team's required [annual fitness assessment]({{ '/search-and-rescue-fitness' | relative_url }}). Since I completed the required hike in September of last year, technically I didn't need to worry about it until the end of next month. But with temperatures climbing above 100º next week, and uncertainty about how long those high temps would last,[^1] I decided to check it off the list today.
 
-I chose from among the approved routes the [Cast Creek trail](https://www.fs.usda.gov/recarea/mthood/recreation/hiking/recarea/?recid=53350&actid=50), which was the venue for my training cohort's initial fitness assessment when I joined in 2021. The trail is on the road to [Ramona Falls Trailhead](https://www.fs.usda.gov/recarea/mthood/recarea/?recid=53600),  in the Mount Hood Wilderness area at the base of the mountain.
-
 [^1]: Turns out, those super hot temperatures won't last all that long. As I write this, it looks like temps will drop from 105º early in the week down the the 70s by next weekend 😌.
+
+I chose from among the approved routes the [Cast Creek trail](https://www.fs.usda.gov/recarea/mthood/recreation/hiking/recarea/?recid=53350&actid=50), which was the venue for my training cohort's initial fitness assessment when I joined in 2021. The trail is on the road to [Ramona Falls Trailhead](https://www.fs.usda.gov/recarea/mthood/recarea/?recid=53600),  in the Mount Hood Wilderness area at the base of the mountain.
 
 ![A road through the forest with the blue profile of Mount Hood rising in the background]({{ 'assets/images/sar/2023-fitness-1.jpg' | relative_url }}#full)
 
@@ -34,9 +34,9 @@ The fitness test is timed (we're required to complete this route in 2–2.5 hour
 
 It's a weekday, and I saw only four other people on the trail. This isn't among the most popular trails near Mt. Hood, which his great if you're looking to knock out a timed fitness assessment in the morning.
 
-I didn't know about this trail before joining search and rescue, and consequently haven't hiked it outside the context of a fitness assessment. Which is a shame, because a review of online photos shows some epic views of the mountain from various points. 
+I didn't know about this trail before joining search and rescue, and consequently haven't hiked it outside the context of a fitness assessment. Which is a shame, because a review of online photos shows some epic views of the mountain from various points. I think I'll need to head up here sometime when I'm not in a hurry.
 
-I think I'll need to head up here sometime when I'm not in a hurry.
+This is going to be a hectic search and rescue weekend! I completed the fitness test today, I'm volunteering to be a subject for our K9 team training tomorrow, and we have a full-team rope training on Sunday (during which it is forecasted to be 101º 🥵). And that assumes we won't have an actual mission, which is likely. It's a SAR summer once again.
 
 ## Track
 
