@@ -10,7 +10,7 @@ list:
         description: "“It’s December 1997, and a man-eating tiger is on the prowl outside a remote village in Russia’s Far East. The tiger isn’t just killing people, it’s annihilating them, and a team of men and their dogs must hunt it on foot through the forest in the brutal cold. As the trackers sift through the gruesome remains of the victims, they discover that these attacks aren’t random: the tiger is apparently engaged in a vendetta. Injured, starving, and extremely dangerous, the tiger must be found before it strikes again.”"
         genre: [nature, history]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Hold the Line: The Insurrection and One Cop's Battle for America's Soul"
         author: Michael Fanone and John Shiffman
@@ -19,7 +19,7 @@ list:
         description: "“An urgent warning about the growing threat to our democracy from a twenty-year police veteran and former Trump supporter who nearly lost his life during the insurrection of January 6th. When Michael Fanone self-deployed to the Capitol on January 6, 2021, he had no idea his life was about to change. When he got to the front of the line, he urged his fellow officers to hold it against the growing crowd of insurrectionists—until he found himself pulled into the mob, tased until he had a heart attack, and viciously beaten with a Blue Lives Matter flag as shouts to kill him rang out.”"
         genre: [biography, history]
         format: audiobook
-        completed: In progress
+        completed: 2023-08-14
 
       - title: "The Heat Will Kill You First: Life and Death on a Scorched Planet"
         author: Jeff Goodell
@@ -45,7 +45,7 @@ list:
         image: https://abookapart.com/cdn/shop/files/aba-cover-46_large.png?v=1686232747
         description: "“Elizabeth McGuane offers a fresh, empowering framework for design. Drawing from her experience on the forefront of web, mobile, and product design, she shows us how to harness the potency of words and language to uplift and illuminate rather than encumber. Learn how to effectively apply semantic concepts, use language to frame design problems clearly, and integrate elements of style such as metaphor and nomenclature, to strengthen your design process.”"
         genre: [design]
-        completed: Next
+        completed: In progress
 
       - title: "Walt Longmire #1: The Cold Dish"
         author: Craig Johnson
