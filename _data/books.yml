@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Capitalism in the Anthropocene: Ecological Ruin or Ecological Revolution"
+        author: John Bellamy Foster
+        link: https://nyupress.org/9781583679746/capitalism-in-the-anthropocene/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661232934i/62058880.jpg
+        description: "“In this comprehensive study, John Bellamy Foster tells us that a globalized system of capital accumulation has induced humanity to foul its own nest. The result is a planetary emergency that threatens all present and future generations, throwing into question the continuation of civilization and ultimately the very survival of humanity itself. Only by addressing the social aspects of the current planetary emergency, exploring the theoretical, historical, and practical dimensions of the capitalism’s alteration of the planetary environment, is it possible to develop the ecological and social resources for a new journey of hope.”"
+        genre: [climate, politics, economics]
+        completed: In progress
+
       - title: "The Tiger: A True Story of Vengeance and Survival"
         author: John Vaillant
         link: https://www.penguinrandomhouse.com/books/182226/the-tiger-by-john-vaillant/
@@ -45,7 +53,7 @@ list:
         image: https://abookapart.com/cdn/shop/files/aba-cover-46_large.png?v=1686232747
         description: "“Elizabeth McGuane offers a fresh, empowering framework for design. Drawing from her experience on the forefront of web, mobile, and product design, she shows us how to harness the potency of words and language to uplift and illuminate rather than encumber. Learn how to effectively apply semantic concepts, use language to frame design problems clearly, and integrate elements of style such as metaphor and nomenclature, to strengthen your design process.”"
         genre: [design]
-        completed: In progress
+        completed: 2023-08-19
 
       - title: "Walt Longmire #1: The Cold Dish"
         author: Craig Johnson
