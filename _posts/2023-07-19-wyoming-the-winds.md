@@ -52,9 +52,9 @@ I decided to hike the 15-mile Stough Creek Basin Trail from Worthen Meadow. Give
 
 In the end, I did the full hike, and ended up running into one of the Lander high school swimming coaches who remembered both me and my sister. His daughter competed in swimming against my sister in the 90s.
 
-![Wind River Peak seen from a meadow with a trail through the middle]({{ 'assets/images/2023-wyoming-wind-river-5.jpg' | relative_url }}#full)
+![Wind River Peak seen from a plateau with a trail through the middle]({{ 'assets/images/2023-wyoming-wind-river-5.jpg' | relative_url }}#full)
 
-<figcaption>The trail ascends to a meadow revealing Wind River Peak</figcaption>
+<figcaption>The trail ascends to a plateau revealing Wind River Peak</figcaption>
 
 ### Stough Creek Basin Trail
 
