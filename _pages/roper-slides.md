@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: roper-slides
 title: Roper Family Slides
 ---
 
