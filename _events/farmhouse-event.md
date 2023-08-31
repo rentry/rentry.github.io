@@ -1,7 +1,7 @@
 ---
 layout: farmhouse
 title:  House warming (and birthday) celebration
-permalink: farmhouse-event-1
+permalink: /farmhouse-event-1/
 event-image: /assets/images/ryan-birthday.png
 action: https://formspree.io/brentryanjohnson@gmail.com
 comments: false
