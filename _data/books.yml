@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "In Patagonia"
+        author: Bruce Chatwin
+        link: https://en.wikipedia.org/wiki/In_Patagonia
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1386924798i/79909.jpg
+        description: "“An exhilarating look at a place that still retains the exotic mystery of a far-off, unseen land, Bruce Chatwin’s exquisite account of his journey through Patagonia teems with evocative descriptions, remarkable bits of history, and unforgettable anecdotes. Fueled by an unmistakable lust for life and adventure and a singular gift for storytelling, Chatwin treks through “the uttermost part of the earth”— that stretch of land at the southern tip of South America, where bandits were once made welcome—in search of almost forgotten legends, the descendants of Welsh immigrants, and the log cabin built by Butch Cassidy. An instant classic upon its publication in 1977, <cite>In Patagonia</cite> is a masterpiece that has cast a long shadow upon the literary world.”"
+        genre: [memoir, travel]
+        completed: In progress
+
       - title: "Doppelganger: A Trip into the Mirror World"
         author: Naomi Klein
         link: https://naomiklein.org/doppelganger/
@@ -28,7 +36,7 @@ list:
         description: "“Around the world, geophysicists and mathematicians, oceanographers and meteorologists, engineers, economists, psychologists and philosophers have been using their expertise to develop a deep understanding of the crises we face. Greta Thunberg has created The Climate Book in partnership with over one hundred of these experts in order to equip us all with this knowledge. Alongside them, Greta shares her own stories of learning, demonstrating, and uncovering greenwashing around the world, revealing the extent to which we have been kept in the dark. This is one of our biggest problems, she shows, but also our greatest source of hope. Once we are given the full picture, we will be able to act--and if a schoolchild's strike could ignite a global protest, what could we do collectively if we tried?”"
         genre: [climate, politics]
         format: audiobook
-        completed: In progress
+        completed: 2023-09-02
 
       - title: "Capitalism in the Anthropocene: Ecological Ruin or Ecological Revolution"
         author: John Bellamy Foster
@@ -36,7 +44,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661232934i/62058880.jpg
         description: "“In this comprehensive study, John Bellamy Foster tells us that a globalized system of capital accumulation has induced humanity to foul its own nest. The result is a planetary emergency that threatens all present and future generations, throwing into question the continuation of civilization and ultimately the very survival of humanity itself. Only by addressing the social aspects of the current planetary emergency, exploring the theoretical, historical, and practical dimensions of the capitalism’s alteration of the planetary environment, is it possible to develop the ecological and social resources for a new journey of hope.”"
         genre: [climate, politics, economics]
-        completed: In progress
+        completed: 2023-09-01
 
       - title: "The Tiger: A True Story of Vengeance and Survival"
         author: John Vaillant
