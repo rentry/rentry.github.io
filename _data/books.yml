@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Trail of the Lost: The Relentless Search to Bring Home the Missing Hikers of the Pacific Crest Trail"
+        author: Andrea Lankford
+        link: https://www.hachettebookgroup.com/titles/andrea-lankford/trail-of-the-lost/9780306831959/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671522419i/64000414.jpg
+        description: "“From an award-winning former law enforcement park ranger and investigator, this female-driven true crime adventure follows the author’s quest to find missing hikers along the Pacific Crest Trail by pairing up with an eclectic group of unlikely allies.”"
+        genre: [true crime]
+        format: audiobook
+        completed: Next 
+
       - title: "In Patagonia"
         author: Bruce Chatwin
         link: https://en.wikipedia.org/wiki/In_Patagonia
@@ -11,21 +20,21 @@ list:
         genre: [memoir, travel]
         completed: In progress
 
-      - title: "Doppelganger: A Trip into the Mirror World"
-        author: Naomi Klein
-        link: https://naomiklein.org/doppelganger/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689105362i/138505710.jpg
-        description: "“<cite>Doppelganger</cite> is a guidebook for our unsettling age, inviting all of us to view our reflections in the looking glass. It’s for anyone who has lost hours down an internet rabbit hole, who wonders why our politics has become so fatally warped, and who wants a way out of our collective vertigo and back to fighting for what really matters. Braiding together elements of tragicomic memoir, chilling political reportage, and cobweb-clearing cultural analysis, Naomi Klein dives deep into what she calls the Mirror World—our destabilized present rife with doubles and confusion, where far right movements playact solidarity with the working class, AI-generated content blurs the line between genuine and spurious, New Age wellness entrepreneurs turned anti-vaxxers further scramble our familiar political allegiances, and so many of us project our own carefully curated digital doubles out into the social media sphere.”"
-        genre: [politics, memoir]
-        format: audiobook
-        completed: Next
-
       - title: "Silent Spring Revolution: John F. Kennedy, Rachel Carson, Lyndon Johnson, Richard Nixon, and the Great Environmental Awakening"
         author: Douglas Brinkley
         link: https://douglasbrinkley.com/books/silent-spring-revolution/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662441099i/58884740.jpg
         description: "“<cite>New York Times</cite> bestselling author and acclaimed historian Douglas Brinkley chronicles the rise of environmental activism during the Long Sixties, telling a highly charged story of an indomitable generation that quite literally saved the natural world under the leadership of John F. Kennedy, Lyndon Johnson, and Richard Nixon.”"
         genre: [history]
+        format: audiobook
+        completed: In progress        
+
+      - title: "Doppelganger: A Trip into the Mirror World"
+        author: Naomi Klein
+        link: https://naomiklein.org/doppelganger/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689105362i/138505710.jpg
+        description: "“<cite>Doppelganger</cite> is a guidebook for our unsettling age, inviting all of us to view our reflections in the looking glass. It’s for anyone who has lost hours down an internet rabbit hole, who wonders why our politics has become so fatally warped, and who wants a way out of our collective vertigo and back to fighting for what really matters. Braiding together elements of tragicomic memoir, chilling political reportage, and cobweb-clearing cultural analysis, Naomi Klein dives deep into what she calls the Mirror World—our destabilized present rife with doubles and confusion, where far right movements playact solidarity with the working class, AI-generated content blurs the line between genuine and spurious, New Age wellness entrepreneurs turned anti-vaxxers further scramble our familiar political allegiances, and so many of us project our own carefully curated digital doubles out into the social media sphere.”"
+        genre: [politics, memoir]
         format: audiobook
         completed: In progress
 
