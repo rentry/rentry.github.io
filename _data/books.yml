@@ -10,7 +10,16 @@ list:
         description: "“From an award-winning former law enforcement park ranger and investigator, this female-driven true crime adventure follows the author’s quest to find missing hikers along the Pacific Crest Trail by pairing up with an eclectic group of unlikely allies.”"
         genre: [true crime]
         format: audiobook
-        completed: Next 
+        completed: Next
+
+      - title: "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer"
+        author: Kai Bird and Martin J. Sherwin
+        link: https://en.wikipedia.org/wiki/American_Prometheus
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686079247i/80571.jpg
+        description: "“<cite>American Prometheus</cite> is the first full-scale biography of J. Robert Oppenheimer, "father of the atomic bomb," the brilliant, charismatic physicist who led the effort to capture the awesome fire of the sun for his country in time of war. Immediately after Hiroshima, he became the most famous scientist of his generation-one of the iconic figures of the twentieth century, the embodiment of modern man confronting the consequences of scientific progress. ”"
+        genre: [biography, history]
+        format: audiobook
+        completed: In progress      
 
       - title: "In Patagonia"
         author: Bruce Chatwin
