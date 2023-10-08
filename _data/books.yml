@@ -20,6 +20,15 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "Eve: How the Female Body Drove 200 Million Years of Human Evolution"
+        author: Cat Bohannon
+        link: https://www.penguinrandomhouse.com/books/227568/eve-by-cat-bohannon/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684815183i/75494215.jpg
+        description: "“The real origin of our species: a myth-busting, eye-opening landmark account of how humans evolved, offering a paradigm shift in our thinking about what the female body is, how it came to be, and how this evolution still shapes all our lives today”"
+        genre: [natural history, science]
+        format: audiobook
+        completed: In progress     
+
       - title: "American Prometheus: The Triumph and Tragedy of J. Robert Oppenheimer"
         author: Kai Bird and Martin J. Sherwin
         link: https://en.wikipedia.org/wiki/American_Prometheus
@@ -44,7 +53,7 @@ list:
         description: "“<cite>New York Times</cite> bestselling author and acclaimed historian Douglas Brinkley chronicles the rise of environmental activism during the Long Sixties, telling a highly charged story of an indomitable generation that quite literally saved the natural world under the leadership of John F. Kennedy, Lyndon Johnson, and Richard Nixon.”"
         genre: [history]
         format: audiobook
-        completed: In progress        
+        completed: 2023-10-08      
 
       - title: "Doppelganger: A Trip into the Mirror World"
         author: Naomi Klein
