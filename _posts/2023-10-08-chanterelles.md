@@ -8,7 +8,7 @@ categories: [forage]
 tags: [Oregon, forage]
 ---
 
-_I am not a mushroom or foraging expert, so none of the following should be used as guidance for identifying or consuming mushrooms or plants._
+_I am not a mushroom or foraging expert, so none of the following should be used as guidance for identifying, collecting, or consuming mushrooms or plants._
 
 The last time I foraged for fall mushrooms was in 2020. A combination of search and rescue obligations and general life commitments have precluded forage weekends the last couple of years. I also prefer to forage with company, which has been increasingly difficult to schedule.
 
