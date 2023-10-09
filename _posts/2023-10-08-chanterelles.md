@@ -24,7 +24,7 @@ Obviously, I'm not going to share my foraging location (it has nonetheless becom
 
 <figcaption>Wild Ginger (<i>Asarum caudatum</i>) surrounds Redwood sorrel (<i>Oxalis oregana</i>)</figcaption>
 
-Ironically, I noticed and removed pink flagging tape I suspect remained after our team responded to a search and rescue call in the area (for a missing mushroom forager) last year. Our team's technique for attaching flagging tape, which we use to mark the boundaries of grid search lines, is simple but unique—we use a [girth hitch](https://www.animatedknots.com/girth-hitch-knot) to attach the tape. I wasn't on that particular mission, and others may use the same technique when foraging or timber cruising, but it seemed a reasonable assumption that is was our team's tape[^1].
+Ironically, I noticed pink flagging tape I suspect remained after our team responded to a search and rescue call in the area (for a missing mushroom forager) last year. Our team's technique for attaching flagging tape, which we use to mark the boundaries of grid search lines, is simple but unique—we use a [girth hitch](https://www.animatedknots.com/girth-hitch-knot) to attach the tape. I wasn't on that particular mission, and others may use the same technique when foraging or timber cruising, but it seemed a reasonable assumption that is was our team's tape[^1].
 
 [^1]: Our team is currently testing biodegradable flagging tape, and I'm hoping we can replace our existing vinyl/PVC tape, given we rarely need it to hold up for more than a few days, and we're often working in an emergency that precludes immediate removal.
 
