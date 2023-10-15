@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Douglas Fir: The Story of the West’s Most Remarkable Tree"
+        author: Stephen F. Arno, Carl Fiedler, Zoe Keller (Illustrations)
+        link: https://www.davidjamesduncan.com/sun-house
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
+        description: "“Westerners familiar with their forests may think they know the Douglas fir--but how well do they? Douglas firs are found in the continental northwest from British Columbia to as far south as Oaxaca, Mexico. They flourish in the Cascades, Rocky Mountains, Sierra, and other mountain ranges, as well as in desert valleys”"
+        genre: [natural history]
+        completed: In progress
+
       - title: "Sun House"
         author: David James Duncan
         link: https://www.davidjamesduncan.com/sun-house
