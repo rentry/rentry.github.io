@@ -9,7 +9,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582788077i/51359963.jpg
         description: "“Westerners familiar with their forests may think they know the Douglas fir--but how well do they? Douglas firs are found in the continental northwest from British Columbia to as far south as Oaxaca, Mexico. They flourish in the Cascades, Rocky Mountains, Sierra, and other mountain ranges, as well as in desert valleys”"
         genre: [natural history]
-        completed: In progress
+        completed: 2023-10-21
 
       - title: "Sun House"
         author: David James Duncan
