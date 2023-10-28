@@ -3,11 +3,19 @@ list:
   - year: 2023
     books:
 
+      - title: "Mad World: The Politics of Mental Health"
+        author: Micha Frazer-Carroll
+        link: https://www.plutobooks.com/9780745346717/mad-world/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678593235i/63231006.jpg
+        description: "“Mental health is a political issue, but we often discuss it as a personal one. How is the current mental health crisis connected to capitalism, racism and other social issues? In a different world, how might we transform the ways that we think about mental health, diagnosis and treatment? These are some of the big questions Micha Frazer-Carroll asks as she reveals mental health to be an urgent political concern that needs deeper understanding beyond today's 'awareness-raising' campaigns.”"
+        genre: [politics, psychology]
+        completed: Next
+
       - title: "Douglas Fir: The Story of the West’s Most Remarkable Tree"
         author: Stephen F. Arno, Carl Fiedler, Zoe Keller (Illustrations)
         link: https://www.mountaineers.org/books/books/douglas-fir-the-story-of-the-west2019s-most-remarkable-tree
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582788077i/51359963.jpg
-        description: "“Westerners familiar with their forests may think they know the Douglas fir--but how well do they? Douglas firs are found in the continental northwest from British Columbia to as far south as Oaxaca, Mexico. They flourish in the Cascades, Rocky Mountains, Sierra, and other mountain ranges, as well as in desert valleys”"
+        description: "“Westerners familiar with their forests may think they know the Douglas fir--but how well do they? Douglas firs are found in the continental northwest from British Columbia to as far south as Oaxaca, Mexico. They flourish in the Cascades, Rocky Mountains, Sierra, and other mountain ranges, as well as in desert valleys.”"
         genre: [natural history]
         completed: 2023-10-21
 
