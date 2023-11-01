@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #3: Kindness Goes Unpunished"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/236857.Kindness_Goes_Unpunished
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1337375820i/236857.jpg
+        description: "“Walt Longmire has been sheriff of Wyoming's Absaroka County for almost a quarter of a century and has meted out justice with charm and a high-powered sense of humor, but when Walt tags along with good friend Henry Standing Bear on a trip to Philadelphia, he's in for a shock. When a vicious attack on his daughter Cady leaves her near death, Walt discovers that she has unwittingly become embroiled in a deadly political cover-up.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Mad World: The Politics of Mental Health"
         author: Micha Frazer-Carroll
         link: https://www.plutobooks.com/9780745346717/mad-world/
