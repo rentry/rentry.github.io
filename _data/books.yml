@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Strategic Content Design strategic content design spot image: Tools and Research Techniques for Better UX"
+        author: Erica Jorgensen
+        link: https://rosenfeldmedia.com/books/strategic-content-design/
+        image: https://rosenfeldmedia.com/wp-content/uploads/2023/04/52-strategic-content-design.jpg
+        description: "“In <cite>Strategic Content Design</cite>, you’ll learn how content research can transform your content team—bringing new energy and enthusiasm for their work and gaining attention and respect from teams of all types across your company (product management, product design, user research, operations, and engineering). You’ll also get a toolbox with hard-won methods, best practices, and proven tips for conducting quantitative and qualitative content-focused research and testing.”"
+        genre: [web]
+        completed: In progress
+
       - title: "Walt Longmire #3: Kindness Goes Unpunished"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/236857.Kindness_Goes_Unpunished
