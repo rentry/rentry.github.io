@@ -10,7 +10,7 @@ tags: [swim]
 
 I've been swimming since I can remember. I couldn't float as a child, so teaching me to swim early was a priority for my parents. As a result, I started swimming competitively around age six.
 
-![A worn swimming pool, with two distinct lanes with tile on the bottom and one lane line marking off the right side of the pool, grey and white walls and rescue and cleaning gear hung on the walls]({{ 'assets/images/2022-swim-2.jpg' | relative_url }})
+![A person with a beard wearing light green goggles in a swimming pool with a high ceiling with skylights and two doors along one wall with a black chair in an alcove]({{ 'assets/images/2022-swim-2.jpg' | relative_url }})
 
 I swam through high school, and later contemplated swimming in college. I opted for water polo instead, with a club team at the University of Oregon (our team had the "pleasure" of getting our asses kicked by a team led by former Olympian and world record holder [Tom Jager](https://en.wikipedia.org/wiki/Tom_Jager)).
 
