@@ -3,6 +3,24 @@ list:
   - year: 2023
     books:
 
+      - title: "Sun House"
+        author: David James Duncan
+        link: https://www.davidjamesduncan.com/sun-house
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
+        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
+      - title: "Trail of the Lost: The Relentless Search to Bring Home the Missing Hikers of the Pacific Crest Trail"
+        author: Andrea Lankford
+        link: https://www.hachettebookgroup.com/titles/andrea-lankford/trail-of-the-lost/9780306831959/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671522419i/64000414.jpg
+        description: "“From an award-winning former law enforcement park ranger and investigator, this female-driven true crime adventure follows the author’s quest to find missing hikers along the Pacific Crest Trail by pairing up with an eclectic group of unlikely allies.”"
+        genre: [true crime]
+        format: audiobook
+        completed: Next
+
       - title: "Walt Longmire #4: Another Man's Moccasins"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/2812358-another-man-s-moccasins
@@ -52,24 +70,6 @@ list:
         description: "“Westerners familiar with their forests may think they know the Douglas fir--but how well do they? Douglas firs are found in the continental northwest from British Columbia to as far south as Oaxaca, Mexico. They flourish in the Cascades, Rocky Mountains, Sierra, and other mountain ranges, as well as in desert valleys.”"
         genre: [natural history]
         completed: 2023-10-21
-
-      - title: "Sun House"
-        author: David James Duncan
-        link: https://www.davidjamesduncan.com/sun-house
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
-        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
-        genre: [fiction]
-        format: audiobook
-        completed: In progress
-
-      - title: "Trail of the Lost: The Relentless Search to Bring Home the Missing Hikers of the Pacific Crest Trail"
-        author: Andrea Lankford
-        link: https://www.hachettebookgroup.com/titles/andrea-lankford/trail-of-the-lost/9780306831959/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1671522419i/64000414.jpg
-        description: "“From an award-winning former law enforcement park ranger and investigator, this female-driven true crime adventure follows the author’s quest to find missing hikers along the Pacific Crest Trail by pairing up with an eclectic group of unlikely allies.”"
-        genre: [true crime]
-        format: audiobook
-        completed: Next
 
       - title: "Eve: How the Female Body Drove 200 Million Years of Human Evolution"
         author: Cat Bohannon
