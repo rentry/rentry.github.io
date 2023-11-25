@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Feeding Dangerously: On the Ground with José Andrés and World Central Kitchen"
+        author: José Andrés and Steve Orlando, illustrated by Alberto Ponticelli
+        link: https://feedingdangerously.com/
+        image: https://feedingdangerously.com/cdn/shop/files/tko_FEEDING_HC_COV_A-front.jpg?v=1689630285&width=2200
+        description: "“Fires. Hurricanes. Volcanoes. Floods. Earthquakes. Food is hope. Join Chef José Andrés and World Central Kitchen for the incredible story of how their mission began and expanded across the globe, serving millions of meals in the most dangerous conditions to bring comfort and hope, one plate at a time.”"
+        genre: [graphic novel]
+        completed: In progress
+
       - title: "Walt Longmire #5: The Dark Horse"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/5950876-the-dark-horse
@@ -19,7 +27,7 @@ list:
         description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: Next
 
       - title: "Trail of the Lost: The Relentless Search to Bring Home the Missing Hikers of the Pacific Crest Trail"
         author: Andrea Lankford
