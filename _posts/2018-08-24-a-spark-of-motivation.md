@@ -71,7 +71,7 @@ Sparklines seem like a great way to present this data, when:
 
 Here's an example. This chart shows the unappropriated balance of the Abandoned Mine Land (AML) fund over time:
 
-![Growth of the AML fund’s unappropriated balance](https://revenuedata.doi.gov/public/img/AML_unapprop-growth.svg)
+![Growth of the AML fund’s unappropriated balance]({{ 'assets/images/aml-chart.svg' | relative_url }})
 
 Alternatively, we can present this data in the form of a sparkline, which shows the AML fund's unappropriated balance has grown significantly over the past 30 years: <span class="spark-data">$436 million</span> <span id="spark-it"></span> <span class="spark-data">$2.38 billion</span>.
 
