@@ -34,7 +34,7 @@ Both Thermopolis (known in Wyoming as "Thermop") and the Wind River Canyon were 
 
 ![Sunset light illuminates in orange clouds over open land with a bluff]({{ 'assets/images/2023-wyoming-lander-1.jpg' | relative_url }}#float)
 
-I rented [an airbnb](https://www.airbnb.com/rooms/889001008883010391) just outside Lander. I realized when driving the road to the rented cabin that I had run up that road during a high school cross country meet in 1999 or so. I remember that meet well, because it was around 10º and snowing sideways.
+I rented [an airbnb](https://www.airbnb.com/rooms/889001008883010391) just outside Lander. I realized when driving the road to the rented cabin that I had run up that road during a high school cross country meet in 1999 or so. I remember that meet well, because it was around 10ºF and snowing sideways.
 
 ![A small log cabin with illuminated orange clouds at sunset overhead]({{ 'assets/images/2023-wyoming-lander-2.jpg' | relative_url }})
 
@@ -50,7 +50,7 @@ I decided to hike the 15-mile Stough Creek Basin Trail from Worthen Meadow. Give
 
 ![A lake with snow-capped mountains surrounding]({{ 'assets/images/2023-wyoming-wind-river-4.jpg' | relative_url }})
 
-In the end, I did the full hike, and ended up running into one of the Lander high school swimming coaches who remembered both me and my sister. His daughter competed in swimming against my sister in the 90s.
+In the end, I did the full hike, and ended up running into one of the Lander high school swimming coaches who remembered both me and my sister. His daughter competed in swimming against my sister in the '90s.
 
 ![Wind River Peak seen from a plateau with a trail through the middle]({{ 'assets/images/2023-wyoming-wind-river-5.jpg' | relative_url }}#full)
 
