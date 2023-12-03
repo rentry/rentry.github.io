@@ -18,7 +18,7 @@ list:
         description: "“Rachel Maddow traces the fight to preserve American democracy back to World War II, when a handful of committed public servants and brave private citizens thwarted far-right plotters trying to steer our nation toward an alliance with the Nazis.”"
         genre: [history, politics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Trail of the Lost: The Relentless Search to Bring Home the Missing Hikers of the Pacific Crest Trail"
         author: Andrea Lankford
@@ -27,7 +27,7 @@ list:
         description: "“From an award-winning former law enforcement park ranger and investigator, this female-driven true crime adventure follows the author’s quest to find missing hikers along the Pacific Crest Trail by pairing up with an eclectic group of unlikely allies.”"
         genre: [true crime]
         format: audiobook
-        completed: In progress
+        completed: 2023-12-03
 
       - title: "Mad World: The Politics of Mental Health"
         author: Micha Frazer-Carroll
