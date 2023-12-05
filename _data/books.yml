@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #6: Junkyard Dogs"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/7315145-junkyard-dogs
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347391444i/7315145.jpg
+        description: "“It's a volatile new economy in Durant, Wyoming, where the owners of a multi-million dollar development of ranchettes want to get rid of the adjacent junk-yard. When a severed thumb is discovered in the yard, conflicts erupt, and Walt Longmire, his trusty companion Dog, life-long friend Henry Standing Bear, and deputies Santiago Saizarbitoria and Victoria Moretti find themselves in a small town that feels more and more like a high plains pressure cooker.”"
+        format: audiobook
+        genre: [fiction]
+        completed: Next
+
       - title: "Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation"
         author: Tiya Miles
         link: https://tiyamiles.com/books/wild-girls-how-the-outdoors-shaped-the-women-who-challenged-a-nation/
