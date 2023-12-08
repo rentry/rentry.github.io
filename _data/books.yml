@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #7: Hell Is Empty"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/9794605-hell-is-empty
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388459227i/9794605.jpg
+        description: "“Well-read and world-weary, Sheriff Walt Longmire has been maintaing order in Wyoming's Absaroka County for more than thirty years, but in this riveting seventh outing, he is pushed to his limits. Raynaud Shade, an adopted Crow Indian, has just confessed to murdering a boy ten years ago and burying him deep within the Big Horn Mountains. After transporting Shade and a group of other convicted murderers through a snowstorm, Walt is informed by the FBI that the body is buried in his jurisdiction-and the victim's name is White Buffalo. Guided only by Indian mysticism and a battered paperback of Dante's Inferno, Walt pursues Shade and his fellow escapees into the icy hell of the Cloud Peak Wilderness Area, cheating death to ensure that justice-both civil and spiritual-is served.”"
+        format: audiobook
+        completed: In progress
+
       - title: "Ours Was the Shining Future: The Story of the American Dream"
         author: David Leonhardt
         link: https://www.penguinrandomhouse.com/books/217260/ours-was-the-shining-future-by-david-leonhardt/
