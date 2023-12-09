@@ -3,6 +3,13 @@ list:
   - year: 2023
     books:
 
+      - title: "The Future of the Responsible Company: What We've Learned from Patagonia's First 50 Years"
+        author: Yvon Chouinard and Vincent Stanley
+        link: https://www.patagonia.com/product/the-future-of-the-responsible-company-paperback/BK235.html
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682388575i/122863992.jpg
+        description: "“Patagonia has been recognized as much for its ground-breaking environmental, social practices as for the quality of its clothes. In 2022, the Chouinard family gave their company away, converting ownership to a simple structure of trusts and nonprofits, so that all the profits from the company can be used to protect our home planet and work to reverse climate chaos. Stanley and Chouinard recount how the company and its culture gained confidence, especially through missteps, to make its work progressively more responsible, and to ultimately challenge other companies, as big as Wal-Mart and as small as the corner store, to do the same.”"
+        completed: Next
+
       - title: "Walt Longmire #7: Hell Is Empty"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/9794605-hell-is-empty
