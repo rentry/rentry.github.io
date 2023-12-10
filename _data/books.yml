@@ -3,6 +3,14 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #8: As The Crow Flies"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/13001178-as-the-crow-flies
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328574685i/13001178.jpg
+        description: "“Embarking on his eighth adventure, Wyoming Sheriff Walt Longmire doesn't have time for cowboys and criminals. His daughter, Cady, is getting married in two weeks, and the wedding locale arrangements have just gone up in smoke signals. Fearing Cady's wrath, Walt and his old friend Henry Standing Bear set out for the Cheyenne Reservation to find a new site for the nuptials. But their expedition ends in horror as they witness a young Crow woman plummeting from Painted Warrior's majestic cliffs. Is it a suicide, or something more sinister? It's not Walt's turf, but he's coerced into the investigation by Lolo Long, the beautiful new tribal police chief.”"
+        format: audiobook
+        completed: Next
+
       - title: "The Future of the Responsible Company: What We've Learned from Patagonia's First 50 Years"
         author: Yvon Chouinard and Vincent Stanley
         link: https://www.patagonia.com/product/the-future-of-the-responsible-company-paperback/BK235.html
@@ -16,7 +24,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388459227i/9794605.jpg
         description: "“Well-read and world-weary, Sheriff Walt Longmire has been maintaing order in Wyoming's Absaroka County for more than thirty years, but in this riveting seventh outing, he is pushed to his limits. Raynaud Shade, an adopted Crow Indian, has just confessed to murdering a boy ten years ago and burying him deep within the Big Horn Mountains. After transporting Shade and a group of other convicted murderers through a snowstorm, Walt is informed by the FBI that the body is buried in his jurisdiction-and the victim's name is White Buffalo. Guided only by Indian mysticism and a battered paperback of Dante's Inferno, Walt pursues Shade and his fellow escapees into the icy hell of the Cloud Peak Wilderness Area, cheating death to ensure that justice-both civil and spiritual-is served.”"
         format: audiobook
-        completed: In progress
+        completed: 2023-12-09
 
       - title: "Ours Was the Shining Future: The Story of the American Dream"
         author: David Leonhardt
