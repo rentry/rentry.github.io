@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Sun House"
+        author: David James Duncan
+        link: https://www.davidjamesduncan.com/sun-house
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
+        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next 
+
       - title: "Walt Longmire #8: As The Crow Flies"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/13001178-as-the-crow-flies
@@ -16,7 +25,7 @@ list:
         link: https://www.patagonia.com/product/the-future-of-the-responsible-company-paperback/BK235.html
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682388575i/122863992.jpg
         description: "“Patagonia has been recognized as much for its ground-breaking environmental, social practices as for the quality of its clothes. In 2022, the Chouinard family gave their company away, converting ownership to a simple structure of trusts and nonprofits, so that all the profits from the company can be used to protect our home planet and work to reverse climate chaos. Stanley and Chouinard recount how the company and its culture gained confidence, especially through missteps, to make its work progressively more responsible, and to ultimately challenge other companies, as big as Wal-Mart and as small as the corner store, to do the same.”"
-        completed: Next
+        completed: In progress
 
       - title: "Walt Longmire #7: Hell Is Empty"
         author: Craig Johnson
@@ -42,14 +51,6 @@ list:
         genre: [fiction]
         completed: 2023-12-06
 
-      - title: "Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation"
-        author: Tiya Miles
-        link: https://tiyamiles.com/books/wild-girls-how-the-outdoors-shaped-the-women-who-challenged-a-nation/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679444674i/123410681.jpg
-        description: "“This beautiful, meditative work of history puts girls of all races—and the landscapes they loved—at center stage and reveals the impact of the outdoors on women’s independence, resourcefulness, and vision. For these trailblazing women of the nineteenth and early twentieth centuries, navigating the woods, following the stars, playing sports, and taking to the streets in peaceful protest were not only joyful pursuits, but also techniques to resist assimilation, racism, and sexism.”"
-        genre: [history]
-        completed: Next
-
       - title: "Prequel: An American Fight Against Fascism"
         author: Rachel Maddow
         link: https://www.penguinrandomhouse.com/books/721028/prequel-by-rachel-maddow/
@@ -74,16 +75,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1678593235i/63231006.jpg
         description: "“Mental health is a political issue, but we often discuss it as a personal one. How is the current mental health crisis connected to capitalism, racism and other social issues? In a different world, how might we transform the ways that we think about mental health, diagnosis and treatment? These are some of the big questions Micha Frazer-Carroll asks as she reveals mental health to be an urgent political concern that needs deeper understanding beyond today's 'awareness-raising' campaigns.”"
         genre: [politics, psychology]
-        completed: 2023-11-27
-
-      - title: "Sun House"
-        author: David James Duncan
-        link: https://www.davidjamesduncan.com/sun-house
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
-        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
-        genre: [fiction]
-        format: audiobook
-        completed: Next        
+        completed: 2023-11-27       
 
       - title: "Feeding Dangerously: On the Ground with José Andrés and World Central Kitchen"
         author: José Andrés and Steve Orlando, illustrated by Alberto Ponticelli
