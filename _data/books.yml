@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism"
+        author: Tim Alberta
+        link: https://www.harpercollins.com/products/the-kingdom-the-power-and-the-glory-tim-alberta
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684205034i/112975131.jpg
+        description: "“Evangelical Christians are perhaps the most polarizing—and least understood—people living in America today. In his seminal new book, The Kingdom, the Power, and the Glory, journalist Tim Alberta, himself a practicing Christian and the son of an evangelical pastor, paints an expansive and profoundly troubling portrait of the American evangelical movement. Through the eyes of televangelists and small-town preachers, celebrity revivalists and everyday churchgoers, Alberta tells the story of a faith cheapened by ephemeral fear, a promise corrupted by partisan subterfuge, and a reputation stained by perpetual scandal.”"
+        genre: [religion, politics]
+        format: audiobook
+        completed: Next
+
       - title: "Sun House"
         author: David James Duncan
         link: https://www.davidjamesduncan.com/sun-house
