@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Walt Longmire #9: A Serpent's Tooth"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/16158552-a-serpent-s-tooth
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1356113287i/16158552.jpg
+        description: "“It’s homecoming in Absaroka County, but the football and festivities are interrupted when a homeless boy wanders into  town. A Mormon “lost boy,” Cord Lynear is searching for his missing mother but clues are scarce. Longmire and his companions, feisty deputy Victoria Moretti and longtime friend Henry Standing Bear, embark on a high plains scavenger hunt in hopes of reuniting mother and son. The trail leads them to an interstate polygamy group that’s presiding over a stockpile of weapons and harboring a vicious vendetta.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "The Kingdom, the Power, and the Glory: American Evangelicals in an Age of Extremism"
         author: Tim Alberta
         link: https://www.harpercollins.com/products/the-kingdom-the-power-and-the-glory-tim-alberta
