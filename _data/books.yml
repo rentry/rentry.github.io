@@ -3,6 +3,15 @@ list:
   - year: 2023
     books:
 
+      - title: "Wild Girls: How the Outdoors Shaped the Women Who Challenged a Nation"
+        author: Tiya Miles
+        link: https://tiyamiles.com/books/wild-girls-how-the-outdoors-shaped-the-women-who-challenged-a-nation/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679444674i/123410681.jpg
+        description: "“This beautiful, meditative work of history puts girls of all races—and the landscapes they loved—at center stage and reveals the impact of the outdoors on women’s independence, resourcefulness, and vision. For these trailblazing women of the nineteenth and early twentieth centuries, navigating the woods, following the stars, playing sports, and taking to the streets in peaceful protest were not only joyful pursuits, but also techniques to resist assimilation, racism, and sexism.”"
+        format: audiobook
+        genre: [history]
+        completed: 2023-12-26
+
       - title: "Walt Longmire #10: Any Other Name"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/18693828-any-other-name
