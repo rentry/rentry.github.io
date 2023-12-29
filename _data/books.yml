@@ -1,5 +1,33 @@
 list:
 
+  - year: 2024
+    books:
+
+      - title: "Sun House"
+        author: David James Duncan
+        link: https://www.davidjamesduncan.com/sun-house
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
+        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
+      - title: "Ours Was the Shining Future: The Story of the American Dream"
+        author: David Leonhardt
+        link: https://www.penguinrandomhouse.com/books/217260/ours-was-the-shining-future-by-david-leonhardt/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692708092i/90663680.jpg
+        description: "“Two decades into the twenty-first century, the stagnation of living standards has become the defining trend of American life. Life expectancy has declined, economic inequality has soared, and, after some progress, the Black-white wage gap is once again as large as it was in the 1950s. How did this happen in the world’s most powerful country? And what happened to the “American dream”—the promise of a happier, healthier, more prosperous future—which was once such an inextricable part of our national identity? Drawing on decades of writing about the economy for <cite>The New York Times</cite>, Pulitzer Prize–winning writer David Leonhardt examines the past century of American history, from the Great Depression to today’s Great Stagnation, in search of an answer.”"
+        genre: [economics, society, politics]
+        completed: Next
+
+      - title: "Wayfinding: The Science and Mystery of How Humans Navigate the World"
+        author: M.R. O'Connor
+        link: https://www.goodreads.com/book/show/36742965-wayfinding
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513177963i/36742965.jpg
+        description: "“In this compelling narrative, O'Connor seeks out neuroscientists, anthropologists, and master navigators to understand how navigation ultimately gave us our humanity. Biologists have been trying to solve the mystery of how organisms have the ability to migrate and orient with such precision—especially since our own adventurous ancestors spread across the world without maps or instruments. O'Connor goes to the Arctic, the Australian bush, and the South Pacific to talk to masters of their environment who seek to preserve their traditions at a time when anyone can use a GPS to navigate.”"
+        genre: [navigation]
+        completed: Next    
+
   - year: 2023
     books:
 
@@ -39,14 +67,6 @@ list:
         format: audiobook
         completed: 2023-12-25
 
-      - title: "Wayfinding: The Science and Mystery of How Humans Navigate the World"
-        author: M.R. O'Connor
-        link: https://www.goodreads.com/book/show/36742965-wayfinding
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513177963i/36742965.jpg
-        description: "“In this compelling narrative, O'Connor seeks out neuroscientists, anthropologists, and master navigators to understand how navigation ultimately gave us our humanity. Biologists have been trying to solve the mystery of how organisms have the ability to migrate and orient with such precision—especially since our own adventurous ancestors spread across the world without maps or instruments. O'Connor goes to the Arctic, the Australian bush, and the South Pacific to talk to masters of their environment who seek to preserve their traditions at a time when anyone can use a GPS to navigate.”"
-        genre: [navigation]
-        completed: Next
-
       - title: "Walt Longmire #9: A Serpent's Tooth"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/16158552-a-serpent-s-tooth
@@ -63,24 +83,7 @@ list:
         description: "“Evangelical Christians are perhaps the most polarizing—and least understood—people living in America today. In his seminal new book, The Kingdom, the Power, and the Glory, journalist Tim Alberta, himself a practicing Christian and the son of an evangelical pastor, paints an expansive and profoundly troubling portrait of the American evangelical movement. Through the eyes of televangelists and small-town preachers, celebrity revivalists and everyday churchgoers, Alberta tells the story of a faith cheapened by ephemeral fear, a promise corrupted by partisan subterfuge, and a reputation stained by perpetual scandal.”"
         genre: [religion, politics]
         format: audiobook
-        completed: 2023-12-21
-
-      - title: "Sun House"
-        author: David James Duncan
-        link: https://www.davidjamesduncan.com/sun-house
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
-        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
-        genre: [fiction]
-        format: audiobook
-        completed: Next
-
-      - title: "Ours Was the Shining Future: The Story of the American Dream"
-        author: David Leonhardt
-        link: https://www.penguinrandomhouse.com/books/217260/ours-was-the-shining-future-by-david-leonhardt/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692708092i/90663680.jpg
-        description: "“Two decades into the twenty-first century, the stagnation of living standards has become the defining trend of American life. Life expectancy has declined, economic inequality has soared, and, after some progress, the Black-white wage gap is once again as large as it was in the 1950s. How did this happen in the world’s most powerful country? And what happened to the “American dream”—the promise of a happier, healthier, more prosperous future—which was once such an inextricable part of our national identity? Drawing on decades of writing about the economy for <cite>The New York Times</cite>, Pulitzer Prize–winning writer David Leonhardt examines the past century of American history, from the Great Depression to today’s Great Stagnation, in search of an answer.”"
-        genre: [economics, society, politics]
-        completed: Next        
+        completed: 2023-12-21   
 
       - title: "Walt Longmire #8: As The Crow Flies"
         author: Craig Johnson
