@@ -34,7 +34,7 @@ Both Thermopolis (known in Wyoming as "Thermop") and the Wind River Canyon were 
 
 ![Sunset light illuminates in orange clouds over open land with a bluff]({{ 'assets/images/2023-wyoming-lander-1.jpg' | relative_url }}#float)
 
-I rented [an airbnb](https://www.airbnb.com/rooms/889001008883010391) just outside Lander. I realized when driving the road to the rented cabin that I had run up that road during a high school cross country meet in 1999 or so. I remember that meet well, because it was around 10ºF and snowing sideways.
+I rented [an airbnb](https://www.airbnb.com/rooms/889001008883010391) just outside Lander. I realized when driving the road to the rented cabin that I had run up that road during a high school cross country meet in 1998 or so. I remember that meet well, because it was around 10ºF and snowing sideways.
 
 ![A small log cabin with illuminated orange clouds at sunset overhead]({{ 'assets/images/2023-wyoming-lander-2.jpg' | relative_url }})
 
