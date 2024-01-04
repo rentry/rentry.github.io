@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Walt Longmire #11.5: The Highwayman: A Longmire Story"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/28317015-the-highwayman
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1464933758i/28317015.jpg
+        description: "“When Wyoming highway patrolman Rosey Wayman is transferred to the beautiful and imposing landscape of the Wind River Canyon, an area the troopers refer to as no-man's-land because of the lack of radio communication, she starts receiving ‘officer needs assistance’ calls. The problem? They're coming from Bobby Womack, a legendary Arapaho patrolman who met a fiery death in the canyon almost a half-century ago. With an investigation that spans this world and the next, Sheriff Walt Longmire and Henry Standing Bear take on a case that pits them against a The Highwayman.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Race After Technology: Abolitionist Tools for the New Jim Code"
         author: Ruha Benjamin
         link: https://en.wikipedia.org/wiki/Race_After_Technology
@@ -26,7 +35,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1692708092i/90663680.jpg
         description: "“Two decades into the twenty-first century, the stagnation of living standards has become the defining trend of American life. Life expectancy has declined, economic inequality has soared, and, after some progress, the Black-white wage gap is once again as large as it was in the 1950s. How did this happen in the world’s most powerful country? And what happened to the “American dream”—the promise of a happier, healthier, more prosperous future—which was once such an inextricable part of our national identity? Drawing on decades of writing about the economy for <cite>The New York Times</cite>, Pulitzer Prize–winning writer David Leonhardt examines the past century of American history, from the Great Depression to today’s Great Stagnation, in search of an answer.”"
         genre: [economics, society, politics]
-        completed: In progress
+        format: audiobook
+        completed: 2024-01-04
 
       - title: "Wayfinding: The Science and Mystery of How Humans Navigate the World"
         author: M.R. O'Connor
