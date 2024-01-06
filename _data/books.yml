@@ -3,6 +3,22 @@ list:
   - year: 2024
     books:
 
+      - title: "Walt Longmire #12: An Obvious Fact"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/27774703-an-obvious-fact
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447101819i/27774703.jpg
+        description: "“In the midst of the largest motorcycle rally in the world, a young biker is run off the road and ends up in critical condition. When Sheriff Walt Longmire and his good friend Henry Standing Bear are called to Hulett, Wyoming—the nearest town to America's first national monument, Devils Tower—to investigate, things start getting complicated. As competing biker gangs; the Bureau of Alcohol, Tobacco, and Firearms; a military-grade vehicle donated to the tiny local police force by a wealthy entrepreneur; and Lola, the real-life femme fatale and namesake for Henry's '59 Thunderbird (and, by extension, Walt's granddaughter) come into play, it rapidly becomes clear that there is more to get to the bottom of at this year's Sturgis Motorcycle Rally than a bike accident.”"
+        genre: [fiction]
+        completed: Next
+
+      - title: "Hugo in Action: Static sites and dynamic JAMstack apps"
+        author: Atishay Jain
+        link: https://www.goodreads.com/book/show/50515045-hugo-in-action
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582756465i/50515045.jpg
+        description: "“Hugo in Action teaches you to build and host your own fully customizable static website with the Hugo engine. This friendly tutorial teaches you step-by-step how to use Hugo as a Content Management System and web development environment. Working with a complete company example website and source code, you’ll get to grips with using Markup for content tagging, moving off-template to build your own Hugo themes, and creating custom pages. Next, you’ll push further than you thought was possible with a static site, using JavaScript and the JAM Stack (JavaScript, APIs, and Markup) to add functionality like eCommerce and your own APIs. When you’re done, you’ll have the skills to build a stable but feature-rich website without relying on third-party server code.”"
+        genre: [technology]
+        completed: In progress
+
       - title: "Walt Longmire #11.5: The Highwayman: A Longmire Story"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/28317015-the-highwayman
