@@ -34,7 +34,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1576795927i/42527493.jpg
         description: "“From everyday apps to complex algorithms, Ruha Benjamin cuts through tech-industry hype to understand how emerging technologies can reinforce White supremacy and deepen social inequity. Benjamin argues that automation, far from being a sinister story of racist programmers scheming on the dark web, has the potential to hide, speed up, and deepen discrimination while appearing neutral and even benevolent when compared to the racism of a previous era. Presenting the concept of the ‘New Jim Code,’ she shows how a range of discriminatory designs encode inequity by explicitly amplifying racial hierarchies; by ignoring but thereby replicating social divisions; or by aiming to fix racial bias but ultimately doing quite the opposite. Moreover, she makes a compelling case for race itself as a kind of technology, designed to stratify and sanctify social injustice in the architecture of everyday life.”"
         genre: [technology, race]
-        completed: In progress
+        completed: 2024-01-06
 
       - title: "Sun House"
         author: David James Duncan
