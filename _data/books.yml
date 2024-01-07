@@ -9,7 +9,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447101819i/27774703.jpg
         description: "“In the midst of the largest motorcycle rally in the world, a young biker is run off the road and ends up in critical condition. When Sheriff Walt Longmire and his good friend Henry Standing Bear are called to Hulett, Wyoming—the nearest town to America's first national monument, Devils Tower—to investigate, things start getting complicated. As competing biker gangs; the Bureau of Alcohol, Tobacco, and Firearms; a military-grade vehicle donated to the tiny local police force by a wealthy entrepreneur; and Lola, the real-life femme fatale and namesake for Henry's '59 Thunderbird (and, by extension, Walt's granddaughter) come into play, it rapidly becomes clear that there is more to get to the bottom of at this year's Sturgis Motorcycle Rally than a bike accident.”"
         genre: [fiction]
-        completed: Next
+        completed: In progress
 
       - title: "Hugo in Action: Static sites and dynamic JAMstack apps"
         author: Atishay Jain
