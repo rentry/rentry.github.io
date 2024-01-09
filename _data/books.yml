@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "From Here to There: The Art and Science of Finding and Losing Our Way"
+        author: Michael Shaw Bond
+        link: https://www.goodreads.com/book/show/50695386-from-here-to-there
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586236618i/50695386.jpg
+        description: "“Navigation skills are deeply embedded in our biology. The ability to find our way over large distances in prehistoric times gave <cite>Homo sapiens</cite> an advantage, allowing us to explore the farthest regions of the planet. Wayfinding also shaped vital cognitive functions outside the realm of navigation, including abstract thinking, imagination, and memory. Bond brings a reporter's curiosity and nose for narrative to the latest research from psychologists, neuroscientists, animal behaviorists, and anthropologists. He also turns to the people who design and expertly maneuver the world we navigate: search-and-rescue volunteers, cartographers, ordnance mappers, urban planners, and more. The result is a global expedition that furthers our understanding of human orienting in the natural and built environments”"
+        genre: [navigation]
+        completed: Next
+
       - title: "Walt Longmire #12: An Obvious Fact"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/27774703-an-obvious-fact
