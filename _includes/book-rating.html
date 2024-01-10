@@ -1,0 +1,13 @@
+{% if book.rating %}
+  {% if book.rating == 1 %}
+    <span> ★</span>
+  {% elsif book.rating == 2 %}
+    <span> ★★</span>
+  {% elsif book.rating == 3 %}
+    <span> ★★★</span>
+  {% elsif book.rating == 4 %}
+    <span> ★★★★</span>
+  {% elsif book.rating == 5 %}
+    <span> ★★★★★</span>
+  {% endif %}  
+{% endif %} 

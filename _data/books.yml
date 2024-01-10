@@ -18,6 +18,8 @@ list:
         description: "“In the midst of the largest motorcycle rally in the world, a young biker is run off the road and ends up in critical condition. When Sheriff Walt Longmire and his good friend Henry Standing Bear are called to Hulett, Wyoming—the nearest town to America's first national monument, Devils Tower—to investigate, things start getting complicated. As competing biker gangs; the Bureau of Alcohol, Tobacco, and Firearms; a military-grade vehicle donated to the tiny local police force by a wealthy entrepreneur; and Lola, the real-life femme fatale and namesake for Henry's '59 Thunderbird (and, by extension, Walt's granddaughter) come into play, it rapidly becomes clear that there is more to get to the bottom of at this year's Sturgis Motorcycle Rally than a bike accident.”"
         genre: [fiction]
         completed: 2024-01-08
+        format: audiobook
+        rating: 3
 
       - title: "Hugo in Action: Static sites and dynamic JAMstack apps"
         author: Atishay Jain
@@ -35,6 +37,7 @@ list:
         genre: [fiction]
         format: audiobook
         completed: 2024-01-04
+        rating: 3
 
       - title: "Race After Technology: Abolitionist Tools for the New Jim Code"
         author: Ruha Benjamin
@@ -43,6 +46,7 @@ list:
         description: "“From everyday apps to complex algorithms, Ruha Benjamin cuts through tech-industry hype to understand how emerging technologies can reinforce White supremacy and deepen social inequity. Benjamin argues that automation, far from being a sinister story of racist programmers scheming on the dark web, has the potential to hide, speed up, and deepen discrimination while appearing neutral and even benevolent when compared to the racism of a previous era. Presenting the concept of the ‘New Jim Code,’ she shows how a range of discriminatory designs encode inequity by explicitly amplifying racial hierarchies; by ignoring but thereby replicating social divisions; or by aiming to fix racial bias but ultimately doing quite the opposite. Moreover, she makes a compelling case for race itself as a kind of technology, designed to stratify and sanctify social injustice in the architecture of everyday life.”"
         genre: [technology, race]
         completed: 2024-01-06
+        rating: 3
 
       - title: "Sun House"
         author: David James Duncan
@@ -51,7 +55,7 @@ list:
         description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Ours Was the Shining Future: The Story of the American Dream"
         author: David Leonhardt
@@ -61,6 +65,7 @@ list:
         genre: [economics, society, politics]
         format: audiobook
         completed: 2024-01-04
+        rating: 4
 
       - title: "Wayfinding: The Science and Mystery of How Humans Navigate the World"
         author: M.R. O'Connor
@@ -68,7 +73,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1513177963i/36742965.jpg
         description: "“In this compelling narrative, O'Connor seeks out neuroscientists, anthropologists, and master navigators to understand how navigation ultimately gave us our humanity. Biologists have been trying to solve the mystery of how organisms have the ability to migrate and orient with such precision—especially since our own adventurous ancestors spread across the world without maps or instruments. O'Connor goes to the Arctic, the Australian bush, and the South Pacific to talk to masters of their environment who seek to preserve their traditions at a time when anyone can use a GPS to navigate.”"
         genre: [navigation]
-        completed: 2024-01-07 
+        completed: 2024-01-07
+        rating: 3
 
   - year: 2023
     books:

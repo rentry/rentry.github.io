@@ -9,6 +9,8 @@ current-year: 2024
 
 <p>I prefer to read analog books, but I increasingly listen to audiobooks. Audiobooks are marked with 🎧.</p>
 
+<p>In 2024, I added my rating for each book. These ratings are marked with ★s. As you might expect, the ratings are from one to five.</p>
+
 <p>Book cover art is displayed only for the current year.</p>
 
 <!--Anchor nav for years, but only if more than one exists-->
@@ -72,6 +74,7 @@ current-year: 2024
                     <span>Date completed: </span>{{ book.completed | date: "%B %-d, %Y" }}
                   {% endif %}
                   {% include book-format.html %}
+                  {% include book-rating.html %}
                 </p>
               </div>
             </div> 
