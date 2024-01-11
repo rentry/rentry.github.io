@@ -3,11 +3,19 @@ list:
   - year: 2024
     books:
 
+      - title: "Man’s Search for Meaning"
+        author: Viktor E. Frankl
+        link: https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1535419394i/4069.jpg
+        description: "“Psychiatrist Viktor Frankl's memoir has riveted generations of readers with its descriptions of life in Nazi death camps and its lessons for spiritual survival. Based on his own experience and the stories of his patients, Frankl argues that we cannot avoid suffering but we can choose how to cope with it, find meaning in it, and move forward with renewed purpose. At the heart of his theory, known as logotherapy, is a conviction that the primary human drive is not pleasure but the pursuit of what we find meaningful. <cite>Man's Search for Meaning</cite> has become one of the most influential books in America; it continues to inspire us all to find significance in the very act of living.”"
+        genre: [psychology]
+        completed: In progress
+
       - title: "From Here to There: The Art and Science of Finding and Losing Our Way"
         author: Michael Shaw Bond
         link: https://www.goodreads.com/book/show/50695386-from-here-to-there
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586236618i/50695386.jpg
-        description: "“Navigation skills are deeply embedded in our biology. The ability to find our way over large distances in prehistoric times gave <cite>Homo sapiens</cite> an advantage, allowing us to explore the farthest regions of the planet. Wayfinding also shaped vital cognitive functions outside the realm of navigation, including abstract thinking, imagination, and memory. Bond brings a reporter's curiosity and nose for narrative to the latest research from psychologists, neuroscientists, animal behaviorists, and anthropologists. He also turns to the people who design and expertly maneuver the world we navigate: search-and-rescue volunteers, cartographers, ordnance mappers, urban planners, and more. The result is a global expedition that furthers our understanding of human orienting in the natural and built environments”"
+        description: "“Navigation skills are deeply embedded in our biology. The ability to find our way over large distances in prehistoric times gave <cite>Homo sapiens</cite> an advantage, allowing us to explore the farthest regions of the planet. Wayfinding also shaped vital cognitive functions outside the realm of navigation, including abstract thinking, imagination, and memory. Bond brings a reporter's curiosity and nose for narrative to the latest research from psychologists, neuroscientists, animal behaviorists, and anthropologists. He also turns to the people who design and expertly maneuver the world we navigate: search-and-rescue volunteers, cartographers, ordnance mappers, urban planners, and more. The result is a global expedition that furthers our understanding of human orienting in the natural and built environments.”"
         genre: [navigation]
         completed: Next
 
