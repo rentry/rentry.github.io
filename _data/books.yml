@@ -17,7 +17,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586236618i/50695386.jpg
         description: "“Navigation skills are deeply embedded in our biology. The ability to find our way over large distances in prehistoric times gave <cite>Homo sapiens</cite> an advantage, allowing us to explore the farthest regions of the planet. Wayfinding also shaped vital cognitive functions outside the realm of navigation, including abstract thinking, imagination, and memory. Bond brings a reporter's curiosity and nose for narrative to the latest research from psychologists, neuroscientists, animal behaviorists, and anthropologists. He also turns to the people who design and expertly maneuver the world we navigate: search-and-rescue volunteers, cartographers, ordnance mappers, urban planners, and more. The result is a global expedition that furthers our understanding of human orienting in the natural and built environments.”"
         genre: [navigation]
-        completed: Next
+        completed: In progress
 
       - title: "Walt Longmire #12: An Obvious Fact"
         author: Craig Johnson
@@ -35,7 +35,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582756465i/50515045.jpg
         description: "“Hugo in Action teaches you to build and host your own fully customizable static website with the Hugo engine. This friendly tutorial teaches you step-by-step how to use Hugo as a Content Management System and web development environment. Working with a complete company example website and source code, you’ll get to grips with using Markup for content tagging, moving off-template to build your own Hugo themes, and creating custom pages. Next, you’ll push further than you thought was possible with a static site, using JavaScript and the JAM Stack (JavaScript, APIs, and Markup) to add functionality like eCommerce and your own APIs. When you’re done, you’ll have the skills to build a stable but feature-rich website without relying on third-party server code.”"
         genre: [technology]
-        completed: In progress
+        completed: 2024-01-14
+        rating: 3
 
       - title: "Walt Longmire #11.5: The Highwayman: A Longmire Story"
         author: Craig Johnson
