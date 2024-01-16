@@ -3,6 +3,23 @@ list:
   - year: 2024
     books:
 
+      - title: "Walt Longmire #13: The Western Star"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/34232860-the-western-star
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503484837i/34232860.jpg
+        description: "“Sheriff Walt Longmire is enjoying a celebratory beer after a weapons certification at the Wyoming Law Enforcement Academy when a younger sheriff confronts him with a photograph of twenty-five armed men standing in front of a Challenger steam locomotive. It takes him back to when, fresh from the battlefields of Vietnam, then-deputy Walt accompanied his mentor Lucian to the annual Wyoming Sheriff's Association junket held on the excursion train known as the Western Star, which ran the length of Wyoming from Cheyenne to Evanston and back. Armed with his trusty Colt .45 and a paperback of Agatha Christie's <cite>Murder on the Orient Express</cite>, the young Walt was ill-prepared for the machinations of twenty-four veteran sheriffs, let alone the cavalcade of curious characters that accompanied them. ”"
+        genre: [fiction]
+        completed: Next
+        format: audiobook
+
+      - title: "Eleventy by Example"
+        author: Bryan Robinson
+        link: https://www.packtpub.com/product/eleventy-by-example/9781804610497
+        image: https://learning.oreilly.com/library/cover/9781804610497/250w/
+        description: "“11ty is the dark horse of the Jamstack world, offering unparalleled flexibility and performance that gives it an edge against other static site generators such as Jekyll and Hugo. With it, developers can leverage the complete Node ecosystem and create blazing-fast, static-first websites that can be deployed from a content delivery network or a simple server. This book will teach you how to set up, customize, and make the most of 11ty in no time.”"
+        genre: [technology]
+        completed: In progress
+
       - title: "Man’s Search for Meaning"
         author: Viktor E. Frankl
         link: https://en.wikipedia.org/wiki/Man%27s_Search_for_Meaning
