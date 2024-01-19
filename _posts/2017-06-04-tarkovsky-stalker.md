@@ -29,7 +29,7 @@ French philosopher Gilles Deleuze analyzes a turning point in cinema with respec
 
 Deleuze isn’t referring specifically to _Stalker_ or Tarkovsky’s films in general in this preface to _Cinema 2: The Time-Image_, but it couldn’t characterize _Stalker_ better. And although the above passage describes the destructive aftermath of World War II to both cities and psyches, it could very well describe the deep loss of our environmental systems as well. _Stalker_ is, after all, set in a post-apocalyptic landscape resulting from some kind of disaster. This is where the film and real life converge, as the main location of the film was a contaminated hydroelectric facility in Tallinn that was likely fatal to at least three members of the cast and crew. And the film foreshadowed the Chernobyl disaster, which would occur just 7 years after _Stalker_ debuted. 
 
-<p><iframe width="100%" height="315" src="https://www.youtube.com/embed/JCuwthnCRpg?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p><iframe style="aspect-ratio: 16 / 9; width: 100%" src="https://www.youtube.com/embed/JCuwthnCRpg?rel=0" frameborder="0" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
 
 According to Deleuze, our collective crisis of belief in pre-war institutions and ideas, along with the profound loss of our environment, results in a post-war cinema that is “a cinema of the seer and no longer of the agent.” The cinema of the seer is what gives rise to the time-image.
 

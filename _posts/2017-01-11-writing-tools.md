@@ -18,7 +18,7 @@ I'm a huge fan of markdown; it's such a liberating and flexible authoring experi
 I've used a variety of writing apps, but [iA Writer](https://ia.net/writer/) is my favorite. I just started using it with the latest version (4), which offers [some really cool features](https://ia.net/writer/about/) to make markdown even more powerful and easy to use.
 
 <div class="videowrapper">
-    <iframe src="https://player.vimeo.com/video/191969564?title=0&byline=0&portrait=0" width="100%" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/191969564?title=0&byline=0&portrait=0" style="aspect-ratio: 16 / 9; width: 100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 <p><a href="https://vimeo.com/191969564">iA Writer 4</a> from <a href="https://vimeo.com/iamotion">iA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
