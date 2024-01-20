@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "The Last Fire Season: A Personal and Pyronatural History"
+        author: Manjula Martin
+        link: https://www.penguinrandomhouse.com/books/711111/the-last-fire-season-by-manjula-martin/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698089700i/134121281.jpg
+        description: "“Told in luminous, perceptive prose, The Last Fire Season is a deeply incisive inquiry into what it really means—now—to live in relationship to the elements of the natural world. When Manjula Martin moved from the city to the woods of Northern California, she wanted to be closer to the wilderness that she had loved as a child. She was also seeking refuge from a health crisis that left her with chronic pain, and found a sense of healing through tending her garden beneath the redwoods of Sonoma County. But the landscape that Martin treasured was an ecosystem already in crisis.”"
+        genre: [climate]
+        completed: Next
+        format: audiobook
+
       - title: "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence"
         author: Yaroslav Trofimov
         link: https://www.penguinrandomhouse.com/books/731521/our-enemies-will-vanish-by-yaroslav-trofimov/
