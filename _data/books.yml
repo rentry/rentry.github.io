@@ -3,13 +3,22 @@ list:
   - year: 2024
     books:
 
+      - title: "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence"
+        author: Yaroslav Trofimov
+        link: https://www.penguinrandomhouse.com/books/731521/our-enemies-will-vanish-by-yaroslav-trofimov/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704845647i/80342131.jpg
+        description: "“Since Russia invaded Ukraine in February 2022, Yaroslav Trofimov has spent months on end at the heart of the conflict, very often on its front lines. In this authoritative account, he traces the war’s decisive moments—from the battle for Kyiv to more recently the gruelling and bloody arm wrestle involving the Wagner group over Bakhmut—to show how Ukraine and its allies have turned the tide against Russia, one of the world’s great military powers, in a modern-day battle of David and Goliath.”"
+        genre: [war, history]
+        completed: In progress
+        format: audiobook
+
       - title: "Walt Longmire #13: The Western Star"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/34232860-the-western-star
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503484837i/34232860.jpg
         description: "“Sheriff Walt Longmire is enjoying a celebratory beer after a weapons certification at the Wyoming Law Enforcement Academy when a younger sheriff confronts him with a photograph of twenty-five armed men standing in front of a Challenger steam locomotive. It takes him back to when, fresh from the battlefields of Vietnam, then-deputy Walt accompanied his mentor Lucian to the annual Wyoming Sheriff's Association junket held on the excursion train known as the Western Star, which ran the length of Wyoming from Cheyenne to Evanston and back. Armed with his trusty Colt .45 and a paperback of Agatha Christie's <cite>Murder on the Orient Express</cite>, the young Walt was ill-prepared for the machinations of twenty-four veteran sheriffs, let alone the cavalcade of curious characters that accompanied them.”"
         genre: [fiction]
-        completed: In progress
+        completed: 2024-01-19
         format: audiobook
 
       - title: "Eleventy by Example"
