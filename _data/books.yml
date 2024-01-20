@@ -20,6 +20,7 @@ list:
         genre: [fiction]
         completed: 2024-01-19
         format: audiobook
+        rating: 3
 
       - title: "Eleventy by Example"
         author: Bryan Robinson
@@ -27,7 +28,8 @@ list:
         image: https://learning.oreilly.com/library/cover/9781804610497/250w/
         description: "“11ty is the dark horse of the Jamstack world, offering unparalleled flexibility and performance that gives it an edge against other static site generators such as Jekyll and Hugo. With it, developers can leverage the complete Node ecosystem and create blazing-fast, static-first websites that can be deployed from a content delivery network or a simple server. This book will teach you how to set up, customize, and make the most of 11ty in no time.”"
         genre: [technology]
-        completed: In progress
+        completed: 2024-01-19
+        rating: 3
 
       - title: "Man’s Search for Meaning"
         author: Viktor E. Frankl
