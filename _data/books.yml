@@ -27,8 +27,9 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704845647i/80342131.jpg
         description: "“Since Russia invaded Ukraine in February 2022, Yaroslav Trofimov has spent months on end at the heart of the conflict, very often on its front lines. In this authoritative account, he traces the war’s decisive moments—from the battle for Kyiv to more recently the gruelling and bloody arm wrestle involving the Wagner group over Bakhmut—to show how Ukraine and its allies have turned the tide against Russia, one of the world’s great military powers, in a modern-day battle of David and Goliath.”"
         genre: [war, history]
-        completed: In progress
+        completed: 2024-01-21
         format: audiobook
+        rating: 4
 
       - title: "Walt Longmire #13: The Western Star"
         author: Craig Johnson
