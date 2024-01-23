@@ -9,8 +9,9 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1521581939i/38673484.jpg
         description: "“Walt journeys into the northern Mexican desert alone to save his daughter Cady, who has been kidnapped by the cartel. Welcome to Walt Longmire's worst nightmare. Winter is creeping closer, but for Sheriff Longmire this one is looking to be harsh in a way to which he is wholly unaccustomed. He has found himself in the remotest parts of the northern Mexican desert, a lawless place where no horse or car can travel, where no one speaks his language or trusts an outsider, far from his friends and his home turf back in Wyoming.”"
         genre: [fiction]
-        completed: Next
+        completed: 2024-01-23
         format: audiobook
+        rating: 3
 
       - title: "The Last Fire Season: A Personal and Pyronatural History"
         author: Manjula Martin
@@ -18,7 +19,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698089700i/134121281.jpg
         description: "“Told in luminous, perceptive prose, The Last Fire Season is a deeply incisive inquiry into what it really means—now—to live in relationship to the elements of the natural world. When Manjula Martin moved from the city to the woods of Northern California, she wanted to be closer to the wilderness that she had loved as a child. She was also seeking refuge from a health crisis that left her with chronic pain, and found a sense of healing through tending her garden beneath the redwoods of Sonoma County. But the landscape that Martin treasured was an ecosystem already in crisis.”"
         genre: [climate]
-        completed: Next
+        completed: In progress
         format: audiobook
 
       - title: "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence"
