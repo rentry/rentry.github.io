@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Blood in the Machine: The Origins of the Rebellion Against Big Tech"
+        author: Brian Merchant
+        link: https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639949844i/59801798.jpg
+        description: "“The most urgent story in modern tech begins not in Silicon Valley but two hundred years ago in rural England, when workers known as the Luddites rose up rather than starve at the hands of factory owners who were using automated machines to erase their livelihoods. The Luddites organized guerrilla raids to smash those machines—on punishment of death—and won the support of Lord Byron, enraged the Prince Regent, and inspired the birth of science fiction. This all-but-forgotten class struggle brought nineteenth-century England to its knees. Today, technology imperils millions of jobs, robots are crowding factory floors, and artificial intelligence will soon pervade every aspect of our economy. How will this change the way we live? And what can we do about it?”"
+        genre: [technology]
+        completed: Next
+
       - title: "Walt Longmire #14: Depth of Winter"
         author: Craig Johnson
         link: https://goodreads.com/book/show/38673484-depth-of-winter
@@ -105,15 +113,6 @@ list:
         genre: [technology, race]
         completed: 2024-01-06
         rating: 3
-
-      - title: "Sun House"
-        author: David James Duncan
-        link: https://www.davidjamesduncan.com/sun-house
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686576931i/64000510.jpg
-        description: "“With <cite>Sun House</cite>, David James Duncan continues exploring the American search for meaning and love. This stunning novel, set amid the gorgeous landscapes of the American West, illuminates the contemporary world through the prisms of Eastern wisdom; cast-off ecstatic religious ideals; and the unpredictable, expansive yearnings of the human heart.”"
-        genre: [fiction]
-        format: audiobook
-        completed: In progress
 
       - title: "Ours Was the Shining Future: The Story of the American Dream"
         author: David Leonhardt
