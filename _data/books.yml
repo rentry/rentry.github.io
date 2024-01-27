@@ -9,7 +9,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639949844i/59801798.jpg
         description: "“The most urgent story in modern tech begins not in Silicon Valley but two hundred years ago in rural England, when workers known as the Luddites rose up rather than starve at the hands of factory owners who were using automated machines to erase their livelihoods. The Luddites organized guerrilla raids to smash those machines—on punishment of death—and won the support of Lord Byron, enraged the Prince Regent, and inspired the birth of science fiction. This all-but-forgotten class struggle brought nineteenth-century England to its knees. Today, technology imperils millions of jobs, robots are crowding factory floors, and artificial intelligence will soon pervade every aspect of our economy. How will this change the way we live? And what can we do about it?”"
         genre: [technology]
-        completed: Next
+        completed: In progress
 
       - title: "Walt Longmire #14: Depth of Winter"
         author: Craig Johnson
@@ -27,8 +27,9 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698089700i/134121281.jpg
         description: "“Told in luminous, perceptive prose, The Last Fire Season is a deeply incisive inquiry into what it really means—now—to live in relationship to the elements of the natural world. When Manjula Martin moved from the city to the woods of Northern California, she wanted to be closer to the wilderness that she had loved as a child. She was also seeking refuge from a health crisis that left her with chronic pain, and found a sense of healing through tending her garden beneath the redwoods of Sonoma County. But the landscape that Martin treasured was an ecosystem already in crisis.”"
         genre: [climate]
-        completed: In progress
+        completed: 2024-01-27
         format: audiobook
+        rating: 5
 
       - title: "Our Enemies Will Vanish: The Russian Invasion and Ukraine's War of Independence"
         author: Yaroslav Trofimov
