@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky"
+        author: Simon Shuster
+        link: https://www.harpercollins.com/products/the-showman-simon-shuster?variant=41083800682530
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696861798i/63365317.jpg
+        description: "“<cite>Time</cite> correspondent Simon Shuster delivers the definitive account of the Russian invasion of Ukraine, written and reported from inside the presidential compound in Kyiv, based on Shuster's unparalleled access to President Zelensky and his top aides.”"
+        genre: [war, history, biography]
+        completed: Next
+
       - title: "Blood in the Machine: The Origins of the Rebellion Against Big Tech"
         author: Brian Merchant
         link: https://www.hachettebookgroup.com/titles/brian-merchant/blood-in-the-machine/9780316487740/?lens=little-brown
