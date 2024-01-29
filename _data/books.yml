@@ -3,12 +3,21 @@ list:
   - year: 2024
     books:
 
+      - title: "Sacred Economics: Money, Gift, and Society in the Age of Transition"
+        author: Charles Eisenstein
+        link: https://www.penguinrandomhouse.com/books/659305/sacred-economics-revised-by-charles-eisenstein/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320565838i/11289729.jpg
+        description: "“<cite>Sacred Economics</cite> traces the history of money from ancient gift economies to modern capitalism, revealing how the money system has contributed to alienation, competition, and scarcity, destroyed community, and necessitated endless growth. Today, these trends have reached their extreme—but in the wake of their collapse, we may find great opportunity to transition to a more connected, ecological, and sustainable way of being.”"
+        genre: [economics, society]
+        completed: Next
+
       - title: "The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky"
         author: Simon Shuster
         link: https://www.harpercollins.com/products/the-showman-simon-shuster?variant=41083800682530
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696861798i/63365317.jpg
         description: "“<cite>Time</cite> correspondent Simon Shuster delivers the definitive account of the Russian invasion of Ukraine, written and reported from inside the presidential compound in Kyiv, based on Shuster's unparalleled access to President Zelensky and his top aides.”"
         genre: [war, history, biography]
+        format: audiobook
         completed: Next
 
       - title: "Blood in the Machine: The Origins of the Rebellion Against Big Tech"
@@ -83,7 +92,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586236618i/50695386.jpg
         description: "“Navigation skills are deeply embedded in our biology. The ability to find our way over large distances in prehistoric times gave <cite>Homo sapiens</cite> an advantage, allowing us to explore the farthest regions of the planet. Wayfinding also shaped vital cognitive functions outside the realm of navigation, including abstract thinking, imagination, and memory. Bond brings a reporter's curiosity and nose for narrative to the latest research from psychologists, neuroscientists, animal behaviorists, and anthropologists. He also turns to the people who design and expertly maneuver the world we navigate: search-and-rescue volunteers, cartographers, ordnance mappers, urban planners, and more. The result is a global expedition that furthers our understanding of human orienting in the natural and built environments.”"
         genre: [navigation]
-        completed: In progress
+        completed: 2024-01-28
+        rating: 4
 
       - title: "Walt Longmire #12: An Obvious Fact"
         author: Craig Johnson
