@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "A Tactical Guide to Science Journalism: Lessons From the Front Lines"
+        author: Deborah Blum (Editor), Ashley Smart (Editor), Tom Zeller Jr. (Editor)
+        link: https://academic.oup.com/book/44157
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647803536i/59942460.jpg
+        description: "“<cite>A Tactical Guide to Science Journalism</cite> brings together award-winning journalists from around the world to share fascinating tales of science and how it works and to provide guidance into reporting specialties like infectious disease, climate change, astronomy, public health, physics, and statistics. From practical advice on finding sources and distilling complex research subjects for a general audience, to tips on how to cover science in authoritarian regimes, the book serves as an essential survey of the best in science reporting today—and a testament to the importance of independent journalistic inquiry in understanding research and building trust with audiences.”"
+        genre: [journalism, science]
+        completed: Next
+
       - title: "Sacred Economics: Money, Gift, and Society in the Age of Transition"
         author: Charles Eisenstein
         link: https://www.penguinrandomhouse.com/books/659305/sacred-economics-revised-by-charles-eisenstein/
