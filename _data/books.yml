@@ -18,7 +18,7 @@ list:
         description: "“<cite>Time</cite> correspondent Simon Shuster delivers the definitive account of the Russian invasion of Ukraine, written and reported from inside the presidential compound in Kyiv, based on Shuster's unparalleled access to President Zelensky and his top aides.”"
         genre: [war, history, biography]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Blood in the Machine: The Origins of the Rebellion Against Big Tech"
         author: Brian Merchant
@@ -26,7 +26,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1639949844i/59801798.jpg
         description: "“The most urgent story in modern tech begins not in Silicon Valley but two hundred years ago in rural England, when workers known as the Luddites rose up rather than starve at the hands of factory owners who were using automated machines to erase their livelihoods. The Luddites organized guerrilla raids to smash those machines—on punishment of death—and won the support of Lord Byron, enraged the Prince Regent, and inspired the birth of science fiction. This all-but-forgotten class struggle brought nineteenth-century England to its knees. Today, technology imperils millions of jobs, robots are crowding factory floors, and artificial intelligence will soon pervade every aspect of our economy. How will this change the way we live? And what can we do about it?”"
         genre: [technology]
-        completed: In progress
+        completed: 2024-01-30
+        rating: 5
 
       - title: "Walt Longmire #14: Depth of Winter"
         author: Craig Johnson
