@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Walt Longmire #15: Land of Wolves"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/43794719-land-of-wolves
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1559252937i/43794719.jpg
+        description: "“Attempting to recover from his harrowing experiences in Mexico, in <cite>Land of Wolves</cite> Wyoming Sheriff Walt Longmire is neck deep in the investigation of what could or could not be the suicidal hanging of a shepherd. With unsettling connections to a Basque family with a reputation for removing the legs of Absaroka County sheriffs, matters become even more complicated with the appearance of an oversize wolf in the Big Horn Mountains to which Walt finds himself feeling more and more empathetic.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "A Tactical Guide to Science Journalism: Lessons From the Front Lines"
         author: Deborah Blum (Editor), Ashley Smart (Editor), Tom Zeller Jr. (Editor)
         link: https://academic.oup.com/book/44157
