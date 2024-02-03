@@ -26,7 +26,8 @@ list:
         description: "“<cite>Time</cite> correspondent Simon Shuster delivers the definitive account of the Russian invasion of Ukraine, written and reported from inside the presidential compound in Kyiv, based on Shuster's unparalleled access to President Zelensky and his top aides.”"
         genre: [war, history, biography]
         format: audiobook
-        completed: In progress
+        completed: 2024-02-03
+        rating: 4
 
       - title: "Blood in the Machine: The Origins of the Rebellion Against Big Tech"
         author: Brian Merchant
