@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Commanding Hope: The Power We Have to Renew a World in Peril"
+        author: Thomas Homer-Dixon
+        link: https://commandinghope.com/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1585143009i/52539158.jpg
+        description: "“Frightening pandemics, terrible inequality, racism and poverty, rising political authoritarianism, the inescapable climate crisis, and the resuscitated danger of nuclear war. We know the story. Some choose not to see it. Each of these crises seems so much larger than any one of us can understand or handle. Calling on history, cutting-edge research, complexity science and even <cite>The Lord of the Rings</cite>, Thomas Homer-Dixon lays out the tools we can command to rescue a world on the brink.”"
+        genre: [society, politics, climate]
+        format: audiobook
+        completed: Next
+
       - title: "Walt Longmire #15: Land of Wolves"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/43794719-land-of-wolves
