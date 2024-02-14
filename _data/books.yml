@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "War and Punishment: Putin, Zelensky, and the Path to Russia's Invasion of Ukraine"
+        author: Mikhail Zygar
+        link: https://www.simonandschuster.com/books/War-and-Punishment/Mikhail-Zygar/9781668013724
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683472277i/63923934.jpg
+        description: "“As soon as the Russian invasion of Ukraine began, prominent independent Russian journalist Mikhail Zygar circulated a Facebook petition signed first by hundreds of his cultural and journalistic contacts and then by thousands of others. That act led to a new law in Russia criminalizing criticism of the war, and Zygar fled Russia. In his time as a journalist, Zygar has interviewed President Zelensky and had access to many of the major players—from politicians to oligarchs. As an expert on Putin’s moods and behavior, he has spent years studying the Kremlin’s plan regarding Ukraine, and here, in clear, chronological order he explains how we got here.”"
+        genre: [history]
+        format: audiobook
+        completed: In progress
+
       - title: "Into the Heart of Romans: A Deep Dive into Paul's Greatest Letter"
         author: N.T. Wright
         link: https://www.goodreads.com/book/show/98200493-into-the-heart-of-romans
