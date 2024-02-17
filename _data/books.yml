@@ -3,6 +3,22 @@ list:
   - year: 2024
     books:
 
+      - title: "Writings of the Luddites"
+        author: Kevin Binfield (Editor)
+        link: https://www.press.jhu.edu/books/title/3144/writings-luddites
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348462444i/2763322.jpg
+        description: "“An invaluable collection of texts written between 1811 and 1816 by members of the Luddite movement and their sympathizers. Named for their probably mythical leader, Ned Ludd, the Luddites were a group of social agitators in nineteenth-century Britain who tried to prevent the mechanization of cloth factories, which they blamed for increased unemployment, poverty, and hunger in industrial centers. Though famous for their often violent protests, the Luddites also engaged in literary resistance in the form of poems, proclamations, petitions, songs, and letters.”"
+        genre: [history]
+        completed: Next
+
+      - title: "Oregon Search & Rescue: Answering the Call"
+        author: Glenn Voelz
+        link: https://glennvoelz.com/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697678117i/138361427.jpg
+        description: "“Oregon's long tradition of volunteer search and rescue dates back to the territorial days, when Good Samaritans and mountain men came to aid those in need. On the coast, surfmen of the U.S. Life-Saving Service protected mariners traversing the ‘Graveyard of the Pacific.’ In the early twentieth century, outdoor clubs like the Mazamas, the Skyliners and the Obsidians served as informal search and rescue units, keeping Oregonians safe in the mountains, rivers and wilderness areas. After World War II, Oregon's volunteer teams began to professionalize and became some of the most effective units in the country. Join author Glenn Voelz as he recounts the history of Oregon search and rescue.”"
+        genre: [SAR]
+        completed: Next
+
       - title: "War and Punishment: Putin, Zelensky, and the Path to Russia's Invasion of Ukraine"
         author: Mikhail Zygar
         link: https://www.simonandschuster.com/books/War-and-Punishment/Mikhail-Zygar/9781668013724
@@ -11,15 +27,6 @@ list:
         genre: [history]
         format: audiobook
         completed: In progress
-
-      - title: "Into the Heart of Romans: A Deep Dive into Paul's Greatest Letter"
-        author: N.T. Wright
-        link: https://www.goodreads.com/book/show/98200493-into-the-heart-of-romans
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1688577772i/98200493.jpg
-        description: "“An in-depth study of Romans from today's foremost interpreter of Paul. Romans is often and for good reason considered a crux of Christian thought and theology, the greatest of Paul's letters. And within Romans, chapter 8 is one of the most spectacular pieces of early Christian writing. But to many readers, Romans can be a deceptively difficult book. Its scope and basic meaning may be clear, but it can be hard to see how it all fits together into a cohesive, if complex, doctrinal argument. N.T. Wright—widely regarded as the most influential commentator and interpreter of Paul—deftly unpacks this dense and sometimes elusive letter, detailing Paul's arguments and showing how it illuminates the Gospel from the promises to Abraham through the visions of Revelation.”"
-        genre: [religion]
-        format: audiobook
-        completed: Next
 
       - title: "Commanding Hope: The Power We Have to Renew a World in Peril"
         author: Thomas Homer-Dixon
