@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Technofeudalism: What Killed Capitalism"
+        author: Yanis Varoufakis
+        link: https://www.penguinrandomhouse.com/books/751443/technofeudalism-by-yanis-varoufakis/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684846614i/75560036.jpg
+        description: "“Perhaps we were too distracted by the pandemic, or the endless financial crises, or the rise of TikTok. But under cover of them all, a new and more exploitative system has been taking hold. Insane sums of money that were supposed to re-float our economies after the crash of 2008 went to big tech instead. With it they funded the construction of their private cloud fiefdoms and privatized the internet.”"
+        genre: [history, economics, technology, politics]
+        format: audiobook
+        completed: Next
+
       - title: "Writings of the Luddites"
         author: Kevin Binfield (Editor)
         link: https://www.press.jhu.edu/books/title/3144/writings-luddites
@@ -26,7 +35,8 @@ list:
         description: "“As soon as the Russian invasion of Ukraine began, prominent independent Russian journalist Mikhail Zygar circulated a Facebook petition signed first by hundreds of his cultural and journalistic contacts and then by thousands of others. That act led to a new law in Russia criminalizing criticism of the war, and Zygar fled Russia. In his time as a journalist, Zygar has interviewed President Zelensky and had access to many of the major players—from politicians to oligarchs. As an expert on Putin’s moods and behavior, he has spent years studying the Kremlin’s plan regarding Ukraine, and here, in clear, chronological order he explains how we got here.”"
         genre: [history]
         format: audiobook
-        completed: In progress
+        completed: 2024-02-18
+        rating: 4
 
       - title: "Commanding Hope: The Power We Have to Renew a World in Peril"
         author: Thomas Homer-Dixon
