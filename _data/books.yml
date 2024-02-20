@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster"
+        author: Rebecca Solnit
+        link: https://en.wikipedia.org/wiki/A_Paradise_Built_in_Hell
+        image: https://upload.wikimedia.org/wikipedia/en/6/6f/A_Paradise_Built_in_Hell_cover.jpeg
+        description: "The most startling thing about disasters, according to award-winning author Rebecca Solnit, is not merely that so many people rise to the occasion, but that they do so with joy. That joy reveals an ordinarily unmet yearning for community, purposefulness, and meaningful work that disaster often provides. <cite>A Paradise Built in Hell</cite> is an investigation of the moments of altruism, resourcefulness, and generosity that arise amid disaster’s grief and disruption and considers their implications for everyday life. It points to a new vision of what society could become-one that is less authoritarian and fearful, more collaborative and local.”"
+        genre: [history, psychology]
+        format: audiobook
+        completed: Next
+
       - title: "Technofeudalism: What Killed Capitalism"
         author: Yanis Varoufakis
         link: https://www.penguinrandomhouse.com/books/751443/technofeudalism-by-yanis-varoufakis/
@@ -66,14 +75,6 @@ list:
         description: "“<cite>A Tactical Guide to Science Journalism</cite> brings together award-winning journalists from around the world to share fascinating tales of science and how it works and to provide guidance into reporting specialties like infectious disease, climate change, astronomy, public health, physics, and statistics. From practical advice on finding sources and distilling complex research subjects for a general audience, to tips on how to cover science in authoritarian regimes, the book serves as an essential survey of the best in science reporting today—and a testament to the importance of independent journalistic inquiry in understanding research and building trust with audiences.”"
         genre: [journalism, science]
         completed: In progress
-
-      - title: "Sacred Economics: Money, Gift, and Society in the Age of Transition"
-        author: Charles Eisenstein
-        link: https://www.penguinrandomhouse.com/books/659305/sacred-economics-revised-by-charles-eisenstein/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1320565838i/11289729.jpg
-        description: "“<cite>Sacred Economics</cite> traces the history of money from ancient gift economies to modern capitalism, revealing how the money system has contributed to alienation, competition, and scarcity, destroyed community, and necessitated endless growth. Today, these trends have reached their extreme—but in the wake of their collapse, we may find great opportunity to transition to a more connected, ecological, and sustainable way of being.”"
-        genre: [economics, society]
-        completed: Next
 
       - title: "The Showman: Inside the Invasion That Shook the World and Made a Leader of Volodymyr Zelensky"
         author: Simon Shuster
