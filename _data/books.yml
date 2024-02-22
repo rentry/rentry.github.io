@@ -3,12 +3,12 @@ list:
   - year: 2024
     books:
 
-      - title: "A Paradise Built in Hell: The Extraordinary Communities That Arise in Disaster"
-        author: Rebecca Solnit
-        link: https://en.wikipedia.org/wiki/A_Paradise_Built_in_Hell
-        image: https://upload.wikimedia.org/wikipedia/en/6/6f/A_Paradise_Built_in_Hell_cover.jpeg
-        description: "The most startling thing about disasters, according to award-winning author Rebecca Solnit, is not merely that so many people rise to the occasion, but that they do so with joy. That joy reveals an ordinarily unmet yearning for community, purposefulness, and meaningful work that disaster often provides. <cite>A Paradise Built in Hell</cite> is an investigation of the moments of altruism, resourcefulness, and generosity that arise amid disaster’s grief and disruption and considers their implications for everyday life. It points to a new vision of what society could become-one that is less authoritarian and fearful, more collaborative and local.”"
-        genre: [history, psychology]
+      - title: "Walt Longmire #16: Next to Last Stand"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/51213213-next-to-last-stand
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1598182137i/51213213.jpg
+        description: "“One of the most viewed paintings in American history, Custer's Last Fight, copied and distributed by Anheuser-Busch at a rate of over two million copies a year, was destroyed in a fire at the 7th Cavalry Headquarters in Fort Bliss, Texas, in 1946. Or was it? When Charley Lee Stillwater dies of an apparent heart attack at the Wyoming Home for Soldiers & Sailors, Walt Longmire is called in to try and make sense of a piece of a painting and a Florsheim shoebox containing a million dollars, sending the good sheriff on the trail of a dangerous art heist.”"
+        genre: [fiction]
         format: audiobook
         completed: Next
 
