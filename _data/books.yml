@@ -19,6 +19,7 @@ list:
         description: "“One of the most viewed paintings in American history, Custer's Last Fight, copied and distributed by Anheuser-Busch at a rate of over two million copies a year, was destroyed in a fire at the 7th Cavalry Headquarters in Fort Bliss, Texas, in 1946. Or was it? When Charley Lee Stillwater dies of an apparent heart attack at the Wyoming Home for Soldiers & Sailors, Walt Longmire is called in to try and make sense of a piece of a painting and a Florsheim shoebox containing a million dollars, sending the good sheriff on the trail of a dangerous art heist.”"
         genre: [fiction]
         format: audiobook
+        rating: 3
         completed: 2024-02-24
 
       - title: "Technofeudalism: What Killed Capitalism"
