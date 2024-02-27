@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "White Rural Rage: The Threat to American Democracy"
+        author: Tom Schaller and Paul Waldman
+        link: https://www.penguinrandomhouse.com/books/734507/white-rural-rage-by-tom-schaller-and-paul-waldman/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1702394559i/199344862.jpg
+        description: "“A searing portrait and damning takedown of America’s proudest citizens — who are also the least likely to defend its core principles. White rural voters hold the greatest electoral sway of any demographic group in the United States, yet rural communities suffer from poor healthcare access, failing infrastructure, and severe manufacturing and farming job losses. Rural voters believe our nation has betrayed them, and to some degree, they’re right. In White Rural Rage, Tom Schaller and Paul Waldman explore why rural Whites have failed to reap the benefits from their outsize political power and why, as a result, they are the most likely group to abandon democratic norms and traditions. Their rage—stoked daily by Republican politicians and the conservative media—now poses an existential threat to the United States.”"
+        genre: [politics, society]
+        format: audiobook
+        completed: Next
+
       - title: "Writings of the Luddites"
         author: Kevin Binfield (Editor)
         link: https://www.press.jhu.edu/books/title/3144/writings-luddites
