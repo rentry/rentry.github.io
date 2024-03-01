@@ -4,7 +4,7 @@ list:
     books:
 
       - title: "The Three-Body Problem"
-        author: Liu Cixin
+        author: Liu Cixin, translated by Ken Liu
         link: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg
         description: "“Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion.”"
