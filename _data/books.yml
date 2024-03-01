@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "The Three-Body Problem"
+        author: Liu Cixin
+        link: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg
+        description: "“Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion.”"
+        genre: [fiction]
+        completed: Next
+
       - title: "White Rural Rage: The Threat to American Democracy"
         author: Tom Schaller and Paul Waldman
         link: https://www.penguinrandomhouse.com/books/734507/white-rural-rage-by-tom-schaller-and-paul-waldman/
