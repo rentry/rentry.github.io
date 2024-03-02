@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Writings of the Luddites"
+        author: Kevin Binfield (Editor)
+        link: https://www.press.jhu.edu/books/title/3144/writings-luddites
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348462444i/2763322.jpg
+        description: "“An invaluable collection of texts written between 1811 and 1816 by members of the Luddite movement and their sympathizers. Named for their probably mythical leader, Ned Ludd, the Luddites were a group of social agitators in nineteenth-century Britain who tried to prevent the mechanization of cloth factories, which they blamed for increased unemployment, poverty, and hunger in industrial centers. Though famous for their often violent protests, the Luddites also engaged in literary resistance in the form of poems, proclamations, petitions, songs, and letters.”"
+        genre: [history]
+        completed: Next    
+
       - title: "The Three-Body Problem"
         author: Liu Cixin, translated by Ken Liu
         link: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
@@ -21,21 +29,14 @@ list:
         rating: 5
         completed: 2024-02-28
 
-      - title: "Writings of the Luddites"
-        author: Kevin Binfield (Editor)
-        link: https://www.press.jhu.edu/books/title/3144/writings-luddites
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348462444i/2763322.jpg
-        description: "“An invaluable collection of texts written between 1811 and 1816 by members of the Luddite movement and their sympathizers. Named for their probably mythical leader, Ned Ludd, the Luddites were a group of social agitators in nineteenth-century Britain who tried to prevent the mechanization of cloth factories, which they blamed for increased unemployment, poverty, and hunger in industrial centers. Though famous for their often violent protests, the Luddites also engaged in literary resistance in the form of poems, proclamations, petitions, songs, and letters.”"
-        genre: [history]
-        completed: Next
-
       - title: "Oregon Search & Rescue: Answering the Call"
         author: Glenn Voelz
         link: https://glennvoelz.com/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697678117i/138361427.jpg
         description: "“Oregon's long tradition of volunteer search and rescue dates back to the territorial days, when Good Samaritans and mountain men came to aid those in need. On the coast, surfmen of the U.S. Life-Saving Service protected mariners traversing the ‘Graveyard of the Pacific.’ In the early twentieth century, outdoor clubs like the Mazamas, the Skyliners and the Obsidians served as informal search and rescue units, keeping Oregonians safe in the mountains, rivers and wilderness areas. After World War II, Oregon's volunteer teams began to professionalize and became some of the most effective units in the country. Join author Glenn Voelz as he recounts the history of Oregon search and rescue.”"
         genre: [SAR]
-        completed: In progress
+        rating: 4
+        completed: 2024-03-02
         
       - title: "Walt Longmire #17: Daughter of the Morning Star"
         author: Craig Johnson
