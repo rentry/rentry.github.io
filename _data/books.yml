@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "All Over the Map: A Cartographic Odyssey"
+        author: Betsy Mason, Greg Miller
+        link: https://www.betsymason.com/book
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523481341i/38395377.jpg
+        description: "“Created for map lovers by map lovers, this rich book explores the intriguing stories behind maps across history and illuminates how the art of cartography thrives today. In this visually stunning book, award-winning journalists Betsy Mason and Greg Miller—authors of the National Geographic cartography blog ‘All Over the Map’—explore the intriguing stories behind maps from a wide variety of cultures, civilizations, and time periods. Based on interviews with scores of leading cartographers, curators, historians, and scholars, this is a remarkable selection of fascinating and unusual maps.”"
+        genre: [geography]
+        completed: Next  
+
       - title: "Writings of the Luddites"
         author: Kevin Binfield (Editor)
         link: https://www.press.jhu.edu/books/title/3144/writings-luddites
