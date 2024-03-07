@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "The Fellowship of the Ring"
+        author: J.R.R. Tolkien, narrated by Andy Serkis
+        link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
+        image: https://covers.audiobooks.com/images/covers/full/9781705047576.jpg
+        description: "I'm between library holds, so revisiting LotR (which I do every year, even if I don't always record in this list)."
+        genre: [fantasy, fiction]
+        format: audiobook
+        completed: In progress   
+
       - title: "Walt Longmire #18: Hell and Back"
         author: Craig Johnson
         link: https://goodreads.com/book/show/59937682-hell-and-back
