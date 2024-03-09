@@ -21,6 +21,18 @@ For example, in a recent team meeting, my boss introduced the idea of "working o
 
 And that seems to be where we're at...a solution absent a problem. Furthermore, artificial intelligence and machine learning models are trained on _existing_ content and patterns. Frankly, we haven't collectively built equitable, socially conscious, plain-language content and services up until this point, so why would we think AI will do better, if we understand the technology sufficiently to know that it's trained on our existing bullshit?
 
+### Beyond absurd
+
+Most technological innovations these days seem to be some version of the laughably absurd phenomenon of NFT (non-fungible tokens). NFTs are the epitome of what Marx referred to as exchange value over use value; that is, manufactured "value" devoid of any real-world purpose.
+
+But it's not just NFTs and other crypto-derived nonsense; it's also everyday technological upgrades with no real value or purpose.
+
+Take the [article from <cite>The Atlantic</cite>](https://www.theatlantic.com/technology/archive/2024/02/4k-tv-resolution-lie/677586/) which (rightly) points out that 4K TV resolution is a complete sham. As pointed out in the article:
+
+> According to the many TV-size-to-distance calculators available online, when you’re sitting on a couch a dozen feet from your television, a 65-inch screen will look the same whether it’s HD or 4K. The latter has more pixels, but your eyes won’t pick them up. You’ll never know the difference. For the picture to look much better—for you to “see” the benefits of modern ultra-high resolution—you’d need to upgrade to a preposterously large screen, more than 100 inches in diagonal.
+
+_Your eyes can't even resolve the added detail of 4K._ So again, what are we doing?
+
 ### Simple, analog, reliable
 
 I suppose I have been a Luddite for quite awhile, to be honest. I've never hailed an Uber (literally never had the app on my phone, which is probably good, since they [kept tracking your data _even if you deleted the app_](https://www.teenvogue.com/story/uber-broke-app-store-policies-deleted-apps)). Uber, like many tech companies, just insisted on being socially sketchy and destructive by [bypassing regulations, perhaps most notably here in the Portland](https://www.opb.org/news/article/portland-oregon-investigation-uber-greyball/).
