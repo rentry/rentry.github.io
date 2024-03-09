@@ -10,6 +10,10 @@ tags: [photography, Montana, gear]
 
 I'm not sure why, but I have recently been obsessed with the history of the World War II jeep. Perhaps it's because I've been watching [<cite>Masters of the Air</cite>](https://en.wikipedia.org/wiki/Masters_of_the_Air), or perhaps because I have an unfortunate [obsession with trucks in general]({{ '/joining-search-and-rescue-part-3/' | relative_url }}).
 
+![Olive drab vehicle with Ft Stevens on the bumper and a building behind]({{ '/assets/images/insta/a26eff1a66ac6d15f65cb31ff2abeab0.jpg' | relative_url }}#full)
+
+<figcaption>A World War II "jeep" at Fort Stevens State Park in Oregon</figcaption>
+
 I won't go into the drama of the three companies involved (Bantam, Willys, Ford...spoiler, Bantam–which no longer exists–was the best), and how the WW2 jeep came to be, but it is a _fascinating_ story of a simple little truck that had an outsized influence on the outcome of history's most famous war.[^1]
 
 ![Two photos in one, with the left showing a tag that reads Army shirt gov't issued, and tailored exclusively, and the right side showing a patch with the number 15 and wings extending from a white star with a red circle in the middle]({{ '/assets/images/insta/bef57cfa51adb99e18592f5f68b468c2.jpg' | relative_url }}#float)
@@ -49,9 +53,6 @@ There are, indeed, more stories to tell about this particular trip, but I think 
 ![Catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-1.jpg' | relative_url }})
 
 ![Back of catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-2.jpg' | relative_url }})
-
-
-
 
 
 [^1]: [Henry Ford's legacy is honestly...not great](https://www.history.com/news/henry-ford-antisemitism-worker-treatment), so there's that.
