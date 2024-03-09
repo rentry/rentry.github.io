@@ -24,7 +24,7 @@ As it turns out, I—like many of my advancing age—had a grandfather whose ser
 
 ## My shitty Jeep
 
-After I moved from Montana back to Oregon, I drove a Jeep Wrangler YJ, and frankly, it was the least reliable vehicle I've ever owned (to be fair, made the trek between the two states multiple times...but the engine also literally just stopped running at random times—including in midtraffic—and wouldn't restart).
+After I moved from Montana back to Oregon, I drove a Jeep Wrangler YJ, and frankly, it was the least reliable vehicle I've ever owned (to be fair, it did make the trek between the two states multiple times...but the engine also literally just stopped running at random times—including in midtraffic—and wouldn't restart).
 
 I can attest that it was an unbelievably fun vehicle to drive, and I still miss the joy to this day.
 
