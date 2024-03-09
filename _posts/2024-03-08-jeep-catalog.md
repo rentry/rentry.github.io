@@ -46,7 +46,7 @@ At the time, I was working at a mountain store that was the gateway for adventur
 
 And that's how, in 2015, my tripod, along with my trail guidance, led to the cover photo for the 2016 Jeep catalog...
 
-The summer of 2015 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts it, but that's for some other time.
+The summer of 2015 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts some of them, but those are for some other time (or a smaller audience).
 
 There are, indeed, more stories to tell about this particular trip, but I think I'll keep them to myself. I do hope that the team found their true base camp with one another, nearly 20 years later.
 
