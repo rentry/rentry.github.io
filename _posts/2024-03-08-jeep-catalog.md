@@ -48,11 +48,10 @@ And that's how, in 2015, my tripod, along with my trail guidance, led to the cov
 
 The summer of 2015 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts it, but that's for some other time.
 
-There are, indeed, more stories to tell about this particular trip, but I think I'll keep them to myself. I do hope that that the team found their true base camp with one another, nearly 20 years later.
+There are, indeed, more stories to tell about this particular trip, but I think I'll keep them to myself. I do hope that the team found their true base camp with one another, nearly 20 years later.
 
 ![Catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-1.jpg' | relative_url }})
 
 ![Back of catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-2.jpg' | relative_url }})
-
 
 [^1]: [Henry Ford's legacy is honestly...not great](https://www.history.com/news/henry-ford-antisemitism-worker-treatment), so there's that.
