@@ -54,4 +54,4 @@ There are, indeed, more stories to tell about this particular trip, but I think 
 
 ![Back of catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-2.jpg' | relative_url }})
 
-[^1]: [Henry Ford's legacy is honestly...not great](https://www.history.com/news/henry-ford-antisemitism-worker-treatment), so there's that.
+[^1]: [Henry Ford's legacy is honestly...not great](https://www.theatlantic.com/ideas/archive/2023/11/henry-ford-anti-semitism/675911/), so there's that.
