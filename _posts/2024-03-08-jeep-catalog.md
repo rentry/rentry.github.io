@@ -14,11 +14,11 @@ I'm not sure why, but I have recently been obsessed with the history of the Worl
 
 <figcaption>A World War II "jeep" at Fort Stevens State Park in Oregon</figcaption>
 
-I won't go into the drama of the three companies involved (Bantam, Willys, Ford...spoiler, Bantam–which no longer exists–was the best), and how the WW2 jeep came to be, but it is a _fascinating_ story of a simple little truck that had an outsized influence on the outcome of history's most famous war.[^1]
+I won't go into the drama of the three companies involved (Bantam, Willys, Ford...but spoiler, Bantam–which no longer exists–was the best, whose prototypes were made public domain), and how the WW2 jeep came to be, but it is a _fascinating_ story of a simple little truck that had an outsized influence on the outcome of history's most notorious war.[^1]
 
 ![Two photos in one, with the left showing a tag that reads Army shirt gov't issued, and tailored exclusively, and the right side showing a patch with the number 15 and wings extending from a white star with a red circle in the middle]({{ '/assets/images/insta/bef57cfa51adb99e18592f5f68b468c2.jpg' | relative_url }}#float)
 
-As it turns out, I, like many my age, had a grandfather whose service in the Army Air Corps united an entire country around a common cause. It stands as a solidarity that seems impossibly antiquated now, but I still have my grandfather's wool shirts to remind me of their sacrifice, along with our once vibrant cooperative unity.
+As it turns out, I—like many of my advancing age—had a grandfather whose service in the Army Air Corps united an entire country around a common cause. That commitment still stands as an emblem of solidarity that seems impossibly antiquated now, but I have in safe keeping my grandfather's wool shirts (with accompanying patches) to remind me of said solidarity and sacrifice. Once upon a time.
 
 ![Two books, one out of focus vaguely with the title Wartime Jeeps, and the in-focus book in green also with the title Wartime Jeeps and WW2 jeeps also visible with a vehicle, the jeep, below in olive drab paint]({{ 'assets/images/2024-jeep-catalog-4.jpg' | relative_url }})
 
