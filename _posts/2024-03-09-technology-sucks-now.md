@@ -13,7 +13,7 @@ Not to get too tin-foil-hat about it, but we've entered a period in which techno
 
 I don't really have time to, nor do I want to, recount all of the ways in which technology truly sucks now. We should all, at this point, be familiar with [surveillance capitalism](https://en.wikipedia.org/wiki/Surveillance_capitalism), the [unconscionable environmental impacts of technology](https://www.theatlantic.com/technology/archive/2024/03/ai-water-climate-microsoft/677602/) when we can least afford it, the [despotic inclinations of tech "leaders"](https://www.theatlantic.com/podcasts/archive/2024/02/despots-silicon-valley/677386/), the [techno-capitalist comfort with teen suicide](https://www.forbes.com/sites/zakdoffman/2019/01/27/instagram-implicated-in-teen-suicides-just-as-facebook-bets-its-future-on-the-platform/?sh=1d4b058d5a80), and so much more. What are we doing?
 
-## I'm a Luddite now
+## I'm a Luddite (finally leaning into it)
 
 Most of my time at work now is spent _resisting_ technology fixes, rather than embracing them.
 
