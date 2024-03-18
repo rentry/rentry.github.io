@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Remembrance of Earth's Past #2: The Dark Forest"
+        author: Liu Cixin, translated by Joel Martinsen
+        link: https://en.wikipedia.org/wiki/The_Dark_Forest
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1670967318i/66562105.jpg
+        description: "“Imagine the universe as a forest, patrolled by numberless and nameless predators. In this forest, stealth is survival – any civilisation that reveals its location is prey. Earth has. Now the predators are coming. Crossing light years, the Trisolarians will reach Earth in four centuries' time. But the sophons, their extra-dimensional agents and saboteurs, are already here. Only the individual human mind remains immune to their influence.”"
+        genre: [fiction]
+        completed: Next
+
       - title: "The Women"
         author: Kristin Hannah
         link: https://kristinhannah.com/books/the-women/
@@ -39,7 +47,7 @@ list:
         genre: [history]
         completed: In progress 
 
-      - title: "The Three-Body Problem"
+      - title: "Remembrance of Earth's Past #1: The Three-Body Problem"
         author: Liu Cixin, translated by Ken Liu
         link: https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg
