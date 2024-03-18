@@ -28,7 +28,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1523481341i/38395377.jpg
         description: "“Created for map lovers by map lovers, this rich book explores the intriguing stories behind maps across history and illuminates how the art of cartography thrives today. In this visually stunning book, award-winning journalists Betsy Mason and Greg Miller—authors of the National Geographic cartography blog ‘All Over the Map’—explore the intriguing stories behind maps from a wide variety of cultures, civilizations, and time periods. Based on interviews with scores of leading cartographers, curators, historians, and scholars, this is a remarkable selection of fascinating and unusual maps.”"
         genre: [geography]
-        completed: In progress 
+        rating: 4
+        completed: 2024-03-17 
 
       - title: "Writings of the Luddites"
         author: Kevin Binfield (Editor)
@@ -36,7 +37,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348462444i/2763322.jpg
         description: "“An invaluable collection of texts written between 1811 and 1816 by members of the Luddite movement and their sympathizers. Named for their probably mythical leader, Ned Ludd, the Luddites were a group of social agitators in nineteenth-century Britain who tried to prevent the mechanization of cloth factories, which they blamed for increased unemployment, poverty, and hunger in industrial centers. Though famous for their often violent protests, the Luddites also engaged in literary resistance in the form of poems, proclamations, petitions, songs, and letters.”"
         genre: [history]
-        completed: Next    
+        completed: In progress 
 
       - title: "The Three-Body Problem"
         author: Liu Cixin, translated by Ken Liu
@@ -44,7 +45,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415428227i/20518872.jpg
         description: "“Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion.”"
         genre: [fiction]
-        completed: In progress
+        rating: 5
+        completed: 2024-03-17
 
       - title: "White Rural Rage: The Threat to American Democracy"
         author: Tom Schaller and Paul Waldman
