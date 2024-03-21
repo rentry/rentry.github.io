@@ -18,7 +18,7 @@ I won't go into the drama of the three companies involved (Bantam, Willys, Ford.
 
 ![Two photos in one, with the left showing a tag that reads Army shirt gov't issued, and tailored exclusively, and the right side showing a patch with the number 15 and wings extending from a white star with a red circle in the middle]({{ '/assets/images/insta/bef57cfa51adb99e18592f5f68b468c2.jpg' | relative_url }}#float)
 
-As it turns out, I—like many of my advancing age—had a grandfather whose service in the Army Air Corps united an entire country around a common cause. That commitment still stands as an emblem of solidarity that seems impossibly antiquated now, but I have in safe keeping my grandfather's wool shirts (with accompanying patches) to remind me of said solidarity and sacrifice. Once upon a time.
+As it turns out, I—like many of my advancing age—had a grandfather whose service in the Army Air Corps united an entire country around a common cause. That commitment still stands as an emblem of solidarity that seems impossibly antiquated now, but I have in safe keeping my grandfather's wool shirts (with accompanying patches) to remind me of that solidarity and sacrifice. Once upon a time.
 
 ![Two books, one out of focus vaguely with the title Wartime Jeeps, and the in-focus book in green also with the title Wartime Jeeps and WW2 jeeps also visible with a vehicle, the jeep, below in olive drab paint]({{ 'assets/images/2024-jeep-catalog-4.jpg' | relative_url }})
 
@@ -48,7 +48,7 @@ And that's how, in 2015, my tripod, along with my trail guidance, led to the cov
 
 The summer of 2015 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts some of them, but those are for some other time (or a smaller audience).
 
-There are, indeed, more stories to tell about this particular trip, but I think I'll keep them to myself. I do hope that the team found their true base camp with one another, nearly 20 years later.
+There are stories within stories about this particular Jeep photo shoot, but I think I'll keep those to myself as well. I do hope that the team found their true base camp with one another, nearly 20 years later.
 
 ![Catalog of Jeep 2006 commander, grand cherokee, liberty, wrangler, with a mountain and tree lined river]({{ 'assets/images/2024-jeep-catalog-1.jpg' | relative_url }})
 
