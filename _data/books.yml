@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis"
+        author: Annie Proulx
+        link: https://www.goodreads.com/book/show/59366209-fen-bog-and-swamp
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1661964299i/59366209.jpg
+        description: "“A lifelong acolyte of the natural world, Annie Proulx brings her witness and research to the subject of wetlands and the vitally important role they play in preserving the environment—by storing the carbon emissions that accelerate climate change. Fens, bogs, swamps, and marine estuaries are crucial to the earth’s survival, and in four illuminating parts, Proulx documents their systemic destruction in pursuit of profit.”"
+        genre: [climate]
+        format: audiobook
+        completed: Next
+
       - title: "The Exvangelicals: Loving, Living, and Leaving the White Evangelical Church"
         author: Sarah McCammon
         link: https://us.macmillan.com/books/9781250284488/theexvangelicals
