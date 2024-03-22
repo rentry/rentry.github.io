@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Walt Longmire #19: The Longmire Defense"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/75257626-the-longmire-defense
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674869289i/75257626.jpg
+        description: "“Deep in the heart of the Wyoming countryside, Sheriff of Absaroka County, Walt Longmire, is called to a crime scene like few others that he has seen. This crime brings up issues that go back to Walt's grandfather's time in Wyoming, as the revelations he learns about his grandfather come back to offer clues and motives for Walt's investigation. Filled with back-country action, and with the great cast of characters that readers have come to love with the Longmire series, this new book will be sure to satisfy both long-time readers and those new to the series.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis"
         author: Annie Proulx
         link: https://www.goodreads.com/book/show/59366209-fen-bog-and-swamp
