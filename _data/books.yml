@@ -3,25 +3,6 @@ list:
   - year: 2024
     books:
 
-      - title: "Walt Longmire #9.5: Spirit of Steamboat"
-        author: Craig Johnson
-        link: https://www.goodreads.com/book/show/17674999-spirit-of-steamboat
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372681833i/17674999.jpg
-        description: "“Sheriff Walt Longmire is in his office reading A Christmas Carol when he is interrupted by a ghost of Christmas a young woman with a hairline scar and more than a few questions about his predecessor, Lucian Connally. With his daughter Cady and undersherrif Moretti otherwise engaged, Walt’s on his own this Christmas Eve, so he agrees to help her.”"
-        genre: [fiction]
-        format: audiobook
-        completed: In progress
-
-      - title: "Walt Longmire #19: The Longmire Defense"
-        author: Craig Johnson
-        link: https://www.goodreads.com/book/show/75257626-the-longmire-defense
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674869289i/75257626.jpg
-        description: "“Deep in the heart of the Wyoming countryside, Sheriff of Absaroka County, Walt Longmire, is called to a crime scene like few others that he has seen. This crime brings up issues that go back to Walt's grandfather's time in Wyoming, as the revelations he learns about his grandfather come back to offer clues and motives for Walt's investigation. Filled with back-country action, and with the great cast of characters that readers have come to love with the Longmire series, this new book will be sure to satisfy both long-time readers and those new to the series.”"
-        genre: [fiction]
-        format: audiobook
-        rating: 3
-        completed: 2024-03-23
-
       - title: "Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis"
         author: Annie Proulx
         link: https://www.goodreads.com/book/show/59366209-fen-bog-and-swamp
@@ -47,6 +28,26 @@ list:
         description: "“In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.”"
         genre: [fiction]
         completed: In progress
+
+      - title: "Walt Longmire #9.5: Spirit of Steamboat"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/17674999-spirit-of-steamboat
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372681833i/17674999.jpg
+        description: "“Sheriff Walt Longmire is in his office reading A Christmas Carol when he is interrupted by a ghost of Christmas a young woman with a hairline scar and more than a few questions about his predecessor, Lucian Connally. With his daughter Cady and undersherrif Moretti otherwise engaged, Walt’s on his own this Christmas Eve, so he agrees to help her.”"
+        genre: [fiction]
+        format: audiobook
+        rating: 3
+        completed: 2024-03-27
+
+      - title: "Walt Longmire #19: The Longmire Defense"
+        author: Craig Johnson
+        link: https://www.goodreads.com/book/show/75257626-the-longmire-defense
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1674869289i/75257626.jpg
+        description: "“Deep in the heart of the Wyoming countryside, Sheriff of Absaroka County, Walt Longmire, is called to a crime scene like few others that he has seen. This crime brings up issues that go back to Walt's grandfather's time in Wyoming, as the revelations he learns about his grandfather come back to offer clues and motives for Walt's investigation. Filled with back-country action, and with the great cast of characters that readers have come to love with the Longmire series, this new book will be sure to satisfy both long-time readers and those new to the series.”"
+        genre: [fiction]
+        format: audiobook
+        rating: 3
+        completed: 2024-03-23
 
       - title: "The Women"
         author: Kristin Hannah
