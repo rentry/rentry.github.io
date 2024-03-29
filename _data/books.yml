@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "2020: One City, Seven People, and the Year Everything Changed"
+        author: Eric Klinenberg
+        link: https://www.penguinrandomhouse.com/books/671362/2020-by-eric-klinenberg/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1699578935i/154462772.jpg
+        description: "“For the acclaimed sociologist Eric Klinenberg, “2020” refers to both a pivotal year in world history and the opportunity it created for seeing ourselves more clearly. The Covid-19 pandemic did not distort reality; instead, it revealed and accentuated dividing lines that have long splintered societies around the world, and proved especially destructive in the United States. Against the backdrop of a high-stakes presidential election, a surge of misinformation, rising distrust, and raging protests, 2020 is a piercing account of how the U.S. and other nations handled the extraordinary challenges of that seminal year.”"
+        genre: [society]
+        format: audiobook
+        completed: Next
+
       - title: "Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis"
         author: Annie Proulx
         link: https://www.goodreads.com/book/show/59366209-fen-bog-and-swamp
@@ -10,7 +19,7 @@ list:
         description: "“A lifelong acolyte of the natural world, Annie Proulx brings her witness and research to the subject of wetlands and the vitally important role they play in preserving the environment—by storing the carbon emissions that accelerate climate change. Fens, bogs, swamps, and marine estuaries are crucial to the earth’s survival, and in four illuminating parts, Proulx documents their systemic destruction in pursuit of profit.”"
         genre: [climate]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Exvangelicals: Loving, Living, and Leaving the White Evangelical Church"
         author: Sarah McCammon
@@ -19,7 +28,8 @@ list:
         description: "“The first definitive book that names the massive social movement of people leaving the white evangelical church—the exvangelicals. Growing up in a deeply evangelical family in the Midwest in the ‘80s and ‘90s, Sarah McCammon was strictly taught to fear God, obey him, and not question the faith. Persistently worried that her gay grandfather would go to hell unless she could reach him, or that her Muslim friend would need to be converted, and that she, too, would go to hell if she did not believe fervently enough, McCammon was a rule-follower and—most of the time—a true believer. But through it all, she was increasingly plagued by fears and deep questions as the belief system she'd been carefully taught clashed with her expanding understanding of the outside world.”"
         genre: [religion, society, politics]
         format: audiobook
-        completed: Next
+        rating: 4
+        completed: 2024-03-28
 
       - title: "Remembrance of Earth's Past #2: The Dark Forest"
         author: Liu Cixin, translated by Joel Martinsen
