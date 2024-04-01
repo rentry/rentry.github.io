@@ -17,7 +17,7 @@ With a pending migration to Drupal 8 at the government agency I now work for, it
 
 ## Baltimore
 
-I hadn’t been to Baltimore before. Based on what I heard before I left, I was’t expecting to be impressed. But I enjoyed the city immensely, and I found the people there to be friendly and helpful.
+I hadn’t been to Baltimore before. Based on what I heard before I left, I wasn’t expecting to be impressed. But I enjoyed the city immensely, and I found the people there to be friendly and helpful.
 
 Plus, there’s the stunning [Peabody Library](http://peabodyevents.library.jhu.edu/) next door to the Washington Monument. I can’t say enough about this library; it is a brilliant structure with prodigious historical and literary value. I visited the library, the monument, and the nearby Walters Art Museum on my last afternoon in the city.
 
