@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Arctic Traverse: A Thousand-Mile Summer of Trekking the Brooks Range"
+        author: Michael Engelhard
+        link: https://www.mountaineers.org/books/books/arctic-traverse-a-thousand-mile-summer-of-trekking-the-brooks-range
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1708678112i/208474718.jpg
+        description: "“From the award-winning author of <cite>Ice Bear: The Cultural History of an Arctic Icon</cite> comes an intimate exploration of Alaska’s northernmost mountain range with observations on Indigenous cultures, conservation, and intense cross-country travel, all shaped by respect for the land. A trained anthropologist, Engelhard evokes classic writers like Edward Abbey, Barry Lopez, and Ellen Meloy with profound dives into human and natural history and vivid meditations on Alaskan wildlife, flora, and geology.”"
+        genre: [natural history, memoir, anthropology]
+        format: audiobook
+        completed: In progress
+
       - title: "2020: One City, Seven People, and the Year Everything Changed"
         author: Eric Klinenberg
         link: https://www.penguinrandomhouse.com/books/671362/2020-by-eric-klinenberg/
@@ -10,7 +19,8 @@ list:
         description: "“For the acclaimed sociologist Eric Klinenberg, “2020” refers to both a pivotal year in world history and the opportunity it created for seeing ourselves more clearly. The Covid-19 pandemic did not distort reality; instead, it revealed and accentuated dividing lines that have long splintered societies around the world, and proved especially destructive in the United States. Against the backdrop of a high-stakes presidential election, a surge of misinformation, rising distrust, and raging protests, 2020 is a piercing account of how the U.S. and other nations handled the extraordinary challenges of that seminal year.”"
         genre: [society]
         format: audiobook
-        completed: Next
+        rating: 3
+        completed: 2024-04-06
 
       - title: "Fen, Bog and Swamp: A Short History of Peatland Destruction and Its Role in the Climate Crisis"
         author: Annie Proulx
