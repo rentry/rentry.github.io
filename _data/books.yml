@@ -10,7 +10,16 @@ list:
         description: "“From the award-winning author of <cite>Ice Bear: The Cultural History of an Arctic Icon</cite> comes an intimate exploration of Alaska’s northernmost mountain range with observations on Indigenous cultures, conservation, and intense cross-country travel, all shaped by respect for the land. A trained anthropologist, Engelhard evokes classic writers like Edward Abbey, Barry Lopez, and Ellen Meloy with profound dives into human and natural history and vivid meditations on Alaskan wildlife, flora, and geology.”"
         genre: [natural history, memoir, anthropology]
         format: audiobook
-        completed: In progress
+        completed: Next
+
+      - title: "The Great Alone"
+        author: Kristin Hannah
+        link: https://kristinhannah.com/books/the-great-alone/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1501852423i/34912895.jpg
+        description: "“Ernt Allbright, a former POW, comes home from the Vietnam war a changed and volatile man. When he loses yet another job, he makes an impulsive decision: he will move his family north, to Alaska, where they will live off the grid in America’s last true frontier. Thirteen-year-old Leni, a girl coming of age in a tumultuous time, caught in the riptide of her parents’ passionate, stormy relationship, dares to hope that a new land will lead to a better future for her family. She is desperate for a place to belong. Her mother, Cora, will do anything and go anywhere for the man she loves, even if it means following him into the unknown.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress        
 
       - title: "2020: One City, Seven People, and the Year Everything Changed"
         author: Eric Klinenberg
