@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "The Trackers"
+        author: Charles Frazier
+        link: https://www.goodreads.com/book/show/61609871-the-trackers
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675640849i/61609871.jpg
+        description: "“Hurtling past the downtrodden communities of Depression-era America, painter Val Welch travels westward to the rural town of Dawes, Wyoming. Through a stroke of luck, he's landed a New Deal assignment to create a mural representing the region for their new Post Office. A wealthy art lover named John Long and his wife Eve have agreed to host Val at their sprawling ranch. Rumors and intrigue surround the couple: Eve left behind an itinerant life riding the rails and singing in a western swing band. Long holds shady political aspirations, but was once a WWI sniper--and his right hand is a mysterious elder cowboy, a vestige of the violent old west. Val quickly finds himself entranced by their lives..”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Arctic Traverse: A Thousand-Mile Summer of Trekking the Brooks Range"
         author: Michael Engelhard
         link: https://www.mountaineers.org/books/books/arctic-traverse-a-thousand-mile-summer-of-trekking-the-brooks-range
@@ -10,7 +19,8 @@ list:
         description: "“From the award-winning author of <cite>Ice Bear: The Cultural History of an Arctic Icon</cite> comes an intimate exploration of Alaska’s northernmost mountain range with observations on Indigenous cultures, conservation, and intense cross-country travel, all shaped by respect for the land. A trained anthropologist, Engelhard evokes classic writers like Edward Abbey, Barry Lopez, and Ellen Meloy with profound dives into human and natural history and vivid meditations on Alaskan wildlife, flora, and geology.”"
         genre: [natural history, memoir, anthropology]
         format: audiobook
-        completed: In progress
+        rating: 5
+        completed: 2024-04-13
 
       - title: "The Great Alone"
         author: Kristin Hannah
