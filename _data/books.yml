@@ -3,14 +3,14 @@ list:
   - year: 2024
     books:
 
-      - title: "The Trackers"
-        author: Charles Frazier
-        link: https://www.goodreads.com/book/show/61609871-the-trackers
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1675640849i/61609871.jpg
-        description: "“Hurtling past the downtrodden communities of Depression-era America, painter Val Welch travels westward to the rural town of Dawes, Wyoming. Through a stroke of luck, he's landed a New Deal assignment to create a mural representing the region for their new Post Office. A wealthy art lover named John Long and his wife Eve have agreed to host Val at their sprawling ranch. Rumors and intrigue surround the couple: Eve left behind an itinerant life riding the rails and singing in a western swing band. Long holds shady political aspirations, but was once a WWI sniper--and his right hand is a mysterious elder cowboy, a vestige of the violent old west. Val quickly finds himself entranced by their lives.”"
-        genre: [fiction]
+      - title: "Strongmen: Mussolini to the Present"
+        author: Ruth Ben-Ghiat
+        link: https://www.goodreads.com/book/show/53597796-strongmen
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1591379740i/53597796.jpg
+        description: "“Ours is the age of authoritarian rulers: self-proclaimed saviors of the nation who evade accountability while robbing their people of resources and corroding or destroying democracy. Ruth Ben-Ghiat covers a century of authoritarianism to explain why strongman rulers in Africa, Europe, and Latin America, drawing from a common playbook of machismo, propaganda, violence, and corruption, have found popular support even as they bring ruin to their countries. The fruit of decades of research, <cite>Strongmen</cite> gives readers insight into how such rulers think, who and what they depend on, and how they can be opposed.”"
+        genre: [history]
         format: audiobook
-        completed: In progress
+        completed: Next
 
       - title: "Arctic Traverse: A Thousand-Mile Summer of Trekking the Brooks Range"
         author: Michael Engelhard
