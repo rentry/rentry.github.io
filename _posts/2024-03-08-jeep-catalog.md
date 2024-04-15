@@ -44,9 +44,9 @@ At the time, I was working at a mountain store that was the gateway for adventur
 
 ![A person takes a photo near a river and blocks the sun with their left hand, the person is wearing a black jacket and tan beanie hat; below that, a snow lined mountain landscape with a river running through]({{ 'assets/images/2024-jeep-catalog-3.jpg' | relative_url }}#float)
 
-And that's how, in 2015, my tripod, along with my trail guidance, led to the cover photo for the 2016 Jeep catalog...
+And that's how, in 2005, my tripod, along with my trail guidance, led to the cover photo for the 2006 Jeep catalog...
 
-The summer of 2015 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts some of them, but those are for some other time (or a smaller audience).
+The summer of 2005 in the Beartooth Mountains was full of stories, and I do have a (very old) blog that recounts some of them, but those are for some other time (or a smaller audience).
 
 There are stories within stories about this particular Jeep photo shoot, but I think I'll keep those to myself as well. I do hope that the team found their true base camp with one another, nearly 20 years later.
 
