@@ -10,7 +10,7 @@ list:
         description: "“Two thousand years ago, an itinerant Jewish preacher and miracle worker walked across the Galilee, gathering followers to establish what he called the “Kingdom of God.” The revolutionary movement he launched was so threatening to the established order that he was captured, tortured, and executed as a state criminal. Within decades after his shameful death, his followers would call him God. Sifting through centuries of mythmaking, Reza Aslan sheds new light on one of history’s most influential and enigmatic characters by examining Jesus through the lens of the tumultuous era in which he lived: first-century Palestine, an age awash in apocalyptic fervor.”"
         genre: [history, religion]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Strongmen: Mussolini to the Present"
         author: Ruth Ben-Ghiat
@@ -19,7 +19,8 @@ list:
         description: "“Ours is the age of authoritarian rulers: self-proclaimed saviors of the nation who evade accountability while robbing their people of resources and corroding or destroying democracy. Ruth Ben-Ghiat covers a century of authoritarianism to explain why strongman rulers in Africa, Europe, and Latin America, drawing from a common playbook of machismo, propaganda, violence, and corruption, have found popular support even as they bring ruin to their countries. The fruit of decades of research, <cite>Strongmen</cite> gives readers insight into how such rulers think, who and what they depend on, and how they can be opposed.”"
         genre: [history]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-04-17
 
       - title: "Arctic Traverse: A Thousand-Mile Summer of Trekking the Brooks Range"
         author: Michael Engelhard
