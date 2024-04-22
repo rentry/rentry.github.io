@@ -3,6 +3,16 @@ list:
   - year: 2024
     books:
 
+      - title: "Mean Girl: Ayn Rand and the Culture of Greed"
+        author: Lisa Duggan
+        link: https://www.goodreads.com/book/show/39318396-mean-girl
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1550747317i/39318396.jpg
+        description: "“Ayn Rand’s complicated notoriety as popular writer, leader of a political and philosophical cult, reviled intellectual, and ostentatious public figure endured beyond her death in 1982. In the twenty-first century, she has been resurrected as a serious reference point for mainstream figures, especially those on the political right from Paul Ryan to Donald Trump. <cite>Mean Girl</cite> follows Rand’s trail through the twentieth century from the Russian Revolution to the Cold War and traces her posthumous appeal and the influence of her novels via her cruel, surly, sexy heroes. Outlining the impact of Rand’s philosophy of selfishness, <cite>Mean Girl</cite> illuminates the Randian shape of our neoliberal, contemporary culture of greed and the dilemmas we face in our political present.”"
+        genre: [biography, politics]
+        format: audiobook
+        rating: 4
+        completed: 2024-04-21
+
       - title: "Zealot: The Life and Times of Jesus of Nazareth"
         author: Reza Aslan
         link: https://en.wikipedia.org/wiki/Zealot:_The_Life_and_Times_of_Jesus_of_Nazareth
