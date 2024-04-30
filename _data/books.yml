@@ -3,12 +3,12 @@ list:
   - year: 2024
     books:
 
-      - title: "Your Presence Is Mandatory"
-        author: Sasha Vasilyuk
-        link: https://www.sashavasilyuk.com/your-presence-is-mandatory
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1682384252i/133938432.jpg
-        description: "“A riveting debut novel, based on real events, about a Ukrainian World War II veteran with a secret that could land him in the Gulag, and his family who are forced to live in the shadow of all he has not told them. Ukraine, 2007. Yefim Shulman, husband, grandfather and war veteran, was beloved by his family and his coworkers. But in the days after his death, his widow Nina finds a letter to the KGB in his briefcase. Yefim had a lifelong secret, and his confession forces them to reassess the man they thought they knew and the country he had defended.”"
-        genre: [fiction]
+      - title: "The Fellowship of the Ring"
+        author: J.R.R. Tolkien, narrated by Andy Serkis
+        link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
+        image: https://covers.audiobooks.com/images/covers/full/9781705047576.jpg
+        description: "I'm revisiting Middle-earth once again while I wait for library holds."
+        genre: [fantasy, fiction]
         format: audiobook
         completed: In progress
 
