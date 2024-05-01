@@ -3,11 +3,11 @@ list:
   - year: 2024
     books:
 
-      - title: "The Fellowship of the Ring"
-        author: J.R.R. Tolkien, narrated by Andy Serkis
-        link: https://www.audiobooks.com/audiobook/fellowship-of-the-ring/534767
-        image: https://covers.audiobooks.com/images/covers/full/9781705047576.jpg
-        description: "I'm revisiting Middle-earth once again while I wait for library holds."
+      - title: "A Short Walk Through a Wide World"
+        author: Douglas Westerbeke
+        link: https://www.simonandschuster.com/books/A-Short-Walk-Through-a-Wide-World/Douglas-Westerbeke/9781668026069
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686502594i/176443045.jpg
+        description: "<cite>The Invisible Life of Addie LaRue</cite> meets <cite>Life of Pi</cite> in this dazzlingly epic debut that charts the incredible, adventurous life of one woman as she journeys the globe trying to outrun a mysterious curse that will destroy her if she stops moving. Fiercely independent and hopeful, yet full of longing, Aubry Tourvel is an unforgettable character fighting her way through a world of wonders to find a place she can call home. A spellbinding and inspiring story about discovering meaning in a life that seems otherwise impossible, <cite>A Short Walk Through a Wide World</cite> reminds us that it’s not the destination, but rather the journey—no matter how long it lasts—that makes us who we are."
         genre: [fantasy, fiction]
         format: audiobook
         completed: In progress
