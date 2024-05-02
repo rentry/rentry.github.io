@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "A Forest Journey: The Role of Trees in the Fate of Civilization"
+        author: John Perlin
+        link: https://aforestjourney.com/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348582391i/4755701.jpg
+        description: "Ancient writers observed that forests always recede as civilizations develop and grow. The great Roman poet Ovid wrote that before civilization began, “even the pine tree stood on its own very hills” but when civilization took over, “the mountain oak, the pine were felled.” This happened for a simple reason: trees have been the principal fuel and building material of every society over the millennia, from the time urban areas were settled until the middle of the nineteenth century. To this day trees still fulfill these roles for a good portion of the world’s population."
+        genre: [nature, climate]
+        completed: In progress
+
       - title: "A Short Walk Through a Wide World"
         author: Douglas Westerbeke
         link: https://www.simonandschuster.com/books/A-Short-Walk-Through-a-Wide-World/Douglas-Westerbeke/9781668026069
