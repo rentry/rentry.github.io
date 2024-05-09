@@ -3,11 +3,19 @@ list:
   - year: 2024
     books:
 
+      - title: "Worn: A People's History of Clothing"
+        author: Sofi Thanhauser
+        link: https://www.penguinrandomhouse.com/books/606856/worn-by-sofi-thanhauser/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632871881i/56753473.jpg
+        description: "“A sweeping and captivatingly told history of clothing and the stuff it is made of—an unparalleled deep-dive into how everyday garments have transformed our lives, our societies, and our planet.”"
+        genre: [society, anthropology, environment]
+        completed: In progress
+
       - title: "A Forest Journey: The Role of Trees in the Fate of Civilization"
         author: John Perlin
         link: https://aforestjourney.com/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348582391i/4755701.jpg
-        description: "Ancient writers observed that forests always recede as civilizations develop and grow. The great Roman poet Ovid wrote that before civilization began, “even the pine tree stood on its own very hills” but when civilization took over, “the mountain oak, the pine were felled.” This happened for a simple reason: trees have been the principal fuel and building material of every society over the millennia, from the time urban areas were settled until the middle of the nineteenth century. To this day trees still fulfill these roles for a good portion of the world’s population."
+        description: "“Ancient writers observed that forests always recede as civilizations develop and grow. The great Roman poet Ovid wrote that before civilization began, “even the pine tree stood on its own very hills” but when civilization took over, “the mountain oak, the pine were felled.” This happened for a simple reason: trees have been the principal fuel and building material of every society over the millennia, from the time urban areas were settled until the middle of the nineteenth century. To this day trees still fulfill these roles for a good portion of the world’s population.”"
         genre: [nature, climate]
         completed: In progress
 
@@ -15,10 +23,11 @@ list:
         author: Douglas Westerbeke
         link: https://www.simonandschuster.com/books/A-Short-Walk-Through-a-Wide-World/Douglas-Westerbeke/9781668026069
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1686502594i/176443045.jpg
-        description: "<cite>The Invisible Life of Addie LaRue</cite> meets <cite>Life of Pi</cite> in this dazzlingly epic debut that charts the incredible, adventurous life of one woman as she journeys the globe trying to outrun a mysterious curse that will destroy her if she stops moving. Fiercely independent and hopeful, yet full of longing, Aubry Tourvel is an unforgettable character fighting her way through a world of wonders to find a place she can call home. A spellbinding and inspiring story about discovering meaning in a life that seems otherwise impossible, <cite>A Short Walk Through a Wide World</cite> reminds us that it’s not the destination, but rather the journey—no matter how long it lasts—that makes us who we are."
+        description: "“<cite>The Invisible Life of Addie LaRue</cite> meets <cite>Life of Pi</cite> in this dazzlingly epic debut that charts the incredible, adventurous life of one woman as she journeys the globe trying to outrun a mysterious curse that will destroy her if she stops moving. Fiercely independent and hopeful, yet full of longing, Aubry Tourvel is an unforgettable character fighting her way through a world of wonders to find a place she can call home. A spellbinding and inspiring story about discovering meaning in a life that seems otherwise impossible, <cite>A Short Walk Through a Wide World</cite> reminds us that it’s not the destination, but rather the journey—no matter how long it lasts—that makes us who we are.”"
         genre: [fantasy, fiction]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-05-09
 
       - title: "Mean Girl: Ayn Rand and the Culture of Greed"
         author: Lisa Duggan
