@@ -9,7 +9,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1632871881i/56753473.jpg
         description: "“A sweeping and captivatingly told history of clothing and the stuff it is made of—an unparalleled deep-dive into how everyday garments have transformed our lives, our societies, and our planet.”"
         genre: [society, anthropology, environment]
-        completed: In progress
+        rating: 5
+        completed: 2024-05-14
 
       - title: "A Forest Journey: The Role of Trees in the Fate of Civilization"
         author: John Perlin
