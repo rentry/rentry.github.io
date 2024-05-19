@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "There There"
+        author: Tommy Orange
+        link: https://en.wikipedia.org/wiki/There_There_(novel)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512071034i/36692478.jpg
+        description: "“Tommy Orange's wondrous and shattering novel follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize. Among them is Jacquie Red Feather, newly sober and trying to make it back to the family she left behind. Dene Oxendene, pulling his life together after his uncle's death and working at the powwow to honor his memory. Fourteen-year-old Orvil, coming to perform traditional dance for the very first time. Together, this chorus of voices tells of the plight of the urban Native American—grappling with a complex and painful history, with an inheritance of beauty and spirituality, with communion and sacrifice and heroism. ”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Go as a River"
         author: Shelley Read
         link: https://www.goodreads.com/book/show/63922274-go-as-a-river
