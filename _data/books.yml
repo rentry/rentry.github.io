@@ -11,14 +11,14 @@ list:
         genre: [biology, nature]
         completed: Next
 
-      - title: "There There"
-        author: Tommy Orange
-        link: https://en.wikipedia.org/wiki/There_There_(novel)
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1512071034i/36692478.jpg
-        description: "“Tommy Orange's wondrous and shattering novel follows twelve characters from Native communities: all traveling to the Big Oakland Powwow, all connected to one another in ways they may not yet realize. Among them is Jacquie Red Feather, newly sober and trying to make it back to the family she left behind. Dene Oxendene, pulling his life together after his uncle's death and working at the powwow to honor his memory. Fourteen-year-old Orvil, coming to perform traditional dance for the very first time. Together, this chorus of voices tells of the plight of the urban Native American—grappling with a complex and painful history, with an inheritance of beauty and spirituality, with communion and sacrifice and heroism.”"
-        genre: [fiction]
+      - title: "The Lightmaker's Manifesto: How to Work for Change without Losing Your Joy"
+        author: Karen Walrond
+        link: https://www.goodreads.com/book/show/56822980-the-lightmaker-s-manifesto
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618291962i/56822980.jpg
+        description: "“Many of us have strong convictions. We want to advocate for causes we care about--but which ones? We want to work for change—but will the emotional toll lead to burn out? Leadership coach, lawyer, photographer, and activist Karen Walrond knows that when you care deeply about the world, light can seem hard to find. But when your activism grows out of your joy—and vice versa—you begin to see light everywhere.”"
+        genre: [activism, leadership, trauma]
         format: audiobook
-        completed: In progress
+        completed: Next
 
       - title: "Go as a River"
         author: Shelley Read
