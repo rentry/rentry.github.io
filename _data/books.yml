@@ -3,23 +3,31 @@ list:
   - year: 2024
     books:
 
-     - title: "The Lightmaker's Manifesto: How to Work for Change without Losing Your Joy"
+      - title: "The Lightmaker's Manifesto: How to Work for Change without Losing Your Joy"
         author: Karen Walrond
         link: https://www.goodreads.com/book/show/56822980-the-lightmaker-s-manifesto
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618291962i/56822980.jpg
-        description: "“Many of us have strong convictions. We want to advocate for causes we care about--but which ones? We want to work for change—but will the emotional toll lead to burn out? Leadership coach, lawyer, photographer, and activist Karen Walrond knows that when you care deeply about the world, light can seem hard to find. But when your activism grows out of your joy—and vice versa—you begin to see light everywhere.”"
+        description: "“Many of us have strong convictions. We want to advocate for causes we care about—but which ones? We want to work for change—but will the emotional toll lead to burn out? Leadership coach, lawyer, photographer, and activist Karen Walrond knows that when you care deeply about the world, light can seem hard to find. But when your activism grows out of your joy—and vice versa—you begin to see light everywhere.”"
         genre: [activism, leadership, trauma]
         format: audiobook
         completed: Next
 
-     - title: "First Frost"
+      - title: "Remembrance of Earth's Past #2: The Dark Forest"
+        author: Liu Cixin, translated by Joel Martinsen
+        link: https://en.wikipedia.org/wiki/The_Dark_Forest
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg
+        description: "“In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.”"
+        genre: [fiction]
+        completed: Next        
+
+      - title: "First Frost"
         author: Craig Johnson
         link: https://www.goodreads.com/book/show/199558474-first-frost
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1697136817i/199558474.jpg
-        description: "“It’s the summer of 1964, and recent college graduates Walt Longmire and Henry Standing Bear read the writing on the wall and enlist to serve in the Vietnam War. As they catch a few final waves in California before reporting for duty, a sudden storm assaults the shores and capsizes a nearby cargo boat. Walt and Henry jump to action, but it’s soon revealed by the police who greet them ashore that the sunken boat carried valuable contraband from underground sources. Back in the present day, Walt is forced to speak before a Judge following the fatal events of <cite>The Longmire Defense</cite>. With powerful enemies lurking behind the scenes, the sheriff of Absaroka County must consider his options if he wishes to finish the fight he started.”"
+        description: "“It’s the summer of 1964, and recent college graduates Walt Longmire and Henry Standing Bear read the writing on the wall and enlist to serve in the Vietnam War. As they catch a few final waves in California before reporting for duty, a sudden storm assaults the shores and capsizes a nearby cargo boat. Walt and Henry jump to action, but it’s soon revealed by the police who greet them ashore that the sunken boat carried valuable contraband from underground sources. Back in the present day, Walt is forced to speak before a Judge following the fatal events of <cite>The Longmire Defense</cite>.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: In progress     
 
       - title: "Sweet in Tooth and Claw: Stories of Generosity and Cooperation in the Natural World"
         author: Kristin Ohlson
@@ -27,7 +35,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662695312i/62339327.jpg
         description: "“A follow-up to Ohlson's previous book, <cite>The Soil Will Save Us</cite> (Rodale 2014), <cite>Sweet in Tooth and Claw</cite> extends the concept of cooperation in nature to the life-affirming connections among microbes, plants, fungi, insects, birds, and animals—including humans—in ecosystems around the globe.”"
         genre: [biology, nature]
-        completed: Next
+        completed: In progress
 
       - title: "Go as a River"
         author: Shelley Read
@@ -147,14 +155,6 @@ list:
         format: audiobook
         rating: 4
         completed: 2024-03-28
-
-      - title: "Remembrance of Earth's Past #2: The Dark Forest"
-        author: Liu Cixin, translated by Joel Martinsen
-        link: https://en.wikipedia.org/wiki/The_Dark_Forest
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg
-        description: "“In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.”"
-        genre: [fiction]
-        completed: In progress
 
       - title: "Walt Longmire #9.5: Spirit of Steamboat"
         author: Craig Johnson
