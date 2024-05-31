@@ -3,12 +3,12 @@ list:
   - year: 2024
     books:
 
-      - title: "The Lightmaker's Manifesto: How to Work for Change without Losing Your Joy"
-        author: Karen Walrond
-        link: https://www.goodreads.com/book/show/56822980-the-lightmaker-s-manifesto
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1618291962i/56822980.jpg
-        description: "“Many of us have strong convictions. We want to advocate for causes we care about—but which ones? We want to work for change—but will the emotional toll lead to burn out? Leadership coach, lawyer, photographer, and activist Karen Walrond knows that when you care deeply about the world, light can seem hard to find. But when your activism grows out of your joy—and vice versa—you begin to see light everywhere.”"
-        genre: [activism, leadership, trauma]
+      - title: "Finish What We Started: The MAGA Movement’s Ground War to End Democracy"
+        author: Isaac Arnsdorf
+        link: https://www.goodreads.com/book/show/61398921-finish-what-we-started
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696287653i/61398921.jpg
+        description: "“The immersive, captivating untold story of the mass radicalization of the Republican Party in the aftermath of January 6, 2021, entrenching the political power of a radical right-wing movement dedicated to dismantling democracy itself. Inspired by Donald Trump’s election lies, a growing movement of grassroots activists mobilized around the country to pick up where the insurrection left off, laying the groundwork to succeed next time where Trump had failed to keep himself in power.”"
+        genre: [politics]
         format: audiobook
         completed: Next
 
