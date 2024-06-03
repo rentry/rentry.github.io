@@ -50,7 +50,7 @@ Little Crater Lake is almost otherworldly in color and clarity. Vastly smaller t
 ![Purple flowers and two yellow flowers among a riot of green grass and leaves]({{ 'assets/images/2024-timothy-11.jpg' | relative_url }}#float)
 An added bonus of spring camping and hiking is the proliferation of mountain wildflowers, of which we saw several varieties. Early bloomers like [Western Trillium](https://www.fs.usda.gov/wildflowers/plant-of-the-week/trillium_ovatum_ovatum.shtml) were joined by [Shooting Star](https://www.pnwflowers.com/flower/Dodecatheon-hendersonii) and the ubiquitous [Oregon anemone](https://en.wikipedia.org/wiki/Anemonoides_oregana).
 
-We managed to escape rain for the entire trip, encountering a heavy downpour only after packing up and starting the drive back home.
+We managed to elude rain for the entire trip, encountering a heavy downpour only after packing up and starting the drive back home.
 
 As we head into yet another summer of climate anxiety and supercharged wildfire threats, I'll look back fondly on spring camp, and look forward to the fall.  
 
