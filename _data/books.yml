@@ -3,14 +3,13 @@ list:
   - year: 2024
     books:
 
-      - title: "Finish What We Started: The MAGA Movement’s Ground War to End Democracy"
-        author: Isaac Arnsdorf
-        link: https://www.goodreads.com/book/show/61398921-finish-what-we-started
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696287653i/61398921.jpg
-        description: "“The immersive, captivating untold story of the mass radicalization of the Republican Party in the aftermath of January 6, 2021, entrenching the political power of a radical right-wing movement dedicated to dismantling democracy itself. Inspired by Donald Trump’s election lies, a growing movement of grassroots activists mobilized around the country to pick up where the insurrection left off, laying the groundwork to succeed next time where Trump had failed to keep himself in power.”"
-        genre: [politics]
-        format: audiobook
-        completed: Next
+      - title: "Mutual Aid: A Factor of Evolution"
+        author: Peter Kropotkin
+        link: https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348218981i/51306.jpg
+        description: "“In this cornerstone of modern liberal social theory, Peter Kropotkin states that the most effective human and animal communities are essentially cooperative, rather than competitive. Kropotkin based this classic on his observations of natural phenomena and history, forming a work of stunning and well-reasoned scholarship. Essential to the understanding of human evolution as well as social organization, it offers a powerful counterpoint to the tenets of Social Darwinism.”"
+        genre: [philosophy, natural history]
+        completed: In progress
 
       - title: "Remembrance of Earth's Past #2: The Dark Forest"
         author: Liu Cixin, translated by Joel Martinsen
@@ -18,7 +17,17 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg
         description: "“In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.”"
         genre: [fiction]
-        completed: Next        
+        completed: Next 
+
+      - title: "Finish What We Started: The MAGA Movement’s Ground War to End Democracy"
+        author: Isaac Arnsdorf
+        link: https://www.goodreads.com/book/show/61398921-finish-what-we-started
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1696287653i/61398921.jpg
+        description: "“The immersive, captivating untold story of the mass radicalization of the Republican Party in the aftermath of January 6, 2021, entrenching the political power of a radical right-wing movement dedicated to dismantling democracy itself. Inspired by Donald Trump’s election lies, a growing movement of grassroots activists mobilized around the country to pick up where the insurrection left off, laying the groundwork to succeed next time where Trump had failed to keep himself in power.”"
+        genre: [politics]
+        format: audiobook
+        rating: 3
+        completed: 2024-06-03       
 
       - title: "First Frost"
         author: Craig Johnson
