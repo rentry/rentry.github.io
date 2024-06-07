@@ -5,7 +5,7 @@
     var marker = L.marker([{{ page.lat }}, {{ page.long }}]).addTo({{ page.map-var }});
 
     L.tileLayer('{{ site.data.maptiles.tiles }}', {
-        attribution: '{{ site.data.maptiles.attribution }}',
+    attribution: '{{ site.data.maptiles.attribution }}',
 	subdomains: 'abcd',
 	maxZoom: 19
     }).addTo({{ page.map-var }});
