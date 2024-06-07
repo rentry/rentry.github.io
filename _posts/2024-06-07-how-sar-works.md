@@ -2,7 +2,7 @@
 layout: post
 title: "How a search and rescue mission works"
 date: 2024-06-07
-description: "I returned home in the early hours of the morning from a search and rescue on Mt. Hood. Here's how our search and rescue missions work."
+description: "I returned home in the early hours of the morning from a search and rescue mission on the lower slopes of Mt. Hood. Here's how it unfolded."
 image: assets/images/2024-sar-top-spur-2.jpg
 categories: [SAR]
 tags: [search and rescue]
