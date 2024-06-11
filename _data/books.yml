@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Just Add Water: My Swimming Life"
+        author: Katie Ledecky
+        link: https://www.simonandschuster.com/books/Just-Add-Water/Katie-Ledecky/9781668060209
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715185818i/203931794.jpg
+        description: "“Katie Ledecky has won more individual Olympic races than any female swimmer in history. She is a three-time Olympian, a seven-time gold medalist, a twenty-one-time world champion, eight-time NCAA Champion, and a world record-holder in individual swimming events. Time and again, the question is posed to her family, her coaches, and to her—what makes her a champion? Now, for the first time, she shares what it takes to compete at an elite level.”"
+        genre: [memoir, sports]
+        format: audiobook
+        completed: Next
+
       - title: "The Playbook: A Story of Theater, Democracy, and the Making of a Culture War"
         author: James Shapiro
         link: https://www.penguinrandomhouse.com/books/702390/the-playbook-by-james-shapiro/
