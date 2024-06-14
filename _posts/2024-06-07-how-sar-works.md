@@ -112,6 +112,8 @@ Once we safely deliver the subject to an ambulance or their own (or a friend's) 
 
 Once each member arrives back home, we indicate in ActiveAlert that we have done so, in order that the sheriff's office can account for all members of the team.
 
+**6/12/24 update:** [This mission ended up in the local news](https://www.koin.com/news/oregon/2-hikers-rescued-from-snowy-mt-hood-trail-in-painstaking-mission/).
+
 [^1]: We have several specialized teams, including rope rescue, trail runner, and K9 teams, so some missions might only call out a specific team, if the deputies deem that a smaller, specialized team might be more effective. But if the mission involves a search for a lost person or a pack out, the full ground team will almost always be called out. Specialized team members are also part of the ground team.
 
 [^2]: I've written before about [individual SAR gear]({{ '/joining-search-and-rescue-part-2/' | relative_url}}), but the team has "big" gear items that live in sheriff vehicles, such as the litters, Starlink, extra clothing, communications equipment, and other shared SAR items.
