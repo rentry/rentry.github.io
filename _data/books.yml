@@ -28,7 +28,8 @@ list:
         description: "“A brilliant and daring account of a culture war over the place of theater in American democracy in the 1930s, one that anticipates our current divide, by the acclaimed Shakespeare scholar James Shapiro. From 1935 to 1939, the Federal Theatre Project staged over a thousand productions in 29 states that were seen by thirty million (or nearly one in four) Americans, two thirds of whom had never seen a play before. At its helm was an unassuming theater professor, Hallie Flanagan. It employed, at its peak, over twelve thousand struggling artists, some of whom, like Orson Welles and Arthur Miller, would soon be famous, but most of whom were just ordinary people eager to work again at their craft.”"
         genre: [history, culture, politics]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-06-12
 
       - title: "Mutual Aid: A Factor of Evolution"
         author: Peter Kropotkin
@@ -38,14 +39,6 @@ list:
         genre: [philosophy, natural history]
         rating: 4
         completed: 2024-06-07
-
-      - title: "Remembrance of Earth's Past #2: The Dark Forest"
-        author: Liu Cixin, translated by Joel Martinsen
-        link: https://en.wikipedia.org/wiki/The_Dark_Forest
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412064931i/23168817.jpg
-        description: "“In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.”"
-        genre: [fiction]
-        completed: Next 
 
       - title: "Finish What We Started: The MAGA Movement’s Ground War to End Democracy"
         author: Isaac Arnsdorf
