@@ -4,7 +4,7 @@ layout: about
 
 ## Hi, I'm Ryan
 
-<img src="{{ 'assets/images/hike-profile-iso.png' | relative_url }}" class="profile" alt="A man with glasses and a trimmed beard crossing his arms and wearing a baseball cap and a watch, with backpack straps around his shoulders and trees in the background" />
+<img src="{{ 'assets/images/hike-profile-iso.webp' | relative_url }}" class="profile" alt="A man with glasses and a trimmed beard crossing his arms and wearing a baseball cap and a watch, with backpack straps around his shoulders and trees in the background" />
 
 I live in the woods just outside Portland, Oregon. My work is in content strategy, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
