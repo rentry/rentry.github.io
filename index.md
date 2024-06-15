@@ -4,6 +4,8 @@ layout: about
 
 ## Hi, I'm Ryan
 
+<img src="{{ 'assets/images/hike-profile-iso.png' | relative_url }}" class="profile" />
+
 I live in the woods just outside Portland, Oregon. My work is in content strategy, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
 Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.gsa.gov/) and [GSA](https://www.gsa.gov/). 
