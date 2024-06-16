@@ -560,23 +560,3 @@ table {
         float: none;
     }
 }
-
-.profile {
-  float: right;
-  width: 10em;
-  margin-left: 1em;
-  border-radius: 50%;
-  box-shadow: 0 10px 40px -14px rgba(0,0,0,0.25);
-}
-
-@media only screen and (max-width: 450px) {
-    .profile {
-        width: 6em;
-    }
-}
-
-@media only screen and (max-width: 980px) {
-    .profile {
-        width: 8em;
-    }
-}

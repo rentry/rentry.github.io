@@ -10,7 +10,7 @@ list:
         description: "“For the last twenty years, George Saunders has been teaching a class on the Russian short story to his MFA students at Syracuse University. In <cite>A Swim in a Pond in the Rain</cite>, he shares a version of that class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times.”"
         genre: [literature]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Just Add Water: My Swimming Life"
         author: Katie Ledecky
@@ -19,7 +19,8 @@ list:
         description: "“Katie Ledecky has won more individual Olympic races than any female swimmer in history. She is a three-time Olympian, a seven-time gold medalist, a twenty-one-time world champion, eight-time NCAA Champion, and a world record-holder in individual swimming events. Time and again, the question is posed to her family, her coaches, and to her—what makes her a champion? Now, for the first time, she shares what it takes to compete at an elite level.”"
         genre: [memoir, sports]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-06-16
 
       - title: "The Playbook: A Story of Theater, Democracy, and the Making of a Culture War"
         author: James Shapiro
