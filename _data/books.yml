@@ -3,14 +3,24 @@ list:
   - year: 2024
     books:
 
+      - title: "A Light through the Cracks: A Climber's Story"
+        author: Beth Rodden
+        link: https://www.goodreads.com/book/show/179796779-a-light-through-the-cracks
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711995192i/179796779.jpg
+        description: "“Renowned rock climber Beth Rodden’s inspiring memoir about overcoming devastating trauma, refusing to be held hostage by fear, and taking a leap toward healing. Beth Rodden is twenty years old and already an elite rock climber when a climbing excursion in Kyrgyzstan escalates into a nightmare. Beth, her boyfriend, and two other climbers are kidnapped by militant rebels. After six harrowing days of hiding, marching, and dodging gunfire, they miraculously escape captivity. But fear follows Beth home, and pushing past it becomes a fixation.”"
+        genre: [memoir]
+        format: audiobook
+        completed: Next
+
       - title: "A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life"
         author: George Saunders
         link: https://www.penguinrandomhouse.com/books/609280/a-swim-in-a-pond-in-the-rain-by-george-saunders/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1627489209i/53487237.jpg
         description: "“For the last twenty years, George Saunders has been teaching a class on the Russian short story to his MFA students at Syracuse University. In <cite>A Swim in a Pond in the Rain</cite>, he shares a version of that class with us, offering some of what he and his students have discovered together over the years. Paired with iconic short stories by Chekhov, Turgenev, Tolstoy, and Gogol, the seven essays in this book are intended for anyone interested in how fiction works and why it’s more relevant than ever in these turbulent times.”"
         genre: [literature]
+        rating: 5
         format: audiobook
-        completed: In progress
+        completed: 2024-06-23
 
       - title: "Just Add Water: My Swimming Life"
         author: Katie Ledecky
