@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "The Prince of Evolution: Peter Kropotkin's Adventures in Science and Politics"
+        author: Lee Alan Dugatkin
+        link: https://www.goodreads.com/book/show/12630344-the-prince-of-evolution
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347260343i/12630344.jpg
+        description: "“In <cite>The Prince of Evolution</cite>, Lee Alan Dugatkin introduces the reader to Russian Prince Peter Kropotkin — one of the world’s first international celebrities. In England, Kropotkin was known as a brilliant scientist, famous for his work on animal and human cooperation, but Kropotkin’s fame in continental Europe centered more on his role as a founder of anarchism. In the United States, he pursued both passions. Tens of thousands of people followed Prince Peter during two speaking tours that took him around America. His overarching goal was to understand cooperation in nature, so that he could promote cooperation in humans.”"
+        genre: [biography]
+        completed: In progress
+
       - title: "A Light through the Cracks: A Climber's Story"
         author: Beth Rodden
         link: https://www.goodreads.com/book/show/179796779-a-light-through-the-cracks
@@ -77,7 +85,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1662695312i/62339327.jpg
         description: "“A follow-up to Ohlson's previous book, <cite>The Soil Will Save Us</cite> (Rodale 2014), <cite>Sweet in Tooth and Claw</cite> extends the concept of cooperation in nature to the life-affirming connections among microbes, plants, fungi, insects, birds, and animals—including humans—in ecosystems around the globe.”"
         genre: [biology, nature]
-        completed: In progress
+        rating: 4
+        completed: 2024-06-29
 
       - title: "Go as a River"
         author: Shelley Read
