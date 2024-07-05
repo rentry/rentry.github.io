@@ -9,7 +9,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1347260343i/12630344.jpg
         description: "“In <cite>The Prince of Evolution</cite>, Lee Alan Dugatkin introduces the reader to Russian Prince Peter Kropotkin — one of the world’s first international celebrities. In England, Kropotkin was known as a brilliant scientist, famous for his work on animal and human cooperation, but Kropotkin’s fame in continental Europe centered more on his role as a founder of anarchism. In the United States, he pursued both passions. Tens of thousands of people followed Prince Peter during two speaking tours that took him around America. His overarching goal was to understand cooperation in nature, so that he could promote cooperation in humans.”"
         genre: [biography]
-        completed: In progress
+        rating: 4
+        completed: 2024-07-04
 
       - title: "A Light through the Cracks: A Climber's Story"
         author: Beth Rodden
@@ -18,7 +19,8 @@ list:
         description: "“Renowned rock climber Beth Rodden’s inspiring memoir about overcoming devastating trauma, refusing to be held hostage by fear, and taking a leap toward healing. Beth Rodden is twenty years old and already an elite rock climber when a climbing excursion in Kyrgyzstan escalates into a nightmare. Beth, her boyfriend, and two other climbers are kidnapped by militant rebels. After six harrowing days of hiding, marching, and dodging gunfire, they miraculously escape captivity. But fear follows Beth home, and pushing past it becomes a fixation.”"
         genre: [memoir]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-07-03
 
       - title: "A Swim in a Pond in the Rain: In Which Four Russians Give a Master Class on Writing, Reading, and Life"
         author: George Saunders
