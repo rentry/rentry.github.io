@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "The Evolution of God"
+        author: Robert Wright
+        link: https://en.wikipedia.org/wiki/The_Evolution_of_God
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442044016i/6340873.jpg
+        description: "“In this sweeping narrative that takes us from the Stone Age to the Information Age, Robert Wright unveils an astonishing discovery: there is a hidden pattern that the great monotheistic faiths have followed as they have evolved. Through the prisms of archaeology, theology, and evolutionary psychology, Wright's findings overturn basic assumptions about Judaism, Christianity, and Islam, and are sure to cause controversy. He explains why spirituality has a role today, and why science, contrary to conventional wisdom, affirms the validity of the religious quest. And this previously unrecognized evolutionary logic points not toward continued religious extremism, but future harmony. ”"
+        genre: [religion, anthropology]
+        format: audiobook
+        completed: In progress
+
       - title: "Walking It Off: A Veteran's Chronicle of War and Wilderness"
         author: Doug Peacock
         link: https://www.goodreads.com/book/show/250093.Walking_It_Off
