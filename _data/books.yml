@@ -3,12 +3,21 @@ list:
   - year: 2024
     books:
 
-      - title: "The Evolution of God"
-        author: Robert Wright
-        link: https://en.wikipedia.org/wiki/The_Evolution_of_God
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442044016i/6340873.jpg
-        description: "“In this sweeping narrative that takes us from the Stone Age to the Information Age, Robert Wright unveils an astonishing discovery: there is a hidden pattern that the great monotheistic faiths have followed as they have evolved. Through the prisms of archaeology, theology, and evolutionary psychology, Wright's findings overturn basic assumptions about Judaism, Christianity, and Islam, and are sure to cause controversy. He explains why spirituality has a role today, and why science, contrary to conventional wisdom, affirms the validity of the religious quest. And this previously unrecognized evolutionary logic points not toward continued religious extremism, but future harmony. ”"
-        genre: [religion, anthropology]
+      - title: "True North"
+        author: Jim Harrison
+        link: https://www.goodreads.com/book/show/107419.True_North
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1387726065i/107419.jpg
+        description: "“In a new novel by the author of Off on the Side, the son of a wealthy family of timber barons struggles to reconcile himself with the damage his family has done to Michigan's Upper Peninsula—a scarring that cuts deeply into the fabric of his own family.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
+      - title: "This Is How You Lose the Time War"
+        author: Amal El-Mohtar and Max Gladstone
+        link: https://goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1653185078i/43352954.jpg
+        description: "“Among the ashes of a dying world, an agent of the Commandant finds a letter. It reads: Burn before reading. Thus begins an unlikely correspondence between two rival agents hellbent on securing the best possible future for their warring factions. Now, what began as a taunt, a battlefield boast, grows into something more. Something epic. Something romantic. Something that could change the past and the future. Except the discovery of their bond would mean death for each of them. There's still a war going on, after all. And someone has to win that war.”"
+        genre: [science fiction]
         format: audiobook
         completed: In progress
 
