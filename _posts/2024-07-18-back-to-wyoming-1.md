@@ -18,7 +18,7 @@ Last year, I decided to take a few days by myself during my weeklong stay to exp
 
 ![Green mountain slopes lined with evergreen trees with rocks in the foreground and blue sky with a line of white clouds above]({{ 'assets/images/2024-wyoming-1.jpg' | relative_url }}#float)
 
-This year, I wanted to spend more time with my parents, and revisit some of the places I especially loved as a child. To that end, after two days getting settled and helping my parents with some projects around the house, my mom and loaded up my rental truck and headed west from Buffalo over the Bighorn Mountains.
+This year, I wanted to spend more time with my parents, and revisit some of the places I especially loved as a child. To that end, after two days getting settled and helping my parents with some projects around the house, my mom and I loaded up my rental truck and headed west from Buffalo over the Bighorn Mountains.
 
 ## The Medicine Wheel
 
