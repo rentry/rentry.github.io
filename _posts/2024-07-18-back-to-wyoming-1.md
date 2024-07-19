@@ -27,7 +27,7 @@ In my recollection, I visited the sacred and prehistoric [Medicine Wheel/Medicin
 
 The Medicine Wheel is now surrounded and protected by wood posts with white rope, onto which are tied talismans and cultural and spiritual artifacts to honor the sacred site.
 
-The Medicine Wheel is somewhat difficult describe, as [its origin and exact purpose are unknown](https://en.wikipedia.org/wiki/Medicine_Wheel/Medicine_Mountain_National_Historic_Landmark#Cultural_Purposes).[^2] That said, the site is sacred to many nations, and its location, at the convergence of ancient trails, has indicated it's part of indigenous activity in the Bighorn Mountains that dates back [at least 10,000 years](https://en.wikipedia.org/wiki/Medicine_Wheel/Medicine_Mountain_National_Historic_Landmark#cite_note-7).
+The Medicine Wheel is somewhat difficult to describe, as [its origin and exact purpose are unknown](https://en.wikipedia.org/wiki/Medicine_Wheel/Medicine_Mountain_National_Historic_Landmark#Cultural_Purposes).[^2] That said, the site is sacred to many nations, and its location, at the convergence of ancient trails, has indicated it's part of indigenous activity in the Bighorn Mountains that dates back [at least 10,000 years](https://en.wikipedia.org/wiki/Medicine_Wheel/Medicine_Mountain_National_Historic_Landmark#cite_note-7).
 
 ![A white feather with wild flowers and grasses surrounding, and blurry trees in the background]({{ 'assets/images/2024-wyoming-3.jpg' | relative_url }})
 
