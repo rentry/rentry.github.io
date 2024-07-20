@@ -3,14 +3,14 @@ layout: post
 title: "How a search and rescue mission works"
 date: 2024-06-07
 description: "I returned home in the early hours of the morning from a search and rescue mission on the lower slopes of Mt. Hood. Here's how it unfolded."
-image: assets/images/2024-sar-top-spur-2.jpg
+image: assets/images/2024-sar-top-spur-6.jpg
 categories: [SAR]
 tags: [search and rescue]
 ---
 
 {% include leaflet.html %}
 
-![Several search and rescue team members wearing orange shirts and backpacks walk along a tree-lined trail with snow covering parts of the trail]({{ 'assets/images/2024-sar-top-spur-2.jpg' | relative_url }}#full)
+![Several search and rescue team members wearing orange shirts surround and secure a wheeled litter bearing a person; it is nighttime and several of the team members wear headlights in the dark, casting light and shadow around the scene]({{ 'assets/images/2024-sar-top-spur-6.jpg' | relative_url }}#full)
 
 I returned home just after midnight this morning from a search and rescue mission on the Pacific Crest Trail up on the lower slopes of Mt. Hood.
 
@@ -25,7 +25,9 @@ Sadly, these are missions that involve a known or likely deceased subject, eithe
 - **Pack out**\
 Pack outs are missions in which someone is injured and cannot self-rescue. We usually know the general location of the subject, given we received some contact at some point that indicated someone was injured, either because they or someone with them were able to contact emergency services.
 
-Last night's mission was a pack out for an injured, elderly woman hiking on the Pacific Crest Trail with her friend. 
+Last night's mission was a pack out for an injured, elderly woman hiking on the Pacific Crest Trail with her friend.
+
+![Several search and rescue team members wearing orange shirts and backpacks walk along a tree-lined trail with snow covering parts of the trail]({{ 'assets/images/2024-sar-top-spur-2.jpg' | relative_url }})
 
 ## The callout
 Most search and rescue teams are part of or otherwise associated with the local county sheriff's office, including ours.
