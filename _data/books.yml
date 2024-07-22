@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Star Circle: The Bighorn Medicine Wheel"
+        author: Ivy Merriot
+        link: https://www.goodreads.com/book/show/36037353-star-circle
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503325604i/36037353.jpg
+        description: "“In this book, Dr. Merriot takes her readers into the night Sky above the Bighorn Medicine Wheel to explore the scientific and supernatural elements of this National Historic Landmark and Sacred Site. Written for the adventurous, Ivy relates cultural and scientific stories, adding personal experiences and new findings from her own research based on Indigenous and Western Science astronomies. She concludes that the Wheel is a spectacularly designed and fitting ‘Place’ to study the cosmos and encourages her readers to take a personal trip to the Bighorn Medicine Wheel and embark upon their own adventure with the stars.”"
+        genre: [history]
+        completed: In progress
+
       - title: "True North"
         author: Jim Harrison
         link: https://www.goodreads.com/book/show/107419.True_North
