@@ -10,7 +10,7 @@ list:
         description: "“In a new novel by the author of Off on the Side, the son of a wealthy family of timber barons struggles to reconcile himself with the damage his family has done to Michigan's Upper Peninsula—a scarring that cuts deeply into the fabric of his own family.”"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Star Circle: The Bighorn Medicine Wheel"
         author: Ivy Merriot
@@ -18,7 +18,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1503325604i/36037353.jpg
         description: "“In this book, Dr. Merriot takes her readers into the night Sky above the Bighorn Medicine Wheel to explore the scientific and supernatural elements of this National Historic Landmark and Sacred Site. Written for the adventurous, Ivy relates cultural and scientific stories, adding personal experiences and new findings from her own research based on Indigenous and Western Science astronomies. She concludes that the Wheel is a spectacularly designed and fitting ‘Place’ to study the cosmos and encourages her readers to take a personal trip to the Bighorn Medicine Wheel and embark upon their own adventure with the stars.”"
         genre: [history]
-        completed: In progress
+        rating: 4
+        completed: 2024-07-27
 
       - title: "This Is How You Lose the Time War"
         author: Amal El-Mohtar and Max Gladstone
