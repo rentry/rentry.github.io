@@ -53,7 +53,7 @@ The canyon is sandwiched between the Pryor Mountains to the west and the Bighorn
 ![A rock cairn of light-colored rock sits atop a light-colored rock slab]({{ 'assets/images/2024-wyoming-8.jpg' | relative_url }}#float)
 Although in my youth I had spent some time on the river and along the sheer canyon edge—not to mention the nearby Pryor Mountains—I've long wanted to return and explore some of the areas along the canyon that I hadn't visited. 
 
-Along with its eye-popping views, the canyon is home to wild horses and Bighorn Sheep, among other fauna. Although I didn't see the elusive sheep, I did catch a glimpse of a small herd of wild mustangs in the early morning hours of my second day exploring the canyon (sadly, I didn't get a serviceable photo).
+Along with its eye-popping views, the canyon is home to wild horses and bighorn sheep, among other fauna. Although I didn't see the elusive sheep, I did catch a glimpse of a small herd of wild mustangs in the early morning hours of my second day exploring the canyon (sadly, I didn't get a serviceable photo).
 
 ![A deep canyon carves through desert rock with yellow, orange, and tan rock, with the ground on each side dotted with desert shrubs]({{ 'assets/images/2024-wyoming-10.jpg' | relative_url }})
 
