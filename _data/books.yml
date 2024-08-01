@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Cartographic Relief Presentation"
+        author: Eduard Imhof
+        link: https://www.goodreads.com/book/show/1243621.Cartographic_Relief_Presentation
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328757125i/1243621.jpg
+        description: "“Eduard Imhof's classic book Cartographic Relief Presentation is once again available. Within the discipline of cartography, few works are considered classics in the sense of retaining their interest, relevance, and inspiration with the passage of time. One such work is Imhof's masterpiece on relief representation. As a unique display of analysis and portrayal, this is an outstanding example of the need for cartography to combine intellect and graphics in solving map design problems. The range, detail, and scientific artistry of his solutions are presented in a teaching context that puts this work in a class by itself, with universal significance.”"
+        genre: [design, cartography]
+        completed: In progress
+
       - title: "A Field Guide to Climate Anxiety: How to Keep Your Cool on a Warming Planet"
         author: Sarah Jaquette Ray
         link: https://www.goodreads.com/book/show/50747101-a-field-guide-to-climate-anxiety
