@@ -44,9 +44,10 @@ list:
         author: Doug Peacock
         link: https://www.goodreads.com/book/show/250093.Walking_It_Off
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348436680i/250093.jpg
-        description: "“When he wrote <cite>The Monkey Wrench Gang</cite> in 1975, Edward Abbey became the spokesperson for a generation of Americans angered by the unthinking destruction of our natural heritage. Without consultation, Abbey based the central character of eco-guerilla George Washington Hayduke on his friend Doug Peacock. Since then Peacock has become an articulate environmental individualist writing about the West's abundant wildscapes. Abbey and Peacock had an at times stormy, almost father and son relationship that was peacefully resolved in Abbey's last days before his death in 1989. This rich recollection of their relationship and the dry places they explored are recalled in Peacock’s honest and heartfelt style in this poignant memoir.”"
+        description: "“When he wrote <cite>The Monkey Wrench Gang</cite> in 1975, Edward Abbey became the spokesperson for a generation of Americans angered by the unthinking destruction of our natural heritage. Without consultation, Abbey based the central character of eco-guerilla George Washington Hayduke on his friend Doug Peacock. Since then Peacock has become an articulate environmental individualist writing about the West's abundant wildscapes. Abbey and Peacock had an at times stormy, almost father-and-son relationship that was peacefully resolved in Abbey's last days before his death in 1989. This rich recollection of their relationship and the dry places they explored are recalled in Peacock’s honest and heartfelt style in this poignant memoir.”"
         genre: [memoir]
-        completed: In progress
+        rating: 4
+        completed: 2024-07-31
 
       - title: "The Prince of Evolution: Peter Kropotkin's Adventures in Science and Politics"
         author: Lee Alan Dugatkin
