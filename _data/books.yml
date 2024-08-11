@@ -26,7 +26,7 @@ list:
         description: "“Drawing on a decade of experience leading and teaching in college environmental studies programs, Sarah Jaquette Ray has created an “existential tool kit” for the climate generation. Combining insights from psychology, sociology, social movements, mindfulness, and the environmental humanities, Ray explains why and how we need to let go of eco-guilt, resist burnout, and cultivate resilience while advocating for climate justice. <cite>A Field Guide to Climate Anxiety</cite> is the essential guidebook for the climate generation—and perhaps the rest of us—as we confront the greatest environmental threat of our time.”"
         genre: [climate]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Hour of Land: A Personal Topography of America's National Parks"
         author: Terry Tempest Williams
@@ -35,7 +35,8 @@ list:
         description: "“America’s national parks are breathing spaces in a world in which such spaces are steadily disappearing, which is why more than 300 million people visit the parks each year. Now Terry Tempest Williams, the author of the environmental classic <cite>Refuge</cite> and the beloved memoir <cite>When Women Were Birds</cite>, returns with <cite>The Hour of Land</cite>, a literary celebration of our national parks, an exploration of what they mean to us and what we mean to them.”"
         genre: [nature]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-08-11
 
       - title: "Star Circle: The Bighorn Medicine Wheel"
         author: Ivy Merriot
