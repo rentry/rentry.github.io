@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Otherlands: A Journey Through Earth's Extinct Worlds"
+        author: Thomas Halliday
+        link: https://en.wikipedia.org/wiki/Otherlands_(book)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1638151551i/58065802.jpg
+        description: "“The past is past, but it does leave clues, and Thomas Halliday has used cutting-edge science to decipher them more completely than ever before. In <cite>Otherlands</cite>, Halliday makes sixteen fossil sites burst to life on the page. This book is an exploration of the Earth as it used to exist, the changes that have occurred during its history, and the ways that life has found to adapt―or not.”"
+        genre: [biology, paleontology]
+        format: audiobook
+        completed: In progress
+
       - title: "The Maps of Middle-Earth"
         author: Brian Sibley
         link: https://www.goodreads.com/book/show/199683103-the-maps-of-middle-earth
@@ -26,7 +35,8 @@ list:
         description: "“Drawing on a decade of experience leading and teaching in college environmental studies programs, Sarah Jaquette Ray has created an “existential tool kit” for the climate generation. Combining insights from psychology, sociology, social movements, mindfulness, and the environmental humanities, Ray explains why and how we need to let go of eco-guilt, resist burnout, and cultivate resilience while advocating for climate justice. <cite>A Field Guide to Climate Anxiety</cite> is the essential guidebook for the climate generation—and perhaps the rest of us—as we confront the greatest environmental threat of our time.”"
         genre: [climate]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-08-18
 
       - title: "The Hour of Land: A Personal Topography of America's National Parks"
         author: Terry Tempest Williams
