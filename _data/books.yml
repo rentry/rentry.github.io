@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Orwell's Ghosts: Wisdom and Warnings for the Twenty-First Century"
+        author: Laura Beers
+        link: https://wwnorton.com/books/9781324075080
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1698469396i/200869472.jpg
+        description: "“George Orwell devoted his career to exposing social injustice and political duplicity, urging his readers to face hard truths about Western society and politics. Now, the uncanny parallels between the interwar era and our own—rising inequality, censorship, and challenges to traditional social hierarchies—make his writing even more of the moment. In <cite>Orwell’s Ghosts</cite>, historian Laura Beers considers Orwell’s full body of work—his six novels, three nonfiction works, as well as his brilliant essays—to examine what “Orwellian” means and to take it out of the hands of political pundits.”"
+        genre: [history, politics]
+        format: audiobook
+        completed: In progress
+
       - title: "Otherlands: A Journey Through Earth's Extinct Worlds"
         author: Thomas Halliday
         link: https://en.wikipedia.org/wiki/Otherlands_(book)
@@ -10,7 +19,8 @@ list:
         description: "“The past is past, but it does leave clues, and Thomas Halliday has used cutting-edge science to decipher them more completely than ever before. In <cite>Otherlands</cite>, Halliday makes sixteen fossil sites burst to life on the page. This book is an exploration of the Earth as it used to exist, the changes that have occurred during its history, and the ways that life has found to adapt―or not.”"
         genre: [biology, paleontology]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-08-27
 
       - title: "The Maps of Middle-Earth"
         author: Brian Sibley
