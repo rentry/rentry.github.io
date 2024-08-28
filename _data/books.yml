@@ -36,7 +36,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712325358i/199683103.jpg
         description: "“J.R.R. Tolkien once wrote: “I wisely started with a map, and made the story fit.” <cite>The Maps of Middle-earth</cite> presents four of Tolkien’s iconic maps, reimagined and newly updated for this edition by acclaimed Tolkien artist, John Howe, and richly decorated with scenes from the books. The maps are accompanied by an authoritative text written by Brian Sibley, which tells the stories behind <cite>The Hobbit</cite>, <cite>The Lord of the Rings</cite> and <cite>The Silmarillion</cite>, and gives accounts of how the original maps came into being.”"
         genre: [fantasy, cartography]
-        completed: In progress
+        rating: 3
+        completed: 2024-08-27
 
       - title: "Cartographic Relief Presentation"
         author: Eduard Imhof
