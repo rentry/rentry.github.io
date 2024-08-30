@@ -3,13 +3,22 @@ list:
   - year: 2024
     books:
 
+      - title: "Still Alive: A Wild Life of Rediscovery"
+        author: Forrest Galante
+        link: https://www.hachettebookgroup.com/titles/forrest-galante/still-alive/9780306924255/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1617706697i/55653209.jpg
+        description: "“Very few individuals can truthfully say that their work impacts every person on earth.  Forrest Galante is one of them. As a wildlife biologist and conservationist, Galante devotes his life to studying, rediscovering, and protecting our planet’s amazing lifeforms. Part memoir, part biological adventure, <cite>Still Alive</cite> celebrates the beauty and determined resiliency of our world, as well as the brave conservationists fighting to save it.”"
+        genre: [science, nature, conservation]
+        format: audiobook
+        completed: In progress
+
       - title: "Mapping Middle-earth: Environmental and Political Narratives in J. R. R. Tolkien's Cartographies"
         author: Anahit Behrooz
         link: https://www.bloomsbury.com/us/mapping-middleearth-9781350290785/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687141209i/176409198.jpg
         description: "“In this cutting-edge study of Tolkien's most critically neglected maps, Anahit Behrooz examines how cartography has traditionally been bound up in facilitating power. Far more than just illustrations to aid understanding of the story, Tolkien's corpus of maps are crucial to understanding the broader narratives between humans and their political and environmental landscapes within his legendarium. Undertaking a diegetic literary analysis of the maps as examples of Middle-earth's own cultural output, Behrooz reveals a sub-created tradition of cartography that articulates specific power dynamics between mapmaker, map reader, and what is being mapped, as well as the human/nonhuman binary that represents human's control over the natural world.”"
         genre: [cartography, fantasy]
-        completed: Next
+        completed: In progress
 
       - title: "Orwell's Ghosts: Wisdom and Warnings for the Twenty-First Century"
         author: Laura Beers
@@ -18,7 +27,8 @@ list:
         description: "“George Orwell devoted his career to exposing social injustice and political duplicity, urging his readers to face hard truths about Western society and politics. Now, the uncanny parallels between the interwar era and our own—rising inequality, censorship, and challenges to traditional social hierarchies—make his writing even more of the moment. In <cite>Orwell’s Ghosts</cite>, historian Laura Beers considers Orwell’s full body of work—his six novels, three nonfiction works, as well as his brilliant essays—to examine what “Orwellian” means and to take it out of the hands of political pundits.”"
         genre: [history, politics]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-08-28
 
       - title: "Otherlands: A Journey Through Earth's Extinct Worlds"
         author: Thomas Halliday
