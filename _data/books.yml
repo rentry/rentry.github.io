@@ -10,7 +10,7 @@ list:
         description: "“An epic, heartbreaking, and deeply reported history of the disastrous humanitarian crisis at the southern border told through the lives of the migrants forced to risk everything and the policymakers who determine their fate, by New Yorker staff writer Jonathan Blitzer. Everyone who makes the journey faces an impossible choice. They may have already been deported from the United States, but it remains their only hope for safety and prosperity. Their homes have become uninhabitable. They will take their chances.”"
         genre: [politics, history]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Still Alive: A Wild Life of Rediscovery"
         author: Forrest Galante
@@ -19,7 +19,8 @@ list:
         description: "“Very few individuals can truthfully say that their work impacts every person on earth.  Forrest Galante is one of them. As a wildlife biologist and conservationist, Galante devotes his life to studying, rediscovering, and protecting our planet’s amazing lifeforms. Part memoir, part biological adventure, <cite>Still Alive</cite> celebrates the beauty and determined resiliency of our world, as well as the brave conservationists fighting to save it.”"
         genre: [science, nature, conservation]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-09-02
 
       - title: "Mapping Middle-earth: Environmental and Political Narratives in J. R. R. Tolkien's Cartographies"
         author: Anahit Behrooz
