@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Learning to Die in the Anthropocene: Reflections on the End of a Civilization"
+        author: Roy Scranton
+        link: https://www.goodreads.com/book/show/25330145-learning-to-die-in-the-anthropocene
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517514671i/25330145.jpg
+        description: "“Our world is changing. Rising seas, spiking temperatures, and extreme weather imperil global infrastructure, crops, and water supplies. Conflict, famine, plagues, and riots menace from every quarter. From war-stricken Baghdad to the melting Arctic, human-caused climate change poses a danger not only to political and economic stability, but to civilization itself . . . and to what it means to be human. Our greatest enemy, it turns out, is ourselves. Plato argued that to philosophize is to learn to die. If that’s true, says Scranton, then we have entered humanity’s most philosophical age—or this is precisely the problem of the Anthropocene. The trouble now is that we must learn to die not as individuals, but as a civilization.”"
+        genre: [climate]
+        format: audiobook
+        completed: In progress
+
       - title: "Everyone Who Is Gone Is Here: The United States, Central America, and the Making of a Crisis"
         author: Jonathan Blitzer
         link: https://www.penguinrandomhouse.com/books/625425/everyone-who-is-gone-is-here-by-jonathan-blitzer/
@@ -10,7 +19,8 @@ list:
         description: "“An epic, heartbreaking, and deeply reported history of the disastrous humanitarian crisis at the southern border told through the lives of the migrants forced to risk everything and the policymakers who determine their fate, by New Yorker staff writer Jonathan Blitzer. Everyone who makes the journey faces an impossible choice. They may have already been deported from the United States, but it remains their only hope for safety and prosperity. Their homes have become uninhabitable. They will take their chances.”"
         genre: [politics, history]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-09-13
 
       - title: "Still Alive: A Wild Life of Rediscovery"
         author: Forrest Galante
