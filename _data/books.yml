@@ -3,6 +3,24 @@ list:
   - year: 2024
     books:
 
+      - title: "The Old Man"
+        author: Thomas Perry
+        link: https://en.wikipedia.org/wiki/The_Old_Man_(Perry_novel)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1470284811i/30316148.jpg
+        description: "“To all appearances, Dan Chase is a harmless retiree in Vermont with two big mutts and a grown daughter he keeps in touch with by phone. But most sixty-year-old widowers don’t have multiple driver’s licenses, savings stockpiled in banks across the country, and a bugout kit with two Beretta Nanos stashed in the spare bedroom closet. Most have not spent decades on the run. Thirty-five years ago, as a young hotshot in army intelligence, Chase was sent to Libya to covertly assist a rebel army. When the plan turned sour, Chase reacted according to his own ideas of right and wrong, triggering consequences he could never have anticipated. And someone still wants him dead because of them.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
+      - title: "Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History"
+        author: Kalee Thompson
+        link: https://www.harpercollins.ca/9780061766305/deadliest-sea/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442764004i/8075113.jpg
+        description: "“<cite>Deadliest Sea</cite> by Kalee Thompson is the spellbinding true story of the greatest rescue in U.S. Coast Guard history. Recounting the tragic sinking of the fishing trawler, Alaska Ranger, in the Bering Sea and its remarkable aftermath in March 2008, <cite>Deadliest Sea</cite> is real life action and adventure at its finest. The full story of an amazing rescue—where extraordinary courage, ingenuity, will, and technology combined in one of the most remarkable maritime feats ever recorded—has never been told before now.”"
+        genre: [history]
+        format: audiobook
+        completed: In progress        
+
       - title: "Slough House #1: Slow Horses"
         author: Mick Herron
         link: https://www.penguinrandomhouse.com/series/OHN/slough-house/
@@ -12,15 +30,6 @@ list:
         format: audiobook
         rating: 4
         completed: 2024-09-21
-
-      - title: "Deadliest Sea: The Untold Story Behind the Greatest Rescue in Coast Guard History"
-        author: Kalee Thompson
-        link: https://www.harpercollins.ca/9780061766305/deadliest-sea/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1442764004i/8075113.jpg
-        description: "“<cite>Deadliest Sea</cite> by Kalee Thompson is the spellbinding true story of the greatest rescue in U.S. Coast Guard history. Recounting the tragic sinking of the fishing trawler, Alaska Ranger, in the Bering Sea and its remarkable aftermath in March 2008, <cite>Deadliest Sea</cite> is real life action and adventure at its finest. The full story of an amazing rescue—where extraordinary courage, ingenuity, will, and technology combined in one of the most remarkable maritime feats ever recorded—has never been told before now.”"
-        genre: [history]
-        format: audiobook
-        completed: In progress
 
       - title: "Learning to Die in the Anthropocene: Reflections on the End of a Civilization"
         author: Roy Scranton
