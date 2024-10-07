@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Exploring Oregon's History"
+        author: William L. Sullivan
+        link: https://www.goodreads.com/book/show/60341731-exploring-oregon-s-history
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644894266i/60341731.jpg
+        description: "“Recounted in a fresh style that's fun for armchair travelers and hikers alike, this guidebook tells the stories behind 57 of the Oregon's most scenic historic sites. Come follow Lewis and Clark's trail across Tillamook Head. Ride with Chief Joseph on his tragic retreat through Hells Canyon. Discover paths to fire lookouts, lighthouses, and abandoned gold mines. Relive legends, discoveries, scandals, and triumphs that rocked the West.”"
+        genre: [travel]
+        completed: In progress
+
       - title: "Wintering: The Power of Rest and Retreat in Difficult Times"
         author: Katherine May
         link: https://katherine-may.co.uk/wintering
@@ -78,7 +86,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687141209i/176409198.jpg
         description: "“In this cutting-edge study of Tolkien's most critically neglected maps, Anahit Behrooz examines how cartography has traditionally been bound up in facilitating power. Far more than just illustrations to aid understanding of the story, Tolkien's corpus of maps are crucial to understanding the broader narratives between humans and their political and environmental landscapes within his legendarium. Undertaking a diegetic literary analysis of the maps as examples of Middle-earth's own cultural output, Behrooz reveals a sub-created tradition of cartography that articulates specific power dynamics between mapmaker, map reader, and what is being mapped, as well as the human/nonhuman binary that represents human's control over the natural world.”"
         genre: [cartography, fantasy]
-        completed: In progress
+        completed: 2024-10-06
 
       - title: "Orwell's Ghosts: Wisdom and Warnings for the Twenty-First Century"
         author: Laura Beers
