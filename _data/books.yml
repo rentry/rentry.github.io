@@ -86,6 +86,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687141209i/176409198.jpg
         description: "“In this cutting-edge study of Tolkien's most critically neglected maps, Anahit Behrooz examines how cartography has traditionally been bound up in facilitating power. Far more than just illustrations to aid understanding of the story, Tolkien's corpus of maps are crucial to understanding the broader narratives between humans and their political and environmental landscapes within his legendarium. Undertaking a diegetic literary analysis of the maps as examples of Middle-earth's own cultural output, Behrooz reveals a sub-created tradition of cartography that articulates specific power dynamics between mapmaker, map reader, and what is being mapped, as well as the human/nonhuman binary that represents human's control over the natural world.”"
         genre: [cartography, fantasy]
+        rating: 4
         completed: 2024-10-06
 
       - title: "Orwell's Ghosts: Wisdom and Warnings for the Twenty-First Century"
