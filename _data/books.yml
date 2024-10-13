@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "The Age of Deer: Trouble and Kinship with our Wild Neighbors"
+        author: Erika Howsare
+        link: https://books.catapult.co/books/the-age-of-deer/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684785926i/125092587.jpg
+        description: "“Deer have been an important part of the world that humans occupy for millennia. They’re one of the only large animals that can thrive in our presence. In the 21st century, our relationship is full of contradictions: We hunt and protect them; we cull them from suburbs while making them an icon of wilderness; we see them both as victims and as pests. But there is no doubt that we have a connection to deer: in mythology and story, in ecosystems biological and digital, in cities and in forests.”"
+        genre: [Nature]
+        completed: Next
+
       - title: "Exploring Oregon's History"
         author: William L. Sullivan
         link: https://www.goodreads.com/book/show/60341731-exploring-oregon-s-history
