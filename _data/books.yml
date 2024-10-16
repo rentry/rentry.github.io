@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Lucky Loser: How Donald Trump Squandered His Father's Fortune and Created the Illusion of Success"
+        author: Russ Buettner and Susanne Craig
+        link: https://en.wikipedia.org/wiki/Lucky_Loser_(book)
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1726610364i/219298235.jpg
+        description: "“For decades he squandered his fortunes on money-losing businesses only to be saved yet again by financial serendipity. He tacked his name on every building while taking out huge loans he’d never repay. He obsessed over appearances while ignoring threats to the bottom line and mounting costly lawsuits against city officials. He tarnished the value of his name by allowing anyone with a big enough check to use it, and he cheated the television producer who not only rescued him from bankruptcy but also cast him as a business savant—the public image that carried Trump to the White House.”"
+        genre: [Politics]
+        format: audiobook
+        completed: Next
+
       - title: "The Age of Deer: Trouble and Kinship with our Wild Neighbors"
         author: Erika Howsare
         link: https://books.catapult.co/books/the-age-of-deer/
@@ -26,7 +35,8 @@ list:
         description: "“Sometimes you slip through the cracks: unforeseen circumstances like an abrupt illness, the death of a loved one, a break up, or a job loss can derail a life. These periods of dislocation can be lonely and unexpected. For May, her husband fell ill, her son stopped attending school, and her own medical issues led her to leave a demanding job. Wintering explores how she not only endured this painful time, but embraced the singular opportunities it offered. A moving personal narrative shot through with lessons from literature, mythology, and the natural world, May’s story offers instruction on the transformative power of rest and retreat.”"
         genre: [memoir]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-10-16
 
       - title: "The Old Man"
         author: Thomas Perry
