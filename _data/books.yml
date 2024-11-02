@@ -3,6 +3,14 @@ list:
   - year: 2024
     books:
 
+      - title: "Fullstack D3 and Data Visualization: Build beautiful data visualizations with D3"
+        author: Amelia Wattenberger
+        link: https://www.goodreads.com/book/show/53034164-fullstack-d3-and-data-visualization
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571695804l/53034164.jpg
+        description: "“The Fullstack D3 book is the complete guide to D3. With dozens of code examples showing each step, you can gain new insights into your data by creating visualizations.”"
+        genre: [web]
+        completed: In progress
+
       - title: "Lucky Loser: How Donald Trump Squandered His Father's Fortune and Created the Illusion of Success"
         author: Russ Buettner and Susanne Craig
         link: https://en.wikipedia.org/wiki/Lucky_Loser_(book)
@@ -10,7 +18,7 @@ list:
         description: "“For decades he squandered his fortunes on money-losing businesses only to be saved yet again by financial serendipity. He tacked his name on every building while taking out huge loans he’d never repay. He obsessed over appearances while ignoring threats to the bottom line and mounting costly lawsuits against city officials. He tarnished the value of his name by allowing anyone with a big enough check to use it, and he cheated the television producer who not only rescued him from bankruptcy but also cast him as a business savant—the public image that carried Trump to the White House.”"
         genre: [Politics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Age of Deer: Trouble and Kinship with our Wild Neighbors"
         author: Erika Howsare
