@@ -26,7 +26,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684785926i/125092587.jpg
         description: "“Deer have been an important part of the world that humans occupy for millennia. They’re one of the only large animals that can thrive in our presence. In the 21st century, our relationship is full of contradictions: We hunt and protect them; we cull them from suburbs while making them an icon of wilderness; we see them both as victims and as pests. But there is no doubt that we have a connection to deer: in mythology and story, in ecosystems biological and digital, in cities and in forests.”"
         genre: [Nature]
-        completed: Next
+        completed: In progress
 
       - title: "Exploring Oregon's History"
         author: William L. Sullivan
@@ -34,7 +34,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1644894266i/60341731.jpg
         description: "“Recounted in a fresh style that's fun for armchair travelers and hikers alike, this guidebook tells the stories behind 57 of Oregon's most scenic historic sites. Come follow Lewis and Clark's trail across Tillamook Head. Ride with Chief Joseph on his tragic retreat through Hells Canyon. Discover paths to fire lookouts, lighthouses, and abandoned gold mines. Relive legends, discoveries, scandals, and triumphs that rocked the West.”"
         genre: [travel]
-        completed: In progress
+        rating: 4
+        completed: 2024-11-02
 
       - title: "Wintering: The Power of Rest and Retreat in Difficult Times"
         author: Katherine May
