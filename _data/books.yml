@@ -9,7 +9,9 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709986452i/204927599.jpg
         description: "“For the last 100,000 years, we Sapiens have accumulated enormous power. But despite all our discoveries, inventions and conquests, we now find ourselves in an existential crisis. The world is on the verge of ecological collapse. Misinformation abounds. And we are rushing headlong into the age of AI – a new information network that threatens to annihilate us. If we are so wise, why are we so self-destructive?”"
         genre: [AI]
-        completed: In progress
+        format: audiobook
+        rating: 5
+        completed: 2024-11-11
 
       - title: "Fullstack D3 and Data Visualization: Build beautiful data visualizations with D3"
         author: Amelia Wattenberger
