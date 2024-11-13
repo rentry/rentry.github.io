@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Eight Bears: Mythic Past and Imperiled Future"
+        author: Gloria Dickie
+        link: https://www.gloriadickie.com/eight-bears
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681758563i/62585980.jpg
+        description: "“A global exploration of the eight remaining species of bears―and the dangers they face. Bears have always held a central place in our collective memory, from Indigenous folklore and Greek mythology to nineteenth-century fairytales and the modern toy shop. But as humans and bears come into ever-closer contact, our relationship nears a tipping point. Today, most of the eight remaining bear species are threatened with extinction. Some, such as the panda bear and the polar bear, are icons of the natural world; others, such as the spectacled bear and the sloth bear, are far less known.”"
+        genre: [Nature]
+        format: audiobook
+        completed: Next
+
       - title: "Nexus: A Brief History of Information Networks from the Stone Age to AI"
         author: Yuval Noah Harari
         link: https://www.ynharari.com/book/nexus/
