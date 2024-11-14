@@ -10,7 +10,7 @@ list:
         description: "“A global exploration of the eight remaining species of bears―and the dangers they face. Bears have always held a central place in our collective memory, from Indigenous folklore and Greek mythology to nineteenth-century fairytales and the modern toy shop. But as humans and bears come into ever-closer contact, our relationship nears a tipping point. Today, most of the eight remaining bear species are threatened with extinction. Some, such as the panda bear and the polar bear, are icons of the natural world; others, such as the spectacled bear and the sloth bear, are far less known.”"
         genre: [Nature]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Nexus: A Brief History of Information Networks from the Stone Age to AI"
         author: Yuval Noah Harari
@@ -37,7 +37,8 @@ list:
         description: "“For decades he squandered his fortunes on money-losing businesses only to be saved yet again by financial serendipity. He tacked his name on every building while taking out huge loans he’d never repay. He obsessed over appearances while ignoring threats to the bottom line and mounting costly lawsuits against city officials. He tarnished the value of his name by allowing anyone with a big enough check to use it, and he cheated the television producer who not only rescued him from bankruptcy but also cast him as a business savant—the public image that carried Trump to the White House.”"
         genre: [Politics]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-11-14
 
       - title: "The Age of Deer: Trouble and Kinship with our Wild Neighbors"
         author: Erika Howsare
