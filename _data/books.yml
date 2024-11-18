@@ -19,7 +19,8 @@ list:
         description: "“A global exploration of the eight remaining species of bears―and the dangers they face. Bears have always held a central place in our collective memory, from Indigenous folklore and Greek mythology to nineteenth-century fairytales and the modern toy shop. But as humans and bears come into ever-closer contact, our relationship nears a tipping point. Today, most of the eight remaining bear species are threatened with extinction. Some, such as the panda bear and the polar bear, are icons of the natural world; others, such as the spectacled bear and the sloth bear, are far less known.”"
         genre: [nature]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2024-11-18
 
       - title: "Nexus: A Brief History of Information Networks from the Stone Age to AI"
         author: Yuval Noah Harari
