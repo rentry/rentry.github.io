@@ -42,7 +42,7 @@ Here’s what it looks like:
     var marker = L.marker([{{ page.lat }}, {{ page.long }}]).addTo({{ page.map-var }});
 
     L.tileLayer('https://tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
-	maxZoom: 18,
+	maxZoom: {{ site.data.maptiles.max-zoom }},
 	attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     }).addTo({{ page.map-var }});
 

@@ -39,7 +39,7 @@ We can complete our fitness assessment any time between 6 months and 12 months a
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(fitnessFeature, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

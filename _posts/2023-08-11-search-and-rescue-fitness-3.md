@@ -53,7 +53,7 @@ This is going to be a hectic search and rescue weekend! I completed the fitness 
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(fitnessFeature, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

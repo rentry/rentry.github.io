@@ -51,7 +51,7 @@ That said, this loop is beautiful, passing as it does multiple alpine lakes flan
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(bighornTrack, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

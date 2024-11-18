@@ -71,7 +71,7 @@ In the end, I did the full hike, and ended up running into one of the Lander hig
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(windRiverTrack, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

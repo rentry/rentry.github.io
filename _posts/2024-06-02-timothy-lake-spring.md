@@ -73,7 +73,7 @@ As we head into yet another summer of climate anxiety and supercharged wildfire 
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(timTrack, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

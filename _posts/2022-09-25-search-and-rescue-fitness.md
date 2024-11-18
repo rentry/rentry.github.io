@@ -55,7 +55,7 @@ Here's the track, if you ever want to hike this yourself. You can do several (bi
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     L.geoJSON(fitnessFeature, {color: '{{ site.data.maptiles.color }}'}).addTo(map);

@@ -77,7 +77,7 @@ My mom and I split up for the evening so she could spend some time with her sist
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
         L.marker([44.82661, -107.92186]).addTo(map)

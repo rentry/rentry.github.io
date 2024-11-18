@@ -7,7 +7,7 @@
     L.tileLayer('{{ site.data.maptiles.tiles }}', {
     attribution: '{{ site.data.maptiles.attribution }}',
 	subdomains: 'abcd',
-	maxZoom: 19
+	maxZoom: {{ site.data.maptiles.max-zoom }}
     }).addTo({{ page.map-var }});
 
     marker.bindPopup("<strong>{{ page.popup-title }}</strong><br>{{ page.popup-text }}");

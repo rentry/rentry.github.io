@@ -61,7 +61,7 @@ About 15 minutes after we were called out, we received the location we should re
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
         attribution: '{{ site.data.maptiles.attribution }}',
         subdomains: 'abcd',
-        maxZoom: 19
+        maxZoom: {{ site.data.maptiles.max-zoom }}
         }).addTo(map);
 
     var circle = L.circle([45.40366, -121.78315], {
