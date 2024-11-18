@@ -3,12 +3,21 @@ list:
   - year: 2024
     books:
 
+      - title: "Area X: The Southern Reach Trilogy"
+        author: Jeff VanderMeer
+        link: https://us.macmillan.com/books/9780374261177/areax
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412547809i/22752442.jpg
+        description: "“A single-volume hardcover edition that brings together the first three volumes of the Southern Reach Series. In <cite>Annihilation</cite>, Area X-a remote and lush terrain-has been cut off from the rest of the continent for decades. Nature has reclaimed the last vestiges of human civilization. The first expedition returned with reports of a pristine, Edenic landscape; all the members of the second expedition committed suicide; the third expedition died in a hail of gunfire as its members turned on one another; the members of the eleventh expedition returned as shadows of their former selves, and within months of their return, all had died of aggressive cancer.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Eight Bears: Mythic Past and Imperiled Future"
         author: Gloria Dickie
         link: https://www.gloriadickie.com/eight-bears
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1681758563i/62585980.jpg
         description: "“A global exploration of the eight remaining species of bears―and the dangers they face. Bears have always held a central place in our collective memory, from Indigenous folklore and Greek mythology to nineteenth-century fairytales and the modern toy shop. But as humans and bears come into ever-closer contact, our relationship nears a tipping point. Today, most of the eight remaining bear species are threatened with extinction. Some, such as the panda bear and the polar bear, are icons of the natural world; others, such as the spectacled bear and the sloth bear, are far less known.”"
-        genre: [Nature]
+        genre: [nature]
         format: audiobook
         completed: In progress
 
@@ -35,7 +44,7 @@ list:
         link: https://en.wikipedia.org/wiki/Lucky_Loser_(book)
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1726610364i/219298235.jpg
         description: "“For decades he squandered his fortunes on money-losing businesses only to be saved yet again by financial serendipity. He tacked his name on every building while taking out huge loans he’d never repay. He obsessed over appearances while ignoring threats to the bottom line and mounting costly lawsuits against city officials. He tarnished the value of his name by allowing anyone with a big enough check to use it, and he cheated the television producer who not only rescued him from bankruptcy but also cast him as a business savant—the public image that carried Trump to the White House.”"
-        genre: [Politics]
+        genre: [politics]
         format: audiobook
         rating: 4
         completed: 2024-11-14
@@ -45,7 +54,7 @@ list:
         link: https://books.catapult.co/books/the-age-of-deer/
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684785926i/125092587.jpg
         description: "“Deer have been an important part of the world that humans occupy for millennia. They’re one of the only large animals that can thrive in our presence. In the 21st century, our relationship is full of contradictions: We hunt and protect them; we cull them from suburbs while making them an icon of wilderness; we see them both as victims and as pests. But there is no doubt that we have a connection to deer: in mythology and story, in ecosystems biological and digital, in cities and in forests.”"
-        genre: [Nature]
+        genre: [nature]
         completed: In progress
 
       - title: "Exploring Oregon's History"
