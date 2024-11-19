@@ -138,19 +138,22 @@ nav.site-nav {
 
 @media only screen and (max-width: 1300px) {
     .about-image {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-medium.jpg'); 
+    //    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-medium.jpg'); 
+        background-image: url('../assets/images/header-medium.jpg');
     }
 }
 
 @media only screen and (max-width: 980px) {
     .about-image {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-small.jpg');
+    //    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-small.jpg');
+        background-image: url('../assets/images/header-small.jpg');
     }
 }
 
 @media only screen and (max-width: 450px) {
     .about-image {
-        background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-verysmall.jpg');
+    //    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url('../assets/images/header-verysmall.jpg');
+        background-image: url('../assets/images/header-verysmall.jpg');
         //height: 350px;
     }
     #words-and-maps {
