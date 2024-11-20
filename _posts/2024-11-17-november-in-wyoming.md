@@ -49,7 +49,7 @@ I'll likely only be in Wyoming for a few weeks, so I hope to get up into the Big
 <div class="map" id="map"></div>
 
 <script>
-    var map = L.map('map').setView([44.32197, -106.82937], 14)   
+    var map = L.map('map').setView([44.32197, -106.82937], 13)   
     var grouseTrack = {% include data/2024/2024-grouse.html %} 
 
         L.tileLayer('{{ site.data.maptiles.tiles }}', {
