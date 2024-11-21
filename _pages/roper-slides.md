@@ -2,6 +2,7 @@
 layout: default
 permalink: /roper-slides/
 title: Roper Family Slides
+image: assets/images/roper_slides.jpg
 ---
 
 <h1>{{ page.title }}</h1>

@@ -2,6 +2,7 @@
 layout: default
 permalink: /johnson-slides/
 title: Johnson Family Slides
+image: assets/images/johnson_slides.jpg
 ---
 
 <h1>{{ page.title }}</h1>
