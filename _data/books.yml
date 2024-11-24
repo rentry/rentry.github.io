@@ -3,6 +3,15 @@ list:
   - year: 2024
     books:
 
+      - title: "Set Boundaries, Find Peace: A Guide to Reclaiming Yourself"
+        author: Nedra Glover Tawwab
+        link: https://www.nedratawwab.com/set-boundaries-find-peace
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606923742i/55782639.jpg
+        description: "“Healthy boundaries. We all know we should have them–in order to achieve work/life balance, cope with toxic people, and enjoy rewarding relationships with partners, friends, and family. But what do “healthy boundaries” really mean–and how can we successfully express our needs, say “no,” and be assertive without offending others?”"
+        genre: [self help]
+        format: audiobook
+        completed: Next
+
       - title: "Collision of Power: Trump, Bezos, and THE WASHINGTON POST"
         author: Martin Baron
         link: https://us.macmillan.com/books/9781250902238/collisionofpower
