@@ -18,7 +18,7 @@ I saw just two pheasant hunters as I drove into the area, parking at a trailhead
 
 After traversing a meadow at the base of the mountains, the trail rises in elevation toward another meadow where the narrow Northfork Sayles Canyon briefly opens.
 
-![Golden grass meadow leads to forested hillsides with a rock outcropping in the middle of the frame]({{ 'assets/images/2024-bud-love-3.jpg' | relative_url }}#full)
+![Golden grass meadow leads to forested hillsides with a rock outcropping in the middle of the frame]({{ 'assets/images/2024-bud-love-3.jpg' | relative_url }})
 
 ![Sloping rocky hillsides with red layers of rock line a canyon with conifer trees scattered]({{ 'assets/images/2024-bud-love-2.jpg' | relative_url }})
 
@@ -28,7 +28,7 @@ After traversing a meadow at the base of the mountains, the trail rises in eleva
 
 I always prefer a loop hike to an out-and-back if I can manage it, and I did so on this occasion. But it turned out my persistence in that plan was somewhat misguided, as the combination of two sections of downed timber due to wildfire, along with snow and ice and lack of discernible trail made for a longer duration and more difficult hike than I had planned.
 
-![Multiple downed trees with snow on the ground with young ponderosa pine growing densely]({{ 'assets/images/2024-bud-love-11.jpg' | relative_url }})
+![Multiple downed trees with snow on the ground with young ponderosa pine growing densely]({{ 'assets/images/2024-bud-love-11.jpg' | relative_url }}#full)
 
 ![A small, white rabbit's head pokes from underneath a downed log with ponderosa pine near]({{ 'assets/images/2024-bud-love-8.jpg' | relative_url }})
 
@@ -39,6 +39,10 @@ I did observe several fresh tracks in the snow, including elk, deer, and cougar,
 ![A skull hangs from a tree with a grassy field and rock outcropping in the blurred background]({{ 'assets/images/2024-bud-love-12.jpg' | relative_url }})
 
 ![A skull in the yellowed grass with blurred downed trees and downed timber in the background]({{ 'assets/images/2024-bud-love-9.jpg' | relative_url }})
+
+![A bright green butterfly on a rock with fir needles scattered]({{ 'assets/images/2024-bud-love-13.jpg' | relative_url }}#float)
+
+As I returned to the parking area, mine was the only vehicle in sight. I dodged a mule deer heading out of the wildlife area and drove the 15 minutes back to my parents' house.
 
 I will definitely return to this area of the Bighorns. But I think I'll skip the blowdown next time.
 
