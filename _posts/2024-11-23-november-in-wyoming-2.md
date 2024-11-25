@@ -32,7 +32,7 @@ I always prefer a loop hike to an out-and-back if I can manage it, and I did so 
 
 ![A small, white rabbit's head pokes from underneath a downed log with ponderosa pine near]({{ 'assets/images/2024-bud-love-8.jpg' | relative_url }})
 
-I didn't see much wildlife, apart from a snowshoe hare, mule deer, squirrels, several species of birds, and — curiously — a green butterfly (*Clouded Sulphur*). 
+I didn't see much wildlife, apart from a snowshoe hare, mule deer, squirrels, several species of birds, and — curiously — a green butterfly (*clouded sulphur*). 
 
 I did observe several fresh tracks in the snow, including elk, deer, and cougar, along with the remains of several deer and elk, one skull of which someone had hung from a tree near the trail.
 
