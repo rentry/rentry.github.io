@@ -3,6 +3,24 @@ list:
   - year: 2024
     books:
 
+      - title: "The Serviceberry: Abundance and Reciprocity in the Natural World"
+        author: Robin Wall Kimmerer
+        link: https://www.robinwallkimmerer.com/books
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1715665759i/208840291.jpg
+        description: "“As indigenous scientist and author of Braiding Sweetgrass Robin Wall Kimmerer harvests serviceberries alongside the birds, she considers the ethic of reciprocity that lies at the heart of the gift economy. How, she asks, can we learn from indigenous wisdom and the plant world to reimagine what we value most? Our economy is rooted in scarcity, competition, and the hoarding of resources, and we have surrendered our values to a system that actively harms what we love. Meanwhile, the serviceberry’s relationship with the natural world is an embodiment of reciprocity, interconnectedness, and gratitude. The tree distributes its wealth—its abundance of sweet, juicy berries—to meet the needs of its natural community. And this distribution insures its own survival.”"
+        genre: [nature, science, philosophy]
+        format: audiobook
+        completed: Next
+
+      - title: "The Tyranny of Merit: What's Become of the Common Good?"
+        author: Michael J. Sandel
+        link: https://www.goodreads.com/book/show/50364458-the-tyranny-of-merit
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1594431563i/50364458.jpg
+        description: "“These are dangerous times for democracy. We live in an age of winners and losers, where the odds are stacked in favour of the already fortunate. Stalled social mobility and entrenched inequality give the lie to the promise that "you can make it if you try". And the consequence is a brew of anger and frustration that has fuelled populist protest, with the triumph of Brexit and election of Donald Trump.”"
+        genre: [philosophy, politics]
+        format: audiobook
+        completed: Next        
+
       - title: "Set Boundaries, Find Peace: A Guide to Reclaiming Yourself"
         author: Nedra Glover Tawwab
         link: https://www.nedratawwab.com/set-boundaries-find-peace
@@ -10,7 +28,7 @@ list:
         description: "“Healthy boundaries. We all know we should have them–in order to achieve work/life balance, cope with toxic people, and enjoy rewarding relationships with partners, friends, and family. But what do “healthy boundaries” really mean–and how can we successfully express our needs, say “no,” and be assertive without offending others?”"
         genre: [self help]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Collision of Power: Trump, Bezos, and THE WASHINGTON POST"
         author: Martin Baron
@@ -19,16 +37,8 @@ list:
         description: "“Marty Baron took charge of <cite>The Washington Post</cite> newsroom in 2013, after nearly a dozen years leading <cite>The Boston Globe</cite>. Just seven months into his new job, Baron received explosive news: Jeff Bezos, the founder of Amazon, would buy the Post, marking a sudden end to control by the venerated family that had presided over the paper for 80 years. Just over two years later, Donald Trump won the presidency.”"
         genre: [media]
         format: audiobook
-        completed: In progress
-
-      - title: "Area X: The Southern Reach Trilogy"
-        author: Jeff VanderMeer
-        link: https://us.macmillan.com/books/9780374261177/areax
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1412547809i/22752442.jpg
-        description: "“A single-volume hardcover edition that brings together the first three volumes of the Southern Reach Series. In <cite>Annihilation</cite>, Area X-a remote and lush terrain-has been cut off from the rest of the continent for decades. Nature has reclaimed the last vestiges of human civilization. The first expedition returned with reports of a pristine, Edenic landscape; all the members of the second expedition committed suicide; the third expedition died in a hail of gunfire as its members turned on one another; the members of the eleventh expedition returned as shadows of their former selves, and within months of their return, all had died of aggressive cancer.”"
-        genre: [fiction]
-        format: audiobook
-        completed: Next
+        rating: 3
+        completed: 2024-11-29
 
       - title: "Eight Bears: Mythic Past and Imperiled Future"
         author: Gloria Dickie
