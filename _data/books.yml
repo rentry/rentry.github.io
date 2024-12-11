@@ -10,7 +10,7 @@ list:
         description: "“As indigenous scientist and author of Braiding Sweetgrass Robin Wall Kimmerer harvests serviceberries alongside the birds, she considers the ethic of reciprocity that lies at the heart of the gift economy. How, she asks, can we learn from indigenous wisdom and the plant world to reimagine what we value most? Our economy is rooted in scarcity, competition, and the hoarding of resources, and we have surrendered our values to a system that actively harms what we love. Meanwhile, the serviceberry’s relationship with the natural world is an embodiment of reciprocity, interconnectedness, and gratitude. The tree distributes its wealth—its abundance of sweet, juicy berries—to meet the needs of its natural community. And this distribution insures its own survival.”"
         genre: [nature, science, philosophy]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Tyranny of Merit: What's Become of the Common Good?"
         author: Michael J. Sandel
@@ -19,7 +19,8 @@ list:
         description: "“These are dangerous times for democracy. We live in an age of winners and losers, where the odds are stacked in favour of the already fortunate. Stalled social mobility and entrenched inequality give the lie to the promise that ‘you can make it if you try’. And the consequence is a brew of anger and frustration that has fuelled populist protest, with the triumph of Brexit and election of Donald Trump.”"
         genre: [philosophy, politics]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-12-10
 
       - title: "Set Boundaries, Find Peace: A Guide to Reclaiming Yourself"
         author: Nedra Glover Tawwab
