@@ -72,14 +72,6 @@ list:
         rating: 5
         completed: 2024-11-11
 
-      - title: "Fullstack D3 and Data Visualization: Build beautiful data visualizations with D3"
-        author: Amelia Wattenberger
-        link: https://www.goodreads.com/book/show/53034164-fullstack-d3-and-data-visualization
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1571695804l/53034164.jpg
-        description: "“The Fullstack D3 book is the complete guide to D3. With dozens of code examples showing each step, you can gain new insights into your data by creating visualizations.”"
-        genre: [web]
-        completed: In progress
-
       - title: "Lucky Loser: How Donald Trump Squandered His Father's Fortune and Created the Illusion of Success"
         author: Russ Buettner and Susanne Craig
         link: https://en.wikipedia.org/wiki/Lucky_Loser_(book)
@@ -96,7 +88,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1684785926i/125092587.jpg
         description: "“Deer have been an important part of the world that humans occupy for millennia. They’re one of the only large animals that can thrive in our presence. In the 21st century, our relationship is full of contradictions: We hunt and protect them; we cull them from suburbs while making them an icon of wilderness; we see them both as victims and as pests. But there is no doubt that we have a connection to deer: in mythology and story, in ecosystems biological and digital, in cities and in forests.”"
         genre: [nature]
-        completed: In progress
+        rating: 4
+        completed: 2024-12-15
 
       - title: "Exploring Oregon's History"
         author: William L. Sullivan
