@@ -3,6 +3,23 @@ list:
   - year: 2024
     books:
 
+      - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
+        author: John Marsh
+        link: https://monthlyreview.org/product/a-rotten-crowd-america-wealth-and-one-hundred-years-of-the-great-gatsby/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718937559i/210957088.jpg
+        description: "“One century ago, F. Scott Fitzgerald invited us into the lives of the “rotten crowd,” Jazz Age Americans with far more money than morals. <cite>In A Rotten Crowd: America, Wealth, and One Hundred Years of The Great Gatsby</cite>, John Marsh welcomes us back to Fitzgerald’s world to examine the rich and their reckless approach to human relationships, their poor taste in friends, and the harm they cause. As we move between 2025 and 1925 to consider how much—or little—has changed in the interim, A Rotten Crowd helps us discover what we can do about the obscene concentration of wealth in America today.”"
+        genre: [economics, literature, society]
+        completed: In progress
+
+      - title: "Beloved Beasts: Fighting for Life in an Age of Extinction"
+        author: Michelle Nijhuis
+        link: https://michellenijhuis.com/beloved-beasts
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605906975i/53404260.jpg
+        description: "“In the late nineteenth century, as humans came to realize that our rapidly industrializing and globalizing societies were driving other animal species to extinction, a movement to protect and conserve them was born. In <cite>Beloved Beasts</cite>, acclaimed science journalist Michelle Nijhuis traces the movement’s history: from early battles to save charismatic species such as the American bison and bald eagle to today’s global effort to defend life on a larger scale.”"
+        genre: [nature, conservation]
+        format: audiobook
+        completed: In progress
+
       - title: "Bone of the Bone: Essays on America by a Daughter of the Working Class"
         author: Sarah Smarsh
         link: https://sarahsmarsh.com/bone-of-the-bone
@@ -10,7 +27,8 @@ list:
         description: "“In <cite>Bone of the Bone</cite>, Sarah Smarsh brings her graceful storytelling and incisive critique to the challenges that define our times—class division, political fissures, gender inequality, environmental crisis, media bias, the rural-urban gulf. Smarsh, a journalist who grew up on a wheat farm in Kansas and was the first in her family to graduate from college, has long focused on cultural dissonance that many in her industry neglected until recently.”"
         genre: [memoir]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2024-12-26
 
       - title: "The Serviceberry: Abundance and Reciprocity in the Natural World"
         author: Robin Wall Kimmerer
