@@ -18,7 +18,8 @@ list:
         description: "“In the late nineteenth century, as humans came to realize that our rapidly industrializing and globalizing societies were driving other animal species to extinction, a movement to protect and conserve them was born. In <cite>Beloved Beasts</cite>, acclaimed science journalist Michelle Nijhuis traces the movement’s history: from early battles to save charismatic species such as the American bison and bald eagle to today’s global effort to defend life on a larger scale.”"
         genre: [nature, conservation]
         format: audiobook
-        completed: In progress
+        rating: 3
+        completed: 2025-01-04
 
   - year: 2024
     books:
