@@ -31,7 +31,7 @@ I was especially worried about a fire lookout I last visited in 2019, before all
 
 My last visit resulted in this photo (also the current photo on my homepage) when I was temporarily lost in the fog.
 
-![Trees ascending to the sky, wrapped in fog, with shrubs and moss surrounding]({{ 'assets/images/header.jpg' | relative_url }})
+![Trees ascending to the sky, wrapped in fog, with shrubs and moss surrounding]({{ 'assets/images/table-forest.jpg' | relative_url }})
 
 There's a historic fire lookout up there I last visited in 2019, and a special landmark I've been worried about for over two years.
 
