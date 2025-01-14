@@ -10,7 +10,8 @@ list:
         description: "“In his acclaimed bestseller <cite>The Rise and Fall of the Dinosaurs</cite>, American paleontologist Steve Brusatte enchanted readers with his definitive history of the dinosaurs. Now, picking up the narrative in the ashes of the extinction event that doomed T-rex and its kind, Brusatte explores the remarkable story of the family of animals that inherited the Earth—mammals— and brilliantly reveals that their story is every bit as fascinating and complex as that of the dinosaurs.”"
         genre: [science, nature]
         format: audiobook
-        completed: In progress
+        rating: 4
+        completed: 2025-01-13
 
       - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
         author: John Marsh
