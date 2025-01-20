@@ -28,7 +28,6 @@ list:
         description: "“In his acclaimed bestseller <cite>The Rise and Fall of the Dinosaurs</cite>, American paleontologist Steve Brusatte enchanted readers with his definitive history of the dinosaurs. Now, picking up the narrative in the ashes of the extinction event that doomed T-rex and its kind, Brusatte explores the remarkable story of the family of animals that inherited the Earth—mammals— and brilliantly reveals that their story is every bit as fascinating and complex as that of the dinosaurs.”"
         genre: [science, nature]
         format: audiobook
-        rating: 4
         completed: 2025-01-13
 
       - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
@@ -46,7 +45,6 @@ list:
         description: "“In the late nineteenth century, as humans came to realize that our rapidly industrializing and globalizing societies were driving other animal species to extinction, a movement to protect and conserve them was born. In <cite>Beloved Beasts</cite>, acclaimed science journalist Michelle Nijhuis traces the movement’s history: from early battles to save charismatic species such as the American bison and bald eagle to today’s global effort to defend life on a larger scale.”"
         genre: [nature, conservation]
         format: audiobook
-        rating: 3
         completed: 2025-01-04
 
   - year: 2024
