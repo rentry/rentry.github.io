@@ -3,6 +3,22 @@ list:
   - year: 2025
     books:
 
+        - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
+        author: John Marsh
+        link: https://monthlyreview.org/product/a-rotten-crowd-america-wealth-and-one-hundred-years-of-the-great-gatsby/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718937559i/210957088.jpg
+        description: "“One century ago, F. Scott Fitzgerald invited us into the lives of the “rotten crowd,” Jazz Age Americans with far more money than morals. <cite>In A Rotten Crowd: America, Wealth, and One Hundred Years of The Great Gatsby</cite>, John Marsh welcomes us back to Fitzgerald’s world to examine the rich and their reckless approach to human relationships, their poor taste in friends, and the harm they cause. As we move between 2025 and 1925 to consider how much—or little—has changed in the interim, A Rotten Crowd helps us discover what we can do about the obscene concentration of wealth in America today.”"
+        genre: [economics, literature, society]
+        completed: Next
+
+        - title: "Out on the Land: Bushcraft Skills from the Northern Forest"
+        author: Ray Mears and Lars Fält
+        link: https://www.raymears.com/Bushcraft_Product/1298-Out-on-the-Land-by-Ray-Mears-and-Lars-Falt-Signed-Copy/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465765551i/28260487.jpg
+        description: "“Out on the Land is an absorbing exploration of, and tribute to, the Boreal forest of the its landscape, its people, their cultures and skills, the wilderness that embodies it, and its immense beauty. The book is vast in scope and covers every aspect of being in the wilderness in both winter and summer (clothing, kit, skills, cooking, survival), revealing the age-old traditions and techniques, and how to carry them out yourself. It also includes case studies of early explorers, as well as modern-day adventurers who found themselves stranded in the forest and forced to work out a way to survive.”"
+        genre: [survival]
+        completed: In progress        
+
       - title: "Absolution"
         author: Jeff VanderMeer
         link: https://www.jeffvandermeer.com/book/absolution
@@ -38,14 +54,6 @@ list:
         genre: [science, nature]
         format: audiobook
         completed: 2025-01-13
-
-      - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
-        author: John Marsh
-        link: https://monthlyreview.org/product/a-rotten-crowd-america-wealth-and-one-hundred-years-of-the-great-gatsby/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718937559i/210957088.jpg
-        description: "“One century ago, F. Scott Fitzgerald invited us into the lives of the “rotten crowd,” Jazz Age Americans with far more money than morals. <cite>In A Rotten Crowd: America, Wealth, and One Hundred Years of The Great Gatsby</cite>, John Marsh welcomes us back to Fitzgerald’s world to examine the rich and their reckless approach to human relationships, their poor taste in friends, and the harm they cause. As we move between 2025 and 1925 to consider how much—or little—has changed in the interim, A Rotten Crowd helps us discover what we can do about the obscene concentration of wealth in America today.”"
-        genre: [economics, literature, society]
-        completed: In progress
 
       - title: "Beloved Beasts: Fighting for Life in an Age of Extinction"
         author: Michelle Nijhuis
