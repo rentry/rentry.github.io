@@ -2658,7 +2658,7 @@ list:
         genre: [fiction, hemingway]
         completed: 2021-04-12
 
-      - title: "All Marketers <strike>are Liars</strike> Tell Stories"
+      - title: "All Marketers <s>are Liars</s> Tell Stories"
         author: Seth Godin
         link: https://www.penguinrandomhouse.com/books/296997/all-marketers-are-liars-by-seth-godin/
         image: https://images4.penguinrandomhouse.com/cover/9781591845331

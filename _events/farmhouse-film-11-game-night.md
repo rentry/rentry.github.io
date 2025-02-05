@@ -6,7 +6,7 @@ event-image: /assets/images/game-mario-1.png
 image-alt: "Mario, wearing his trademark red suit and hat, riding the green dinosaur Yoshi"
 ---
 
-<h1>Farmhouse <strike>film</strike> game event: <br><cite>Super Mario World</cite></h1>
+<h1>Farmhouse <s>film</s> game event: <br><cite>Super Mario World</cite></h1>
 
 ## When
 

@@ -15,8 +15,8 @@ We recently moved into a new, _old_ farmhouse in the country, and we'd like you 
 
 ## When
 
-- <strike>Saturday, October 13<br>
-4 p.m. to whenever</strike>
+- <s>Saturday, October 13<br>
+4 p.m. to whenever</s>
 
 Event is over
 

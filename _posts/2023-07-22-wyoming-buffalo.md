@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Wyoming part three: <strike>Buffalo</strike> Durant"
+title: "Wyoming part three: <s>Buffalo</s> Durant"
 date: 2023-07-22
 description: "I bookended my hikes with time with my parents in Buffalo, a small town at the foot of the Bighorns that transforms into the fictional Wyoming town of Durant for four days in July."
 image: assets/images/2023-wyoming-buffalo-3.jpg

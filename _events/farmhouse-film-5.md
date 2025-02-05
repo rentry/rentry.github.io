@@ -6,7 +6,7 @@ event-image: /assets/images/film-wonder-boys.png
 image-alt: "An underrated film from the year 2000, <cite>Wonder Boys</cite> is a hilarious and poignant survey of academic life and mid-life crisis."
 ---
 
-# Farmhouse film event: <strike><cite>Wonder Boys</cite></strike> <cite>Kiss Kiss Bang Bang</cite>
+# Farmhouse film event: <s><cite>Wonder Boys</cite></s> <cite>Kiss Kiss Bang Bang</cite>
 
 > "It's funny. It's just fine. - Ryan
 
@@ -24,12 +24,12 @@ Bring food, drinks, facemasks, and whatever optimism about the future you have l
 
 ## We're excited to see you
 
-<strike>
+<s>
 James Leer: Now, that is a big trunk. It holds a tuba, a suitcase, a dead dog, and a garment bag almost perfectly.
 
 Grady Tripp:
 That's just what they used to say in the ads.
-</strike>
+</s>
 
 > - Harry Lockhart: I feel badly. Let me... What are you drinking?
 - Harmony Faith Lane: Bad.
