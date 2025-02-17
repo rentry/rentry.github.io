@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Searcher"
+        author: Tana French
+        link: https://www.goodreads.com/book/show/52661162-the-searcher
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588572246i/52661162.jpg
+        description: "“Retired detective Cal Hooper moves to a remote village in rural Ireland. His plans are to fix up the dilapidated cottage he's bought, to walk the mountains, to put his old police instincts to bed forever. Then a local boy appeals to him for help. His brother is missing, and no one in the village, least of all the police, seems to care. And once again, Cal feels that restless itch. Something is wrong in this community, and he must find out what, even if it brings trouble to his door.”"
+        genre: [mystery, fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
         author: John Marsh
         link: https://monthlyreview.org/product/a-rotten-crowd-america-wealth-and-one-hundred-years-of-the-great-gatsby/
@@ -17,16 +26,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1465765551i/28260487.jpg
         description: "“<cite>Out on the Land</cite> is an absorbing exploration of, and tribute to, the Boreal forest of the its landscape, its people, their cultures and skills, the wilderness that embodies it, and its immense beauty. The book is vast in scope and covers every aspect of being in the wilderness in both winter and summer (clothing, kit, skills, cooking, survival), revealing the age-old traditions and techniques, and how to carry them out yourself. It also includes case studies of early explorers, as well as modern-day adventurers who found themselves stranded in the forest and forced to work out a way to survive.”"
         genre: [survival]
-        completed: 2025-02-08      
-
-      - title: "Absolution"
-        author: Jeff VanderMeer
-        link: https://www.jeffvandermeer.com/book/absolution
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1712258927i/210367505.jpg
-        description: "“<cite>Absolution</cite> opens decades before Area X forms, with a science expedition whose mysterious end suggests terrifying consequences for the future – and marks the Forgotten Coast as a high-priority area of interest for Central, the shadowy government agency responsible for monitoring extraordinary threats.”"
-        genre: [fiction]
-        format: audiobook
-        completed: Next
+        completed: 2025-02-08
 
       - title: "The Violent Take It by Force: The Christian Movement That Is Threatening Our Democracy"
         author: Matthew D. Taylor
