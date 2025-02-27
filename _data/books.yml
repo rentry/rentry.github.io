@@ -3,13 +3,12 @@ list:
   - year: 2025
     books:
 
-      - title: "The Searcher"
-        author: Tana French
-        link: https://www.goodreads.com/book/show/52661162-the-searcher
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1588572246i/52661162.jpg
-        description: "“Retired detective Cal Hooper moves to a remote village in rural Ireland. His plans are to fix up the dilapidated cottage he's bought, to walk the mountains, to put his old police instincts to bed forever. Then a local boy appeals to him for help. His brother is missing, and no one in the village, least of all the police, seems to care. And once again, Cal feels that restless itch. Something is wrong in this community, and he must find out what, even if it brings trouble to his door.”"
-        genre: [mystery, fiction]
-        format: audiobook
+      - title: "Designing Content Authoring Experiences"
+        author: Greg Dunlap
+        link: https://authoringexperience.com/
+        image: https://images-us.bookshop.org/ingram/9798991762908.jpg?width=640&v=v2
+        description: "“A book for the designers, strategists, and developers who build and maintain content management systems. With practical examples and best practices, the book will show you how to create content management systems that support authors, so that authors can better serve their audiences.”"
+        genre: [tech]
         completed: In progress
 
       - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
