@@ -3,6 +3,23 @@ list:
   - year: 2025
     books:
 
+      - title: "Bread: A Baker's Book of Techniques and Recipes"
+        author: Jeffrey Hamelman
+        link: https://www.wiley.com/en-us/Bread%3A+A+Baker's+Book+of+Techniques+and+Recipes%2C+3rd+Edition-p-9781119577515
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1355961359i/15025620.jpg
+        description: "“When <cite>Bread</cite> was first published in 2004, it received the Julia Child Award for best First Book and became an instant classic. Hailed as a ‘masterwork of bread baking literature,’ Jeffrey Hamelman’s <cite>Bread</cite> features 140 detailed, step-by-step formulas for versatile sourdough ryes; numerous breads made with pre-ferments; and simple, straight dough loaves.”"
+        genre: [cooking]
+        completed: In progress
+
+      - title: "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism"
+        author: Sarah Wynn-Williams
+        link: https://bookshop.org/p/books/careless-people-a-cautionary-tale-of-power-greed-and-lost-idealism/22213433
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1741270961i/228818595.jpg
+        description: "“An explosive memoir charting one woman’s career at the heart of one of the most influential companies on the planet, <cite>Careless People</cite> gives you a front-row seat to Facebook, the decisions that have shaped world events in recent decades, and the people who made them.”"
+        genre: [tech]
+        format: audiobook
+        completed: In progress      
+
       - title: "Designing Content Authoring Experiences"
         author: Greg Dunlap
         link: https://authoringexperience.com/
@@ -10,14 +27,6 @@ list:
         description: "“A book for the designers, strategists, and developers who build and maintain content management systems. With practical examples and best practices, the book will show you how to create content management systems that support authors, so that authors can better serve their audiences.”"
         genre: [tech]
         completed: In progress
-
-      - title: "A Rotten Crowd: America, Wealth, and One-Hundred Years of The Great Gatsby"
-        author: John Marsh
-        link: https://monthlyreview.org/product/a-rotten-crowd-america-wealth-and-one-hundred-years-of-the-great-gatsby/
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718937559i/210957088.jpg
-        description: "“One century ago, F. Scott Fitzgerald invited us into the lives of the “rotten crowd,” Jazz Age Americans with far more money than morals. <cite>In A Rotten Crowd: America, Wealth, and One Hundred Years of The Great Gatsby</cite>, John Marsh welcomes us back to Fitzgerald’s world to examine the rich and their reckless approach to human relationships, their poor taste in friends, and the harm they cause. As we move between 2025 and 1925 to consider how much—or little—has changed in the interim, A Rotten Crowd helps us discover what we can do about the obscene concentration of wealth in America today.”"
-        genre: [economics, literature, society]
-        completed: Next
 
       - title: "Out on the Land: Bushcraft Skills from the Northern Forest"
         author: Ray Mears and Lars Fält
