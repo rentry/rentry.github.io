@@ -34,7 +34,7 @@ list:
         image: https://images-us.bookshop.org/ingram/9798991762908.jpg?width=640&v=v2
         description: "“A book for the designers, strategists, and developers who build and maintain content management systems. With practical examples and best practices, the book will show you how to create content management systems that support authors, so that authors can better serve their audiences.”"
         genre: [tech]
-        completed: In progress
+        completed: 2025-03-22
 
       - title: "Out on the Land: Bushcraft Skills from the Northern Forest"
         author: Ray Mears and Lars Fält
