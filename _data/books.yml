@@ -17,7 +17,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730953221i/219551344.jpg
         description: "“The government is a vast, complex system that Americans pay for, rebel against, rely upon, dismiss, and celebrate. It’s also our shared resource for addressing the biggest problems of society. And it’s made up of people, mostly unrecognized and uncelebrated, doing work that can be deeply consequential and beneficial to everyone. Michael Lewis invited his favorite writers to find someone doing an interesting job for the government and write about them.”"
         genre: [politics, history]
-        completed: Next
+        completed: In progress
 
       - title: "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism"
         author: Sarah Wynn-Williams
@@ -26,7 +26,7 @@ list:
         description: "“An explosive memoir charting one woman’s career at the heart of one of the most influential companies on the planet, <cite>Careless People</cite> gives you a front-row seat to Facebook, the decisions that have shaped world events in recent decades, and the people who made them.”"
         genre: [tech]
         format: audiobook
-        completed: In progress      
+        completed: 2025-03-29     
 
       - title: "Designing Content Authoring Experiences"
         author: Greg Dunlap
