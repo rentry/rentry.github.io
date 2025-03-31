@@ -21,8 +21,3 @@ When I'm not working, I'm likely walking among trees, [reading a book]({{ '/book
     <li><a href="https://github.com/rentry">{% include github_icon.html %} rentry</a></li>
     <li><a href="https://github.com/brentryanjohnson">{% include github_icon.html %} brentryanjohnson</a></li>
 </ul>
-
-## Social
-<ul class="contact-list">
-    <li><a rel="me" href="https://mastodon.social/@forestglenroad">{% include social_icon.html %} @forestglenroad</a></li>
-</ul>
