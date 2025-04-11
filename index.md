@@ -8,7 +8,7 @@ I live in the woods just outside Portland, Oregon. My work is in content strateg
 
 Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.gsa.gov/) and the [Department of Homeland Security](https://ohss.dhs.gov/).
 
-When I'm not working, I'm likely walking among trees, [reading a book]({{ '/books/' | relative_url }}), or serving as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}).
+When I'm not working, I'm likely walking among trees or [reading a book]({{ '/books/' | relative_url }}). I've also served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}).
 
 ## Words
 <ul class="contact-list">
