@@ -6,7 +6,7 @@ layout: about
 
 I live in the woods just outside Portland, Oregon. My work is in content strategy, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
-Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.gsa.gov/) and the [Department of Homeland Security](https://ohss.dhs.gov/).
+Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.org/) and the [Department of Homeland Security](https://ohss.dhs.gov/).
 
 When I'm not working, I'm likely walking among trees or [reading a book]({{ '/books/' | relative_url }}). I've also served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}).
 
