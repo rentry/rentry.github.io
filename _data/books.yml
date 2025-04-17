@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Tooth and Claw: A Longmire Story"
+        author: Craig Johnson
+        link: https://www.craigallenjohnson.com/tooth-and-claw.htm
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718898255i/209018850.jpg
+        description: "“<cite>Tooth and Claw</cite> follows Walt and Henry up to Alaska as they look for work after they both returned from serving in Vietnam. While working for an oil company in the bitter cold of winter, they soon encounter a ferocious polar bear who seems hell-bent on their destruction. But it’s not too long until they realize the danger does not lurk outside in the frozen Alaskan tundra, but with their co-workers who are after priceless treasure and will stop at nothing to get it.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Sunrise on the Reaping"
         author: Suzanne Collins
         link: https://en.wikipedia.org/wiki/Sunrise_on_the_Reaping
@@ -18,7 +27,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725646202i/205673374.jpg
         description: "“It has been called Wonderland, America’s Serengeti, the crown jewel of the National Park System, and America’s best idea. But how did this faraway landscape evolve into one of the most recognizable places in the world? As the birthplace of the national park system, Yellowstone witnessed the first-ever attempt to protect wildlife, to restore endangered species, and to develop a new industry centered on nature tourism.Yellowstone remains a national icon, one of the few entities capable of bridging ideological divides in the United States. Yet the park’s history is also filled with episodes of conflict and exclusion, setting precedents for Native American land dispossession, land rights disputes, and prolonged tensions between commercialism and environmental conservation."
         genre: [history, nature]
-        completed: Next
+        completed: In progress
 
       - title: "Who Is Government?: The Untold Story of Public Service"
         author: Michael Lewis (Editor), Casey Cep, Dave Eggers, John Lanchester, Geraldine Brooks, Sarah Vowell, W. Kamau Bell
@@ -26,7 +35,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1730953221i/219551344.jpg
         description: "“The government is a vast, complex system that Americans pay for, rebel against, rely upon, dismiss, and celebrate. It’s also our shared resource for addressing the biggest problems of society. And it’s made up of people, mostly unrecognized and uncelebrated, doing work that can be deeply consequential and beneficial to everyone. Michael Lewis invited his favorite writers to find someone doing an interesting job for the government and write about them.”"
         genre: [politics, history]
-        completed: In progress
+        completed: 2025-04-17
 
       - title: "Careless People: A Cautionary Tale of Power, Greed, and Lost Idealism"
         author: Sarah Wynn-Williams
