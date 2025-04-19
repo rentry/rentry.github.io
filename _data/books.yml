@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Beartooth"
+        author: Callan Wink
+        link: https://callanwink.com/beartooth
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718389573i/206549834.jpg
+        description: "“In an aging timber house hand-built into the Absaroka-Beartooth mountains, two brothers are struggling to keep up with their debts. They live off the grid on the fringe of Yellowstone, surviving after the death of their father. Thad, the elder, is more capable of engaging with things like the truck registration and the medical bills from their father’s fatal illness and the tax lien on the cabin their grandfather built, while Hazen is... different, more instinctual, deeply attuned to the natural world. Desperate for money, they are approached by a shadowy out-of-towner with a proposition and agree to attempt a heist of natural resources from Yellowstone, a federal crime. <cite>Beartooth</cite> is a fast-paced tale set in the grandeur of the American West.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Tooth and Claw: A Longmire Story"
         author: Craig Johnson
         link: https://www.craigallenjohnson.com/tooth-and-claw.htm
