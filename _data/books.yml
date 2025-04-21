@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Rise and Fall of the Dinosaurs: A New History of a Lost World"
+        author: Steve Brusatte
+        link: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Dinosaurs
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1515529573i/35820369.jpg
+        description: "“The dinosaurs. Sixty-six million years ago, the Earth’s most fearsome creatures vanished. Today they remain one of our planet’s great mysteries. Now <cite>The Rise and Fall of the Dinosaurs</cite> reveals their extraordinary, 200-million-year-long story as never before.”"
+        genre: [science, nature]
+        format: audiobook
+        completed: In progress
+
       - title: "Beartooth"
         author: Callan Wink
         link: https://callanwink.com/beartooth
