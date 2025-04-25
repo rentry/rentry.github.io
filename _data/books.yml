@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Project: How Project 2025 Is Reshaping America"
+        author: David A. Graham
+        link: https://www.davidagraham.com/the-project
+        image: https://images.squarespace-cdn.com/content/v1/60f38026f652ad714bb94a12/a5a42d18-9685-4056-b266-01ad4a08caf6/TheProject_ApprovedCover_0203_Trim.jpg
+        description: "“When President Donald Trump returned to the White House in January 2025, news spread about his implementation of Project 2025, a nearly 1,000-page document published by the conservative think tank The Heritage Foundation. The debates—and anxiety—surrounding this initiative have only increased as authors of the Project assume positions of power in the second Trump administration. So, what is Project 2025, exactly? Who wrote it, and what does its mean for everyday Americans, across the political spectrum, now and in the years to come? In <cite>The Project</cite>, award-winning journalist David A. Graham offers much-needed context and distills the essential elements of this sprawling document.”"
+        genre: [politics]
+        format: audiobook
+        completed: Next
+
       - title: "The Rise and Fall of the Dinosaurs: A New History of a Lost World"
         author: Steve Brusatte
         link: https://en.wikipedia.org/wiki/The_Rise_and_Fall_of_the_Dinosaurs
