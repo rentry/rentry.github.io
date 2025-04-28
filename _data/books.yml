@@ -10,7 +10,7 @@ list:
         description: "“When President Donald Trump returned to the White House in January 2025, news spread about his implementation of Project 2025, a nearly 1,000-page document published by the conservative think tank The Heritage Foundation. The debates—and anxiety—surrounding this initiative have only increased as authors of the Project assume positions of power in the second Trump administration. So, what is Project 2025, exactly? Who wrote it, and what does its mean for everyday Americans, across the political spectrum, now and in the years to come? In <cite>The Project</cite>, award-winning journalist David A. Graham offers much-needed context and distills the essential elements of this sprawling document.”"
         genre: [politics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Rise and Fall of the Dinosaurs: A New History of a Lost World"
         author: Steve Brusatte
@@ -19,7 +19,7 @@ list:
         description: "“The dinosaurs. Sixty-six million years ago, the Earth’s most fearsome creatures vanished. Today they remain one of our planet’s great mysteries. Now <cite>The Rise and Fall of the Dinosaurs</cite> reveals their extraordinary, 200-million-year-long story as never before.”"
         genre: [science, nature]
         format: audiobook
-        completed: In progress
+        completed: 2025-04-27
 
       - title: "Beartooth"
         author: Callan Wink
