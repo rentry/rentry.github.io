@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "How Will Capitalism End? Essays on a Failing System"
+        author: Wolfgang Streeck
+        link: https://www.penguinrandomhouse.com/books/533258/how-will-capitalism-end-by-wolfgang-streeck/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1490648382i/25733863.jpg
+        description: "“After years of ill health, capitalism is now in a critical condition. Growth has given way to stagnation; inequality is leading to instability; and confidence in the money economy has all but evaporated. In <cite>How Will Capitalism End?</cite>, the acclaimed analyst of contemporary politics and economics Wolfgang Streeck argues that the world is about to change. The marriage between democracy and capitalism, ill-suited partners brought together in the shadow of World War II, is coming to an end. The regulatory institutions that once restrained the financial sector’s excesses have collapsed and, after the final victory of capitalism at the end of the Cold War, there is no political agency capable of rolling back the liberalization of the markets.”"
+        genre: [economics, politics]
+        format: audiobook
+        completed: In progress
+
       - title: "The Project: How Project 2025 Is Reshaping America"
         author: David A. Graham
         link: https://www.davidagraham.com/the-project
@@ -10,7 +19,7 @@ list:
         description: "“When President Donald Trump returned to the White House in January 2025, news spread about his implementation of Project 2025, a nearly 1,000-page document published by the conservative think tank The Heritage Foundation. The debates—and anxiety—surrounding this initiative have only increased as authors of the Project assume positions of power in the second Trump administration. So, what is Project 2025, exactly? Who wrote it, and what does its mean for everyday Americans, across the political spectrum, now and in the years to come? In <cite>The Project</cite>, award-winning journalist David A. Graham offers much-needed context and distills the essential elements of this sprawling document.”"
         genre: [politics]
         format: audiobook
-        completed: In progress
+        completed: 2025-04-29
 
       - title: "The Rise and Fall of the Dinosaurs: A New History of a Lost World"
         author: Steve Brusatte
