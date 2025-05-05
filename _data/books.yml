@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon"
+        author: Kevin Fedarko
+        link: https://www.kevinfedarko.com/a-walk-in-the-park
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1704985874i/199798198.jpg
+        description: "“A deeply moving account ever of walking the Grand Canyon, a highly dangerous, life-changing 750-mile trek. Consisting of countless cliffs and steep drops, plus immense stretches with almost no access to water, and the fact that not a single trail links its eastern doorway to its western terminus, this jewel of national parks is so challenging that when Fedarko departed fewer people had completed the journey in one single hike than had walked on the moon. The intensity of the effort required him to break his trip into several legs, each of which held staggering dangers and unexpected discoveries.”"
+        genre: [memoir]
+        format: audiobook
+        completed: In progress
+
       - title: "The Rise of Theodore Roosevelt"
         author: Edmund Morris
         link: https://en.wikipedia.org/wiki/The_Rise_of_Theodore_Roosevelt
