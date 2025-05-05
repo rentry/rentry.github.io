@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Rise of Theodore Roosevelt"
+        author: Edmund Morris
+        link: https://en.wikipedia.org/wiki/The_Rise_of_Theodore_Roosevelt
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586402749i/40929.jpg
+        description: "“Winner of the Pulitzer Prize and the National Book Award, <cite>The Rise of Theodore Roosevelt</cite> begins at the apex of his international prestige. That was on New Year’s Day, 1907, when TR, who had just won the Nobel Peace Prize, threw open the doors of the White House to the American people and shook 8,150 hands. One visitor remarked afterward, “You go to the White House, you shake hands with Roosevelt and hear him talk—and then you go home to wring the personality out of your clothes.” This classic biography is the story of seven men—a naturalist, a writer, a lover, a hunter, a ranchman, a soldier, and a politician—who merged at age forty-two to become the youngest President in history."
+        genre: [history]
+        format: audiobook
+        completed: In progress
+
       - title: "The Mountain Men"
         author: Steven Rinella
         link: https://store.themeateater.com/products/meateaters-american-history-the-mountain-men.html?lang=en_US
