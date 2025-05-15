@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self"
+        author: Michael Easter
+        link: https://eastermichael.com/book/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601481119i/55120630.jpg
+        description: "“Discover the evolutionary mind and body benefits of living at the edges of your comfort zone and reconnecting with the wild. In many ways, we’re more comfortable than ever before. But could our sheltered, temperature-controlled, overfed, underchallenged lives actually be the leading cause of many our most urgent physical and mental health issues? In this gripping investigation, award-winning journalist Michael Easter seeks out off-the-grid visionaries, disruptive genius researchers, and mind-body conditioning trailblazers who are unlocking the life-enhancing secrets of a counterintuitive solution: discomfort.”"
+        genre: [health]
+        format: audiobook
+        completed: In progress
+
       - title: "A Walk in the Park: The True Story of a Spectacular Misadventure in the Grand Canyon"
         author: Kevin Fedarko
         link: https://www.kevinfedarko.com/a-walk-in-the-park
