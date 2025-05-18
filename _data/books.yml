@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "Train Dreams"
+        author: Denis Johnson
+        link: https://en.wikipedia.org/wiki/Train_Dreams
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365600210i/12991188.jpg
+        description: "“Robert Grainier is a day labourer in the American West at the start of the twentieth century - an ordinary man in extraordinary times. Buffeted by the loss of his family, Grainier struggles to make sense of this strange new world. As his story unfolds, we witness both his shocking personal defeats and the radical changes that transform America in his lifetime. Suffused with the history and landscapes of the American West - its otherworldly flora and fauna, its rugged loggers and bridge-builders - <cite>Train Dreams</cite> captures the disappearance of a distinctly American way of life.”"
+        genre: [fiction]
+        completed: Next
+
       - title: "The Comfort Crisis: Embrace Discomfort To Reclaim Your Wild, Happy, Healthy Self"
         author: Michael Easter
         link: https://eastermichael.com/book/
