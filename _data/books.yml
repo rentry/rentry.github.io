@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Walt Longmire #21: Return to Sender"
+        author: Craig Johnson
+        link: https://craigallenjohnson.com/return-to-sender.htm
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737241269i/217245615.jpg
+        description: "“When Blair McGowan, the mail person with the longest postal route in the country, over three hundred mile a day, goes missing the question becomes -- where do you look for her? When the Postal Inspector for the State of Wyoming elicits Sheriff Longmire to mount an investigation into Wyoming’s Red Desert, Walt does everything but mail it in; posing as a letter-carrier himself, the good sheriff finds himself enveloped in the intrigue of an otherworldly cult and hoping not to end up in the dead letter office.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "The Long Walk"
         author: Stephen King (as Richard Bachman)
         link: https://en.wikipedia.org/wiki/The_Long_Walk_(novel)
@@ -10,7 +19,7 @@ list:
         description: "“Against the wishes of his mother, sixteen-year-old Ray Garraty is about to compete in the annual grueling match of stamina and wits known as The Long Walk. One hundred boys must keep a steady pace of four miles per hour without ever stopping... with the winner being awarded “The Prize”—anything he wants for the rest of his life. But, as part of this national tournament that sweeps through a dystopian America year after year, there are some harsh rules that Garraty and ninety-nine others must adhere to in order to beat out the rest. There is no finish line—the winner is the last man standing. Contestants cannot receive any outside aid whatsoever. Slow down under the speed limit and you're given a warning. Three warnings and you're out of the game—permanently.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-06-04
 
       - title: "Train Dreams"
         author: Denis Johnson
