@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "A Place of Greater Safety"
+        author: Hilary Mantel
+        link: https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363435037i/101921.jpg
+        description: "“Capturing the violence, tragedy, history, and drama of the French Revolution, this novel focuses on the families and loves of three men who led the Revolution—Danton, the charismatic leader and orator; Robespierre, the cold rationalist; and Desmoulins, the rabble-rouser.”"
+        genre: [historical fiction]
+        completed: Next
+
       - title: "A Life Wild and Perilous: Mountain Men and the Paths to the Pacific"
         author: Robert M. Utley
         link: https://www.goodreads.com/book/show/2032834.A_Life_Wild_and_Perilous
