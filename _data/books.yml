@@ -28,14 +28,6 @@ list:
         genre: [historical fiction]
         completed: Next
 
-      - title: "A Life Wild and Perilous: Mountain Men and the Paths to the Pacific"
-        author: Robert M. Utley
-        link: https://www.goodreads.com/book/show/2032834.A_Life_Wild_and_Perilous
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312037569i/2032834.jpg
-        description: "“Early in the nineteenth century, the mountain men emerged as a small but distinctive group whose knowledge and experience of the trans-Mississippi West exted the national consciousness to continental dimensions. Though Lewis and Clark blazed a narrow corridor of geographical reality, the West remained largely terra incognita until trappers and traders--Jim Bridger, Kit Carson, Tom Fitzpatrick, Jedediah Smith--opened paths through the snow-choked mountain wilderness. They opened the way west to Fremont and played a major role in the pivotal years of 1845-1848 when Texas was annexed, the Oregon question was decided, and the Mexican War ed with the Southwest and California in American hands, the Pacific Ocean becoming our western boundary.”"
-        genre: [history]
-        completed: Next
-
       - title: "Walt Longmire #21: Return to Sender"
         author: Craig Johnson
         link: https://craigallenjohnson.com/return-to-sender.htm
