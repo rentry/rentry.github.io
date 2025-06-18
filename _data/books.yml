@@ -9,7 +9,8 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1737172701i/222531211.jpg
         description: "“From the former prime minister of New Zealand, then the world’s youngest female head of government and just the second to give birth in office, comes a deeply personal memoir chronicling her extraordinary rise and offering inspiration to a new generation of leaders.”"
         genre: [memoir]
-        completed: Next
+        format: audiobook
+        completed: In progress
 
       - title: "Tomorrow, and Tomorrow, and Tomorrow"
         author: Gabrielle Zevin
@@ -18,7 +19,7 @@ list:
         description: "“In this exhilarating novel, two friends—often in love, but never lovers—come together as creative partners in the world of video game design, where success brings them fame, joy, tragedy, duplicity, and, ultimately, a kind of immortality.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-06-18
 
       - title: "A Place of Greater Safety"
         author: Hilary Mantel
