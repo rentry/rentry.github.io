@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Maid's Secret"
+        author: Nita Prose
+        link: https://www.goodreads.com/book/show/216351856-the-maid-s-secret
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1727715832i/216351856.jpg
+        description: "“Molly Gray’s life is about to change in ways she could never have imagined. As the esteemed Head Maid and recently promoted Special Events Manager of the Regency Grand Hotel, good things are just around the corner, including her marriage to her beloved fiancé, Juan Manuel, only two months away. But Molly’s entire existence is upended when a film crew descends upon the hotel to shoot the hit reality TV show <cite>Hidden Treasures</cite>, starring popular art appraisers Brown and Beagle. On a whim, Molly brings in a shoebox containing a few of her gran’s old things for appraisal, and much to everyone's surprise, one item turns out to be a rare and priceless treasure. Instantly, Molly is both a multi-millionaire and a media sensation—the world’s rags-to-riches darling—until the priceless piece vanishes from the hotel in the boldest, brashest antiquities heist in recent memory.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "A Different Kind of Power"
         author: Jacinda Ardern
         link: https://en.wikipedia.org/wiki/A_Different_Kind_of_Power
