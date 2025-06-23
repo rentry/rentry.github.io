@@ -26,9 +26,9 @@ The event was at little-known Shellburg Falls, which, despite being just south o
 
 ![People wearing hardhats walk a trail among burned and blackened trees with green shrubs on each side of the trail]({{ 'assets/images/2025-trailkeepers-shellburg-3.jpg' | relative_url }})
 
-The Shellburg Falls area is heavily impacted by the massive Beachie Creek fire in 2020, and only reopened in 2024.
+The Shellburg Falls area was heavily impacted by the massive Beachie Creek fire in 2020, and only reopened in 2024.
 
-The area required significant work to make it safe again for visitation, and now demands substantial trail maintenance to manage the eager new vegetation reasserting itself, along with structures to manage runoff and bridges to span multiple creeks and wetlands in the area. 
+The area required significant work to make it safe again for visitation, and now demands consistent trail maintenance to manage the eager new vegetation reasserting itself, along with structures to manage runoff and bridges to span multiple creeks and wetlands in the area. 
 
 ![A new wooden bridge with shrubs and trees in the background]({{ 'assets/images/2025-trailkeepers-shellburg-4.jpg' | relative_url }})
 
