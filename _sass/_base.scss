@@ -182,7 +182,7 @@ h1 {
 }
 
 .title {
-    color: #29353a;
+    color: $grey-color-brand;
     font-size: 1.4em;
 }
 
@@ -199,6 +199,8 @@ p {
 
 .sub-2 {
     text-decoration: none;
+    color: $grey-color-brand;
+    color: #29353a;
     margin-top: -.3em;
 }
 
