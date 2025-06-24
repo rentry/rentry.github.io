@@ -8,7 +8,7 @@ I live in the woods just outside Portland, Oregon. My work is in content strateg
 
 Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.org/), the [Department of Homeland Security](https://ohss.dhs.gov/), and [Oregon Department of Human Services](https://www.oregon.gov/odhs/pages/default.aspx).
 
-![A man stands in the forest wearing glasses, a yellow hat, a backpack, and a watch, with a grey shirt and olive colored pants]({{ 'assets/images/profile.png' | relative_url }}#float)
+<img src="/assets/images/profile.png" style="float: right; width: 260px;" alt="A man stands in the forest wearing glasses, a yellow hat, a backpack, and a watch, with a grey shirt and olive colored pants" />
 
 When I'm not working, I'm likely walking among trees or [reading a book]({{ '/books/' | relative_url }}). I also served for four years as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}) and currently volunteer with [Trailkeepers of Oregon](https://trailkeepersoforegon.org/).
 
