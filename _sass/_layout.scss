@@ -551,6 +551,18 @@ table {
     padding-left: .5rem;
 }
 
+.profile-pic {
+    float: right; 
+    width: 260px;
+}
+
+@media only screen and (max-width: 500px) {
+    .profile-pic {
+        display: block;
+        width: 100%;
+    }
+}
+
 @media only screen and (max-width: 640px) {
     .cover {
         float: none;
