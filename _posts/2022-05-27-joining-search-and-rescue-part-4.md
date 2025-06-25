@@ -5,7 +5,7 @@ date: 2022-05-27
 description: "Search and rescue is demanding. It's financially expensive (mostly gear and gas), time consuming, and emotionally taxing. So why did I join?"
 image: assets/images/sar/sar-team-1.jpg
 categories: [SAR]
-tags: [search and rescue]
+tags: [search and rescue, volunteer]
 ---
 
 I applied to join our local search and rescue team about a year ago. My wife had been encouraging me to do so for years, but I hadn't seriously considered it before last year. I'm not a parent, by I still felt like I had my hands full over the years with work, grad school, house projects, etc.

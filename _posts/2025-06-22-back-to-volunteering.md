@@ -5,7 +5,7 @@ date: 2025-06-22
 description: "After leaving the search and rescue team a few months ago, I decided it was time to get back into volunteer work. Today I volunteered with Trailkeepers of Oregon."
 image: assets/images/2025-trailkeepers-shellburg-2.jpg
 categories: [volunteer]
-tags: [Trailkeepers]
+tags: [Trailkeepers, volunteer]
 ---
 
 {% include leaflet.html %}

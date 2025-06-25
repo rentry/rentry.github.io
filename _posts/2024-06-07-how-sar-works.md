@@ -5,7 +5,7 @@ date: 2024-06-07
 description: "I returned home in the early hours of the morning from a search and rescue mission on the lower slopes of Mt. Hood. Here's how it unfolded."
 image: assets/images/2024-sar-top-spur-6.jpg
 categories: [SAR]
-tags: [search and rescue]
+tags: [search and rescue, volunteer]
 ---
 
 {% include leaflet.html %}

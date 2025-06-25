@@ -5,7 +5,7 @@ date: 2024-07-27
 description: "It's been relatively cool this past week, so I decided to head out and complete my annual search and rescue fitness assessment. The assessment is a timed effort, but I couldn't resist collecting a few wild huckleberries along the way."
 image: assets/images/2024-fitness-3.jpg
 categories: [SAR]
-tags: [search and rescue]
+tags: [search and rescue, volunteer]
 ---
 
 {% include leaflet.html %}

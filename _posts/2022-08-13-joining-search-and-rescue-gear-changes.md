@@ -5,7 +5,7 @@ date: 2022-08-13
 description: "I've continued to make changes to my main search and rescue kit. In this post, I cover recent changes to my watch and chest harness."
 image: assets/images/sar/2022-8-gear-chest-kit.jpg
 categories: [SAR]
-tags: [search and rescue, gear]
+tags: [search and rescue, gear, volunteer]
 ---
 
 I've been making a lot of changes to my main search and rescue kit lately. Either because of [changes to our required gear]({{ 'joining-search-and-rescue-supplemental-gear/' | relative_url }}), or on account of finding better options (especially following my shoulder surgery), I'm slowly replacing or supplementing most of my main kit.

@@ -5,7 +5,7 @@ date: 2021-10-26
 description: "I've been onboarding to a search and rescue team over the past few months. Here's how it's going so far."
 image: assets/images/sar/sar-training-1.jpg
 categories: [SAR]
-tags: [search and rescue]
+tags: [search and rescue, volunteer]
 ---
 
 Back in June, I interviewed to join [Clackamas County Search & Rescue](https://www.clackamas.us/sheriff/sar.html), a volunteer team coordinated through the Sheriff’s Office. The team is relatively new, resulting as it did from [a controversial consolidation of volunteer teams](https://www.opb.org/news/article/clackamas-county-sheriffs-department-defends-search-and-rescue-changes/) in 2020. As a result of this consolidation, volunteers are now required to participate in extensive background checks, drug testing, training, and certification.

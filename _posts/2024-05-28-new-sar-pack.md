@@ -5,7 +5,7 @@ date: 2024-05-28
 description: "After hundreds of miles of search and rescue missions with my original pack, I've decided to switch it up."
 image: assets/images/2024-mystery-ranch-1.jpg
 categories: [SAR]
-tags: [search and rescue]
+tags: [search and rescue, volunteer]
 ---
 
 Since I joined search and rescue in late 2021, I've been using the same pack: a [MountainSmith Scream 55]({{ '/joining-search-and-rescue-part-2' | relative_url }}/#packs). 

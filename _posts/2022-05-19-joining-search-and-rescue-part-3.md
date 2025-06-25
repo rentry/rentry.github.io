@@ -5,7 +5,7 @@ date: 2022-05-19
 description: "Following my shoulder surgery in December, and subsequent physical therapy, I'm preparing to return to search and rescue by equipping my old truck."
 image: assets/images/2022-5-truck-2.jpg
 categories: [SAR]
-tags: [search and rescue, gear]
+tags: [search and rescue, gear, volunteer]
 ---
 
 Okay, so some background...

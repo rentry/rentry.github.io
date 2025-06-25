@@ -5,7 +5,7 @@ date: 2021-10-30
 description: "I've been onboarding to a search and rescue team over the past few months. We're required to have 55 specific pieces of gear. Here's what I chose for required gear."
 image: assets/images/sar/sar-gear-3.jpg
 categories: [SAR]
-tags: [search and rescue, gear]
+tags: [search and rescue, gear, volunteer]
 ---
 
 Last post, I shared the required training and gear list for joining our search and rescue team. This time, I thought I'd share which specific gear I chose to meet the requirement, along with a few pieces of elective gear I added to supplement my kit.
