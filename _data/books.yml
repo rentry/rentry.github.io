@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Is a River Alive?"
+        author: Robert Macfarlane
+        link: https://www.goodreads.com/book/show/218569826-is-a-river-alive
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1729776933i/218569826.jpg
+        description: "“<cite>Is a River Alive?</cite> is a joyous exploration into an ancient, urgent idea: that rivers are living beings who should be recognized as such in imagination and law. Macfarlane takes readers on three unforgettable journeys teeming with extraordinary people and places: to the miraculous cloud-forests and mountain streams of Ecuador, to the wounded creeks and lagoons of India, and to the spectacular wild rivers of Canada—imperiled by mining, pollution, and dams. Braiding these journeys is the life story of the fragile chalk stream a mile from Macfarlane’s house, which flows through his own years and days.”"
+        genre: [nature, science]
+        format: audiobook
+        completed: In progress
+
       - title: "Finding Ultra: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself"
         author: Rich Roll
         link: https://www.penguinrandomhouse.com/books/213505/finding-ultra-revised-and-updated-edition-by-rich-roll/
@@ -18,7 +27,7 @@ list:
         description: "“Molly Gray’s life is about to change in ways she could never have imagined. As the esteemed Head Maid and recently promoted Special Events Manager of the Regency Grand Hotel, good things are just around the corner, including her marriage to her beloved fiancé, Juan Manuel, only two months away. But Molly’s entire existence is upended when a film crew descends upon the hotel to shoot the hit reality TV show <cite>Hidden Treasures</cite>, starring popular art appraisers Brown and Beagle. On a whim, Molly brings in a shoebox containing a few of her gran’s old things for appraisal, and much to everyone's surprise, one item turns out to be a rare and priceless treasure. Instantly, Molly is both a multi-millionaire and a media sensation—the world’s rags-to-riches darling—until the priceless piece vanishes from the hotel in the boldest, brashest antiquities heist in recent memory.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-06-29
 
       - title: "A Different Kind of Power"
         author: Jacinda Ardern
