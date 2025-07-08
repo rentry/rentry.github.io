@@ -10,6 +10,15 @@ list:
         description: "“<cite>Is a River Alive?</cite> is a joyous exploration into an ancient, urgent idea: that rivers are living beings who should be recognized as such in imagination and law. Macfarlane takes readers on three unforgettable journeys teeming with extraordinary people and places: to the miraculous cloud-forests and mountain streams of Ecuador, to the wounded creeks and lagoons of India, and to the spectacular wild rivers of Canada—imperiled by mining, pollution, and dams. Braiding these journeys is the life story of the fragile chalk stream a mile from Macfarlane’s house, which flows through his own years and days.”"
         genre: [nature, science]
         format: audiobook
+        completed: Next
+
+      - title: "Heartwood"
+        author: Amity Gaige
+        link: https://www.amitygaige.com/heartwood
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1742998309i/220259184.jpg
+        description: "“<cite>Heartwood</cite> takes you on a journey as a search and rescue team race against time when an experienced hiker mysteriously disappears on the Appalachian Trail in Maine. She is forty-two-year-old Valerie Gillis, who has vanished 200 miles from her final destination. Alone in the wilderness, Valerie pours her thoughts into fractured, poetic letters to her mother as she battles the elements and struggles to keep hoping.”"
+        genre: [fiction]
+        format: audiobook
         completed: In progress
 
       - title: "Finding Ultra: Rejecting Middle Age, Becoming One of the World's Fittest Men, and Discovering Myself"
