@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Dragon Teeth"
+        author: Michael Crichton
+        link: https://www.goodreads.com/book/show/31287693-dragon-teeth
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481163021i/31287693.jpg
+        description: "“The year is 1876. Warring Indian tribes still populate America's western territories, even as lawless gold-rush towns begin to mark the landscape. Against this backdrop two palaeontologists pillage the Wild West for dinosaur fossils while deceiving and sabotaging each other in a rivalry that will come to be known as the Bone Wars.”"
+        genre: [nature, science]
+        format: audiobook
+        completed: In progress
+
       - title: "Is a River Alive?"
         author: Robert Macfarlane
         link: https://www.goodreads.com/book/show/218569826-is-a-river-alive
