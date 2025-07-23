@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Joe Pickett #1: Open Season"
+        author: C.J. Box
+        link: https://www.goodreads.com/book/show/244102.Open_Season
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1255789732i/244102.jpg
+        description: "“Joe Pickett is the new game warden in Twelve Sleep, Wyoming, a town where nearly everyone hunts, and the game warden--especially one like Joe who won't take bribes or look the other way--is far from popular. When he finds a local hunting outfitter dead, splayed out on the woodpile behind his state-owned home, he takes it personally. There had to be a reason that the outfitter, with whom he's had run-ins before, chose his backyard, his woodpile to die in. Even after the ‘outfitter murders,’ as they have been dubbed by the local press after the discovery of the two more bodies, are solved, Joe continues to investigate, uneasy with the easy explanation offered by the local police.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Dragon Teeth"
         author: Michael Crichton
         link: https://www.goodreads.com/book/show/31287693-dragon-teeth
