@@ -556,6 +556,12 @@ table {
     width: 260px;
 }
 
+// Video immediately followed by paragraph
+
+video + * {
+    margin-top: -.5em;
+}
+
 @media only screen and (max-width: 500px) {
     .profile-pic {
         display: block;
