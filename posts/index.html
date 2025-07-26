@@ -10,9 +10,9 @@ layout: default
    {% for post in paginator.posts %}
     {% unless post.rss-only == true %}
       <li>
-        <a class="dates" href="{{ post.url | prepend: site.baseurl }}">
+        <span class="dates">
         {{ post.date | date: "%b %-d, %Y" }}
-        </a>
+        </span>
         <a href="{{ post.url | prepend: site.baseurl }}"><h2>{{ post.title | smartify }} </h2><p>{{ post.description | smartify }}</p></a>
       </li>
       {% endunless %}

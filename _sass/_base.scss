@@ -49,9 +49,13 @@ body {
  */
 
 p, blockquote, pre,
-ul, ol, dl, figure, video,
+ul, ol, dl, figure,
 %vertical-rhythm {
     margin-bottom: $spacing-unit * .67;
+}
+
+video {
+    margin-bottom: $spacing-unit * .33;
 }
 
 h1, h2, h3, h4, h5, h6 {
