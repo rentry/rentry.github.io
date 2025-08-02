@@ -53,7 +53,7 @@ L.tileLayer('{{ site.data.maptiles.tiles }}', {
 }).addTo(map);
 
 const locations = [
-  { coords: [45.3135487, -121.7997764], name: 'Shellburg Falls Recreation Area' }
+  { coords: [45.3135487, -121.7997764], name: 'Hidden Lake trail' }
 ];
 
 locations.forEach(({ coords, name }) => {
