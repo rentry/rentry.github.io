@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model"
+        author: Richard C. Schwartz
+        link: https://www.goodreads.com/book/show/55384168-no-bad-parts
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620695382i/55384168.jpg
+        description: "Is there just one “you”? We’ve been taught to believe we have a single identity, and to feel fear or shame when we can’t control the inner voices that don’t match the ideal of who we think we should be. Yet Dr. Richard Schwartz’s research now challenges this “mono-mind” theory. “All of us are born with many sub-minds—or parts,” says Dr. Schwartz. “These parts are not imaginary or symbolic. They are individuals who exist as an internal family within us—and the key to health and happiness is to honor, understand, and love every part.”"
+        genre: [psychology]
+        format: audiobook
+        completed: In progress
+
       - title: "Joe Pickett #1: Open Season"
         author: C.J. Box
         link: https://www.goodreads.com/book/show/244102.Open_Season
@@ -10,7 +19,7 @@ list:
         description: "“Joe Pickett is the new game warden in Twelve Sleep, Wyoming, a town where nearly everyone hunts, and the game warden--especially one like Joe who won't take bribes or look the other way--is far from popular. When he finds a local hunting outfitter dead, splayed out on the woodpile behind his state-owned home, he takes it personally. There had to be a reason that the outfitter, with whom he's had run-ins before, chose his backyard, his woodpile to die in. Even after the ‘outfitter murders,’ as they have been dubbed by the local press after the discovery of the two more bodies, are solved, Joe continues to investigate, uneasy with the easy explanation offered by the local police.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-07-31
 
       - title: "Dragon Teeth"
         author: Michael Crichton
@@ -28,7 +37,7 @@ list:
         description: "“<cite>Is a River Alive?</cite> is a joyous exploration into an ancient, urgent idea: that rivers are living beings who should be recognized as such in imagination and law. Macfarlane takes readers on three unforgettable journeys teeming with extraordinary people and places: to the miraculous cloud-forests and mountain streams of Ecuador, to the wounded creeks and lagoons of India, and to the spectacular wild rivers of Canada—imperiled by mining, pollution, and dams. Braiding these journeys is the life story of the fragile chalk stream a mile from Macfarlane’s house, which flows through his own years and days.”"
         genre: [nature, science]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Heartwood"
         author: Amity Gaige
@@ -125,15 +134,6 @@ list:
         genre: [memoir]
         format: audiobook
         completed: 2025-05-09
-
-      - title: "The Rise of Theodore Roosevelt"
-        author: Edmund Morris
-        link: https://en.wikipedia.org/wiki/The_Rise_of_Theodore_Roosevelt
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1586402749i/40929.jpg
-        description: "“Winner of the Pulitzer Prize and the National Book Award, <cite>The Rise of Theodore Roosevelt</cite> begins at the apex of his international prestige. That was on New Year’s Day, 1907, when TR, who had just won the Nobel Peace Prize, threw open the doors of the White House to the American people and shook 8,150 hands. One visitor remarked afterward, ‘You go to the White House, you shake hands with Roosevelt and hear him talk—and then you go home to wring the personality out of your clothes.’ This classic biography is the story of seven men—a naturalist, a writer, a lover, a hunter, a ranchman, a soldier, and a politician—who merged at age forty-two to become the youngest President in history.”"
-        genre: [history]
-        format: audiobook
-        completed: In progress
 
       - title: "The Mountain Men"
         author: Steven Rinella
