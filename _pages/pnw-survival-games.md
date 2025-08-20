@@ -1,0 +1,27 @@
+---
+layout: default
+permalink: /pnw-survival-games/
+title: PNW Survival Games
+---
+
+{% include baguette.html %}
+
+<h1>{{ page.title }}</h1>
+
+I volunteered at the [PNW Survival Games](https://www.pnwsurvivalgames.com/). Here are some photos from the event.
+
+## 2025
+
+<div class="gallery" style="text-align: center;">
+{% assign image_files = site.static_files | where: "image", true %}
+{% for slide in image_files %}
+    {% if slide.path contains '2025-pnw' %}
+        <a href="{{ slide.path }}"><img src="{{ slide.path }}" width="200" style="margin: 0 5px 10px 0" alt="Instagram photo"/></a>
+    {% endif %}  
+{% endfor %}
+    <script>
+        window.addEventListener('load', function() {
+        baguetteBox.run('.gallery');
+        });
+    </script>
+</div>
