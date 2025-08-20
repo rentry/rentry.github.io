@@ -2,6 +2,7 @@
 layout: default
 permalink: /pnw-survival-games/
 title: PNW Survival Games
+image: assets/images/2025-pnw-survival-games/DSC_6832.jpg
 ---
 
 {% include baguette.html %}
