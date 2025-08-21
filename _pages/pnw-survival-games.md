@@ -26,3 +26,7 @@ I volunteered at the [PNW Survival Games](https://www.pnwsurvivalgames.com/). He
         });
     </script>
 </div>
+
+<hr>
+
+![Two photographers pointing cameras toward a person in an orange suit lying in a shelter made of branches and leaves]({{ 'assets/images/2025-survival-games.jpg' | relative_url }})
