@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "A Place of Greater Safety"
+        author: Hilary Mantel
+        link: https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363435037i/101921.jpg
+        description: "“Capturing the violence, tragedy, history, and drama of the French Revolution, this novel focuses on the families and loves of three men who led the Revolution—Danton, the charismatic leader and orator; Robespierre, the cold rationalist; and Desmoulins, the rabble-rouser.”"
+        genre: [historical fiction]
+        completed: Next
+
       - title: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
         author: Bessel van der Kolk
         link: https://en.wikipedia.org/wiki/The_Body_Keeps_the_Score
@@ -10,7 +18,7 @@ list:
         description: "“Trauma is a fact of life. Veterans and their families deal with the painful aftermath of combat; one in five Americans has been molested; one in four grew up with alcoholics; one in three couples have engaged in physical violence. Dr. Bessel van der Kolk, one of the world's foremost experts on trauma, has spent over three decades working with survivors. In <cite>The Body Keeps the Score</cite>, he uses recent scientific advances to show how trauma literally reshapes both body and brain, compromising sufferers' capacities for pleasure, engagement, self-control, and trust.”"
         genre: [psychology]
         format: audiobook
-        completed: In progress
+        completed: 2025-08-21
 
       - title: "No Bad Parts: Healing Trauma and Restoring Wholeness with the Internal Family Systems Model"
         author: Richard C. Schwartz
@@ -91,14 +99,6 @@ list:
         genre: [fiction]
         format: audiobook
         completed: 2025-06-18
-
-      - title: "A Place of Greater Safety"
-        author: Hilary Mantel
-        link: https://en.wikipedia.org/wiki/A_Place_of_Greater_Safety
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363435037i/101921.jpg
-        description: "“Capturing the violence, tragedy, history, and drama of the French Revolution, this novel focuses on the families and loves of three men who led the Revolution—Danton, the charismatic leader and orator; Robespierre, the cold rationalist; and Desmoulins, the rabble-rouser.”"
-        genre: [historical fiction]
-        completed: Next
 
       - title: "Walt Longmire #21: Return to Sender"
         author: Craig Johnson
