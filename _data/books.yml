@@ -3,13 +3,22 @@ list:
   - year: 2025
     books:
 
+      - title: "Savage Run"
+        author: C.J. Box
+        link: https://www.cjbox.net/books
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1388234319i/244105.jpg
+        description: "“When a massive blast rocks the forests of Twelve Sleep County, Wyoming game warden Joe Pickett is called to the scene to help investigate the death of a colorful environmental activist. The case is wrapped up quickly, explained as an environmental publicity stunt gone wrong, but Joe isn't convinced. He soon discovers clues that suggest a deadly conspiracy–one that will test his courage, his survival skills, and his determination to ‘do the right thing’ despite all costs.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "A Life Wild and Perilous: Mountain Men and the Paths to the Pacific"
         author: Robert M. Utley
         link: https://www.goodreads.com/book/show/2032834.A_Life_Wild_and_Perilous
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1312037569i/2032834.jpg
         description: "“Early in the nineteenth century, the mountain men emerged as a small but distinctive group whose knowledge and experience of the trans-Mississippi West exted the national consciousness to continental dimensions. Though Lewis and Clark blazed a narrow corridor of geographical reality, the West remained largely terra incognita until trappers and traders—Jim Bridger, Kit Carson, Tom Fitzpatrick, Jedediah Smith—opened paths through the snow-choked mountain wilderness.”"
         genre: [history]
-        completed: Next
+        completed: In progress
 
       - title: "A Place of Greater Safety"
         author: Hilary Mantel
@@ -17,6 +26,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1363435037i/101921.jpg
         description: "“Capturing the violence, tragedy, history, and drama of the French Revolution, this novel focuses on the families and loves of three men who led the Revolution—Danton, the charismatic leader and orator; Robespierre, the cold rationalist; and Desmoulins, the rabble-rouser.”"
         genre: [historical fiction]
+        format: audiobook
         completed: Next
 
       - title: "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma"
