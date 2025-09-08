@@ -10,7 +10,7 @@ tags: [Oregon, hike]
 
 {% include leaflet.html %}
 
-![A rocky trail with a drop off with forested hills in the background]({{ 'assets/images/2025-plaza-lake-6.jpg' | relative_url }}#full)
+![A forest of trees with mist and sun shining sporadically on trees]({{ 'assets/images/2025-plaza-lake-16.jpg' | relative_url }}#full)
 
 I returned today to a trail I hiked a portion of with my dog Teddy [back in June]({{ '/june-snow/#tumala-mountain' | relative_url }}). I hadn't spent much time in this area until recently. It lies between two more highly trafficked areas, including the bustling Salmon-Huckleberry Wilderness at the foot of Mt. Hood to the north, and the Roaring River Wilderness and Clackamas River to the south.
 
@@ -57,6 +57,8 @@ Occasionally it comes up, as often happened during my time on the search and res
 Which is why areas like this are so precious. I didn't see another person the entire hike on this trail – on a weekend, no less – excepting the brief diversion on the road. 
 
 And that's just how I like it.
+
+![A rocky trail with a drop off with forested hills in the background]({{ 'assets/images/2025-plaza-lake-6.jpg' | relative_url }})
 
 ![A rock slide on a downhill leading to a forest and hills in the background]({{ 'assets/images/2025-plaza-lake-14.jpg' | relative_url }})
 
