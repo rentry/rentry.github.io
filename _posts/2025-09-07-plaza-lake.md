@@ -46,7 +46,7 @@ Those were the only people I saw on the entire walk.
 
 ![A sign on a tree reading Plaza Lake TR Number 788]({{ 'assets/images/2025-plaza-lake-11.jpg' | relative_url }})
 
-Occasionally it comes up, as often happened during my time on the search and rescue team, that I have not hiked on many of the most popular trails on Mt. Hood. It's true, largely because I prefer to hike in solitude. I rarely find the views worth negotiating crowded trails.
+Occasionally it comes up, as often happened during my time on the search and rescue team, that I have not hiked many of the most popular trails on Mt. Hood. It's true, largely because I prefer to hike in solitude. I rarely find the views worth negotiating crowded trails.
 
 ![A lake with logs in in the foreground of the lake with mist in the air and forest lining the shore]({{ 'assets/images/2025-plaza-lake-9.jpg' | relative_url }}#full)
 
