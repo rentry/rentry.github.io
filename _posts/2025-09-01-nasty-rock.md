@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nasty Rock...but <i>not</i> Not Nasty Rock"
+title: "Nasty Rock...but <em>not</em> Not Nasty Rock"
 date: 2025-09-01
 description: "I've been doing trail work just about every weekend for a couple months, so on this long weekend I decided to get out for hike on an unmarked and unmaintained trail to the source of the Molalla River."
 image: assets/images/2025-nasty-rock-5.jpg
