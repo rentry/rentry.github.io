@@ -10,7 +10,9 @@ tags: [Oregon, hike]
 
 {% include leaflet.html %}
 
-![A herd of five elk all with antlers standing in a field with powerlines overhead and a band of mist]({{ 'assets/images/2025-fish-creek-1.jpg' | relative_url }}#full)
+![Burned trees line a hillside with a river flowing through]({{ 'assets/images/2025-fish-creek-9.jpg' | relative_url }}#full)
+
+![A herd of five elk all with antlers standing in a field with powerlines overhead and a band of mist]({{ 'assets/images/2025-fish-creek-1.jpg' | relative_url }})
 
 <figcaption>An usual sighting of "bachelor" elk less than a mile from my house</figcaption>
 
