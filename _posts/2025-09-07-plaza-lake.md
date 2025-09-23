@@ -64,7 +64,7 @@ And that's just how I like it.
 
 ![A still lake with trees on the far shore and logs in the foreground]({{ 'assets/images/2025-plaza-lake-15.jpg' | relative_url }})
 
-* **Distance:** 9.96 miles
+* **Distance:** 10.0 miles
 * **Ascent:** 3,486 ft
 * **Max Elevation:** 4,551 ft
 
