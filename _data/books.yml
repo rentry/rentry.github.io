@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Long Way to a Small, Angry Planet"
+        author: Becky Chambers
+        link: https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405532474i/22733729.jpg
+        description: "“Rosemary Harper doesn’t expect much when she joins the crew of the aging Wayfarer. While the patched-up ship has seen better days, it offers her a bed, a chance to explore the far-off corners of the galaxy, and most importantly, some distance from her past. An introspective young woman who learned early to keep to herself, she’s never met anyone remotely like the ship’s diverse crew, including Sissix, the exotic reptilian pilot, chatty engineers Kizzy and Jenks who keep the ship running, and Ashby, their noble captain.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Katabasis"
         author: R.F. Kuang
         link: https://en.wikipedia.org/wiki/Katabasis_(novel)
@@ -10,7 +19,7 @@ list:
         description: "“Alice Law has only ever had one goal: to become one of the brightest minds in the field of Magick. She has sacrificed everything to make that a reality—her pride, her health, her love life, and most definitely her sanity. All to work with Professor Jacob Grimes at Cambridge, the greatest magician in the world—that is, until he dies in a magical accident that could possibly be her fault.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-09-30
 
       - title: "The Children of Men"
         author: P.D. James
