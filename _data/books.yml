@@ -3,12 +3,12 @@ list:
   - year: 2025
     books:
 
-      - title: "The Long Way to a Small, Angry Planet"
-        author: Becky Chambers
-        link: https://en.wikipedia.org/wiki/The_Long_Way_to_a_Small,_Angry_Planet
-        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1405532474i/22733729.jpg
-        description: "“Rosemary Harper doesn’t expect much when she joins the crew of the aging Wayfarer. While the patched-up ship has seen better days, it offers her a bed, a chance to explore the far-off corners of the galaxy, and most importantly, some distance from her past. An introspective young woman who learned early to keep to herself, she’s never met anyone remotely like the ship’s diverse crew, including Sissix, the exotic reptilian pilot, chatty engineers Kizzy and Jenks who keep the ship running, and Ashby, their noble captain.”"
-        genre: [fiction]
+      - title: "The Art of Resilience: Strategies for an Unbreakable Mind and Body"
+        author: Ross Edgley
+        link: https://www.harpercollins.com/products/the-art-of-resilience-ross-edgley?variant=42826654384162
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601305715i/45444045.jpg
+        description: "“Bestselling author and award-winning adventurer Ross Edgley has been studying the art of resilience for years, applying all he has learned to become the first person in history to swim around Great Britain, breaking multiple world records. Now Ross focuses on mental strength, stoicism and the training needed to create an unbreakable body.”"
+        genre: [fitness]
         format: audiobook
         completed: In progress
 
