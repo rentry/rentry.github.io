@@ -3,6 +3,24 @@ list:
   - year: 2025
     books:
 
+      - title: "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away"
+        author: David Gelles
+        link: https://www.simonandschuster.com/books/Dirtbag-Billionaire/David-Gelles/9781668032268
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1739205596i/225539682.jpg
+        description: "“This is the inside story of one of the most extraordinary brands in the corporate world, the rare company that is driven by environmental activism instead of cutthroat capitalism. Founded in 1973, Patagonia has grown into a wildly popular producer of jackets, hats, and fleece vests, with a cultlike following among hardcore alpinists and Wall Street traders alike, posting sales of more than $1 billion a year.”"
+        genre: [business, environment]
+        format: audiobook
+        completed: Next
+
+      - title: "Isola"
+        author: Allegra Goodman
+        link: https://allegragoodman.com/books/isola/
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1718997232i/212806636.jpg
+        description: "“Heir to a fortune, Marguerite is destined for a life of prosperity and gentility. Then she is orphaned, and her guardian—an enigmatic and volatile man—spends her inheritance and insists she accompany him on an expedition to New France. Isolated and afraid, Marguerite befriends her guardian’s servant and the two develop an intense attraction. But when their relationship is discovered, they are brutally punished and abandoned on a small island with no hope for rescue.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "The Art of Resilience: Strategies for an Unbreakable Mind and Body"
         author: Ross Edgley
         link: https://www.harpercollins.com/products/the-art-of-resilience-ross-edgley?variant=42826654384162
