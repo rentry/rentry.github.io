@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "Borderland: A Journey through the History of Ukraine"
+        author: Anna Reid
+        link: https://www.hachettebookgroup.com/titles/anna-reid/borderland/9781541603486/?lens=basic-books
+        image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348764128i/773797.jpg
+        description: "“Ukraine is gripped in a bloody crisis that has killed tens of thousands, displaced millions, and is transforming the world’s energy policies and security architecture. As celebrated journalist Anna Reid shows in Borderland, this conflict is the latest of many. Ukraine has been a borderland, and a battlefield, for more than seven centuries, from the Mongol invasion of 1240 to the Maidan protests of 2014—and, of course, the devastating Russian invasion of 2022.”"
+        genre: [history]
+        completed: Next
+
       - title: "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away"
         author: David Gelles
         link: https://www.simonandschuster.com/books/Dirtbag-Billionaire/David-Gelles/9781668032268
