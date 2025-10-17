@@ -10,7 +10,7 @@ list:
         description: "“This is the inside story of one of the most extraordinary brands in the corporate world, the rare company that is driven by environmental activism instead of cutthroat capitalism. Founded in 1973, Patagonia has grown into a wildly popular producer of jackets, hats, and fleece vests, with a cultlike following among hardcore alpinists and Wall Street traders alike, posting sales of more than $1 billion a year.”"
         genre: [business, environment]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Borderland: A Journey through the History of Ukraine"
         author: Anna Reid
@@ -18,7 +18,7 @@ list:
         image: https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1348764128i/773797.jpg
         description: "“Ukraine is gripped in a bloody crisis that has killed tens of thousands, displaced millions, and is transforming the world’s energy policies and security architecture. As celebrated journalist Anna Reid shows in Borderland, this conflict is the latest of many. Ukraine has been a borderland, and a battlefield, for more than seven centuries, from the Mongol invasion of 1240 to the Maidan protests of 2014—and, of course, the devastating Russian invasion of 2022.”"
         genre: [history]
-        completed: In progress
+        completed: 2025-10-17
 
       - title: "Isola"
         author: Allegra Goodman
