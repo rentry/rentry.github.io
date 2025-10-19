@@ -5,7 +5,7 @@ date: 2025-09-13
 description: "Photos from an unusual elk sighting in my neighborhood and work on a trail I've been visiting for well over a decade"
 image: assets/images/2025-fish-creek-1.jpg
 categories: [Oregon]
-tags: [Oregon, hike]
+tags: [Trailkeepers, Oregon]
 ---
 
 {% include leaflet.html %}
