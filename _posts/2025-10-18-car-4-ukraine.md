@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Falling of Small Stones"
-date: 2025-09-13
+date: 2025-10-18
 description: "The increasing cruelty, illegality, and moral bankruptcy of authoritarianism in our country and abroad has seemed insurmountable as of late. I'm learning to be content with small but meaningful acts of resistance."
 image: assets/images/2025-car-4-ukraine.jpg
 categories: [government]
