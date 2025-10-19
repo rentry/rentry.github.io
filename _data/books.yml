@@ -3,6 +3,24 @@ list:
   - year: 2025
     books:
 
+      - title: "Deep Survival: Who Lives, Who Dies, and Why"
+        author: Laurence Gonzales
+        link: https://en.wikipedia.org/wiki/Deep_Survival
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
+        description: "“aurence Gonzales’s bestselling Deep Survival has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
+        genre: [psychology, survival]
+        format: audiobook
+        completed: Next
+
+      - title: "Why We Sleep: Unlocking the Power of Sleep and Dreams"
+        author: Matthew Walker
+        link: https://en.wikipedia.org/wiki/Why_We_Sleep
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1556604137i/34466963.jpg
+        description: "“Neuroscientist and sleep expert Matthew Walker provides a revolutionary exploration of sleep, examining how it affects every aspect of our physical and mental well-being. Charting the most cutting-edge scientific breakthroughs, and marshalling his decades of research and clinical practice, Walker explains how we can harness sleep to improve learning, mood and energy levels, regulate hormones, prevent cancer, Alzheimer's and diabetes, slow the effects of aging, and increase longevity. He also provides actionable steps towards getting a better night's sleep every night.”"
+        genre: [science]
+        format: audiobook
+        completed: Next
+
       - title: "Dirtbag Billionaire: How Yvon Chouinard Built Patagonia, Made a Fortune, and Gave It All Away"
         author: David Gelles
         link: https://www.simonandschuster.com/books/Dirtbag-Billionaire/David-Gelles/9781668032268
