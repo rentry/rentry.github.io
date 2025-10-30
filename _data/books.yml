@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "Separation of Church and Hate: A Sane Person's Guide to Taking Back the Bible from Fundamentalists, Fascists, and Flock-Fleecing Frauds"
+        author: John Fugelsang
+        link: https://www.simonandschuster.com/books/Separation-of-Church-and-Hate/John-Fugelsang/9781668066898
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1746749736i/220160840.jpg
+        description: "“For more than two centuries the United States constitution has given Americans the right to live in a society where church and state exist independently and without conflict. So why is Christianity suddenly being co-opted by far-right groups, politicians, friends, and family members to justify oppressive and unequal policies? And how do we fight back against those acting—literally—in bad faith?”"
+        genre: [religion]
+        completed: In progress
+
       - title: "The Confident Mind: A Battle-Tested Guide to Unshakable Performance"
         author: Nate Zinsser
         link: https://www.natezinsser.com/book
