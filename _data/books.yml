@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Terminal List"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/the-terminal-list/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1520163970i/35297106.jpg
+        description: "“On his last combat deployment, Lieutenant Commander James Reece’s entire team was killed in a catastrophic ambush that also claimed the lives of the aircrew sent in to rescue them. But when those dearest to him are murdered on the day of his homecoming, Reece discovers that this was not an act of war by a foreign enemy but a conspiracy that runs to the highest levels of government.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Separation of Church and Hate: A Sane Person's Guide to Taking Back the Bible from Fundamentalists, Fascists, and Flock-Fleecing Frauds"
         author: John Fugelsang
         link: https://www.simonandschuster.com/books/Separation-of-Church-and-Hate/John-Fugelsang/9781668066898
