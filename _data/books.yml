@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "North to the Future: An Offline Adventure through the Changing Wilds of Alaska"
+        author: Ben Weissenbach
+        link: https://www.goodreads.com/book/show/220175432-north-to-the-future
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729741829i/220175432.jpg
+        description: "“At the age of twenty-one, college student Ben Weissenbach set out into the Alaskan wilderness armed with little more than inspiration from his literary heroes and a growing interest in climate change. What meets him there is a landscape both stark and awe-inspiring—a part of the world seen by few outside a small contingent of scientists with big personalities.”"
+        genre: [nature, climate]
+        format: audiobook
+        completed: In progress
+
       - title: "The Terminal List"
         author: Jack Carr
         link: https://www.officialjackcarr.com/books/the-terminal-list/
