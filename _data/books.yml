@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "The Adventurer's Son"
+        author: Roman Dial
+        link: https://www.harpercollins.com/products/the-adventurers-son-roman-dial
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1571076286i/46041442.jpg
+        description: "“‘I’m planning on doing 4 days in the jungle...It should be difficult to get lost forever’: These were the haunting last words legendary adventurer Roman Dial received from his son, before the 27-year old disappeared into the jungles of Costa Rica. This is Dial’s intensely gripping and deeply moving account of his two-year quest to unravel the mystery of his son’s fate.”"
+        genre: [memoir]
+        format: audiobook
+        completed: In progress
+
       - title: "North to the Future: An Offline Adventure through the Changing Wilds of Alaska"
         author: Ben Weissenbach
         link: https://www.goodreads.com/book/show/220175432-north-to-the-future
@@ -10,7 +19,7 @@ list:
         description: "“At the age of twenty-one, college student Ben Weissenbach set out into the Alaskan wilderness armed with little more than inspiration from his literary heroes and a growing interest in climate change. What meets him there is a landscape both stark and awe-inspiring—a part of the world seen by few outside a small contingent of scientists with big personalities.”"
         genre: [nature, climate]
         format: audiobook
-        completed: In progress
+        completed: 2025-11-07
 
       - title: "The Terminal List"
         author: Jack Carr
