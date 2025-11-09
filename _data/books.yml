@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Abundance"
+        author: Ezra Klein and Derek Thompson
+        link: https://en.wikipedia.org/wiki/Abundance_(Klein_and_Thompson_book)
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1737312514i/176444106.jpg
+        description: "“Progress requires the ability to see promise rather than just peril in the creation of new ideas and projects, and an instinct to design systems and institutions that make building possible. In a book exploring how can move from a liberalism that not only protects and preserves but also builds, Klein and Thompson trace the political, economic, and cultural barriers to progress and how we can adopt a mindset directed toward abundance, and not scarcity, to overcome them.”"
+        genre: [politics, society, economics]
+        format: audiobook
+        completed: Next
+
       - title: "The Adventurer's Son"
         author: Roman Dial
         link: https://www.harpercollins.com/products/the-adventurers-son-roman-dial
