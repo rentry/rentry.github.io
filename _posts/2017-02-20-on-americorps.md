@@ -18,7 +18,7 @@ I graduated from the University of Oregon in philosophy and religious studies. I
 
 Shirking graduate school at the time, I was working at a coffee shop and barely making ends meet. I was recently engaged and planning a wedding on an extremely modest budget. I was building websites on the side for a negligible income supplement. What I needed was an opportunity to cultivate new skills and build a resume. That's where AmeriCorps came in.
 
-![AmeriCorps logo](http://www.americorps.gov/sites/default/files/image/AC-Logo_Navy-stacked-1200x630_opengraph.png)
+![AmeriCorps logo]({{ 'assets/images/americorps.png' | relative_url }})
 
 I made a modest stipend in AmeriCorps, barely enough to get by (AmeriCorps members are called "volunteers" for good reason; the pay was below minimum wage). I continued to work at the coffee shop on the weekends, so I was working 7 days a week. But AmeriCorps also provided an education stipend at the end of the year, which I later used toward a graduate certificate in Geographic Information Systems (GIS).
 
