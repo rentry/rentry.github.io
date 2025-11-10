@@ -8,7 +8,7 @@ I live in the woods just outside Portland, Oregon. My work is in content strateg
 
 Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.org/), the [Department of Homeland Security](https://ohss.dhs.gov/), and [Oregon Department of Human Services](https://www.oregon.gov/odhs/pages/default.aspx).
 
-When I'm not working, I'm likely walking among trees or [reading a book]({{ '/books/' | relative_url }}). I've served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}) and currently volunteer with [Trailkeepers of Oregon](https://trailkeepersoforegon.org/).
+When I'm not working, I'm likely walking among trees or [reading a book]({{ '/books/' | relative_url }}). I've served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}) and currently volunteer with [{% include tko_icon.html %} Trailkeepers of Oregon](https://trailkeepersoforegon.org/) and [{% include rubicon_icon.html %}  Team Rubicon](https://teamrubiconusa.org/).
 
 ## Words
 <ul class="contact-list">
