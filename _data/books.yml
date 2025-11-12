@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Why Nothing Works: Who Killed Progress―and How to Bring It Back"
+        author: Marc J. Dunkelman
+        link: https://www.hachettebookgroup.com/titles/marc-j-dunkelman/why-nothing-works/9781541700215/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1738615507i/214175076.jpg
+        description: "“America was once a country that did big things—we built the world’s greatest rail network, a vast electrical grid, interstate highways, abundant housing, the Social Security system, the Tennessee Valley Authority, and more. But today, even while facing a host of pressing challenges—a housing shortage, a climate crisis, a dilapidated infrastructure—we feel stuck, unable to move the needle. Why?”"
+        genre: [politics, history]
+        format: audiobook
+        completed: Next
+
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
         link: https://en.wikipedia.org/wiki/Deep_Survival
@@ -18,7 +27,7 @@ list:
         description: "“Progress requires the ability to see promise rather than just peril in the creation of new ideas and projects, and an instinct to design systems and institutions that make building possible. In a book exploring how can move from a liberalism that not only protects and preserves but also builds, Klein and Thompson trace the political, economic, and cultural barriers to progress and how we can adopt a mindset directed toward abundance, and not scarcity, to overcome them.”"
         genre: [politics, society, economics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Adventurer's Son"
         author: Roman Dial
@@ -27,7 +36,7 @@ list:
         description: "“‘I’m planning on doing 4 days in the jungle...It should be difficult to get lost forever’: These were the haunting last words legendary adventurer Roman Dial received from his son, before the 27-year old disappeared into the jungles of Costa Rica. This is Dial’s intensely gripping and deeply moving account of his two-year quest to unravel the mystery of his son’s fate.”"
         genre: [memoir]
         format: audiobook
-        completed: In progress
+        completed: 2025-11-12
 
       - title: "North to the Future: An Offline Adventure through the Changing Wilds of Alaska"
         author: Ben Weissenbach
