@@ -9,7 +9,7 @@ image: assets/images/2025-pnw-survival-games/DSC_6832.jpg
 
 <h1>{{ page.title }}</h1>
 
-I volunteered at the [PNW Survival Games](https://www.pnwsurvivalgames.com/). Here are some photos from the event.
+I volunteered as a photographer at the [PNW Survival Games](https://www.pnwsurvivalgames.com/). Here are some of my photos from the event.
 
 ## 2025
 
