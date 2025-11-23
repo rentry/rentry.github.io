@@ -1,5 +1,8 @@
 User-agent: *
 Disallow: /farmhouse-event/
+Disallow: /johnson-prints/
+Disallow: /johnson-slides/
+Disallow: /roper-slides/
 
 User-agent: GPTBot
 Disallow: /
