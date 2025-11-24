@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "True Believer"
+        author: Jack Carr
+        link: https://www.goodreads.com/book/show/54538392
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1594795891i/54538392.jpg
+        description: "“Following his brutal quest for revenge, former Navy SEAL James Reece has fled the United States, emerging deep in the wilds of Mozambique. But he can’t stay hidden for long – when a string of horrific terrorist attacks plagues the Western world, the CIA tracks him down and recruits him.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Legends of the Fall"
         author: Jim Harrison
         link: https://www.goodreads.com/book/show/395397.Legends_of_the_Fall
@@ -18,7 +27,7 @@ list:
         description: "“America was once a country that did big things—we built the world’s greatest rail network, a vast electrical grid, interstate highways, abundant housing, the Social Security system, the Tennessee Valley Authority, and more. But today, even while facing a host of pressing challenges—a housing shortage, a climate crisis, a dilapidated infrastructure—we feel stuck, unable to move the needle. Why?”"
         genre: [politics, history]
         format: audiobook
-        completed: In progress
+        completed: 2025-11-24
 
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
