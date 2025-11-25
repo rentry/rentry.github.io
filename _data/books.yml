@@ -3,6 +3,14 @@ list:
   - year: 2025
     books:
 
+      - title: "Devouring Time: Jim Harrison, a Writer's Life"
+        author: Todd Goddard
+        link: https://www.toddgoddard.net/devouring-time
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744755430i/231254772.jpg
+        description: "“Jim Harrison (1937–2016) was widely considered one of the finest voices of his generation. His twenty-one books of fiction and fourteen books of poetry influenced a generation of writers. Harrison helped to shape the course of contemporary American literature, revitalizing in particular the novella form, of which he was a recognized master. Harrison’s literary achievements were matched only by the literary persona that he cultivated during a fecund time in American letters and in the company of a remarkable cohort of friends, writers, actors, and artists, including Thomas McGuane, Peter Matthiessen, and Jack Nicholson. Based on more than one hundred original interviews and drawing upon Harrison’s collected papers, <cite>Devouring Time</cite> is the first and only literary biography of this beloved author, whose playful, irreverent, and spiritual work continues to find and delight new listeners.”"
+        genre: [fiction]
+        completed: Next
+
       - title: "True Believer"
         author: Jack Carr
         link: https://www.goodreads.com/book/show/54538392
