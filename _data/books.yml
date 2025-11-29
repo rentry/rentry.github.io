@@ -11,6 +11,15 @@ list:
         genre: [fiction]
         completed: Next
 
+      - title: "The Running Man"
+        author: Stephen King (as Richard Bachman)
+        link: https://en.wikipedia.org/wiki/The_Running_Man_(novel)
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1660830795i/11607.jpg
+        description: "“Ben Richards is out of work and out of luck. His eighteen-month-old daughter is sick, and neither Ben nor his wife can afford to take her to a doctor. For a man from the poor side of town with no cash and no hope, there's only one thing to do: become a contestant on one of the Network's Games, shows where you can win more money than you've ever dreamed of—or die trying. Now Ben's going prime-time on the Network's highest-rated viewer participation show. And he's about to become a prey for the masses...”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "True Believer"
         author: Jack Carr
         link: https://www.goodreads.com/book/show/54538392
