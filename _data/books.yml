@@ -11,6 +11,33 @@ list:
         genre: [fiction]
         completed: Next
 
+      - title: "Tart: Misadventures of an Anonymous Chef"
+        author: Slutty Cheff
+        link: https://www.officialjackcarr.com/books/savage-son/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739128610i/220161223.jpg
+        description: "“When Slutty Cheff finds herself bored and fed-up with her nine-to-five job in corporate marketing, she turns to the only thing she loves to do: cooking. So she quits her job, swaps emails for emulsions, and sets off to pursue her dreams of becoming a chef. The world of London’s fine dining restaurants is so much more than she imagined: It’s more challenging and more exciting, too. There are the exhausting lows of sixty-hour work weeks in windowless kitchens, and the shock of stepping into the changing room as the only woman. There are the thrilling highs of a busy night, when service is running smoothly; electrifying run-ins with hot bartenders and even hotter chefs; and, always, the exhilaration of cycling hands-free through a city that is still sleeping, on a morning where anything can happen.”"
+        genre: [memoir, food]
+        format: audiobook
+        completed: Next
+
+      - title: "Savage Son"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/savage-son/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1568697351l/49700206.jpg
+        description: "“A traitorous CIA officer has found refuge with the Russian Mafia with designs on ensuring a certain former Navy SEAL sniper is put in the ground. Half a world away, James Reece is recovering from brain surgery in the Montana wilderness of his youth, learning to live again, putting his life back together with the help of investigative journalist Katie Buranek and his longtime friend and SEAL teammate Raife Hastings. For reasons both personal and professional, the Russian intelligence-mafia consortium has their sights set on removing a player from the board before he can return to the battlefield, targeting Reece on U.S. soil. With an unknown entity inside the U.S. government compromised by Russian intelligence, Reece is forced to recruit a team of former commandos to bring his unique brand of vengeance to the Russian Mafia on their home turf, turning the hunters into the hunted.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
+      - title: "Angel Down"
+        author: Daniel Kraus
+        link: https://www.goodreads.com/book/show/220160849-angel-down
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1729901522i/220160849.jpg
+        description: "“Private Cyril Bagger has managed to survive the unspeakable horrors of the Great War through his wits and deception, swindling fellow soldiers at every opportunity. But his survival instincts are put to the ultimate test when he and four other grunts are given a deadly venture into the perilous No Man’s Land to euthanize a wounded comrade. What they find amid the ruined battlefield, however, is not a man in need of mercy but a fallen angel, seemingly struck down by artillery fire. This celestial being may hold the key to ending the brutal conflict, but only if the soldiers can suppress their individual desires and work together. As jealousy, greed, and paranoia take hold, the group is torn apart by their inner demons, threatening to turn their angelic encounter into a descent into hell.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "The Running Man"
         author: Stephen King (as Richard Bachman)
         link: https://en.wikipedia.org/wiki/The_Running_Man_(novel)
