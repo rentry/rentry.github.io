@@ -11,6 +11,15 @@ list:
         genre: [fiction]
         completed: Next
 
+      - title: "The Devil's Hand"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/the-devils-hand/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1599257252i/54265145.jpg
+        description: "“It’s been 20 years since 9/11. Two decades since the United States was attacked on home soil and embarked on 20 years of war. The enemy has been patient, learning, and adapting. And the enemy is ready to strike again. A new president offers hope to a country weary of conflict. He’s a young, popular, self-made visionary…but he’s also a man with a secret. Halfway across the globe a regional superpower struggles with sanctions imposed by the Great Satan and her European allies, a country whose ancient religion spawned a group of ruthless assassins. Faced with internal dissent and extrajudicial targeted killings by the United States and Israel, the Supreme Leader puts a plan in motion to defeat the most powerful nation on earth. Meanwhile, in a classified facility five stories underground, a young PhD student has gained access to a level of bioweapons known only to a select number of officials. A second-generation agent, he has been assigned a mission that will bring his adopted homeland to its knees.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Tart: Misadventures of an Anonymous Chef"
         author: Slutty Cheff
         link: https://www.officialjackcarr.com/books/savage-son/
@@ -27,7 +36,7 @@ list:
         description: "“A traitorous CIA officer has found refuge with the Russian Mafia with designs on ensuring a certain former Navy SEAL sniper is put in the ground. Half a world away, James Reece is recovering from brain surgery in the Montana wilderness of his youth, learning to live again, putting his life back together with the help of investigative journalist Katie Buranek and his longtime friend and SEAL teammate Raife Hastings. For reasons both personal and professional, the Russian intelligence-mafia consortium has their sights set on removing a player from the board before he can return to the battlefield, targeting Reece on U.S. soil. With an unknown entity inside the U.S. government compromised by Russian intelligence, Reece is forced to recruit a team of former commandos to bring his unique brand of vengeance to the Russian Mafia on their home turf, turning the hunters into the hunted.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-12-14
 
       - title: "Angel Down"
         author: Daniel Kraus
