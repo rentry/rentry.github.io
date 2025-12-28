@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "In the Blood"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/in-the-blood/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1648219126i/58438630.jpg
+        description: "“A woman boards a plane in the African country of Burkina Faso having just completed a targeted assassination for the state of Israel. Two minutes later, her plane is blown out of the sky. Over 6,000 miles away, former Navy SEAL James Reece watches the names and pictures of the victims on cable news. One face triggers a distant memory of a Mossad operative attached to the CIA years earlier in Iraq—a woman with ties to the intelligence services of two nations…a woman Reece thought he would never see again. Reece enlists friends new and old across the globe to track down her killer, unaware that he may be walking into a deadly trap.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
         link: https://en.wikipedia.org/wiki/Deep_Survival
@@ -26,7 +35,7 @@ list:
         description: "“It’s been 20 years since 9/11. Two decades since the United States was attacked on home soil and embarked on 20 years of war. The enemy has been patient, learning, and adapting. And the enemy is ready to strike again. A new president offers hope to a country weary of conflict. He’s a young, popular, self-made visionary…but he’s also a man with a secret. Halfway across the globe a regional superpower struggles with sanctions imposed by the Great Satan and her European allies, a country whose ancient religion spawned a group of ruthless assassins. Faced with internal dissent and extrajudicial targeted killings by the United States and Israel, the Supreme Leader puts a plan in motion to defeat the most powerful nation on earth. Meanwhile, in a classified facility five stories underground, a young PhD student has gained access to a level of bioweapons known only to a select number of officials. A second-generation agent, he has been assigned a mission that will bring his adopted homeland to its knees.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-12-22
 
       - title: "Tart: Misadventures of an Anonymous Chef"
         author: Slutty Cheff
