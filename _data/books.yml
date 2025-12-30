@@ -3,6 +3,15 @@ list:
   - year: 2025
     books:
 
+      - title: "Only the Dead"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/only-the-dead/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678845544i/62598578.jpg
+        description: "“In 1980, a freshman congressman was gunned down in Rhode Island, sending shockwaves through Washington that are still reverberating over four decades later. Now, with the world on the brink of war and a weakened United States facing rampant inflation, political division, and shocking assassinations, a secret cabal of global elites is ready to assume control. And with the world’s most dangerous man locked in solitary confinement, the conspirators believe the final obstacle to complete domination has been eliminated. They’re wrong.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "In the Blood"
         author: Jack Carr
         link: https://www.officialjackcarr.com/books/in-the-blood/
@@ -10,7 +19,7 @@ list:
         description: "“A woman boards a plane in the African country of Burkina Faso having just completed a targeted assassination for the state of Israel. Two minutes later, her plane is blown out of the sky. Over 6,000 miles away, former Navy SEAL James Reece watches the names and pictures of the victims on cable news. One face triggers a distant memory of a Mossad operative attached to the CIA years earlier in Iraq—a woman with ties to the intelligence services of two nations…a woman Reece thought he would never see again. Reece enlists friends new and old across the globe to track down her killer, unaware that he may be walking into a deadly trap.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2025-12-30
 
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
