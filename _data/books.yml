@@ -1,5 +1,42 @@
 list:
 
+  - year: 2026
+    books:
+
+      - title: "Tart: Misadventures of an Anonymous Chef"
+        author: Slutty Cheff
+        link: https://www.officialjackcarr.com/books/savage-son/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739128610i/220161223.jpg
+        description: "“When Slutty Cheff finds herself bored and fed-up with her nine-to-five job in corporate marketing, she turns to the only thing she loves to do: cooking. So she quits her job, swaps emails for emulsions, and sets off to pursue her dreams of becoming a chef. The world of London’s fine dining restaurants is so much more than she imagined: It’s more challenging and more exciting, too. There are the exhausting lows of sixty-hour work weeks in windowless kitchens, and the shock of stepping into the changing room as the only woman. There are the thrilling highs of a busy night, when service is running smoothly; electrifying run-ins with hot bartenders and even hotter chefs; and, always, the exhilaration of cycling hands-free through a city that is still sleeping, on a morning where anything can happen.”"
+        genre: [memoir, food]
+        format: audiobook
+        completed: Next
+
+      - title: "Deep Survival: Who Lives, Who Dies, and Why"
+        author: Laurence Gonzales
+        link: https://en.wikipedia.org/wiki/Deep_Survival
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
+        description: "“Laurence Gonzales’s bestselling Deep Survival has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
+        genre: [psychology, survival]
+        completed: Next
+
+      - title: "Devouring Time: Jim Harrison, a Writer's Life"
+        author: Todd Goddard
+        link: https://www.toddgoddard.net/devouring-time
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744755430i/231254772.jpg
+        description: "“Jim Harrison (1937–2016) was widely considered one of the finest voices of his generation. His twenty-one books of fiction and fourteen books of poetry influenced a generation of writers. Harrison helped to shape the course of contemporary American literature, revitalizing in particular the novella form, of which he was a recognized master. Harrison’s literary achievements were matched only by the literary persona that he cultivated during a fecund time in American letters and in the company of a remarkable cohort of friends, writers, actors, and artists, including Thomas McGuane, Peter Matthiessen, and Jack Nicholson. Based on more than one hundred original interviews and drawing upon Harrison’s collected papers, <cite>Devouring Time</cite> is the first and only literary biography of this beloved author, whose playful, irreverent, and spiritual work continues to find and delight new listeners.”"
+        genre: [fiction]
+        completed: In progress          
+
+      - title: "Only the Dead"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/only-the-dead/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678845544i/62598578.jpg
+        description: "“In 1980, a freshman congressman was gunned down in Rhode Island, sending shockwaves through Washington that are still reverberating over four decades later. Now, with the world on the brink of war and a weakened United States facing rampant inflation, political division, and shocking assassinations, a secret cabal of global elites is ready to assume control. And with the world’s most dangerous man locked in solitary confinement, the conspirators believe the final obstacle to complete domination has been eliminated. They’re wrong.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress      
+
   - year: 2025
     books:
 
@@ -21,22 +58,6 @@ list:
         format: audiobook
         completed: 2025-12-30
 
-      - title: "Deep Survival: Who Lives, Who Dies, and Why"
-        author: Laurence Gonzales
-        link: https://en.wikipedia.org/wiki/Deep_Survival
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
-        description: "“Laurence Gonzales’s bestselling Deep Survival has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
-        genre: [psychology, survival]
-        completed: Next
-
-      - title: "Devouring Time: Jim Harrison, a Writer's Life"
-        author: Todd Goddard
-        link: https://www.toddgoddard.net/devouring-time
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744755430i/231254772.jpg
-        description: "“Jim Harrison (1937–2016) was widely considered one of the finest voices of his generation. His twenty-one books of fiction and fourteen books of poetry influenced a generation of writers. Harrison helped to shape the course of contemporary American literature, revitalizing in particular the novella form, of which he was a recognized master. Harrison’s literary achievements were matched only by the literary persona that he cultivated during a fecund time in American letters and in the company of a remarkable cohort of friends, writers, actors, and artists, including Thomas McGuane, Peter Matthiessen, and Jack Nicholson. Based on more than one hundred original interviews and drawing upon Harrison’s collected papers, <cite>Devouring Time</cite> is the first and only literary biography of this beloved author, whose playful, irreverent, and spiritual work continues to find and delight new listeners.”"
-        genre: [fiction]
-        completed: In progress
-
       - title: "The Devil's Hand"
         author: Jack Carr
         link: https://www.officialjackcarr.com/books/the-devils-hand/
@@ -45,15 +66,6 @@ list:
         genre: [fiction]
         format: audiobook
         completed: 2025-12-22
-
-      - title: "Tart: Misadventures of an Anonymous Chef"
-        author: Slutty Cheff
-        link: https://www.officialjackcarr.com/books/savage-son/
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739128610i/220161223.jpg
-        description: "“When Slutty Cheff finds herself bored and fed-up with her nine-to-five job in corporate marketing, she turns to the only thing she loves to do: cooking. So she quits her job, swaps emails for emulsions, and sets off to pursue her dreams of becoming a chef. The world of London’s fine dining restaurants is so much more than she imagined: It’s more challenging and more exciting, too. There are the exhausting lows of sixty-hour work weeks in windowless kitchens, and the shock of stepping into the changing room as the only woman. There are the thrilling highs of a busy night, when service is running smoothly; electrifying run-ins with hot bartenders and even hotter chefs; and, always, the exhilaration of cycling hands-free through a city that is still sleeping, on a morning where anything can happen.”"
-        genre: [memoir, food]
-        format: audiobook
-        completed: Next
 
       - title: "Savage Son"
         author: Jack Carr
