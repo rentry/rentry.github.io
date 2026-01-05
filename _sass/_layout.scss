@@ -502,6 +502,19 @@ table {
     padding: 0 1.5rem 1rem 0;
 }
 
+.cover-center {
+    width: 150px;
+    display: block;
+} 
+
+p:has(> .cover-center) {
+    margin-top: 3rem;    
+
+    + h2 {
+        margin-top: -.5rem;
+    }
+}
+
 .book-list {
     margin-top: 2em;
     margin-left: 0;
