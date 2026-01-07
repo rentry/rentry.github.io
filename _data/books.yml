@@ -3,12 +3,12 @@ list:
   - year: 2026
     books:
 
-      - title: "Tart: Misadventures of an Anonymous Chef"
-        author: Slutty Cheff
-        link: https://www.officialjackcarr.com/books/savage-son/
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739128610i/220161223.jpg
-        description: "“When Slutty Cheff finds herself bored and fed-up with her nine-to-five job in corporate marketing, she turns to the only thing she loves to do: cooking. So she quits her job, swaps emails for emulsions, and sets off to pursue her dreams of becoming a chef. The world of London’s fine dining restaurants is so much more than she imagined: It’s more challenging and more exciting, too. There are the exhausting lows of sixty-hour work weeks in windowless kitchens, and the shock of stepping into the changing room as the only woman. There are the thrilling highs of a busy night, when service is running smoothly; electrifying run-ins with hot bartenders and even hotter chefs; and, always, the exhilaration of cycling hands-free through a city that is still sleeping, on a morning where anything can happen.”"
-        genre: [memoir, food]
+      - title: "Jonathan Abernathy You Are Kind"
+        author: Molly McGhee
+        link: https://www.penguinrandomhouse.com/books/734829/jonathan-abernathy-you-are-kind-by-molly-mcghee/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1682359454i/60754889.jpg
+        description: "“Jonathan Abernathy is fucked. Jobless, behind on student loan payments, and a self-declared failure, the only thing Abernathy has in abundance is debt. When a government loan forgiveness program offers him a job he can do literally in his sleep, he thinks he’s found his big break. That is, until he finds himself auditing the dreams of white-collar workers, flagging their anxieties and preoccupations for removal. As Abernathy finds his footing in this new role, reality and morality begin to warp around him. Soon, the lines between life and work, love and hate, right and wrong, even sleep and consciousness, begin to blur.”"
+        genre: [fiction]
         format: audiobook
         completed: Next
 
@@ -18,7 +18,16 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
         description: "“Laurence Gonzales’s bestselling <cite>Deep Survival</cite> has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
         genre: [psychology, survival]
-        completed: Next
+        completed: Next        
+
+      - title: "Tart: Misadventures of an Anonymous Chef"
+        author: Slutty Cheff
+        link: https://www.officialjackcarr.com/books/savage-son/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1739128610i/220161223.jpg
+        description: "“When Slutty Cheff finds herself bored and fed-up with her nine-to-five job in corporate marketing, she turns to the only thing she loves to do: cooking. So she quits her job, swaps emails for emulsions, and sets off to pursue her dreams of becoming a chef. The world of London’s fine dining restaurants is so much more than she imagined: It’s more challenging and more exciting, too. There are the exhausting lows of sixty-hour work weeks in windowless kitchens, and the shock of stepping into the changing room as the only woman. There are the thrilling highs of a busy night, when service is running smoothly; electrifying run-ins with hot bartenders and even hotter chefs; and, always, the exhilaration of cycling hands-free through a city that is still sleeping, on a morning where anything can happen.”"
+        genre: [memoir, food]
+        format: audiobook
+        completed: 2026-01-07
 
       - title: "Devouring Time: Jim Harrison, a Writer's Life"
         author: Todd Goddard
