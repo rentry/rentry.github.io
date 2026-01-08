@@ -12,6 +12,15 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "Red Sky Mourning"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/red-sky-mourning/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699720331i/199897972.jpg
+        description: "“A storm is on the horizon. America’s days are numbered. A Chinese submarine has gone rogue and is navigating towards the continental United States, putting its nuclear missiles within striking distance of the West Coast. A rising Silicon Valley tech mogul with unknown allegiances is at the forefront of a revolution in quantum computing and Artificial Intelligence. A politician controlled by a foreign power is a breath away from the Oval Office. Three seemingly disconnected events are on a collision course to ignite a power grab unlike anything the world has ever seen.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress 
+
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
         link: https://en.wikipedia.org/wiki/Deep_Survival
@@ -44,7 +53,7 @@ list:
         description: "“In 1980, a freshman congressman was gunned down in Rhode Island, sending shockwaves through Washington that are still reverberating over four decades later. Now, with the world on the brink of war and a weakened United States facing rampant inflation, political division, and shocking assassinations, a secret cabal of global elites is ready to assume control. And with the world’s most dangerous man locked in solitary confinement, the conspirators believe the final obstacle to complete domination has been eliminated. They’re wrong.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress      
+        completed: 2026-01-08
 
   - year: 2025
     books:
