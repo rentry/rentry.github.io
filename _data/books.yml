@@ -11,6 +11,15 @@ list:
         genre: [psychology, survival]
         completed: Next   
 
+      - title: "Furious Minds: The Making of the MAGA New Right"
+        author: Laura K. Field
+        link: https://www.goodreads.com/en/book/show/230169545-furious-minds
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1747306970i/230169545.jpg
+        description: "“Donald Trump is not a big thinker, but his 2016 presidential victory presented a grand opportunity for people who are, and it set off a radicalization and reconfiguration of the American conservative intellectual world. In <cite>Furious Minds</cite>, Laura Field, who spent close to a decade in conservative academic circles, chronicles the rise of the New Right—the network of academics, public intellectuals, and influencers who provide ideological fuel to Trumpism. This movement includes figures such as Patrick Deneen, Christopher Rufo, Peter Thiel, and JD Vance. Their agenda is built to last, and it has dire long-term implications for liberal democracy.”"
+        genre: [politics]
+        format: audiobook
+        completed: Next
+
       - title: "The Gates of Europe: A History of Ukraine"
         author: Serhii Plokhy
         link: https://www.goodreads.com/book/show/25255053-the-gates-of-europe
