@@ -3,13 +3,22 @@ list:
   - year: 2026
     books:
 
+      - title: "Cry Havoc"
+        author: Jack Carr
+        link: https://www.officialjackcarr.com/books/cry-havoc/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1741199779i/219441947.jpg
+        description: "“Just before the Tet Offensive, before President Johnson announces he will not run for reelection, before the assassinations of Martin Luther King Jr. and Bobby Kennedy, as riots and protests rage across the nation, a spy ship is captured by communist forces off the coast of North Korea. The crew thought they had destroyed everything of intelligence value. They were wrong. As a KGB “illegal” elicits information from a high-ranking NSA official, and teams of special operators infiltrating into Laos, Cambodia, and North Vietnam disappear without a trace, an ambitious Soviet advisor launches an ingenious plan that could forever alter the world balance of power.”"
+        genre: [fiction]
+        format: audiobook
+        completed: Next
+
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
         link: https://en.wikipedia.org/wiki/Deep_Survival
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
         description: "“Laurence Gonzales’s bestselling <cite>Deep Survival</cite> has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
         genre: [psychology, survival]
-        completed: Next   
+        completed: Next
 
       - title: "Furious Minds: The Making of the MAGA New Right"
         author: Laura K. Field
@@ -18,7 +27,7 @@ list:
         description: "“Donald Trump is not a big thinker, but his 2016 presidential victory presented a grand opportunity for people who are, and it set off a radicalization and reconfiguration of the American conservative intellectual world. In <cite>Furious Minds</cite>, Laura Field, who spent close to a decade in conservative academic circles, chronicles the rise of the New Right—the network of academics, public intellectuals, and influencers who provide ideological fuel to Trumpism. This movement includes figures such as Patrick Deneen, Christopher Rufo, Peter Thiel, and JD Vance. Their agenda is built to last, and it has dire long-term implications for liberal democracy.”"
         genre: [politics]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Gates of Europe: A History of Ukraine"
         author: Serhii Plokhy
@@ -27,7 +36,7 @@ list:
         description: "“Ukraine is currently embroiled in a tense fight with Russia to preserve its territorial integrity and political independence. But today's conflict is only the latest in a long history of battles over Ukraine's territory and its existence as a sovereign nation. As the award-winning historian Serhii Plokhy argues in <cite>The Gates of Europe</cite>, we must examine Ukraine's past in order to understand its present and future.”"
         genre: [history]
         format: audiobook
-        completed: In progress
+        completed: 2026-01-21
 
       - title: "Jonathan Abernathy You Are Kind"
         author: Molly McGhee
