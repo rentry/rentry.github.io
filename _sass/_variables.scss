@@ -1,0 +1,43 @@
+@use "sass:color";
+
+// Our variables
+$heading-font-family: 'Martel', serif;
+$italic-font-family: 'Merriweather', serif;
+$base-font-family: 'Roboto', sans-serif;
+$base-font-size: 21px;
+$small-font-size:  $base-font-size * 0.875;
+$tiny-font-size: $base-font-size * 0.7;
+$base-line-height: 1.7;
+
+$spacing-unit:     2em;
+
+$text-color:       #000;
+$background-color: #fff;
+$brand-color:      #0077b3;
+$brand-color-light:#0099e6;
+$brand-color-dark: #03496c;
+
+$grey-color:       #828282;
+$grey-color-brand: #29353a;
+$grey-color-light:  color.adjust($grey-color, $lightness: 40%);
+$grey-color-medium: color.adjust($grey-color, $lightness: -30%);
+$grey-color-dark:   color.adjust($grey-color, $lightness: -25%);
+
+// Width of the content area
+$content-width:    700px;
+
+$on-palm:          600px;
+$on-laptop:        700px;
+
+// Gradient colours
+// $from:  #AD76F2;
+// $to:    #FD3F4F;
+
+// 3BD8D5
+// FD3F4F
+
+// $from:  #ff2299;
+// $to:    #3366ff;
+
+$from:  #101010;
+$to:    #303030;
