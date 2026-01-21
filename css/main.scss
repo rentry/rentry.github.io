@@ -2,9 +2,6 @@
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
-@use "sass:color";
-@use 'variables' as *;
-@use 'globals';
 
 /* icons */
 @font-face {
@@ -42,6 +39,74 @@
 /* Typography */
 
 @import url('https://fonts.googleapis.com/css?family=Martel:900|Roboto:300,300i,700,700i|Merriweather:900i&display=swap');
+
+// Our variables
+$heading-font-family: 'Martel', serif;
+$italic-font-family: 'Merriweather', serif;
+$base-font-family: 'Roboto', sans-serif;
+$base-font-size: 21px;
+$small-font-size:  $base-font-size * 0.875;
+$tiny-font-size: $base-font-size * 0.7;
+$base-line-height: 1.7;
+
+$spacing-unit:     2em;
+
+$text-color:       #000;
+$background-color: #fff;
+$brand-color:      #0077b3;
+$brand-color-light:#0099e6;
+$brand-color-dark: #03496c;
+
+$grey-color:       #828282;
+$grey-color-brand: #29353a;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-medium: darken($grey-color, 30%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    700px;
+
+$on-palm:          600px;
+$on-laptop:        700px;
+
+// Gradient colours
+// $from:  #AD76F2;
+// $to:    #FD3F4F;
+
+// 3BD8D5
+// FD3F4F
+
+// $from:  #ff2299;
+// $to:    #3366ff;
+
+$from:  #101010;
+$to:    #303030;
+
+// Using media queries like this:
+// @include media-query($on-palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit * .5;
+//         padding-left: $spacing-unit * .5;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+ @import
+        'base',
+        'layout',
+        'chart',
+        'form',
+        'maps',
+        'syntax-highlighting'
+;
+
 
 // Bootstrap classes //
 
