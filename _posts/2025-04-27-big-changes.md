@@ -23,7 +23,7 @@ But hey...someone did [write a song about me](https://wethesongwriters.org/posts
 
 ## Leaving SAR
 
-Both related and unrelated to my employment situation, I've also left the search and rescue team. My last mission was a [body recovery from the Sandy River](https://www.clackamas.us/sheriff/2025-03-31-Case-25-006204). 
+Both related and unrelated to my employment situation, I've also left the search and rescue team. My last mission was a [body recovery from the Sandy River](https://www.clackcosheriff.us/newsBlog/689107c5c655f298e80f30f5). 
 
 I'm proud of my work on the search and rescue team, and I'm especially grateful for the opportunity to train new recruits in land navigation during my tenure. But given everything else going on right now, volunteering with SAR became untenable.
 
