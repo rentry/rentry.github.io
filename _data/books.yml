@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "The Bad-Ass Librarians of Timbuktu and Their Race to Save the World’s Most Precious Manuscripts"
+        author: Joshua Hammer
+        link: https://www.simonandschuster.com/books/The-Bad-Ass-Librarians-of-Timbuktu/Joshua-Hammer/9781476777412
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1460924092i/25814351.jpg
+        description: "“In the 1980s, a young adventurer and collector for a government library, Abdel Kader Haidara, journeyed across the Sahara Desert and along the Niger River, tracking down and salvaging tens of thousands of ancient Islamic and secular manuscripts that had fallen into obscurity. <cite>The Bad-Ass Librarians of Timbuktu</cite> tells the incredible story of how Haidara, a mild-mannered archivist and historian from the legendary city of Timbuktu, later became one of the world’s greatest and most brazen smugglers.”"
+        genre: [history]
+        format: audiobook
+        completed: Next
+
       - title: "The Library at Mount Char"
         author: Scott Hawkins
         link: https://en.wikipedia.org/wiki/The_Library_at_Mount_Char
@@ -10,7 +19,7 @@ list:
         description: "“Carolyn knows she's a little bit...odd. But she figures that's only natural when she's spent her life locked away in an infinite Library, forced to study at the feet of the man who might be God. She's seen her share of terrible things in those years, even died a few times herself. Steve tries hard to be an ordinary guy, and he's been doing a pretty good job at it—until Carolyn shows up in his life with a tempting offer, a pair of red rubber galoshes, and exactly $327,000. Soon, he finds himself swept up in a war waged on a scale he can barely comprehend, as powerful forces battle for control of the Library and the future of the universe itself.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2026-02-02
 
       - title: "Cry Havoc"
         author: Jack Carr
@@ -19,7 +28,7 @@ list:
         description: "“Just before the Tet Offensive, before President Johnson announces he will not run for reelection, before the assassinations of Martin Luther King Jr. and Bobby Kennedy, as riots and protests rage across the nation, a spy ship is captured by communist forces off the coast of North Korea. The crew thought they had destroyed everything of intelligence value. They were wrong. As a KGB “illegal” elicits information from a high-ranking NSA official, and teams of special operators infiltrating into Laos, Cambodia, and North Vietnam disappear without a trace, an ambitious Soviet advisor launches an ingenious plan that could forever alter the world balance of power.”"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
