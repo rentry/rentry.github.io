@@ -6,7 +6,7 @@ layout: about
 
 I live in the woods just outside Portland, Oregon. My work is in content strategy, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
-Over the past several years, I've been working to improve government digital services, most recently at [18F](https://18f.org/), the [Department of Homeland Security](https://ohss.dhs.gov/), and [Oregon Department of Human Services](https://www.oregon.gov/odhs/pages/default.aspx).
+After nearly a decade as a public servant working to improve government digital service delivery, I'm now a Senior UX Strategist at [Madison Ave. Collective](https://www.madcollective.com/).
 
 When I'm not working, I'm likely walking among trees, [reading a book]({{ '/books/' | relative_url }}), or volunteering.
 
