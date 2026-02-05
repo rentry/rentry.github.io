@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "Liturgies of the Wild: Myths That Make Us"
+        author: Martin Shaw
+        link: https://www.simonandschuster.com/books/The-Bad-Ass-Librarians-of-Timbuktu/Joshua-Hammer/9781476777412
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1460924092i/25814351.jpg
+        description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
+        genre: [myth]
+        format: audiobook
+        completed: Next
+
       - title: "The Bad-Ass Librarians of Timbuktu and Their Race to Save the World’s Most Precious Manuscripts"
         author: Joshua Hammer
         link: https://www.simonandschuster.com/books/The-Bad-Ass-Librarians-of-Timbuktu/Joshua-Hammer/9781476777412
