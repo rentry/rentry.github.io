@@ -6,7 +6,7 @@ layout: about
 
 I live in the woods just outside Portland, Oregon. My work is in content strategy, writing, design, and [GIS](https://en.wikipedia.org/wiki/Geographic_information_science).
 
-After nearly a decade as a public servant working to improve government digital service delivery, I'm now a Senior UX Strategist at [Madison Ave. Collective](https://www.madcollective.com/).
+After nearly a decade in public service working to improve government digital services, I'm now a Senior UX Strategist at [Madison Ave. Collective](https://www.madcollective.com/).
 
 When I'm not working, I'm likely walking among trees, [reading a book]({{ '/books/' | relative_url }}), or volunteering.
 
