@@ -10,7 +10,7 @@ After nearly a decade in public service working to improve government digital se
 
 When I'm not working, I'm likely walking among trees, [reading a book]({{ '/books/' | relative_url }}), or volunteering.
 
-I served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}) for four years and currently volunteer with [{% include tko_icon.html %} Trailkeepers of Oregon](https://trailkeepersoforegon.org/) and [{% include rubicon_icon.html %} Team Rubicon](https://teamrubiconusa.org/). I also occasionally volunteer [📷 photography services]({{ '/pnw-survival-games/' | relative_url }}).
+I served as a [search and rescue volunteer]({{ '/tags/#search%20and%20rescue' | relative_url }}) for four years and currently volunteer with [{% include tko_icon.html %} Trailkeepers of Oregon](https://trailkeepersoforegon.org/), [{% include rubicon_icon.html %} Team Rubicon](https://teamrubiconusa.org/), and [🇺🇦 50 States for Ukraine](https://www.50statesforukraine.com/). I also occasionally volunteer [📷 photography services]({{ '/pnw-survival-games/' | relative_url }}).
 
 ## Words
 <ul class="contact-list">
