@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "Escape from Capitalism: An Intervention"
+        author: Clara Mattei
+        link: https://www.claramattei.com/books/escape-from-capitalism
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749400620i/235992545.jpg
+        description: "“Capitalism isn’t inevitable, scientific, or natural—it's a relatively young system that <em>can</em> be replaced. In this radical rethinking of economics, Clara Mattei argues that enduring problems such as poverty, unemployment, and inflation are not bugs in the economy but core features. They are justified with pseudoscientific models, fabrications built to support a capitalist economy that unfairly rewards people with the most resources.”"
+        genre: [politics, economics]
+        format: audiobook
+        completed: Next
+
       - title: "Liturgies of the Wild: Myths That Make Us"
         author: Martin Shaw
         link: https://www.simonandschuster.com/books/The-Bad-Ass-Librarians-of-Timbuktu/Joshua-Hammer/9781476777412
