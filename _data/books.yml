@@ -3,6 +3,14 @@ list:
   - year: 2026
     books:
 
+      - title: "Reckoning Dreams and Fire: Leaving the American Dream To Fight Russia’s Invasion"
+        author: Issac Luna
+        link: https://www.reckoningdreamsandfire.com/
+        image: https://m.media-amazon.com/images/I/6193TtiUQvL._SY522_.jpg
+        description: "“Issac Luna grew up in poverty and violence before becoming a U.S. Marine. During the Global War on Terror, he battled the Taliban in Afghanistan and fought ISIS in Iraq. After leaving the military, he earned an MBA and built a prosperous civilian life as a management consultant and investor. He had achieved the American Dream. In March 2022, when Russia invaded Ukraine, he walked away from that life and joined the Ukrainian military.”"
+        genre: [memoir, history]
+        completed: In progress
+
       - title: "Escape from Capitalism: An Intervention"
         author: Clara Mattei
         link: https://www.claramattei.com/books/escape-from-capitalism
@@ -10,7 +18,7 @@ list:
         description: "“Capitalism isn’t inevitable, scientific, or natural—it's a relatively young system that <em>can</em> be replaced. In this radical rethinking of economics, Clara Mattei argues that enduring problems such as poverty, unemployment, and inflation are not bugs in the economy but core features. They are justified with pseudoscientific models, fabrications built to support a capitalist economy that unfairly rewards people with the most resources.”"
         genre: [politics, economics]
         format: audiobook
-        completed: In progress
+        completed: 2026-02-18
 
       - title: "Liturgies of the Wild: Myths That Make Us"
         author: Martin Shaw
