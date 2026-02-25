@@ -3,6 +3,24 @@ list:
   - year: 2026
     books:
 
+      - title: "Liturgies of the Wild: Myths That Make Us"
+        author: Martin Shaw
+        link: https://drmartinshaw.com/liturgies-of-the-wild/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754537200i/232794534.jpg
+        description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
+        genre: [myth]
+        format: audiobook
+        completed: Next
+
+      - title: "The Russo-Ukrainian War: The Return of History"
+        author: Serhii Plokhy
+        link: https://www.goodreads.com/book/show/63326676-the-russo-ukrainian-war
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676788367i/63326676.jpg
+        description: "“Despite repeated warnings from the White House, Russia’s invasion of Ukraine in February 2022 shocked the world. Why did Putin start the war—and why has it unfolded in previously unimaginable ways? Ukrainians have resisted a superior military; the West has united, while Russia grows increasingly isolated. Serhii Plokhy, a leading historian of Ukraine and the Cold War, offers a definitive account of this conflict, its origins, course, and the already apparent and possible future consequences.”"
+        genre: [history]
+        format: audiobook
+        completed: Next        
+
       - title: "Reckoning Dreams and Fire: Leaving the American Dream To Fight Russia’s Invasion"
         author: Issac Luna
         link: https://www.reckoningdreamsandfire.com/
@@ -19,15 +37,6 @@ list:
         genre: [politics, economics]
         format: audiobook
         completed: 2026-02-18
-
-      - title: "Liturgies of the Wild: Myths That Make Us"
-        author: Martin Shaw
-        link: https://drmartinshaw.com/liturgies-of-the-wild/
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754537200i/232794534.jpg
-        description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
-        genre: [myth]
-        format: audiobook
-        completed: Next
 
       - title: "The Bad-Ass Librarians of Timbuktu and Their Race to Save the World’s Most Precious Manuscripts"
         author: Joshua Hammer
@@ -115,7 +124,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1744755430i/231254772.jpg
         description: "“Jim Harrison (1937–2016) was widely considered one of the finest voices of his generation. His twenty-one books of fiction and fourteen books of poetry influenced a generation of writers. Harrison helped to shape the course of contemporary American literature, revitalizing in particular the novella form, of which he was a recognized master. Harrison’s literary achievements were matched only by the literary persona that he cultivated during a fecund time in American letters and in the company of a remarkable cohort of friends, writers, actors, and artists, including Thomas McGuane, Peter Matthiessen, and Jack Nicholson. Based on more than one hundred original interviews and drawing upon Harrison’s collected papers, <cite>Devouring Time</cite> is the first and only literary biography of this beloved author, whose playful, irreverent, and spiritual work continues to find and delight new listeners.”"
         genre: [fiction]
-        completed: In progress          
+        completed: 2026-02-25        
 
       - title: "Only the Dead"
         author: Jack Carr
