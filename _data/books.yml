@@ -3,6 +3,30 @@ list:
   - year: 2026
     books:
 
+      - title: "War in Ukraine - Volume 3: Armed Formations of the Luhansk People’s Republic 2014–2022"
+        author: Edward Crowther
+        link: https://www.goodreads.com/book/show/91199784-war-in-ukraine---volume-3
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678543300i/91199784.jpg
+        description: "“War in Ukraine, Volume 3: Armed formations of the Luhansk People’s Republic 2014–2022 focuses on the armed formations of the Luhansk People’s Republic (LPR), one of the two separatist entities in the east of Ukraine. This volume aims to provide an overview of their formation in 2014, status up to the end of February 2022 (with some observations on their activities since the launch of Russia’s ‘Special Military Operation’), and combat equipment, while also exploring issues around identity and symbology.”"
+        genre: [history, military]
+        completed: Next
+
+      - title: "War in Ukraine - Volume 2: Russian Invasion, February 2022"
+        author: Tom Cooper, Adrien Fontanellaz, Edward Crowther, Milos Sipos
+        link: https://www.goodreads.com/book/show/62200702-war-in-ukraine---volume-2
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661911505i/62200702.jpg
+        description: "“On 24 February 2022, eight years after invading the Crimean Peninsula of Ukraine and organizing an illegal referendum in support of a subsequent Russian annexation, President of the Russian Federation Vladimir Putin ordered a full-scale invasion of Ukraine. Both Western and Russian intelligence services expected the invasion to quickly topple the democratically elected government in Kyiv and, with the help of collaborators, to overrun the Ukrainian armed forces in a matter of between 3 and 14 days.”"
+        genre: [history, military]
+        completed: Next
+
+      - title: "War in Ukraine - Volume 1: Armed Formations of the Donetsk People’s Republic, 2014-2022"
+        author: Edward Crowther
+        link: https://www.goodreads.com/book/show/59096178-war-in-ukraine---volume-1
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1636375336i/59096178.jpg
+        description: "“Volume 1 of Ukraine War focuses on the armed formations of the Donetsk People’s Republic (DPR), the largest of the two separatist entities in the east of Ukraine. Armed formations of the Donetsk People’s Republic aims to provide an overview of their formation in 2014, their status up to the end of February 2022, and combat equipment, while also exploring issues around identity and symbology.”"
+        genre: [history, military]
+        completed: In progress
+
       - title: "Liturgies of the Wild: Myths That Make Us"
         author: Martin Shaw
         link: https://drmartinshaw.com/liturgies-of-the-wild/
@@ -10,7 +34,7 @@ list:
         description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
         genre: [myth]
         format: audiobook
-        completed: Next
+        completed: Next        
 
       - title: "The Russo-Ukrainian War: The Return of History"
         author: Serhii Plokhy
