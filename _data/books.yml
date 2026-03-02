@@ -3,6 +3,32 @@ list:
   - year: 2026
     books:
 
+      - title: "Deep Survival: Who Lives, Who Dies, and Why"
+        author: Laurence Gonzales
+        link: https://en.wikipedia.org/wiki/Deep_Survival
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
+        description: "“Laurence Gonzales’s bestselling <cite>Deep Survival</cite> has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
+        genre: [psychology, survival]
+        completed: Next
+
+      - title: "Liturgies of the Wild: Myths That Make Us"
+        author: Martin Shaw
+        link: https://drmartinshaw.com/liturgies-of-the-wild/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754537200i/232794534.jpg
+        description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
+        genre: [myth]
+        format: audiobook
+        completed: Next
+
+      - title: "Brown Dog"
+        author: Jim Harrison
+        link: https://www.goodreads.com/book/show/17707989-brown-dog
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1383048214i/17707989.jpg
+        description: "“In these novellas, BD rescues the preserved body of an Indian from Lake Superior’s cold waters; overindulges in food, drink, and women while just scraping by in Michigan’s Upper Peninsula; wanders Los Angeles in search of an ersatz Native activist who stole his bearskin; adopts two Native children; and flees the authorities, then returns across the Canadian border aboard an Indian rock band’s tour bus. The collection culminates with He Dog, never before published, which finds BD marginally employed and still looking for love (or sometimes just a few beers and a roll in the hay), as he goes on a road trip from Michigan to Montana and back, arriving home to the prospect of family stability and, perhaps, a chance at redemption.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "War in Ukraine - Volume 3: Armed Formations of the Luhansk People’s Republic 2014–2022"
         author: Edward Crowther
         link: https://www.goodreads.com/book/show/91199784-war-in-ukraine---volume-3
@@ -25,16 +51,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1636375336i/59096178.jpg
         description: "“Volume 1 of Ukraine War focuses on the armed formations of the Donetsk People’s Republic (DPR), the largest of the two separatist entities in the east of Ukraine. Armed formations of the Donetsk People’s Republic aims to provide an overview of their formation in 2014, their status up to the end of February 2022, and combat equipment, while also exploring issues around identity and symbology.”"
         genre: [history, military]
-        completed: In progress
-
-      - title: "Liturgies of the Wild: Myths That Make Us"
-        author: Martin Shaw
-        link: https://drmartinshaw.com/liturgies-of-the-wild/
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754537200i/232794534.jpg
-        description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
-        genre: [myth]
-        format: audiobook
-        completed: Next        
+        completed: In progress    
 
       - title: "The Russo-Ukrainian War: The Return of History"
         author: Serhii Plokhy
@@ -88,14 +105,6 @@ list:
         genre: [fiction]
         format: audiobook
         completed: 2026-02-05
-
-      - title: "Deep Survival: Who Lives, Who Dies, and Why"
-        author: Laurence Gonzales
-        link: https://en.wikipedia.org/wiki/Deep_Survival
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
-        description: "“Laurence Gonzales’s bestselling <cite>Deep Survival</cite> has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
-        genre: [psychology, survival]
-        completed: Next
 
       - title: "Furious Minds: The Making of the MAGA New Right"
         author: Laura K. Field
