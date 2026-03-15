@@ -11,6 +11,15 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "Project Hail Mary"
+        author: Andy Weir
+        link: https://en.wikipedia.org/wiki/Project_Hail_Mary
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401.jpg
+        description: "“Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company. His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress    
+
       - title: "Liturgies of the Wild: Myths That Make Us"
         author: Martin Shaw
         link: https://drmartinshaw.com/liturgies-of-the-wild/
@@ -18,7 +27,7 @@ list:
         description: "“There's an old Celtic belief that if you aren’t wrapped in the cloak of story you are liable to experience huge rushes of angst as you age. You are, in some grievous way, unprepared for what the world will hurl at you. You remain adolescent, stuck, unable to act or to rest. In <cite>Liturgies of the Wild</cite>, acclaimed mythographer, storyteller, and Christian thinker Martin Shaw proposes that we look to the “ancient technologies” the myths and initiatory rites for help achieving maturity and wholeness.”"
         genre: [myth]
         format: audiobook
-        completed: In progress
+        completed: 2026-03-14
 
       - title: "Brown Dog"
         author: Jim Harrison
@@ -51,7 +60,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1636375336i/59096178.jpg
         description: "“Volume 1 of Ukraine War focuses on the armed formations of the Donetsk People’s Republic (DPR), the largest of the two separatist entities in the east of Ukraine. Armed formations of the Donetsk People’s Republic aims to provide an overview of their formation in 2014, their status up to the end of February 2022, and combat equipment, while also exploring issues around identity and symbology.”"
         genre: [history, military]
-        completed: In progress    
+        completed: 2026-03-15    
 
       - title: "The Russo-Ukrainian War: The Return of History"
         author: Serhii Plokhy
