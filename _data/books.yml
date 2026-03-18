@@ -11,14 +11,23 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "Vigil"
+        author: George Saunders
+        link: https://www.penguinrandomhouse.com/books/564991/vigil-by-george-saunders/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
+        description: "“Not for the first time, Jill “Doll” Blaine finds herself hurtling toward earth, reconstituting as she falls, right down to her favorite black pumps. She plummets towards her newest charge, yet another soul she must usher into the afterlife, and lands headfirst in the circular drive of his ornate mansion. She has performed this sacred duty 343 times since her own death. Her charges, as a rule, have been greatly comforted in their final moments. But this charge, she soon discovers, isn’t like the others. The powerful K. J. Boone will not be consoled, because he has nothing to regret. He lived a big, bold, epic life, and the world is better for it. Isn’t it?”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Project Hail Mary"
         author: Andy Weir
         link: https://en.wikipedia.org/wiki/Project_Hail_Mary
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401.jpg
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753151765i/238873074.jpg
         description: "“Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company. His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress    
+        completed: 2026-03-17
 
       - title: "Liturgies of the Wild: Myths That Make Us"
         author: Martin Shaw
