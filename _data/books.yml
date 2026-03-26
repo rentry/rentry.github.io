@@ -11,6 +11,23 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "War in Ukraine - Volume 2: Russian Invasion, February 2022"
+        author: Tom Cooper, Adrien Fontanellaz, Edward Crowther, Milos Sipos
+        link: https://www.goodreads.com/book/show/62200702-war-in-ukraine---volume-2
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661911505i/62200702.jpg
+        description: "“On 24 February 2022, eight years after invading the Crimean Peninsula of Ukraine and organizing an illegal referendum in support of a subsequent Russian annexation, President of the Russian Federation Vladimir Putin ordered a full-scale invasion of Ukraine. Both Western and Russian intelligence services expected the invasion to quickly topple the democratically elected government in Kyiv and, with the help of collaborators, to overrun the Ukrainian armed forces in a matter of between 3 and 14 days.”"
+        genre: [history, military]
+        completed: In progress      
+
+      - title: "The Beginning Comes After the End: Notes on a World of Change"
+        author: Rebecca Solnit
+        link: https://www.haymarketbooks.org/books/2617-the-beginning-comes-after-the-end
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754267788i/223957713.jpg
+        description: "“In this sequel to her enduring bestseller <cite>Hope in the Dark</cite>, Solnit surveys a world that has changed dramatically since the year 1960. She argues that, despite the forces seeking to turn back the clock on history, change is not a possibility, it is an inevitability, and the nature of that change is determined by who participates and how. The changes amount to nothing less than dismantling an old civilization and building a new one, whose newness is often the return of the old ways and wisdoms. In this rising worldview, interconnection is a core idea and value. But because the transformation has happened in so many disparate arenas, and within a longer arc of history, the scale of that change is seldom recognized.”"
+        genre: [history, politics]
+        format: audiobook
+        completed: In progress   
+
       - title: "Vigil"
         author: George Saunders
         link: https://www.penguinrandomhouse.com/books/564991/vigil-by-george-saunders/
@@ -18,12 +35,12 @@ list:
         description: "“Not for the first time, Jill “Doll” Blaine finds herself hurtling toward earth, reconstituting as she falls, right down to her favorite black pumps. She plummets towards her newest charge, yet another soul she must usher into the afterlife, and lands headfirst in the circular drive of his ornate mansion. She has performed this sacred duty 343 times since her own death. Her charges, as a rule, have been greatly comforted in their final moments. But this charge, she soon discovers, isn’t like the others. The powerful K. J. Boone will not be consoled, because he has nothing to regret. He lived a big, bold, epic life, and the world is better for it. Isn’t it?”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2026-03-26
 
       - title: "Project Hail Mary"
         author: Andy Weir
         link: https://en.wikipedia.org/wiki/Project_Hail_Mary
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753151765i/238873074.jpg
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1764703833i/54493401.jpg
         description: "“Ryland Grace is the sole survivor on a desperate, last-chance mission—and if he fails, humanity and Earth itself will perish. Except that right now, he doesn’t know that. He can’t even remember his own name, let alone the nature of his assignment or how to complete it. All he knows is that he’s been asleep for a very, very long time. And he’s just been awakened to find himself millions of miles from home, with nothing but two corpses for company. His crewmates dead, his memories fuzzily returning, Ryland realizes that an impossible task now confronts him. Hurtling through space on this tiny ship, it’s up to him to puzzle out an impossible scientific mystery—and conquer an extinction-level threat to our species.”"
         genre: [fiction]
         format: audiobook
@@ -47,22 +64,6 @@ list:
         format: audiobook
         completed: 2026-03-09
 
-      - title: "War in Ukraine - Volume 3: Armed Formations of the Luhansk People’s Republic 2014–2022"
-        author: Edward Crowther
-        link: https://www.goodreads.com/book/show/91199784-war-in-ukraine---volume-3
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1678543300i/91199784.jpg
-        description: "“War in Ukraine, Volume 3: Armed formations of the Luhansk People’s Republic 2014–2022 focuses on the armed formations of the Luhansk People’s Republic (LPR), one of the two separatist entities in the east of Ukraine. This volume aims to provide an overview of their formation in 2014, status up to the end of February 2022 (with some observations on their activities since the launch of Russia’s ‘Special Military Operation’), and combat equipment, while also exploring issues around identity and symbology.”"
-        genre: [history, military]
-        completed: Next
-
-      - title: "War in Ukraine - Volume 2: Russian Invasion, February 2022"
-        author: Tom Cooper, Adrien Fontanellaz, Edward Crowther, Milos Sipos
-        link: https://www.goodreads.com/book/show/62200702-war-in-ukraine---volume-2
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661911505i/62200702.jpg
-        description: "“On 24 February 2022, eight years after invading the Crimean Peninsula of Ukraine and organizing an illegal referendum in support of a subsequent Russian annexation, President of the Russian Federation Vladimir Putin ordered a full-scale invasion of Ukraine. Both Western and Russian intelligence services expected the invasion to quickly topple the democratically elected government in Kyiv and, with the help of collaborators, to overrun the Ukrainian armed forces in a matter of between 3 and 14 days.”"
-        genre: [history, military]
-        completed: Next
-
       - title: "War in Ukraine - Volume 1: Armed Formations of the Donetsk People’s Republic, 2014-2022"
         author: Edward Crowther
         link: https://www.goodreads.com/book/show/59096178-war-in-ukraine---volume-1
@@ -78,7 +79,7 @@ list:
         description: "“Despite repeated warnings from the White House, Russia’s invasion of Ukraine in February 2022 shocked the world. Why did Putin start the war—and why has it unfolded in previously unimaginable ways? Ukrainians have resisted a superior military; the West has united, while Russia grows increasingly isolated. Serhii Plokhy, a leading historian of Ukraine and the Cold War, offers a definitive account of this conflict, its origins, course, and the already apparent and possible future consequences.”"
         genre: [history]
         format: audiobook
-        completed: Next        
+        completed: 2026-03-15      
 
       - title: "Reckoning Dreams and Fire: Leaving the American Dream To Fight Russia’s Invasion"
         author: Issac Luna
