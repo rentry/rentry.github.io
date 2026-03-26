@@ -26,6 +26,15 @@ list:
         description: "“In this sequel to her enduring bestseller <cite>Hope in the Dark</cite>, Solnit surveys a world that has changed dramatically since the year 1960. She argues that, despite the forces seeking to turn back the clock on history, change is not a possibility, it is an inevitability, and the nature of that change is determined by who participates and how. The changes amount to nothing less than dismantling an old civilization and building a new one, whose newness is often the return of the old ways and wisdoms. In this rising worldview, interconnection is a core idea and value. But because the transformation has happened in so many disparate arenas, and within a longer arc of history, the scale of that change is seldom recognized.”"
         genre: [history, politics]
         format: audiobook
+        completed: Next
+
+      - title: "When Tomorrow Burns"
+        author: Tae Keller
+        link: https://www.taekeller.com/books/whentomorrowburns
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1749523622i/235699993.jpg
+        description: "“When best friends Nomi, Vi, and Arthur were younger, they found a book that could predict the future. It was so very satisfying and comforting to know what was coming. But as the friends drifted apart, they forgot about the book. Except for Nomi. The final prediction says ‘How do you turn a girl into flame. You’ll never be the same.’ What does it mean? It sounds dangerous—especially with wildfires raging in the distance. Nomi just knows there’s a sequel to the book; if only they could find it, everything would make sense.”"
+        genre: [fiction]
+        format: audiobook
         completed: In progress   
 
       - title: "Vigil"
