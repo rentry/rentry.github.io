@@ -19,6 +19,15 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "On Tyranny: Expanded Audio Edition: Updated with Twenty New Lessons from Russia's War on Ukraine"
+        author: Timothy Snyder
+        link: https://www.penguinrandomhouse.com/books/719612/on-tyranny-expanded-audio-edition-by-timothy-snyder/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1772832310i/60845095.jpg
+        description: "“In this exclusive audiobook edition, which includes eight hours of new content, Timothy Snyder combines the original On Tyranny (2017)—20 lessons on how history can instruct our response to the rise of tyranny around the world today—with 20 new lessons that answer the questions everyone is asking about Russia's war on Ukraine. With forays into history, he clarifies the causes of the Russian invasion and the meaning of Ukrainian resistance, and explains the war's connections to threats to democracy around the world. Linking past and present, and speaking only from notes, Snyder delivers an important call to arms and roadmap for resistance, providing invaluable ideas for how we can preserve our freedoms in the uncertain years to come. This is the long view we all need, given to us right now by a leading expert.”"
+        genre: [history, politics]
+        format: audiobook
+        completed: In progress    
+
       - title: "War in Ukraine - Volume 2: Russian Invasion, February 2022"
         author: Tom Cooper, Adrien Fontanellaz, Edward Crowther, Milos Sipos
         link: https://www.goodreads.com/book/show/62200702-war-in-ukraine---volume-2
@@ -34,7 +43,7 @@ list:
         description: "“In this sequel to her enduring bestseller <cite>Hope in the Dark</cite>, Solnit surveys a world that has changed dramatically since the year 1960. She argues that, despite the forces seeking to turn back the clock on history, change is not a possibility, it is an inevitability, and the nature of that change is determined by who participates and how. The changes amount to nothing less than dismantling an old civilization and building a new one, whose newness is often the return of the old ways and wisdoms. In this rising worldview, interconnection is a core idea and value. But because the transformation has happened in so many disparate arenas, and within a longer arc of history, the scale of that change is seldom recognized.”"
         genre: [history, politics]
         format: audiobook
-        completed: In progress
+        completed: 2026-04-01
 
       - title: "Vigil"
         author: George Saunders
