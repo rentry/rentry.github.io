@@ -19,6 +19,15 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "Grey Bees"
+        author: Andrey Kurkov
+        link: https://en.wikipedia.org/wiki/Grey_Bees
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1605876951i/50374582.jpg
+        description: "“49-year-old safety inspector-turned-beekeeper Sergey Sergeich, wants little more than to help his bees collect their pollen in peace. But Sergey lives in Ukraine, where a lukewarm war of sporadic violence and constant propaganda has been dragging on for years. His simple mission on behalf of his bees leads him through some the hottest spots of the ongoing conflict, putting him in contact with combatants and civilians on both sides of the battle lines: loyalists, separatists, Russian occupiers, and Crimean Tatars.”"
+        genre: [fiction, historical fiction]
+        format: audiobook
+        completed: In progress      
+
       - title: "On Tyranny: Expanded Audio Edition: Updated with Twenty New Lessons from Russia's War on Ukraine"
         author: Timothy Snyder
         link: https://www.penguinrandomhouse.com/books/719612/on-tyranny-expanded-audio-edition-by-timothy-snyder/
@@ -26,7 +35,7 @@ list:
         description: "“In this exclusive audiobook edition, which includes eight hours of new content, Timothy Snyder combines the original On Tyranny (2017)—20 lessons on how history can instruct our response to the rise of tyranny around the world today—with 20 new lessons that answer the questions everyone is asking about Russia's war on Ukraine. With forays into history, he clarifies the causes of the Russian invasion and the meaning of Ukrainian resistance, and explains the war's connections to threats to democracy around the world. Linking past and present, and speaking only from notes, Snyder delivers an important call to arms and roadmap for resistance, providing invaluable ideas for how we can preserve our freedoms in the uncertain years to come. This is the long view we all need, given to us right now by a leading expert.”"
         genre: [history, politics]
         format: audiobook
-        completed: In progress    
+        completed: 2026-04-07
 
       - title: "War in Ukraine - Volume 2: Russian Invasion, February 2022"
         author: Tom Cooper, Adrien Fontanellaz, Edward Crowther, Milos Sipos
