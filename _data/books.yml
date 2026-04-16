@@ -19,6 +19,15 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "A Philosophy of Walking"
+        author: Frédéric Gros
+        link: https://penguinrandomhouselibrary.com/book/?isbn=9781804290446
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1392592809i/18339944.jpg
+        description: "“In <cite>A Philosophy of Walking</cite>, leading thinker Frédéric Gros charts the many different ways we get from A to B — the pilgrimage, the promenade, the protest march, the nature ramble — and reveals what they say about us. Gros draws attention to other thinkers who also saw walking as something central to their practice. On his travels he ponders Thoreau's eager seclusion in Walden Woods; the reason Rimbaud walked in a fury, while Nerval rambled to cure his melancholy. He shows us how Rousseau walked in order to think, while Nietzsche wandered the mountainside to write. In contrast, Kant marched through his hometown every day, exactly at the same hour, to escape the compulsion of thought. Brilliant and erudite, <cite>A Philosophy of Walking</cite> is an entertaining and insightful manifesto for putting one foot in front of the other.”"
+        genre: [philosophy]
+        format: audiobook
+        completed: 2026-04-16
+
       - title: "Grey Bees"
         author: Andrey Kurkov
         link: https://en.wikipedia.org/wiki/Grey_Bees
@@ -26,7 +35,7 @@ list:
         description: "“49-year-old safety inspector-turned-beekeeper Sergey Sergeich, wants little more than to help his bees collect their pollen in peace. But Sergey lives in Ukraine, where a lukewarm war of sporadic violence and constant propaganda has been dragging on for years. His simple mission on behalf of his bees leads him through some the hottest spots of the ongoing conflict, putting him in contact with combatants and civilians on both sides of the battle lines: loyalists, separatists, Russian occupiers, and Crimean Tatars.”"
         genre: [fiction, historical fiction]
         format: audiobook
-        completed: In progress      
+        completed: 2026-04-16
 
       - title: "On Tyranny: Expanded Audio Edition: Updated with Twenty New Lessons from Russia's War on Ukraine"
         author: Timothy Snyder
