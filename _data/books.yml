@@ -19,6 +19,15 @@ list:
         genre: [psychology, survival]
         completed: Next
 
+      - title: "Concrete Botany: The Ecology of Plants in the Age of Human Disturbance"
+        author: Joey Santore
+        link: https://www.crimepaysbutbotanydoesnt.com/concrete-botany-pre-order
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1754277093i/239679996.jpg
+        description: "“Delivered in his raw and unapologetic yet botanically accurate tone, Joey Santore—the unforgettable host of Crime Pays but Botany Doesn’t—offers an often unsettling view of human-caused ecological destruction and its impact on the natural ecosystems our very lives depend on. The choices of modern civilization have led to a f***ed-up planet, scraped bare and covered in concrete and invasive species. We’ve wiped out entire ecosystems, moved invasive plants to new continents where they don’t belong, and, in a few hundred years, we’ve managed to muck up the intricate balance of a planet that has been evolving for eons. The consequences of our actions are now at our doorstep, ready to strike a match.”"
+        genre: [botany, ecology, nature]
+        format: audiobook
+        completed: In progress    
+
       - title: "A Philosophy of Walking"
         author: Frédéric Gros
         link: https://penguinrandomhouselibrary.com/book/?isbn=9781804290446
@@ -26,7 +35,7 @@ list:
         description: "“In <cite>A Philosophy of Walking</cite>, leading thinker Frédéric Gros charts the many different ways we get from A to B — the pilgrimage, the promenade, the protest march, the nature ramble — and reveals what they say about us. Gros draws attention to other thinkers who also saw walking as something central to their practice. On his travels he ponders Thoreau's eager seclusion in Walden Woods; the reason Rimbaud walked in a fury, while Nerval rambled to cure his melancholy. He shows us how Rousseau walked in order to think, while Nietzsche wandered the mountainside to write. In contrast, Kant marched through his hometown every day, exactly at the same hour, to escape the compulsion of thought. Brilliant and erudite, <cite>A Philosophy of Walking</cite> is an entertaining and insightful manifesto for putting one foot in front of the other.”"
         genre: [philosophy]
         format: audiobook
-        completed: In progress
+        completed: 2026-04-20
 
       - title: "Grey Bees"
         author: Andrey Kurkov
