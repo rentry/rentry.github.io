@@ -17,7 +17,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1479535287i/30231750.jpg
         description: "“Laurence Gonzales’s bestselling <cite>Deep Survival</cite> has helped save lives from the deepest wildernesses, just as it has improved readers’ everyday lives. Its mix of adventure narrative, survival science, and practical advice has inspired everyone from business leaders to military officers, educators, and psychiatric professionals on how to take control of stress, learn to assess risk, and make better decisions under pressure.”"
         genre: [psychology, survival]
-        completed: Next
+        completed: In progress
 
       - title: "Concrete Botany: The Ecology of Plants in the Age of Human Disturbance"
         author: Joey Santore
@@ -26,7 +26,7 @@ list:
         description: "“Delivered in his raw and unapologetic yet botanically accurate tone, Joey Santore—the unforgettable host of Crime Pays but Botany Doesn’t—offers an often unsettling view of human-caused ecological destruction and its impact on the natural ecosystems our very lives depend on. The choices of modern civilization have led to a f***ed-up planet, scraped bare and covered in concrete and invasive species. We’ve wiped out entire ecosystems, moved invasive plants to new continents where they don’t belong, and, in a few hundred years, we’ve managed to muck up the intricate balance of a planet that has been evolving for eons. The consequences of our actions are now at our doorstep, ready to strike a match.”"
         genre: [botany, ecology, nature]
         format: audiobook
-        completed: In progress    
+        completed: 2026-04-23   
 
       - title: "A Philosophy of Walking"
         author: Frédéric Gros
@@ -46,7 +46,7 @@ list:
         format: audiobook
         completed: 2026-04-16
 
-      - title: "On Tyranny: Expanded Audio Edition: Updated with Twenty New Lessons from Russia's War on Ukraine"
+      - title: "On Tyranny: Expanded Audio Edition, Updated with Twenty New Lessons from Russia's War on Ukraine"
         author: Timothy Snyder
         link: https://www.penguinrandomhouse.com/books/719612/on-tyranny-expanded-audio-edition-by-timothy-snyder/
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1772832310i/60845095.jpg
