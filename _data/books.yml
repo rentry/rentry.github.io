@@ -11,6 +11,15 @@ list:
         genre: [philosophy]
         completed: Next
 
+      - title: "Vulture Capitalism: Corporate Crimes, Backdoor Bailouts, and the Death of Freedom"
+        author: Grace Blakeley
+        link: https://www.simonandschuster.com/books/Vulture-Capitalism/Grace-Blakeley/9781982180867
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1687106115i/176443397.jpg
+        description: "“It’s easy to look at the state of the world around us and feel hopeless. We live in an era marked by war, climate crisis, political polarization, and acute inequality—and yet many of us feel powerless to do anything about these profound issues. We’ve been assured that unfettered capitalism is necessary to ensure our freedom and prosperity but why, in our age of unchecked corporate power, are most of us living paycheck to paycheck? When the economy falters, why do governments bail out corporations and shareholders but leave everyday people in the dust? Now, acclaimed journalist and progressive star on the rise Grace Blakeley exposes the corrupt system that is failing all around us, pulling back the curtain on the free-market mythology we have been sold. She also clearly illustrates how, as corporate interests have taken hold, governments have historically been shifting away from competition and democracy towards monopoly and oligarchy.”"
+        genre: [economics, history]
+        format: audiobook
+        completed: In progress
+
       - title: "Deep Survival: Who Lives, Who Dies, and Why"
         author: Laurence Gonzales
         link: https://en.wikipedia.org/wiki/Deep_Survival
