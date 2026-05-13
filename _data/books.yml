@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity"
+        author: Adam Becker
+        link: https://freelanceastrophysicist.com/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1719003402i/212987932.jpg
+        description: "“Tech billionaires have decided that they should determine our futures for us. According to Elon Musk, Jeff Bezos, Sam Altman, and more, the only good future for humanity is one powered by trillions of humans living in space, functionally immortal, served by superintelligent AIs. In <cite>More Everything Forever</cite>, science writer Adam Becker investigates these wildly implausible and often profoundly immoral visions of tomorrow—and shows why, in reality, there is no good evidence that they will, or should, come to pass.”"
+        genre: [technology]
+        format: audiobook
+        completed: Next
+
       - title: "Fire Alarm: Reading Walter Benjamin's ‘On the Concept of History’"
         author: Michael Löwy
         link: https://www.versobooks.com/products/1958-fire-alarm
@@ -18,7 +27,7 @@ list:
         description: "“Disillusioned by the government and institutions he dedicated his life to serving, former Navy SEAL and CIA ground branch operative Chris Walker is about to end his life when he receives a call that saves it. The wife of a teammate he lost in Afghanistan has now lost her son to the opioid crisis and needs Walker’s help. Thrust into a conspiracy that goes deeper than he ever imagined, Walker must go up against the system and the very Constitution he once swore an oath to support and defend in order to find justice for his friend’s widow.”"
         genre: [fiction]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "Antonio Gramsci: Life of a Revolutionary"
         author: Giuseppe Fiori
