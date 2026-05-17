@@ -20,6 +20,14 @@ list:
         genre: [philosophy]
         completed: Next
 
+      - title: "Butch Cassidy: The Wyoming Years"
+        author: Bill Betenson
+        link: https://highplainspress.com/butchwy.html
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1608606365i/56376654.jpg
+        description: "“Author Bill Betenson grew up hearing family stories around the campfire about his famous uncle Robert LeRoy Parker, better known as the outlaw Butch Cassidy. Betenson has spent decades asking questions about the life and exploits of Butch Cassidy. He presents new details, raises questions, challenges old assumptions, and presents informed interpretations. For this book, the author focuses his attention on the time Butch Cassidy spent in Wyoming, starting in 1889 when he hightailed it north to Wyoming after robbing his first bank.”"
+        genre: [biography, wyoming]
+        completed: In progress
+
       - title: "The Fourth Option"
         author: Jack Carr, M.P. Woodward
         link: https://www.officialjackcarr.com/books/the-fourth-option/
