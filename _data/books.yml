@@ -3,6 +3,24 @@ list:
   - year: 2026
     books:
 
+      - title: "Bloodlands: Europe Between Hitler and Stalin"
+        author: Timothy Snyder
+        link: https://en.wikipedia.org/wiki/Bloodlands
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1328843543i/6572270.jpg
+        description: "“Americans call the Second World War ‘The Good War.’ But before it even began, America’s wartime ally Josef Stalin had killed millions of his own citizens—and kept killing them during and after the war. Before Hitler was finally defeated, he had murdered six million Jews and nearly as many other Europeans. At war’s end, both the German and the Soviet killing sites fell behind the iron curtain, leaving the history of mass killing in darkness. <cite>Bloodlands</cite> is a new kind of European history, presenting the mass murders committed by the Nazi and Stalinist regimes as two aspects of a single history, in the time and place where they occurred: between Germany and Russia, when Hitler and Stalin both held power. Assiduously researched, deeply humane, and utterly definitive, <cite>Bloodlands</cite> will be required reading for anyone seeking to understand the central tragedy of modern history.”"
+        genre: [history]
+        format: audiobook
+        completed: In progress
+
+      - title: "The End of Everything: How Wars Descend into Annihilation"
+        author: Victor Davis Hanson
+        link: https://www.goodreads.com/book/show/198493858-the-end-of-everything
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1699452746i/198493858.jpg
+        description: "“In The End of Everything , military historian Victor Davis Hanson narrates a series of sieges and sackings that span the age of antiquity to the conquest of the New World to show how societies descend into barbarism and obliteration. In the stories of Thebes, Carthage, Constantinople, and Tenochtitlan, he depicts war’s drama, violence, and folly.”"
+        genre: [history, military]
+        format: audiobook
+        completed: 2026-05-29
+
       - title: "More Everything Forever: AI Overlords, Space Empires, and Silicon Valley's Crusade to Control the Fate of Humanity"
         author: Adam Becker
         link: https://freelanceastrophysicist.com/
