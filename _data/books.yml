@@ -20,15 +20,6 @@ list:
         format: audiobook
         completed: In progress
 
-      - title: "John of John"
-        author: Douglas Stuart
-        link: https://www.goodreads.com/book/show/235260861-john-of-john
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1777987045i/235260861.jpg
-        description: "“Out of money and with little to show for his art school education, John-Calum Macleod takes the ferry back home to the island of Harris to find that little has changed except for him. In the windswept croft where he grew up, Cal begrudgingly resumes his old life, stuck between the two poles of his childhood: his father John, a sheep farmer, tweed weaver, and pillar of their local Presbyterian church, and his maternal grandmother Ella, a profanity-loving Glaswegian who has kept a faltering peace with her son-in-law for several decades. Cal wonders if any lonely men might be found on the barren hillsides of home, while John is dismayed by his son’s long hair and how he seems unwilling to be Saved. As lambing season turns to shearing season, everything seems poised to change as the threads holding together the fragile community become increasingly knotted.”"
-        genre: [fiction]
-        format: audiobook
-        completed: In progress
-
       - title: "Bloodlands: Europe Between Hitler and Stalin"
         author: Timothy Snyder
         link: https://en.wikipedia.org/wiki/Bloodlands
