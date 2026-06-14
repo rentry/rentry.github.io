@@ -3,6 +3,14 @@ list:
   - year: 2026
     books:
 
+      - title: "A Brief History of a Long War: Ukraine's Fight Against Russian Domination"
+        author: Mariam Naiem, Yulia Vus, and Ivan Kypibida
+        link: https://www.penguinrandomhouse.com/books/809143/a-brief-history-of-a-long-war-by-mariam-naiem-illustrated-by-yulia-vus-and-ivan-kypibida/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753411614i/231487118.jpg
+        description: "“The conflict between Russia and Ukraine began long before the 2014 war that led to Russia’s invasion in 2022. The Ukrainian people have been subjected to genocides—defined as “acts committed with the intent to destroy, in whole or in part, a national, ethnic, racial, or religious group—by the Russian government across centuries, such as the Holodomor famine of the 1930s that left over 3.3 million people dead. Even the language itself was once a The “linguicide” during the 1860s banned Ukrainian, persecuted anyone who spoke the language, and methodically erased references to Ukrainian from historical texts. In A Brief History of a Long War, distinguished Ukrainian scholar, activist, and journalist Mariam Naiem presents a panoramic overview of the major moments in this longstanding conflict.”"
+        genre: [history]
+        completed: Next
+
       - title: "Ukraine Is Not Dead Yet: A Family Story of Exile and Return"
         author: Megan Buskey
         link: https://www.meganbuskey.com/home/book
