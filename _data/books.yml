@@ -3,6 +3,32 @@ list:
   - year: 2026
     books:
 
+      - title: "Ukraine Is Not Dead Yet: A Family Story of Exile and Return"
+        author: Megan Buskey
+        link: https://www.meganbuskey.com/home/book
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676922991i/101044477.jpg
+        description: "“When Megan Buskey’s grandmother Anna dies in Cleveland in 2013, Megan is compelled in her grief to uncover and document her grandmother’s life as a native of Ukraine. A Ukrainian American, Buskey returns to her family’s homeland and enlists her relatives there to help her in her quest―and discovers much more than she expected. The result is an extraordinary journey that traces one woman’s story across Ukraine’s difficult twentieth century, from a Galician village emerging from serfdom, to the “bloodlands” of Eastern Europe during World War II, to the Siberian hinterlands where Anna spent almost two decades in exile before receiving the rare opportunity to emigrate from the Soviet Union in the 1960s. In the course of her research, Megan encounters essential and sometimes disturbing aspects of recent Ukrainian history, such as Nazi collaboration, the rise and persistence of Ukrainian nationalism, and the shattering impact of Russia’s full-scale invasion in 2022.”"
+        genre: [memoir, history]
+        completed: Next
+
+      - title: "John of John"
+        author: Douglas Stuart
+        link: https://www.goodreads.com/book/show/235260861-john-of-john
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1777987045i/235260861.jpg
+        description: "“Out of money and with little to show for his art school education, John-Calum Macleod takes the ferry back home to the island of Harris to find that little has changed except for him. In the windswept croft where he grew up, Cal begrudgingly resumes his old life, stuck between the two poles of his childhood: his father John, a sheep farmer, tweed weaver, and pillar of their local Presbyterian church, and his maternal grandmother Ella, a profanity-loving Glaswegian who has kept a faltering peace with her son-in-law for several decades. Cal wonders if any lonely men might be found on the barren hillsides of home, while John is dismayed by his son’s long hair and how he seems unwilling to be Saved. As lambing season turns to shearing season, everything seems poised to change as the threads holding together the fragile community become increasingly knotted.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
+      - title: "John of John"
+        author: Douglas Stuart
+        link: https://www.goodreads.com/book/show/235260861-john-of-john
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1777987045i/235260861.jpg
+        description: "“Out of money and with little to show for his art school education, John-Calum Macleod takes the ferry back home to the island of Harris to find that little has changed except for him. In the windswept croft where he grew up, Cal begrudgingly resumes his old life, stuck between the two poles of his childhood: his father John, a sheep farmer, tweed weaver, and pillar of their local Presbyterian church, and his maternal grandmother Ella, a profanity-loving Glaswegian who has kept a faltering peace with her son-in-law for several decades. Cal wonders if any lonely men might be found on the barren hillsides of home, while John is dismayed by his son’s long hair and how he seems unwilling to be Saved. As lambing season turns to shearing season, everything seems poised to change as the threads holding together the fragile community become increasingly knotted.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Bloodlands: Europe Between Hitler and Stalin"
         author: Timothy Snyder
         link: https://en.wikipedia.org/wiki/Bloodlands
@@ -10,7 +36,7 @@ list:
         description: "“Americans call the Second World War ‘The Good War.’ But before it even began, America’s wartime ally Josef Stalin had killed millions of his own citizens—and kept killing them during and after the war. Before Hitler was finally defeated, he had murdered six million Jews and nearly as many other Europeans. At war’s end, both the German and the Soviet killing sites fell behind the iron curtain, leaving the history of mass killing in darkness. <cite>Bloodlands</cite> is a new kind of European history, presenting the mass murders committed by the Nazi and Stalinist regimes as two aspects of a single history, in the time and place where they occurred: between Germany and Russia, when Hitler and Stalin both held power. Assiduously researched, deeply humane, and utterly definitive, <cite>Bloodlands</cite> will be required reading for anyone seeking to understand the central tragedy of modern history.”"
         genre: [history]
         format: audiobook
-        completed: In progress
+        completed: 2026-06-13
 
       - title: "The End of Everything: How Wars Descend into Annihilation"
         author: Victor Davis Hanson
@@ -29,14 +55,6 @@ list:
         genre: [technology]
         format: audiobook
         completed: 2026-05-24
-
-      - title: "Fire Alarm: Reading Walter Benjamin's ‘On the Concept of History’"
-        author: Michael Löwy
-        link: https://www.versobooks.com/products/1958-fire-alarm
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1373996368i/185020.jpg
-        description: "“Revolutionary critic of the philosophy of progress, nostalgic of the past yet dreaming of the future, romantic partisan of materialism — Walter Benjamin is in every sense of the word an ‘unclassifiable’ philosopher. His essay ‘On the Concept of History’ was written in a state of urgency, as he attempted to escape the Gestapo in 1940, before finally committing suicide. In this scrupulous, clear and fascinating examination of this essay, Michael Löwy argues that it remains one of the most important philosophical and political writings of the twentieth century. Looking in detail at Benjamin’s celebrated but often mysterious text, and restoring the philosophical, theological and political context, Löwy highlights the complex relationship between redemption and revolution in Benjamin’s philosophy of history.”"
-        genre: [philosophy]
-        completed: Next
 
       - title: "Butch Cassidy: The Wyoming Years"
         author: Bill Betenson
