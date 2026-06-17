@@ -9,7 +9,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1753411614i/231487118.jpg
         description: "“The conflict between Russia and Ukraine began long before the 2014 war that led to Russia’s invasion in 2022. The Ukrainian people have been subjected to genocides—defined as “acts committed with the intent to destroy, in whole or in part, a national, ethnic, racial, or religious group—by the Russian government across centuries, such as the Holodomor famine of the 1930s that left over 3.3 million people dead. Even the language itself was once a The “linguicide” during the 1860s banned Ukrainian, persecuted anyone who spoke the language, and methodically erased references to Ukrainian from historical texts. In A Brief History of a Long War, distinguished Ukrainian scholar, activist, and journalist Mariam Naiem presents a panoramic overview of the major moments in this longstanding conflict.”"
         genre: [history]
-        completed: Next
+        completed: 2026-06-16
 
       - title: "Ukraine Is Not Dead Yet: A Family Story of Exile and Return"
         author: Megan Buskey
@@ -19,6 +19,24 @@ list:
         genre: [memoir, history]
         completed: Next
 
+      - title: "The Odyssey"
+        author: Homer, Emily Wilson (Translator)
+        link: https://en.wikipedia.org/wiki/Odyssey_(Emily_Wilson_translation)
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1487351579i/34068470.jpg
+        description: "“In this fresh, authoritative version—the first English translation of The Odyssey by a woman—this stirring tale of shipwrecks, monsters, and magic comes alive in an entirely new way. Written in iambic pentameter verse and a vivid, contemporary idiom, this engrossing translation matches the number of lines in the Greek original, thus striding at Homer's sprightly pace and singing with a voice that echoes Homer's music.”"
+        genre: [fiction, classics, mythology]
+        format: audiobook
+        completed: In progress
+
+      - title: "The Indifferent Stars Above: The Harrowing Saga of a Donner Party Bride"
+        author: Daniel James Brown
+        link: https://www.danieljamesbrown.com/books/indifferent-stars/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1438825353i/6033525.jpg
+        description: "“In April of 1846, twenty-one-year-old Sarah Graves, intent on a better future, set out west from Illinois with her new husband, her parents, and eight siblings. Seven months later, after joining a party of emigrants led by George Donner, they reached the Sierra Nevada Mountains as the first heavy snows of the season closed the pass ahead of them. In early December, starving and desperate, Sarah and fourteen others set out for California on snowshoes and, over the next thirty-two days, endured almost unfathomable hardships and horrors.”"
+        genre: [history]
+        format: audiobook
+        completed: In progress
+
       - title: "John of John"
         author: Douglas Stuart
         link: https://www.goodreads.com/book/show/235260861-john-of-john
@@ -26,7 +44,7 @@ list:
         description: "“Out of money and with little to show for his art school education, John-Calum Macleod takes the ferry back home to the island of Harris to find that little has changed except for him. In the windswept croft where he grew up, Cal begrudgingly resumes his old life, stuck between the two poles of his childhood: his father John, a sheep farmer, tweed weaver, and pillar of their local Presbyterian church, and his maternal grandmother Ella, a profanity-loving Glaswegian who has kept a faltering peace with her son-in-law for several decades. Cal wonders if any lonely men might be found on the barren hillsides of home, while John is dismayed by his son’s long hair and how he seems unwilling to be Saved. As lambing season turns to shearing season, everything seems poised to change as the threads holding together the fragile community become increasingly knotted.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: Next
 
       - title: "Bloodlands: Europe Between Hitler and Stalin"
         author: Timothy Snyder
