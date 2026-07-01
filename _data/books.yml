@@ -3,6 +3,14 @@ list:
   - year: 2026
     books:
 
+      - title: "The Art of Star Wars: Andor (The Complete Series)"
+        author: Phillip Szostak (Author), Dan Gilroy (Afterword), Tony Gilroy (Foreword)
+        link: https://www.abramsbooks.com/product/art-of-star-wars-andor-the-complete-series_9781419775680/
+        image: https://m.media-amazon.com/images/I/719UTsIWqDL._SY522_.jpg
+        description: "“<cite>The Art of Star Wars: Andor (The Complete Series)</cite> gives readers an exclusive inside look at the production art, visual development, concept art, creature designs and FX, graphics, props, and more that went into creating the Tony Gilroy helmed Disney+ series. Through extensive interviews with Gilroy, star Diego Luna, and the talented Lucasfilm visualists, author Phil Szostak documents every step of <cite>Andor</cite>'s production from discussions following the initial release of <cite>Rogue One: A Star Wars Story</cite> up through post-production on the final episodes of season two.”"
+        genre: [art, tv, science fiction]
+        completed: In progress
+
       - title: "A Brief History of a Long War: Ukraine's Fight Against Russian Domination"
         author: Mariam Naiem, Yulia Vus, and Ivan Kypibida
         link: https://www.penguinrandomhouse.com/books/809143/a-brief-history-of-a-long-war-by-mariam-naiem-illustrated-by-yulia-vus-and-ivan-kypibida/
