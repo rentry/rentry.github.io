@@ -3,6 +3,14 @@ list:
   - year: 2026
     books:
 
+      - title: "Ukrainian Cossacks from the late 16<sup>th</sup> century to the early 18<sup>th</sup> century: Organisation, clothing, equipment, armament"
+        author: S.I. Shamenkov
+        link: https://www.helion.co.uk/military-history-books/ukrainian-cossacks-from-the-late-16th-century-to-the-early-18th-century-organisation-clothing-equipment-armament.php
+        image: https://www.helion.co.uk/images/books/i2/helion1001497.jpg.pagespeed.ce.igzPWmU-bg.jpg
+        description: "“This book provides a detailed look at the evolution of the appearance of Ukrainian Cossacks. The author meticulously reconstructs the clothing, equipment, and weaponry of Ukrainian Cossacks from the late sixteenth to the early eighteenth century. A wide range of historical sources have been used, including official documents and descriptions left by eyewitnesses, visual sources depicting Cossacks. Archaeological findings from battle sites associated with Cossacks have also been used. The author examines both the clothing and equipment of ordinary Cossacks and, separately, the clothing and military gear of the officer corps – the Cossack starshyna and hetmans. Special attention is given to banners and various types of equipment.”"
+        genre: [history, ukraine]
+        completed: Next
+
       - title: "Diary of an Invasion"
         author: Andrey Kurkov
         link: https://store.deepvellum.org/products/diary-of-an-invasion
@@ -19,7 +27,7 @@ list:
         description: "“From the two reporters who have covered him more closely than perhaps anyone else over the past decade comes this definitive portrait of Donald Trump in the White House. Regime Change covers the first year of Trump’s second presidency—a term liberated from every constraint that defined his first. The generals who once told him no are gone, and the lawyers who remain have learned to pick their battles. His administration has flouted court orders and claimed powers that Congress once checked. What remains is a President willing to take enormous risks that have toppled heads of state and taken the country to war again in the Middle East; an imperial President operating almost entirely on instinct alone.”"
         genre: [politics, history]
         format: audiobook
-        completed: Next
+        completed: In progress
 
       - title: "The Traveler"
         author: Joseph Eckert
@@ -28,7 +36,7 @@ list:
         description: "“It’s a day like any other when Scott Treder first jumps forward through time. One moment, he’s on his way to work, fingers drumming the steering wheel. The next, he’s tumbling head-long down the road, his car gone, a dozen panicked voicemails from his wife waiting on his cell. <cite>The Traveler</cite> is the story of a reluctant time-traveler and his son, and the bond between them that even millennia cannot break. An adventure full of heartbreak, hope, and futures beyond imagination.”"
         genre: [science fiction]
         format: audiobook
-        completed: In progress
+        completed: 2026-07-08
 
       - title: "The Art of Star Wars: Andor (The Complete Series)"
         author: Phillip Szostak (Author), Dan Gilroy (Afterword), Tony Gilroy (Foreword)
@@ -52,7 +60,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1676922991i/101044477.jpg
         description: "“When Megan Buskey’s grandmother Anna dies in Cleveland in 2013, Megan is compelled in her grief to uncover and document her grandmother’s life as a native of Ukraine. A Ukrainian American, Buskey returns to her family’s homeland and enlists her relatives there to help her in her quest―and discovers much more than she expected. The result is an extraordinary journey that traces one woman’s story across Ukraine’s difficult twentieth century, from a Galician village emerging from serfdom, to the “bloodlands” of Eastern Europe during World War II, to the Siberian hinterlands where Anna spent almost two decades in exile before receiving the rare opportunity to emigrate from the Soviet Union in the 1960s. In the course of her research, Megan encounters essential and sometimes disturbing aspects of recent Ukrainian history, such as Nazi collaboration, the rise and persistence of Ukrainian nationalism, and the shattering impact of Russia’s full-scale invasion in 2022.”"
         genre: [memoir, history]
-        completed: Next
+        completed: In progress
 
       - title: "The Odyssey"
         author: Homer, Emily Wilson (Translator)
