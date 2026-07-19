@@ -32,6 +32,12 @@ I was back in my home state this summer, with visits to the famous retreat of th
 
 ![A forest of trees with mist and sun shining sporadically on trees]({{ 'assets/images/2026-wyoming/img_6714.jpg' | relative_url }}#full)
 
+## Lake Angeline Hike
+
+- **Distance:** 11.0 miles
+- **Ascent:** 2,463 ft
+- **Max Elevation:** 10,565 ft
+
 <!-- Map -->
 
 <div class="map" id="map"></div>
