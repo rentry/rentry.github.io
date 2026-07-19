@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to Wyoming: Hole in the Wall & Lake Angeline"
-date: 2026-01-04
+date: 2026-07-19
 description: "I was back in Wyoming for a few days, with Longmire Days, Hole in the Wall, and the Bighorn Mountains all on the itinerary."
 image: assets/images/2026-wyoming/img_6745.jpg
 categories: [travel]
