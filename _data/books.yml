@@ -3,6 +3,22 @@ list:
   - year: 2026
     books:
 
+      - title: "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI"
+        author: Karen Hao
+        link: https://www.goodreads.com/en/book/show/222725518-empire-of-ai
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1734812256i/222725518.jpg
+        description: "“When AI expert and investigative journalist Karen Hao first began covering OpenAI in 2019, she thought they were the good guys. Founded as a nonprofit with safety enshrined as its core mission, the organization was meant, its leader Sam Altman told us, to act as a check against more purely mercantile, and potentially dangerous, forces. What could go wrong? Over time, Hao began to wrestle ever more deeply with that question. Increasingly, she realized that the core truth of this massively disruptive sector is that its vision of success requires an almost unprecedented amount of resources: the “compute” power of high-end chips and the processing capacity to create massive large language models, the sheer volume of data that needs to be amassed at scale, the humans “cleaning up” that data for sweatshop wages throughout the Global South, and a truly alarming spike in the usage of energy and water underlying it all.”"
+        genre: [technology, artificial intelligence]
+        completed: Next
+
+      - title: "The Dog Stars"
+        author: Peter Heller
+        link: https://www.goodreads.com/book/show/13330761-the-dog-stars?from_search=true&from_srp=true&qid=jbil31vshK&rank=1
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1388122817i/13330761.jpg
+        description: "“Hig, bereaved and traumatised after global disaster, has three things to live for - his dog Jasper, his aggressive but helpful neighbour, and his Cessna aeroplane. He's just about surviving, so long as he only takes his beloved plane for short journeys, and saves his remaining fuel. But, just once, he picks up a message from another pilot, and eventually the temptation to find out who else is still alive becomes irresistible. So he takes his plane over the horizon, knowing that he won't have enough fuel to get back. What follows is scarier and more life-affirming than he could have imagined.”"
+        genre: [fiction]
+        completed: Next
+
       - title: "Ukrainian Cossacks from the late 16<sup>th</sup> century to the early 18<sup>th</sup> century: Organisation, clothing, equipment, armament"
         author: S.I. Shamenkov
         link: https://www.helion.co.uk/military-history-books/ukrainian-cossacks-from-the-late-16th-century-to-the-early-18th-century-organisation-clothing-equipment-armament.php
@@ -210,7 +226,7 @@ list:
         image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661911505i/62200702.jpg
         description: "“On February 24, 2022, eight years after invading the Crimean Peninsula of Ukraine and organizing an illegal referendum in support of a subsequent Russian annexation, President of the Russian Federation Vladimir Putin ordered a full-scale invasion of Ukraine. Both Western and Russian intelligence services expected the invasion to quickly topple the democratically elected government in Kyiv and, with the help of collaborators, to overrun the Ukrainian armed forces in a matter of between 3 and 14 days.”"
         genre: [history, military]
-        completed: In progress      
+        completed: 2026-07-19      
 
       - title: "The Beginning Comes After the End: Notes on a World of Change"
         author: Rebecca Solnit
