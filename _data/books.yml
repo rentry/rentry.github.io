@@ -3,6 +3,33 @@ list:
   - year: 2026
     books:
 
+      - title: "All The Wild That Remains: Edward Abbey, Wallace Stegner, and the American West"
+        author: David Gessner
+        link: https://davidgessner.net/all-the-wild-that-remains/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1456514363i/25622757.jpg
+        description: "“Archetypal wild man Edward Abbey and proper, dedicated Wallace Stegner left their footprints all over the western landscape. Now, award-winning nature writer David Gessner follows the ghosts of these two remarkable writer-environmentalists from Stegner's birthplace in Saskatchewan to the site of Abbey's pilgrimages to Arches National Park in Utah, braiding their stories and asking how they speak to the lives of all those who care about the West.”"
+        genre: [history, nature, biography]
+        format: audiobook
+        completed: Next
+
+      - title: "The Mortons"
+        author: Justine Larbalestier and Scott Westerfeld
+        link: https://scottwesterfeld.com/blog/2026/01/the-mortons/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1765475004i/243042926.jpg
+        description: "“The Mortons are a modern day, old-money dynasty with impeccable taste, from their exquisitely crafted cocktails to their expertly tailored vintage garments. They are also stone-cold killers. For the Mortons, homicide is heritage. They, along with the other legacy crime families, send their progeny to Helshire College, where the legacy kids strategically intermingle with ordinary students from wealthy families. Jessica Morton has always excelled at Helshire, secure in her knowledge that she is the prodigy of her generation. Now, having committed her first kill at her matriarch's behest, it should be Jessica's moment, her honor. But that kill will cut more ways than one, unknotting deep secrets that propel a series of revelations, spanning the Mortons' country estate, the New York City art world, and Helshire itself.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
+      - title: "American Rambler: Walking the Trail of Johnny Appleseed"
+        author: Isaac Fitzgerald
+        link: https://en.wikipedia.org/wiki/American_Rambler_(book)
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1760688182i/240114357.jpg
+        description: "“As a child, Isaac Fitzgerald became obsessed with Johnny Appleseed. Maybe because the legendary rambler—born John Chapman—grew up just down the road from his mother’s family farm. Maybe because of the larger-than-life tales his dad told him on walks in the woods, stories that planted the idea that adventure and discovery lay around every bend in the road. Or perhaps it was a shared sense of restlessness; the same search for both freedom and solitude and what they mean in America 250 years ago and today. Who hasn’t wanted to simply walk out the front door and see what’s out there? <cite>American Rambler</cite> is a story about walking; about searching; about one man following the myth of another to find something true about himself and about America.”"
+        genre: [history, nature, memoir]
+        format: audiobook
+        completed: In progress
+
       - title: "Empire of AI: Dreams and Nightmares in Sam Altman's OpenAI"
         author: Karen Hao
         link: https://www.goodreads.com/en/book/show/222725518-empire-of-ai
