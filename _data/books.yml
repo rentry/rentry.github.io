@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "Borderlands: My Fight for an Inclusive America"
+        author: Ken Salazar
+        link: https://www.simonandschuster.com/books/Borderlands/Ken-Salazar/9798902680215
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1773936136i/249899911.jpg
+        description: "“nformed by his life journey, former US ambassador to Mexico, US senator, and US secretary of the Interior Ken Salazar shares his unrivaled vantage on the US-Mexico relationship, the border and migration crisis, and his belief that the diversity of our many communities and cultures is America's superpower.”"
+        genre: [biography]
+        format: audiobook
+        completed: In progress
+
       - title: "All The Wild That Remains: Edward Abbey, Wallace Stegner, and the American West"
         author: David Gessner
         link: https://davidgessner.net/all-the-wild-that-remains/
@@ -10,7 +19,7 @@ list:
         description: "“Archetypal wild man Edward Abbey and proper, dedicated Wallace Stegner left their footprints all over the western landscape. Now, award-winning nature writer David Gessner follows the ghosts of these two remarkable writer-environmentalists from Stegner's birthplace in Saskatchewan to the site of Abbey's pilgrimages to Arches National Park in Utah, braiding their stories and asking how they speak to the lives of all those who care about the West.”"
         genre: [history, nature, biography]
         format: audiobook
-        completed: In progress
+        completed: 2026-08-11
 
       - title: "The Mortons"
         author: Justine Larbalestier and Scott Westerfeld
@@ -19,7 +28,7 @@ list:
         description: "“The Mortons are a modern day, old-money dynasty with impeccable taste, from their exquisitely crafted cocktails to their expertly tailored vintage garments. They are also stone-cold killers. For the Mortons, homicide is heritage. They, along with the other legacy crime families, send their progeny to Helshire College, where the legacy kids strategically intermingle with ordinary students from wealthy families. Jessica Morton has always excelled at Helshire, secure in her knowledge that she is the prodigy of her generation. Now, having committed her first kill at her matriarch's behest, it should be Jessica's moment, her honor. But that kill will cut more ways than one, unknotting deep secrets that propel a series of revelations, spanning the Mortons' country estate, the New York City art world, and Helshire itself.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2026-08-19
 
       - title: "American Rambler: Walking the Trail of Johnny Appleseed"
         author: Isaac Fitzgerald
