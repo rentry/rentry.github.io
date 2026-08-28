@@ -3,6 +3,24 @@ list:
   - year: 2026
     books:
 
+      - title: "Diary of an Invasion"
+        author: Andrey Kurkov
+        link: https://store.deepvellum.org/products/diary-of-an-invasion
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661164089i/62051126.jpg
+        description: "“When Russia invaded Ukraine in February 2022, novelist and journalist Andrey Kurkov was forced to flee his hometown of Kyiv. This journal is a harrowing record of the months leading up to and after the invasion, as Kurkov and his family migrate to western Ukraine for shelter. Surrounded by others fleeing violence, he pens incisive dispatches on the latest border conflicts and bombardments, and the shifts and schisms inside Ukrainian social and political life. These wartime entries ruminate on Ukraine’s historic past and possibilities for its future.”"
+        genre: [memoir, history]
+        format: audiobook
+        completed: In progress
+
+      - title: "When the Forest Breathes: Renewal and Resilience in the Natural World"
+        author: Suzanne Simard
+        link: https://suzannesimard.com/when-the-forest-breathes/
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1751337792i/237693014.jpg
+        description: "“Raised in a family of loggers committed to sensible forest stewardship, Simard has watched as timber companies leave forests at higher risk for wildfires, water crises, and plant and animal extinction. But her research has the potential to chart a new course. The forest, she reveals, is a symphony of finely honed cycles of regeneration—from mushrooms breaking down logs to dying elder trees passing their genetic knowledge to younger ones—that hold the key to protecting our forests.”"
+        genre: [nature, ecology, science]
+        format: audiobook
+        completed: Next
+
       - title: "The Nerd Reich: Silicon Valley Fascism and the War on Democracy"
         author: Gil Durán
         link: https://www.thenerdreich.com/
@@ -10,7 +28,7 @@ list:
         description: "“A fearless and urgent chronicle of the tech-authoritarian movement from its early days in San Francisco politics to its current moment on the international stage, exploring the wild and dystopian ambition of the technocrats at its center, and offering a road map to resistance.”"
         genre: [politics, technology]
         format: audiobook
-        completed: In progress
+        completed: 2026-08-28
 
       - title: "Borderlands: My Fight for an Inclusive America"
         author: Ken Salazar
@@ -72,15 +90,6 @@ list:
         image: https://www.helion.co.uk/images/books/i2/helion1001497.jpg.pagespeed.ce.igzPWmU-bg.jpg
         description: "“This book provides a detailed look at the evolution of the appearance of Ukrainian Cossacks. The author meticulously reconstructs the clothing, equipment, and weaponry of Ukrainian Cossacks from the late sixteenth to the early eighteenth century. A wide range of historical sources have been used, including official documents and descriptions left by eyewitnesses, visual sources depicting Cossacks. Archaeological findings from battle sites associated with Cossacks have also been used. The author examines both the clothing and equipment of ordinary Cossacks and, separately, the clothing and military gear of the officer corps – the Cossack starshyna and hetmans. Special attention is given to banners and various types of equipment.”"
         genre: [history, ukraine]
-        completed: Next
-
-      - title: "Diary of an Invasion"
-        author: Andrey Kurkov
-        link: https://store.deepvellum.org/products/diary-of-an-invasion
-        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1661164089i/62051126.jpg
-        description: "“When Russia invaded Ukraine in February 2022, novelist and journalist Andrey Kurkov was forced to flee his hometown of Kyiv. This journal is a harrowing record of the months leading up to and after the invasion, as Kurkov and his family migrate to western Ukraine for shelter. Surrounded by others fleeing violence, he pens incisive dispatches on the latest border conflicts and bombardments, and the shifts and schisms inside Ukrainian social and political life. These wartime entries ruminate on Ukraine’s historic past and possibilities for its future.”"
-        genre: [memoir, history]
-        format: audiobook
         completed: Next
 
       - title: "Regime Change: Inside the Imperial Presidency of Donald Trump"
