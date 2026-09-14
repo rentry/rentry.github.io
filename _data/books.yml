@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "End Times Fascism: And the Fight for the Living World"
+        author: Naomi Klein and Astra Taylor
+        link: https://naomiklein.org/end-times-fascism/
+        image: https://m.media-amazon.com/images/W/BW_MEDIAX_AVIF_MEASUREMENT_1306696-T4/images/I/81MXTJKtE9L._SY522_.jpg
+        description: "“The far right is on the march again – but this time it’s different from anything we’ve seen before. A new, apocalyptic alliance of religious fundamentalists, billionaire Silicon Valley tech kings and ethno-nationalists is on the move. They’re united in their belief that some kind of cleansing cataclysm is coming, and they welcome a future of shocks, scarcity and collapse, convinced they’ll be among the saved on the other side.This is the world of End Times Fascism.”"
+        genre: [politics, history, environment]
+        format: audiobook
+        completed: Next
+
       - title: "Diary of an Invasion"
         author: Andrey Kurkov
         link: https://store.deepvellum.org/products/diary-of-an-invasion
