@@ -3,6 +3,15 @@ list:
   - year: 2026
     books:
 
+      - title: "Theo of Golden"
+        author: Allen Levi
+        link: https://en.wikipedia.org/wiki/Theo_of_Golden
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1761744192i/242376245.jpg
+        description: "“<cite>Theo of Golden</cite> is the endearing story of a curious old man who quietly moves into a southern city and, for reasons unknown to anyone but himself, undertakes a campaign of anonymous generosity. Theo’s love for people, combined with his fondness for books, art, birds, and story, unite in a colorful expression of outreach and affection. Stories are shared, friendships are born, and lives, in response to his inexplicable kindness, are affirmed and transformed. The old man, no stranger to sadness and loss, quickly becomes a welcome presence in the community but his new friends and neighbors wonder, who is Theo? And why is he here? Beautifully written stories of kindness and neighborliness are always timely, but perhaps especially so now. Meet Theo of Golden. He’s happy to meet you.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
       - title: "Profiles in Cowardice: A Study of Collaboration in the Trump Era"
         author: Jacob Weisberg
         link: https://bookshop.org/p/books/profiles-in-cowardice-a-study-of-collaboration-in-the-trump-era-jacob-weisberg/93d5a0ed894ee687
@@ -19,7 +28,7 @@ list:
         description: "“The far right is on the march again – but this time it’s different from anything we’ve seen before. A new, apocalyptic alliance of religious fundamentalists, billionaire Silicon Valley tech kings and ethno-nationalists is on the move. They’re united in their belief that some kind of cleansing cataclysm is coming, and they welcome a future of shocks, scarcity and collapse, convinced they’ll be among the saved on the other side.This is the world of End Times Fascism.”"
         genre: [politics, history, environment]
         format: audiobook
-        completed: In progress
+        completed: 2026-09-30
 
       - title: "Diary of an Invasion"
         author: Andrey Kurkov
