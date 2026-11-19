@@ -3,6 +3,33 @@ list:
   - year: 2026
     books:
 
+      - title: "George Orwell: Life and Legacy"
+        author: Robert Colls
+        link: https://www.goodreads.com/book/show/232294409-george-orwell
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1745885822i/232294409.jpg
+        description: "“<cite>George Orwell: Life and Legacy</cite> is an intellectual biography which offers an authentic account of Orwell's life and work from his birth in the high noon of British imperialism in 1903, to his death on the eve of the Cold War in 1950―a life played out against a background of two world wars, the rise of communism, and the war-time pre-eminence of the United States. Yet no matter how alert he was to the world order, and no matter how guarded he was in his personal life, Orwell never shied away from the question of who he was, and the contradictions that entailed.”"
+        genre: [biography]
+        format: audiobook
+        completed: Next
+
+      - title: "Have Courage: A Longmire Story"
+        author: Craig Johnson
+        link: https://www.craigallenjohnson.com/have-courage.htm
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1772780629i/247570792.jpg
+        description: "“Walt Longmire, sheriff of Absaroka County, investigates a series of eccentric small-town crises in fifteen holiday-inspired stories. An old dog mysteriously escapes the animal shelter night after night. A deputy deploys an unexpected diversion during a hostage standoff. The baby Jesus vanishes from a nativity scene. And Walt faces one of his most challenging assignments caring for a 150-year-old sourdough starter, while apprehending a seven-year-old suspect with the diction of a 1930s gumshoe.”"
+        genre: [fiction]
+        format: audiobook
+        completed: In progress
+
+      - title: "Once an Eagle"
+        author: Anton Myrer
+        link: https://en.wikipedia.org/wiki/Once_an_Eagle
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1428330274i/38876.jpg
+        description: "“<cite>Once An Eagle</cite> is the story of one special man, a soldier named Sam Damon, and his adversary over a lifetime, fellow officer Courtney Massengale. Damon is a professional who puts duty, honor, and the men he commands above self interest. Massengale, however, brilliantly advances by making the right connections behind the lines and in Washington's corridors of power.”"
+        genre: [fiction, military]
+        format: audiobook
+        completed: 2026-11-18
+
       - title: "Ukrainian Cossacks from the late 16<sup>th</sup> century to the early 18<sup>th</sup> century: Organisation, clothing, equipment, armament"
         author: S.I. Shamenkov
         link: https://www.helion.co.uk/military-history-books/ukrainian-cossacks-from-the-late-16th-century-to-the-early-18th-century-organisation-clothing-equipment-armament.php
