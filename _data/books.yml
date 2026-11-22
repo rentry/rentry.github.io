@@ -12,6 +12,15 @@ list:
         format: audiobook
         completed: Next
 
+      - title: "The Nightingale"
+        author: Kristin Hannah
+        link: https://en.wikipedia.org/wiki/The_Nightingale_(Hannah_novel)
+        image: https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1681839850i/21853621.jpg
+        description: "“With courage, grace, and powerful insight, bestselling author Kristin Hannah captures the epic panorama of World War II and illuminates an intimate part of history seldom seen: the women's war. <cite>The Nightingale</cite> tells the stories of two sisters, separated by years and experience, by ideals, passion and circumstance, each embarking on her own dangerous path toward survival, love, and freedom in German-occupied, war-torn France―a heartbreakingly beautiful novel that celebrates the resilience of the human spirit and the durability of women. It is a novel for everyone, a novel for a lifetime.”"
+        genre: [fiction, historical fiction]
+        format: audiobook
+        completed: In progress        
+
       - title: "Have Courage: A Longmire Story"
         author: Craig Johnson
         link: https://www.craigallenjohnson.com/have-courage.htm
@@ -19,7 +28,7 @@ list:
         description: "“Walt Longmire, sheriff of Absaroka County, investigates a series of eccentric small-town crises in fifteen holiday-inspired stories. An old dog mysteriously escapes the animal shelter night after night. A deputy deploys an unexpected diversion during a hostage standoff. The baby Jesus vanishes from a nativity scene. And Walt faces one of his most challenging assignments caring for a 150-year-old sourdough starter, while apprehending a seven-year-old suspect with the diction of a 1930s gumshoe.”"
         genre: [fiction]
         format: audiobook
-        completed: In progress
+        completed: 2026-11-20
 
       - title: "Once an Eagle"
         author: Anton Myrer
